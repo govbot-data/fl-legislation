@@ -10,10 +10,11 @@
     "and solicitations",
     "aviation",
     "business organizations",
-    "municipalities",
-    "public transportation",
     "reclamation, and use",
-    "subject index"
+    "regulation of professions and occupations",
+    "relations",
+    "subject index",
+    "taxation and finance"
   ],
   "abstracts": [
     {
@@ -46,16 +47,6 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T10:34:17Z"
-      }
-    },
-    {
-      "description": "On Committee agenda-- Community Affairs, 12/09/25, 3:30 pm, 37 Senate Building",
-      "date": "2025-12-01",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-12-02T09:46:35Z"
       }
     }
   ],
@@ -424,6 +415,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-02T09:46:35Z"
+    "logs_latest_update": "2025-12-02T12:28:52Z"
   }
 }
