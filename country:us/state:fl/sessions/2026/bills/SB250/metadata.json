@@ -14,10 +14,10 @@
     "military affairs and related matters",
     "motor vehicles",
     "public business",
+    "public health",
     "public lands and property",
-    "social welfare",
-    "subject index",
-    "taxation and finance"
+    "public transportation",
+    "subject index"
   ],
   "abstracts": [
     {
@@ -50,6 +50,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T10:34:17Z"
+      }
+    },
+    {
+      "description": "On Committee agenda-- Appropriations, 12/10/25, 9:00 am, 412 Knott Building",
+      "date": "2025-12-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-02T09:46:35Z"
       }
     }
   ],
@@ -290,6 +300,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T10:34:17Z"
+    "logs_latest_update": "2025-12-02T09:46:35Z"
   }
 }

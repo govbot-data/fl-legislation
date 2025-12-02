@@ -8,7 +8,7 @@
   ],
   "subject": [
     "crimes",
-    "criminal procedure and corrections"
+    "subject index"
   ],
   "abstracts": [
     {
@@ -51,6 +51,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T10:34:17Z"
+      }
+    },
+    {
+      "description": "On Committee agenda-- Criminal Justice, 12/09/25, 10:00 am, 37 Senate Building",
+      "date": "2025-12-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-02T09:46:35Z"
       }
     }
   ],
@@ -151,6 +161,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T10:34:17Z"
+    "logs_latest_update": "2025-12-02T09:46:35Z"
   }
 }
