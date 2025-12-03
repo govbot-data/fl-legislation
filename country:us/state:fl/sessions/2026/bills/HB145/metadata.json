@@ -9,20 +9,20 @@
   "subject": [
     "and solicitations",
     "civil rights",
-    "crimes",
     "industry",
+    "insurance",
     "limitations",
     "military affairs and related matters",
     "motor vehicles",
     "planning and development",
     "public business",
     "public lands and property",
+    "public transportation",
     "railroads and other regulated utilities",
-    "real and personal property",
     "reclamation, and use",
-    "social welfare",
+    "relations",
     "subject index",
-    "taxation and finance"
+    "torts"
   ],
   "abstracts": [
     {
@@ -142,6 +142,38 @@
       "_processing": {
         "log_file_created": "2025-11-27T10:34:17Z"
       }
+    },
+    {
+      "description": "Favorable by Budget Committee",
+      "date": "2025-12-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-03T23:47:45Z"
+      }
+    },
+    {
+      "description": "Reported out of Budget Committee",
+      "date": "2025-12-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-03T23:47:45Z"
+      }
+    },
+    {
+      "description": "Now in Judiciary Committee",
+      "date": "2025-12-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-03T23:47:45Z"
+      }
     }
   ],
   "sponsorships": [
@@ -174,6 +206,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/145/Analyses/h0145a.CIV.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Budget Committee (Post-Meeting) (12/3/2025 1:37 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/145/Analyses/h0145c.BUC.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -653,6 +696,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T10:34:17Z"
+    "logs_latest_update": "2025-12-03T23:47:45Z"
   }
 }

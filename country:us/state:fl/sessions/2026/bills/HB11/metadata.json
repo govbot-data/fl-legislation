@@ -73,6 +73,38 @@
       "_processing": {
         "log_file_created": "2025-11-27T10:34:17Z"
       }
+    },
+    {
+      "description": "Favorable by Natural Resources & Disasters Subcommittee",
+      "date": "2025-12-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-03T23:47:45Z"
+      }
+    },
+    {
+      "description": "Reported out of Natural Resources & Disasters Subcommittee",
+      "date": "2025-12-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-03T23:47:45Z"
+      }
+    },
+    {
+      "description": "Now in State Affairs Committee",
+      "date": "2025-12-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-03T23:47:45Z"
+      }
     }
   ],
   "sponsorships": [
@@ -101,6 +133,14 @@
       "organization_id": null
     },
     {
+      "name": "Cross",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Cross\"}",
+      "organization_id": null
+    },
+    {
       "name": "Gossett-Seidman",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -123,6 +163,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"Porras\"}",
       "organization_id": null
+    },
+    {
+      "name": "Redondo",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Redondo\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -141,10 +189,10 @@
   ],
   "documents": [
     {
-      "note": "Bill Analysis -- Natural Resources & Disasters Subcommittee (Post-Meeting) (11/24/2025 2:31 PM)",
+      "note": "Bill Analysis -- Natural Resources & Disasters Subcommittee (Post-Meeting) (12/3/2025 11:16 AM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/11/Analyses/h0011.NRD.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/11/Analyses/h0011a.NRD.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -167,6 +215,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T10:34:17Z"
+    "logs_latest_update": "2025-12-03T23:47:45Z"
   }
 }

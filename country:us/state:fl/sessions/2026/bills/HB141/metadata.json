@@ -7,8 +7,8 @@
     "bill"
   ],
   "subject": [
-    "public health",
-    "social welfare"
+    "social welfare",
+    "subject index"
   ],
   "abstracts": [
     {
@@ -98,6 +98,26 @@
       "_processing": {
         "log_file_created": "2025-12-02T23:14:58Z"
       }
+    },
+    {
+      "description": "Reported out of Health Care Facilities & Systems Subcommittee",
+      "date": "2025-12-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-03T23:47:45Z"
+      }
+    },
+    {
+      "description": "Now in Insurance & Banking Subcommittee",
+      "date": "2025-12-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-03T23:47:45Z"
+      }
     }
   ],
   "sponsorships": [
@@ -134,10 +154,10 @@
   ],
   "documents": [
     {
-      "note": "Bill Analysis -- Health Care Facilities & Systems Subcommittee (Post-Meeting) (12/1/2025 9:38 AM)",
+      "note": "Bill Analysis -- Health Care Facilities & Systems Subcommittee (Post-Meeting) (12/3/2025 1:47 PM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/141/Analyses/h0141.HFS.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/141/Analyses/h0141a.HFS.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -193,6 +213,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-02T23:14:58Z"
+    "logs_latest_update": "2025-12-03T23:47:45Z"
   }
 }

@@ -8,7 +8,7 @@
   ],
   "subject": [
     "motor vehicles",
-    "real and personal property",
+    "relations",
     "subject index"
   ],
   "abstracts": [
@@ -129,6 +129,38 @@
       "_processing": {
         "log_file_created": "2025-11-27T10:34:17Z"
       }
+    },
+    {
+      "description": "Favorable by Industries & Professional Activities Subcommittee",
+      "date": "2025-12-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-03T23:47:45Z"
+      }
+    },
+    {
+      "description": "Reported out of Industries & Professional Activities Subcommittee",
+      "date": "2025-12-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-03T23:47:45Z"
+      }
+    },
+    {
+      "description": "Now in State Affairs Committee",
+      "date": "2025-12-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-03T23:47:45Z"
+      }
     }
   ],
   "sponsorships": [
@@ -168,10 +200,10 @@
       "classification": ""
     },
     {
-      "note": "Bill Analysis -- Industries & Professional Activities Subcommittee (Post-Meeting) (11/24/2025 1:31 PM)",
+      "note": "Bill Analysis -- Industries & Professional Activities Subcommittee (Post-Meeting) (12/3/2025 1:27 PM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/37/Analyses/h0037b.IPA.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/37/Analyses/h0037c.IPA.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -211,6 +243,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T10:34:17Z"
+    "logs_latest_update": "2025-12-03T23:47:45Z"
   }
 }

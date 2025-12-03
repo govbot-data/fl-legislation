@@ -63,6 +63,16 @@
       "_processing": {
         "log_file_created": "2025-11-27T10:34:17Z"
       }
+    },
+    {
+      "description": "Added to Government Operations Subcommittee agenda",
+      "date": "2025-12-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-03T23:47:45Z"
+      }
     }
   ],
   "sponsorships": [
@@ -97,7 +107,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Government Operations Subcommittee (Post-Meeting) (12/3/2025 4:48 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/91/Analyses/h0091.GOS.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [
     {
       "publication": "Florida Statues",
@@ -122,6 +144,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T10:34:17Z"
+    "logs_latest_update": "2025-12-03T23:47:45Z"
   }
 }

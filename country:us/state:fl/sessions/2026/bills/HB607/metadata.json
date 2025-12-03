@@ -10,13 +10,12 @@
     "and solicitations",
     "executive branch",
     "industry",
+    "insurance",
     "labor",
     "ports and harbors",
-    "public health",
     "public lands and property",
     "public officers, employees, and records",
     "public transportation",
-    "real and personal property",
     "reclamation, and use",
     "regulation of professions and occupations",
     "subject index",
@@ -42,6 +41,52 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-12-02T23:14:58Z"
+      }
+    },
+    {
+      "description": "Referred to Industries & Professional Activities Subcommittee",
+      "date": "2025-12-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-03T23:47:45Z"
+      }
+    },
+    {
+      "description": "Referred to State Administration Budget Subcommittee",
+      "date": "2025-12-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-03T23:47:45Z"
+      }
+    },
+    {
+      "description": "Referred to Commerce Committee",
+      "date": "2025-12-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-03T23:47:45Z"
+      }
+    },
+    {
+      "description": "Now in Industries & Professional Activities Subcommittee",
+      "date": "2025-12-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-03T23:47:45Z"
       }
     }
   ],
@@ -1134,6 +1179,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-02T23:14:58Z"
+    "logs_latest_update": "2025-12-03T23:47:45Z"
   }
 }

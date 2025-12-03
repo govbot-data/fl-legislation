@@ -9,15 +9,18 @@
   "subject": [
     "crimes",
     "evidence",
+    "k",
+    "motor vehicles",
     "planning and development",
     "public officers, employees, and records",
+    "relations",
     "subject index",
     "taxation and finance"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Legal Notices;  Revising the definition of the terms \u201cgovernmental agency\u201d and \u201cpublicly accessible website\u201d; authorizing a governmental agency to use its own publicly accessible website or the publicly accessible website of the county in which it lies to publish specified advertisements and notices, etc."
+      "abstract": "Legal Notices;  Revising the definition of the term \u201cgovernmental agency\u201d; requiring governmental agencies and special governmental agencies to publish certain legal notices continuously for a specified timeframe when the notices are for a specified purpose and provided under a certain circumstance; authorizing certain special governmental agencies to use a publicly accessible website to publish certain advertisements and legal notices under specified conditions; requiring that a public bid advertisement made by a special governmental agency on a publicly accessible website include a method to accept electronic bids, etc."
     }
   ],
   "other_titles": [],
@@ -66,9 +69,27 @@
       "_processing": {
         "log_file_created": "2025-12-02T23:14:58Z"
       }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2025-12-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-03T23:47:45Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Judiciary",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Judiciary\"}",
+      "organization_id": null
+    },
     {
       "name": "Trumbull",
       "classification": "primary",
@@ -94,6 +115,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 380 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/380/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/380/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -102,6 +138,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/380/Analyses/2026s00380.pre.ju.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Judiciary (Post-Meeting) (12/3/2025 11:06 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/380/Analyses/2026s00380.ju.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -244,6 +291,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-02T23:14:58Z"
+    "logs_latest_update": "2025-12-03T23:47:45Z"
   }
 }
