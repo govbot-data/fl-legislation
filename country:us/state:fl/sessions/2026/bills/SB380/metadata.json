@@ -12,10 +12,8 @@
     "k",
     "motor vehicles",
     "planning and development",
-    "public officers, employees, and records",
     "relations",
-    "subject index",
-    "taxation and finance"
+    "subject index"
   ],
   "abstracts": [
     {
@@ -78,6 +76,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-12-03T23:47:45Z"
+      }
+    },
+    {
+      "description": "Now in Community Affairs",
+      "date": "2025-12-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-06T00:07:49Z"
       }
     }
   ],
@@ -291,6 +299,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T23:47:45Z"
+    "logs_latest_update": "2025-12-06T00:07:49Z"
   }
 }

@@ -14,7 +14,6 @@
     "industry",
     "motor vehicles",
     "municipalities",
-    "public business",
     "public health",
     "public lands and property",
     "reclamation, and use",
@@ -83,6 +82,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-12-05T00:28:31Z"
+      }
+    },
+    {
+      "description": "Now in Fiscal Policy",
+      "date": "2025-12-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-06T00:07:49Z"
       }
     }
   ],
@@ -221,6 +230,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-05T00:28:31Z"
+    "logs_latest_update": "2025-12-06T00:07:49Z"
   }
 }
