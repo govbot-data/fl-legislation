@@ -161,6 +161,16 @@
       "_processing": {
         "log_file_created": "2025-12-06T00:07:49Z"
       }
+    },
+    {
+      "description": "Bill referred to House Calendar",
+      "date": "2025-12-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-09T00:27:11Z"
+      }
     }
   ],
   "sponsorships": [
@@ -289,6 +299,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-06T00:07:49Z"
+    "logs_latest_update": "2025-12-09T00:27:11Z"
   }
 }
