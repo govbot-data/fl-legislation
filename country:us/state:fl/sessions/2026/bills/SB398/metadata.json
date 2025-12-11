@@ -66,9 +66,27 @@
       "_processing": {
         "log_file_created": "2025-12-10T01:08:31Z"
       }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2025-12-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-11T12:29:20Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Criminal Justice",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Criminal Justice\"}"
+    },
     {
       "name": "Leek",
       "classification": "primary",
@@ -94,6 +112,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 398 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/398/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/398/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -102,6 +135,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/398/Analyses/2026s00398.pre.cj.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Criminal Justice (Post-Meeting) (12/10/2025 1:05 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/398/Analyses/2026s00398.cj.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -300,6 +344,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-10T01:08:31Z"
+    "logs_latest_update": "2025-12-11T12:29:20Z"
   }
 }

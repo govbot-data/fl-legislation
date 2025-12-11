@@ -1,19 +1,19 @@
 {
   "legislative_session": "2026",
   "identifier": "HJR 209",
-  "title": "Property Insurance Relief Homestead Exemption of Non-school Property Tax",
+  "title": "Property Insurance Relief Homestead Exemption Non-school Property Tax",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "joint resolution"
   ],
   "subject": [
-    "constitutional amendments",
+    "concurrent)",
     "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Property Insurance Relief Homestead Exemption of Non-school Property Tax;  Proposes amendment to State Constitution to increase by $200,000 the exemption for homestead property from all ad valorem taxation other than school district levies for homestead properties that have property insurance, to prohibit counties and municipalities from reducing total funding for law enforcement, and to provide an effective date."
+      "abstract": "Property Insurance Relief Homestead Exemption Non-school Property Tax;  Proposes amendment to State Constitution to increase by $200,000 the exemption for homestead property from all ad valorem taxation other than school district levies for homestead properties that have property insurance, to prohibit local governments from reducing total funding for first responders, and to provide an effective date."
     }
   ],
   "other_titles": [],
@@ -218,9 +218,63 @@
       "_processing": {
         "log_file_created": "2025-12-03T23:47:45Z"
       }
+    },
+    {
+      "description": "Favorable with CS by Ways & Means Committee",
+      "date": "2025-12-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-11T12:29:20Z"
+      }
+    },
+    {
+      "description": "Reported out of Ways & Means Committee",
+      "date": "2025-12-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-11T12:29:20Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2025-12-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-11T12:29:20Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2025-12-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-11T12:29:20Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Ways & Means Committee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Ways & Means Committee\"}"
+    },
     {
       "name": "Select Committee on Property Taxes",
       "classification": "primary",
@@ -261,6 +315,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 209 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/209/BillText/c2/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -285,6 +350,28 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Ways & Means Committee (Post-Meeting) (12/10/2025 5:48 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/209/Analyses/h0209d.WMC.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "536715 - Amendment to H 209 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/209/Amendment/536715/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [],
@@ -302,6 +389,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T23:47:45Z"
+    "logs_latest_update": "2025-12-11T12:29:20Z"
   }
 }

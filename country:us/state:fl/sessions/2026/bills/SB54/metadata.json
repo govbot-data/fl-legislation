@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Use of Substances Affecting Cognitive Function;  Defining the terms \u201cmass shooting\u201d and \u201cpsychotropic drug\u201d; requiring medical examiners to take specified actions when performing an autopsy on a decedent reasonably suspected of committing a mass shooting; requiring arresting law enforcement agencies to perform toxicology screenings of persons arrested on suspicion of committing a mass shooting or other violent crime; requiring school safety specialists to provide teachers with certain training on the adverse effects of psychotropic drugs, illicit drugs, and controlled substances, etc."
+      "abstract": "Use of Substances Affecting Cognitive Function;  Requiring medical examiners to take specified actions when performing an autopsy on a decedent who is a violent offender; requiring that autopsy reports for such individuals include certain findings and information; authorizing the release of certain patient records to law enforcement agencies without patient authorization under certain circumstances; requiring school safety specialists to provide school district staff with certain training on the adverse effects of specified substances, etc."
     }
   ],
   "other_titles": [],
@@ -61,9 +61,27 @@
       "_processing": {
         "log_file_created": "2025-12-10T01:08:31Z"
       }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2025-12-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-11T12:29:20Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Criminal Justice",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Criminal Justice\"}"
+    },
     {
       "name": "Sharief",
       "classification": "primary",
@@ -89,6 +107,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 54 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/54/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/54/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -97,6 +130,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/54/Analyses/2026s00054.pre.cj.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Criminal Justice (Post-Meeting) (12/10/2025 2:43 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/54/Analyses/2026s00054.cj.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -119,7 +163,16 @@
       "classification": ""
     }
   ],
-  "citations": [],
+  "citations": [
+    {
+      "publication": "Florida Statues",
+      "citation": "381.028",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/381.028"
+    }
+  ],
   "sources": [
     {
       "url": "https://flsenate.gov/Session/Bill/2026/54/ByCategory",
@@ -134,6 +187,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-10T01:08:31Z"
+    "logs_latest_update": "2025-12-11T12:29:20Z"
   }
 }

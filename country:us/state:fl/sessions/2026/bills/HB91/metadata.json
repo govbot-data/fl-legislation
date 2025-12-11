@@ -73,6 +73,18 @@
       "_processing": {
         "log_file_created": "2025-12-03T23:47:45Z"
       }
+    },
+    {
+      "description": "Favorable with CS by Government Operations Subcommittee",
+      "date": "2025-12-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-11T12:29:20Z"
+      }
     }
   ],
   "sponsorships": [
@@ -118,6 +130,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "556667 - Amendment to H 91 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/91/Amendment/556667/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [
@@ -144,6 +167,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T23:47:45Z"
+    "logs_latest_update": "2025-12-11T12:29:20Z"
   }
 }

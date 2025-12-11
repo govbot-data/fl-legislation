@@ -87,6 +87,18 @@
       "_processing": {
         "log_file_created": "2025-12-05T00:28:31Z"
       }
+    },
+    {
+      "description": "Favorable by Ways & Means Committee",
+      "date": "2025-12-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-11T12:29:20Z"
+      }
     }
   ],
   "sponsorships": [
@@ -113,7 +125,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Ways & Means Committee (Post-Meeting) (12/8/2025 9:54 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/39/Analyses/h0039.WMC.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [
     {
       "publication": "Florida Statues",
@@ -154,6 +178,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-05T00:28:31Z"
+    "logs_latest_update": "2025-12-11T12:29:20Z"
   }
 }

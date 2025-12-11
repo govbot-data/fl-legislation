@@ -9,7 +9,7 @@
   "subject": [
     "criminal procedure and corrections",
     "regulation of professions and occupations",
-    "subject index"
+    "social welfare"
   ],
   "abstracts": [
     {
@@ -87,6 +87,26 @@
       "_processing": {
         "log_file_created": "2025-12-10T01:08:31Z"
       }
+    },
+    {
+      "description": "Reported out of Health Professions & Programs Subcommittee",
+      "date": "2025-12-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-11T12:29:20Z"
+      }
+    },
+    {
+      "description": "Now in Health & Human Services Committee",
+      "date": "2025-12-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-11T12:29:20Z"
+      }
     }
   ],
   "sponsorships": [
@@ -115,10 +135,10 @@
   ],
   "documents": [
     {
-      "note": "Bill Analysis -- Health Professions & Programs Subcommittee (Post-Meeting) (12/8/2025 1:09 PM)",
+      "note": "Bill Analysis -- Health Professions & Programs Subcommittee (Post-Meeting) (12/10/2025 4:18 PM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/363/Analyses/h0363.HPP.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/363/Analyses/h0363a.HPP.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -206,6 +226,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-10T01:08:31Z"
+    "logs_latest_update": "2025-12-11T12:29:20Z"
   }
 }

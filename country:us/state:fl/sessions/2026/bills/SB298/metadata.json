@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 298",
-  "title": "Public Records and Public Meetings/HAVEN Coordinating Council",
+  "title": "Public Records/Victims of Domestic and Dating Violence",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -13,7 +13,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Public Records and Public Meetings/HAVEN Coordinating Council;  Specifying that information obtained by the HAVEN Coordinating Council or a county-level HAVEN council which is exempt or confidential and exempt from public records requirements retains its protected status; providing an exemption from public records requirements for personal identifying information of a victim of domestic violence or dating violence and other specified information contained in records held by the coordinating council or county-level councils; providing an exemption from public meetings requirements for portions of the coordinating council\u2019s and county-level councils\u2019 meetings during which exempt or confidential and exempt information is discussed; providing for future legislative review and repeal of the exemptions; providing statements of public necessity, etc."
+      "abstract": "Public Records/Victims of Domestic and Dating Violence;  Providing that certain identifying information of victims of dating violence who participate in the Address Confidentiality Program for Victims of Domestic and Dating Violence which are held by the Office of the Attorney General or contained in voter registration or voting records held by the supervisor of elections or the Department of State are exempt from public records requirements; providing for retroactive application; providing for future legislative review and repeal; providing statements of public necessity, etc."
     }
   ],
   "other_titles": [],
@@ -62,9 +62,27 @@
       "_processing": {
         "log_file_created": "2025-12-10T01:08:31Z"
       }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2025-12-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-11T12:29:20Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Criminal Justice",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Criminal Justice\"}"
+    },
     {
       "name": "Berman",
       "classification": "primary",
@@ -90,6 +108,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 298 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/298/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/298/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -98,6 +131,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/298/Analyses/2026s00298.pre.cj.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Criminal Justice (Post-Meeting) (12/10/2025 1:58 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/298/Analyses/2026s00298.cj.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -120,7 +164,16 @@
       "classification": ""
     }
   ],
-  "citations": [],
+  "citations": [
+    {
+      "publication": "Florida Statues",
+      "citation": "741.465",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/741.465"
+    }
+  ],
   "sources": [
     {
       "url": "https://flsenate.gov/Session/Bill/2026/298/ByCategory",
@@ -135,6 +188,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-10T01:08:31Z"
+    "logs_latest_update": "2025-12-11T12:29:20Z"
   }
 }

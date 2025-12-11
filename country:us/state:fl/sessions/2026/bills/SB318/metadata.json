@@ -8,6 +8,7 @@
   ],
   "subject": [
     "k",
+    "labor",
     "public health",
     "taxation and finance"
   ],
@@ -53,6 +54,16 @@
       "_processing": {
         "log_file_created": "2025-12-02T18:22:22Z"
       }
+    },
+    {
+      "description": "CS by- Appropriations; YEAS 16 NAYS 0",
+      "date": "2025-12-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-11T12:29:20Z"
+      }
     }
   ],
   "sponsorships": [
@@ -87,6 +98,22 @@
       "primary": false,
       "person_id": "~{\"name\": \"Burgess\"}",
       "organization_id": null
+    },
+    {
+      "name": "Osgood",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Osgood\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rouson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rouson\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -107,7 +134,94 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Appropriations (Pre-Meeting) (12/9/2025 9:14 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/318/Analyses/2026s00318.pre.ap.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "348712 - Amendment to S 318 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/318/Amendment/348712/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/318/Amendment/348712/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "899626 - Amendment to S 318 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/318/Amendment/899626/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/318/Amendment/899626/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "174286 - Amendment to S 318 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/318/Amendment/174286/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/318/Amendment/174286/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "884508 - Amendment to S 318 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/318/Amendment/884508/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/318/Amendment/884508/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "442232 - Amendment to S 318 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/318/Amendment/442232/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/318/Amendment/442232/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [
     {
       "publication": "Florida Statues",
@@ -244,6 +358,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-02T18:22:22Z"
+    "logs_latest_update": "2025-12-11T12:29:20Z"
   }
 }

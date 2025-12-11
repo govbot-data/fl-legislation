@@ -13,7 +13,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Victims of Domestic Violence and Dating Violence;  Creating the \u201cHelping Abuse Victims Escape Now (HAVEN) Act\u201d; creating the HAVEN Coordinating Council within the Department of Law Enforcement; authorizing counties to create county-level HAVEN councils; authorizing county-level HAVEN councils to take certain actions; defining the term \u201cdating violence\u201d; providing that victims of dating violence may apply to participate in the Attorney General\u2019s address confidentiality program, etc."
+      "abstract": "Victims of Domestic Violence and Dating Violence;  Requiring the Division of Telecommunications within the Department of Management Services to consult with certain entities to conduct a feasibility study regarding a specified alert system; providing requirements for such alert system; authorizing victims of dating violence to apply to participate in the Attorney General\u2019s address confidentiality program; requiring the Attorney General to designate certain entities to assist victims of dating violence applying to be address confidentiality program participants, etc."
     }
   ],
   "other_titles": [],
@@ -62,9 +62,27 @@
       "_processing": {
         "log_file_created": "2025-12-10T01:08:31Z"
       }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2025-12-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-11T12:29:20Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Criminal Justice",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Criminal Justice\"}"
+    },
     {
       "name": "Berman",
       "classification": "primary",
@@ -98,6 +116,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 296 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/296/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/296/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -106,6 +139,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/296/Analyses/2026s00296.pre.cj.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Criminal Justice (Post-Meeting) (12/10/2025 1:58 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/296/Analyses/2026s00296.cj.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -128,7 +172,56 @@
       "classification": ""
     }
   ],
-  "citations": [],
+  "citations": [
+    {
+      "publication": "Florida Statues",
+      "citation": "741.401",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/741.401"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "741.402",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/741.402"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "741.403",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/741.403"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "741.408",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/741.408"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "741.4651",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/741.4651"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "960.001",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/960.001"
+    }
+  ],
   "sources": [
     {
       "url": "https://flsenate.gov/Session/Bill/2026/296/ByCategory",
@@ -143,6 +236,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-10T01:08:31Z"
+    "logs_latest_update": "2025-12-11T12:29:20Z"
   }
 }

@@ -35,6 +35,16 @@
       "_processing": {
         "log_file_created": "2025-12-02T09:46:35Z"
       }
+    },
+    {
+      "description": "Submitted as Committee Bill and Reported Favorably by Commerce and Tourism; YEAS 8 NAYS 0",
+      "date": "2025-12-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-11T12:29:20Z"
+      }
     }
   ],
   "sponsorships": [
@@ -65,7 +75,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Commerce and Tourism (Pre-Meeting) (12/9/2025 11:34 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/7014/Analyses/2026s07014.pre.cm.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -81,6 +103,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-02T09:46:35Z"
+    "logs_latest_update": "2025-12-11T12:29:20Z"
   }
 }

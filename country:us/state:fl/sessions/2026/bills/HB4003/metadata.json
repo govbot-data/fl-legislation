@@ -175,6 +175,38 @@
       "_processing": {
         "log_file_created": "2025-12-03T23:47:45Z"
       }
+    },
+    {
+      "description": "Favorable by Government Operations Subcommittee",
+      "date": "2025-12-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-11T12:29:20Z"
+      }
+    },
+    {
+      "description": "Reported out of Government Operations Subcommittee",
+      "date": "2025-12-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-11T12:29:20Z"
+      }
+    },
+    {
+      "description": "Now in State Affairs Committee",
+      "date": "2025-12-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-11T12:29:20Z"
+      }
     }
   ],
   "sponsorships": [
@@ -233,10 +265,10 @@
       "classification": ""
     },
     {
-      "note": "Bill Analysis -- Government Operations Subcommittee (Post-Meeting) (12/3/2025 4:52 PM)",
+      "note": "Bill Analysis -- Government Operations Subcommittee (Post-Meeting) (12/10/2025 4:38 PM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/4003/Analyses/h4003b.GOS.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/4003/Analyses/h4003c.GOS.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -279,6 +311,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T23:47:45Z"
+    "logs_latest_update": "2025-12-11T12:29:20Z"
   }
 }
