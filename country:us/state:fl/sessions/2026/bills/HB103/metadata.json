@@ -12,10 +12,8 @@
     "business organizations",
     "municipalities",
     "public transportation",
-    "reclamation, and use",
-    "regulation of professions and occupations",
     "relations",
-    "taxation and finance"
+    "subject index"
   ],
   "abstracts": [
     {
@@ -105,6 +103,26 @@
       "_processing": {
         "log_file_created": "2025-12-11T12:29:20Z"
       }
+    },
+    {
+      "description": "Reported out of Ways & Means Committee",
+      "date": "2025-12-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-14T21:03:13Z"
+      }
+    },
+    {
+      "description": "Now in Intergovernmental Affairs Subcommittee",
+      "date": "2025-12-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-14T21:03:13Z"
+      }
     }
   ],
   "sponsorships": [
@@ -141,10 +159,10 @@
   ],
   "documents": [
     {
-      "note": "Bill Analysis -- Ways & Means Committee (Post-Meeting) (12/8/2025 8:14 AM)",
+      "note": "Bill Analysis -- Ways & Means Committee (Post-Meeting) (12/10/2025 5:38 PM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/103/Analyses/h0103.WMC.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/103/Analyses/h0103a.WMC.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -488,6 +506,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-11T12:29:20Z"
+    "logs_latest_update": "2025-12-14T21:03:13Z"
   }
 }

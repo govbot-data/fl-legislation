@@ -115,6 +115,38 @@
       "_processing": {
         "log_file_created": "2025-12-05T00:28:31Z"
       }
+    },
+    {
+      "description": "Favorable by Commerce Committee",
+      "date": "2025-12-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-14T21:03:13Z"
+      }
+    },
+    {
+      "description": "Reported out of Commerce Committee",
+      "date": "2025-12-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-14T21:03:13Z"
+      }
+    },
+    {
+      "description": "Bill released to House Calendar",
+      "date": "2025-12-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-14T21:03:13Z"
+      }
     }
   ],
   "sponsorships": [
@@ -178,10 +210,10 @@
       "classification": ""
     },
     {
-      "note": "Bill Analysis -- Commerce Committee (Post-Meeting) (12/4/2025 4:36 PM)",
+      "note": "Bill Analysis -- Commerce Committee (Post-Meeting) (12/11/2025 4:34 PM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/197/Analyses/h0197b.COM.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/197/Analyses/h0197c.COM.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -213,6 +245,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-05T00:28:31Z"
+    "logs_latest_update": "2025-12-14T21:03:13Z"
   }
 }

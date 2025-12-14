@@ -8,9 +8,10 @@
   ],
   "subject": [
     "crimes",
+    "criminal procedure and corrections",
+    "domestic relations",
     "evidence",
     "judicial branch",
-    "public health",
     "social welfare",
     "subject index"
   ],
@@ -34,6 +35,52 @@
       "_processing": {
         "log_file_created": "2025-12-02T09:46:35Z"
       }
+    },
+    {
+      "description": "Referred to Criminal Justice Subcommittee",
+      "date": "2025-12-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-14T21:03:13Z"
+      }
+    },
+    {
+      "description": "Referred to Justice Budget Subcommittee",
+      "date": "2025-12-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-14T21:03:13Z"
+      }
+    },
+    {
+      "description": "Referred to Judiciary Committee",
+      "date": "2025-12-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-14T21:03:13Z"
+      }
+    },
+    {
+      "description": "Now in Criminal Justice Subcommittee",
+      "date": "2025-12-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-14T21:03:13Z"
+      }
     }
   ],
   "sponsorships": [
@@ -43,6 +90,22 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Chaney\"}",
+      "organization_id": null
+    },
+    {
+      "name": "L\u00f3pez, J.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"L\\u00f3pez, J.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Weinberger",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Weinberger\"}",
       "organization_id": null
     }
   ],
@@ -157,6 +220,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-02T09:46:35Z"
+    "logs_latest_update": "2025-12-14T21:03:13Z"
   }
 }

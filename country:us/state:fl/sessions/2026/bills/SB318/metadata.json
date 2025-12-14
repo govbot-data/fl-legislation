@@ -9,8 +9,8 @@
   "subject": [
     "k",
     "labor",
-    "public health",
-    "taxation and finance"
+    "planning and development",
+    "subject index"
   ],
   "abstracts": [
     {
@@ -64,9 +64,37 @@
       "_processing": {
         "log_file_created": "2025-12-11T12:29:20Z"
       }
+    },
+    {
+      "description": "Pending reference review -under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2025-12-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-14T21:03:13Z"
+      }
+    },
+    {
+      "description": "Placed on Calendar, on 2nd reading",
+      "date": "2025-12-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-14T21:03:13Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Appropriations",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Appropriations\"}"
+    },
     {
       "name": "Gaetz",
       "classification": "primary",
@@ -132,6 +160,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 318 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/318/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/318/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -140,6 +183,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/318/Analyses/2026s00318.pre.ap.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Appropriations (Post-Meeting) (12/12/2025 3:56 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/318/Analyses/2026s00318.ap.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -358,6 +412,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-11T12:29:20Z"
+    "logs_latest_update": "2025-12-14T21:03:13Z"
   }
 }

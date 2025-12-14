@@ -85,9 +85,73 @@
       "_processing": {
         "log_file_created": "2025-12-11T12:29:20Z"
       }
+    },
+    {
+      "description": "Reported out of Government Operations Subcommittee",
+      "date": "2025-12-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-14T21:03:13Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2025-12-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-14T21:03:13Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2025-12-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-14T21:03:13Z"
+      }
+    },
+    {
+      "description": "Referred to State Affairs Committee",
+      "date": "2025-12-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-14T21:03:13Z"
+      }
+    },
+    {
+      "description": "Now in State Affairs Committee",
+      "date": "2025-12-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-14T21:03:13Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Government Operations Subcommittee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Government Operations Subcommittee\"}"
+    },
     {
       "name": "Tant",
       "classification": "primary",
@@ -117,14 +181,25 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 91 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/91/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
     {
-      "note": "Bill Analysis -- Government Operations Subcommittee (Post-Meeting) (12/3/2025 4:48 PM)",
+      "note": "Bill Analysis -- Government Operations Subcommittee (Post-Meeting) (12/12/2025 9:30 AM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/91/Analyses/h0091.GOS.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/91/Analyses/h0091a.GOS.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -167,6 +242,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-11T12:29:20Z"
+    "logs_latest_update": "2025-12-14T21:03:13Z"
   }
 }

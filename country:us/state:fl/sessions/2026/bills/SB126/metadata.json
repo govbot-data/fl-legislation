@@ -8,12 +8,12 @@
   ],
   "subject": [
     "railroads and other regulated utilities",
-    "subject index"
+    "reclamation, and use"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Florida Public Service Commission;  Revising the membership of the Florida Public Service Commission; requiring that orders issued by the commission contain adequate support and rationale for any conclusions made by the commission; requiring the commission to ensure that the allowable return on equity does not exceed the national average authorized return on equity for comparable public utilities; requiring the commission to establish a schedule by which rate change requests may be submitted to the commission by each public utility company, etc."
+      "abstract": "Florida Public Service Commission;  Revising the membership of the Florida Public Service Commission; requiring a group of parties to certain proceedings to negotiate the terms of a settlement with the Public Counsel before presenting such settlement to the commission; requiring that orders issued by the commission contain adequate support and rationale for any conclusions made by the commission; authorizing certain persons to make a motion to intervene in a pending commission proceeding; authorizing the commission to fix affordable, in addition to fair, just, and reasonable, rates, etc."
     }
   ],
   "other_titles": [],
@@ -62,9 +62,37 @@
       "_processing": {
         "log_file_created": "2025-12-10T01:08:31Z"
       }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2025-12-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-14T21:03:13Z"
+      }
+    },
+    {
+      "description": "Now in Appropriations Committee on Agriculture, Environment, and General Government",
+      "date": "2025-12-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-14T21:03:13Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Regulated Industries",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Regulated Industries\"}"
+    },
     {
       "name": "Gaetz",
       "classification": "primary",
@@ -98,6 +126,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 126 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/126/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/126/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -106,6 +149,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/126/Analyses/2026s00126.pre.ri.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Regulated Industries (Post-Meeting) (12/11/2025 4:06 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/126/Analyses/2026s00126.ri.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -152,6 +206,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-10T01:08:31Z"
+    "logs_latest_update": "2025-12-14T21:03:13Z"
   }
 }

@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Concurrent Legislative Jurisdiction over United States Military Installations;  Provides that this state has concurrent legislative jurisdiction with U.S. over U.S. military installations located within boundaries of this state; provides procedures & requirements therefor."
+      "abstract": "Concurrent Legislative Jurisdiction over United States Military Installations;  Provides that this state may accept relinquishment of exclusive concurrent legislative jurisdiction from U.S. over U.S. military installations located within boundaries of this state; provides that this state has concurrent legislative jurisdiction with U.S. over such military installations; provides procedures & requirements therefor."
     }
   ],
   "other_titles": [],
@@ -73,9 +73,85 @@
       "_processing": {
         "log_file_created": "2025-12-05T00:28:31Z"
       }
+    },
+    {
+      "description": "Favorable with CS by Intergovernmental Affairs Subcommittee",
+      "date": "2025-12-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-14T21:03:13Z"
+      }
+    },
+    {
+      "description": "Reported out of Intergovernmental Affairs Subcommittee",
+      "date": "2025-12-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-14T21:03:13Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2025-12-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-14T21:03:13Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2025-12-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-14T21:03:13Z"
+      }
+    },
+    {
+      "description": "Referred to State Affairs Committee",
+      "date": "2025-12-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-14T21:03:13Z"
+      }
+    },
+    {
+      "description": "Now in State Affairs Committee",
+      "date": "2025-12-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-14T21:03:13Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Intergovernmental Affairs Subcommittee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Intergovernmental Affairs Subcommittee\"}"
+    },
     {
       "name": "Maney",
       "classification": "primary",
@@ -97,14 +173,36 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 351 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/351/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
     {
-      "note": "Bill Analysis -- Intergovernmental Affairs Subcommittee (Post-Meeting) (12/4/2025 4:31 PM)",
+      "note": "Bill Analysis -- Intergovernmental Affairs Subcommittee (Post-Meeting) (12/11/2025 3:40 PM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/351/Analyses/h0351.IAS.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/351/Analyses/h0351a.IAS.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "562907 - Amendment to H 351 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/351/Amendment/562907/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -127,6 +225,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-05T00:28:31Z"
+    "logs_latest_update": "2025-12-14T21:03:13Z"
   }
 }

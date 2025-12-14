@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Employee Protections;  Prohibiting agencies and independent contractors from taking specified actions against employees or certain persons for disclosing certain information to the Commission on Ethics; requiring that information disclosed include specified violations or alleged violations; providing that specified provisions protect employees and persons who submit written complaints to the commission or provide information to an investigator during an investigation of a complaint or referral, etc."
+      "abstract": "Employee Protections;  Providing that public officers, public employees, and local government attorneys commit a breach of the public trust when they initiate adverse personnel actions against specified agency employees or independent contractors under certain circumstances; prohibiting agencies and independent contractors from taking specified actions against employees or certain persons for disclosing certain information to the Commission on Ethics; requiring that information disclosed include specified violations or alleged violations; providing that specified provisions protect employees and persons who submit written complaints to the commission or provide information to an investigator during an investigation of a complaint or referral, etc."
     }
   ],
   "other_titles": [],
@@ -61,9 +61,37 @@
       "_processing": {
         "log_file_created": "2025-12-10T01:08:31Z"
       }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2025-12-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-14T21:03:13Z"
+      }
+    },
+    {
+      "description": "Now in Ethics and Elections",
+      "date": "2025-12-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-14T21:03:13Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Governmental Oversight and Accountability",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Governmental Oversight and Accountability\"}"
+    },
     {
       "name": "Gaetz",
       "classification": "primary",
@@ -89,6 +117,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 92 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/92/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/92/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -97,6 +140,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/92/Analyses/2026s00092.pre.go.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Governmental Oversight and Accountability (Post-Meeting) (12/11/2025 2:59 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/92/Analyses/2026s00092.go.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -122,6 +176,22 @@
   "citations": [
     {
       "publication": "Florida Statues",
+      "citation": "112.313",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/112.313"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "112.3136",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/112.3136"
+    },
+    {
+      "publication": "Florida Statues",
       "citation": "112.324",
       "citation_type": "proposed",
       "effective": null,
@@ -143,6 +213,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-10T01:08:31Z"
+    "logs_latest_update": "2025-12-14T21:03:13Z"
   }
 }

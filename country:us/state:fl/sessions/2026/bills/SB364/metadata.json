@@ -61,9 +61,37 @@
       "_processing": {
         "log_file_created": "2025-12-10T01:08:31Z"
       }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2025-12-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-14T21:03:13Z"
+      }
+    },
+    {
+      "description": "Now in Rules",
+      "date": "2025-12-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-14T21:03:13Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Regulated Industries",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Regulated Industries\"}"
+    },
     {
       "name": "Gruters",
       "classification": "primary",
@@ -105,6 +133,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 364 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/364/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/364/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -113,6 +156,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/364/Analyses/2026s00364.pre.ri.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Regulated Industries (Post-Meeting) (12/10/2025 9:17 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/364/Analyses/2026s00364.ri.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -193,6 +247,14 @@
     },
     {
       "publication": "Florida Statues",
+      "citation": "473.309",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/473.309"
+    },
+    {
+      "publication": "Florida Statues",
       "citation": "473.311",
       "citation_type": "proposed",
       "effective": null,
@@ -206,6 +268,14 @@
       "effective": null,
       "expires": null,
       "url": "https://flsenate.gov/laws/statutes/2025/473.312"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "473.3141",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/473.3141"
     }
   ],
   "sources": [
@@ -222,6 +292,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-10T01:08:31Z"
+    "logs_latest_update": "2025-12-14T21:03:13Z"
   }
 }

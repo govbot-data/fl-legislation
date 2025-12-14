@@ -61,9 +61,37 @@
       "_processing": {
         "log_file_created": "2025-12-11T12:29:20Z"
       }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2025-12-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-14T21:03:13Z"
+      }
+    },
+    {
+      "description": "Now in Governmental Oversight and Accountability",
+      "date": "2025-12-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-14T21:03:13Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Commerce and Tourism",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Commerce and Tourism\"}"
+    },
     {
       "name": "Truenow",
       "classification": "primary",
@@ -89,6 +117,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 410 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/410/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/410/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -97,6 +140,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/410/Analyses/2026s00410.pre.cm.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Commerce and Tourism (Post-Meeting) (12/11/2025 10:44 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/410/Analyses/2026s00410.cm.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -143,6 +197,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-11T12:29:20Z"
+    "logs_latest_update": "2025-12-14T21:03:13Z"
   }
 }

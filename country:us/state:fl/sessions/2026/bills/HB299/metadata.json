@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Blue Ribbon Projects;  Requires that development project meet certain requirements to qualify as blue ribbon project; authorizes development of development area in phases; requires that blue ribbon project have blue ribbon plan; requires that project receive dollar-for-dollar credits from local government; specifies that project may be located on land with any future land use designation or zoning designation; prohibits required amendment of comprehensive plan or required rezoning for approval of project; authorizes landowner to apply to local government for approval of project; requires that project that meets certain requirements receive administrative approval; authorizes applicant to appeal denial of project application to Department of Commerce; authorizes person whose substantial interests are or may be affected by approval of project to file petition with Department of Commerce requesting administrative hearing."
+      "abstract": "Blue Ribbon Projects;  Requires that development project meet certain requirements to qualify as blue ribbon project; requires that blue ribbon project have blue ribbon plan; requires that project receive dollar-for-dollar credits from local government; specifies that project may be located on land with any future land use designation or zoning designation; prohibits required amendment of comprehensive plan or required rezoning for approval of project; authorizes landowner to apply to local government for approval of project; requires applicant to record plan for approved project in public records of county in which project property is located; authorizes applicant to appeal denial of project application to Department of Commerce; authorizes person whose substantial interests are or may be affected by approval of project to file petition with Department of Commerce."
     }
   ],
   "other_titles": [],
@@ -85,9 +85,63 @@
       "_processing": {
         "log_file_created": "2025-12-05T00:28:31Z"
       }
+    },
+    {
+      "description": "Favorable with CS by Intergovernmental Affairs Subcommittee",
+      "date": "2025-12-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-14T21:03:13Z"
+      }
+    },
+    {
+      "description": "Reported out of Intergovernmental Affairs Subcommittee",
+      "date": "2025-12-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-14T21:03:13Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2025-12-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-14T21:03:13Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2025-12-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-14T21:03:13Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Intergovernmental Affairs Subcommittee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Intergovernmental Affairs Subcommittee\"}"
+    },
     {
       "name": "Melo",
       "classification": "primary",
@@ -109,14 +163,36 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 299 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/299/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
     {
-      "note": "Bill Analysis -- Intergovernmental Affairs Subcommittee (Post-Meeting) (12/4/2025 4:40 PM)",
+      "note": "Bill Analysis -- Intergovernmental Affairs Subcommittee (Post-Meeting) (12/12/2025 2:05 PM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/299/Analyses/h0299.IAS.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/299/Analyses/h0299a.IAS.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "476469 - Amendment to H 299 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/299/Amendment/476469/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -139,6 +215,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-05T00:28:31Z"
+    "logs_latest_update": "2025-12-14T21:03:13Z"
   }
 }

@@ -85,6 +85,18 @@
       "_processing": {
         "log_file_created": "2025-12-05T00:28:31Z"
       }
+    },
+    {
+      "description": "Favorable with CS by Intergovernmental Affairs Subcommittee",
+      "date": "2025-12-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-14T21:03:13Z"
+      }
     }
   ],
   "sponsorships": [
@@ -122,6 +134,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "510303 - Amendment to H 4013 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/4013/Amendment/510303/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [],
@@ -139,6 +162,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-05T00:28:31Z"
+    "logs_latest_update": "2025-12-14T21:03:13Z"
   }
 }
