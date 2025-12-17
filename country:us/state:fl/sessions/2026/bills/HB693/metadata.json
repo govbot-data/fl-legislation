@@ -8,12 +8,14 @@
   ],
   "subject": [
     "concurrent)",
-    "insurance",
     "planning and development",
+    "public health",
+    "reclamation, and use",
     "regulation of professions and occupations",
     "relations",
     "subject index",
-    "taxation and finance"
+    "taxation and finance",
+    "torts"
   ],
   "abstracts": [
     {
@@ -34,6 +36,40 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-12-10T01:08:31Z"
+      }
+    },
+    {
+      "description": "Referred to Health Care Facilities & Systems Subcommittee",
+      "date": "2025-12-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-17T12:07:53Z"
+      }
+    },
+    {
+      "description": "Referred to Health & Human Services Committee",
+      "date": "2025-12-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-17T12:07:53Z"
+      }
+    },
+    {
+      "description": "Now in Health Care Facilities & Systems Subcommittee",
+      "date": "2025-12-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-17T12:07:53Z"
       }
     }
   ],
@@ -182,6 +218,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-10T01:08:31Z"
+    "logs_latest_update": "2025-12-17T12:07:53Z"
   }
 }

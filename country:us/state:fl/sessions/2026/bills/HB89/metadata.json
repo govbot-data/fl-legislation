@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Veterinary Prescription Disclosure;  Requires veterinarian to inform client of right to receive written prescription to provide certain options to client regarding filling of such prescription; provides requirements therefor; provides exceptions."
+      "abstract": "Veterinary Prescription Disclosure;  Requires veterinarian to inform client of right to receive written prescription or option to have prescription filled at veterinary establishment; specifies certain transmission methods for \"written prescriptions\"; requires disclosure to include acknowledgement signed by client; requires acknowledgement to include certain information; prohibits certain statements, notifications, warnings, or assumptions; requires posting of certain information; provides requirements therefor; provides exceptions."
     }
   ],
   "other_titles": [],
@@ -163,9 +163,51 @@
       "_processing": {
         "log_file_created": "2025-12-14T21:03:13Z"
       }
+    },
+    {
+      "description": "Reported out of Commerce Committee",
+      "date": "2025-12-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-17T12:07:53Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2025-12-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-17T12:07:53Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2025-12-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-17T12:07:53Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Commerce Committee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Commerce Committee\"}"
+    },
     {
       "name": "Industries & Professional Activities Subcommittee",
       "classification": "primary",
@@ -214,6 +256,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 89 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/89/BillText/c2/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -229,10 +282,10 @@
       "classification": ""
     },
     {
-      "note": "Bill Analysis -- Commerce Committee (Post-Meeting) (12/4/2025 4:31 PM)",
+      "note": "Bill Analysis -- Commerce Committee (Post-Meeting) (12/15/2025 2:33 PM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/89/Analyses/h0089b.COM.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/89/Analyses/h0089c.COM.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -266,6 +319,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-14T21:03:13Z"
+    "logs_latest_update": "2025-12-17T12:07:53Z"
   }
 }

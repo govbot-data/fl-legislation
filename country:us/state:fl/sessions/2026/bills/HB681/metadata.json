@@ -7,11 +7,12 @@
     "bill"
   ],
   "subject": [
-    "insurance",
+    "civil practice and procedure",
+    "concurrent)",
     "public business",
     "public health",
+    "regulation of professions and occupations",
     "subject index",
-    "taxation and finance",
     "torts"
   ],
   "abstracts": [
@@ -34,6 +35,52 @@
       "_processing": {
         "log_file_created": "2025-12-09T00:27:11Z"
       }
+    },
+    {
+      "description": "Referred to Health Professions & Programs Subcommittee",
+      "date": "2025-12-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-17T12:07:53Z"
+      }
+    },
+    {
+      "description": "Referred to Health Care Budget Subcommittee",
+      "date": "2025-12-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-17T12:07:53Z"
+      }
+    },
+    {
+      "description": "Referred to Health & Human Services Committee",
+      "date": "2025-12-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-17T12:07:53Z"
+      }
+    },
+    {
+      "description": "Now in Health Professions & Programs Subcommittee",
+      "date": "2025-12-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-17T12:07:53Z"
+      }
     }
   ],
   "sponsorships": [
@@ -43,6 +90,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Eskamani\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Campbell",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Campbell\"}",
       "organization_id": null
     }
   ],
@@ -117,6 +172,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-09T00:27:11Z"
+    "logs_latest_update": "2025-12-17T12:07:53Z"
   }
 }

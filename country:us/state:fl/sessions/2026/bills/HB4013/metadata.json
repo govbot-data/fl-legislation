@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Lee County;  Revises boundaries of Iona-McGregor Fire Protection & Rescue Service District; provides for merger of district with Fort Myers Beach Fire Control District; provides for transition of governing body; transfers assets & liabilities of Fort Myers Beach Fire Control District to Iona-McGregor Fire Protection & Rescue Service District; requires referendum."
+      "abstract": "Lee County;  Revises boundaries of Iona-McGregor Fire Protection & Rescue Service District; removes chapter laws relating to Fort Myers Beach Fire Control District; provides for merger of districts; provides for transition of governing body; transfers assets & liabilities of Fort Myers Beach Fire Control District to Iona-McGregor Fire Protection & Rescue Service District; requires referendum."
     }
   ],
   "other_titles": [],
@@ -97,9 +97,51 @@
       "_processing": {
         "log_file_created": "2025-12-14T21:03:13Z"
       }
+    },
+    {
+      "description": "Reported out of Intergovernmental Affairs Subcommittee",
+      "date": "2025-12-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-17T12:07:53Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2025-12-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-17T12:07:53Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2025-12-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-17T12:07:53Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Intergovernmental Affairs Subcommittee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Intergovernmental Affairs Subcommittee\"}"
+    },
     {
       "name": "Botana",
       "classification": "primary",
@@ -121,14 +163,25 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 4013 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/4013/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
     {
-      "note": "Bill Analysis -- Intergovernmental Affairs Subcommittee (Post-Meeting) (12/4/2025 4:36 PM)",
+      "note": "Bill Analysis -- Intergovernmental Affairs Subcommittee (Post-Meeting) (12/15/2025 9:58 AM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/4013/Analyses/h4013.IAS.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/4013/Analyses/h4013a.IAS.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -162,6 +215,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-14T21:03:13Z"
+    "logs_latest_update": "2025-12-17T12:07:53Z"
   }
 }

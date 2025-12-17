@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Nassau County;   Abolishes Nassau County Recreation & Water Conservation & Control Districts."
+      "abstract": "Nassau County;  Removes chapter laws relating to Nassau County Recreation & Water Conservation & Control Act; abolishes Nassau County Recreation & Water Conservation & Control District No. 1; transfers all assets & liabilities of district to Board of County Commissioners of Nassau County."
     }
   ],
   "other_titles": [],
@@ -85,9 +85,51 @@
       "_processing": {
         "log_file_created": "2025-12-14T21:03:13Z"
       }
+    },
+    {
+      "description": "Reported out of Intergovernmental Affairs Subcommittee",
+      "date": "2025-12-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-17T12:07:53Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2025-12-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-17T12:07:53Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2025-12-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-17T12:07:53Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Intergovernmental Affairs Subcommittee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Intergovernmental Affairs Subcommittee\"}"
+    },
     {
       "name": "Black",
       "classification": "primary",
@@ -109,14 +151,25 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 4017 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/4017/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
     {
-      "note": "Bill Analysis -- Intergovernmental Affairs Subcommittee (Post-Meeting) (12/4/2025 4:10 PM)",
+      "note": "Bill Analysis -- Intergovernmental Affairs Subcommittee (Post-Meeting) (12/15/2025 9:58 AM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/4017/Analyses/h4017.IAS.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/4017/Analyses/h4017a.IAS.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -167,6 +220,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-14T21:03:13Z"
+    "logs_latest_update": "2025-12-17T12:07:53Z"
   }
 }

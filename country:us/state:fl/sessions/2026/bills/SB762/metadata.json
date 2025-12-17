@@ -7,8 +7,7 @@
     "bill"
   ],
   "subject": [
-    "domestic relations",
-    "insurance"
+    "subject index"
   ],
   "abstracts": [
     {
@@ -29,6 +28,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-12-05T00:28:31Z"
+      }
+    },
+    {
+      "description": "Referred to Judiciary; Appropriations Committee on Criminal and Civil Justice; Fiscal Policy",
+      "date": "2025-12-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-17T12:07:53Z"
       }
     }
   ],
@@ -93,6 +104,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-05T00:28:31Z"
+    "logs_latest_update": "2025-12-17T12:07:53Z"
   }
 }

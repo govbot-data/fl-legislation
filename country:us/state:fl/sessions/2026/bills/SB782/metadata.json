@@ -7,11 +7,12 @@
     "bill"
   ],
   "subject": [
-    "insurance",
+    "civil practice and procedure",
+    "concurrent)",
     "public business",
     "public health",
+    "regulation of professions and occupations",
     "subject index",
-    "taxation and finance",
     "torts"
   ],
   "abstracts": [
@@ -33,6 +34,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-12-09T00:27:11Z"
+      }
+    },
+    {
+      "description": "Referred to Health Policy; Appropriations Committee on Health and Human Services; Fiscal Policy",
+      "date": "2025-12-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-17T12:07:53Z"
       }
     }
   ],
@@ -121,6 +134,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-09T00:27:11Z"
+    "logs_latest_update": "2025-12-17T12:07:53Z"
   }
 }

@@ -12,13 +12,13 @@
     "industry",
     "labor",
     "ports and harbors",
-    "public business",
+    "public health",
     "public lands and property",
-    "public officers, employees, and records",
     "public transportation",
-    "real and personal property",
     "reclamation, and use",
+    "regulation of professions and occupations",
     "subject index",
+    "taxation and finance",
     "vessels"
   ],
   "abstracts": [
@@ -109,9 +109,51 @@
       "_processing": {
         "log_file_created": "2025-12-14T21:03:13Z"
       }
+    },
+    {
+      "description": "Reported out of Industries & Professional Activities Subcommittee",
+      "date": "2025-12-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-17T12:07:53Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2025-12-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-17T12:07:53Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2025-12-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-17T12:07:53Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Industries & Professional Activities Subcommittee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Industries & Professional Activities Subcommittee\"}"
+    },
     {
       "name": "Yarkosky",
       "classification": "primary",
@@ -133,14 +175,25 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 607 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/607/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
     {
-      "note": "Bill Analysis -- Industries & Professional Activities Subcommittee (Post-Meeting) (12/4/2025 5:05 PM)",
+      "note": "Bill Analysis -- Industries & Professional Activities Subcommittee (Post-Meeting) (12/15/2025 1:48 PM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/607/Analyses/h0607.IPA.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/607/Analyses/h0607a.IPA.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -391,14 +444,6 @@
       "effective": null,
       "expires": null,
       "url": "https://flsenate.gov/laws/statutes/2025/326.006"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "339.035",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/339.035"
     },
     {
       "publication": "Florida Statues",
@@ -1223,6 +1268,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-14T21:03:13Z"
+    "logs_latest_update": "2025-12-17T12:07:53Z"
   }
 }
