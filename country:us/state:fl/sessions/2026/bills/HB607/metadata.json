@@ -8,15 +8,13 @@
   ],
   "subject": [
     "and solicitations",
-    "executive branch",
     "industry",
     "labor",
-    "ports and harbors",
-    "public health",
     "public lands and property",
+    "public officers, employees, and records",
     "public transportation",
+    "real and personal property",
     "reclamation, and use",
-    "regulation of professions and occupations",
     "subject index",
     "taxation and finance",
     "vessels"
@@ -142,6 +140,40 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-12-17T12:07:53Z"
+      }
+    },
+    {
+      "description": "Referred to State Administration Budget Subcommittee",
+      "date": "2025-12-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-19T11:36:55Z"
+      }
+    },
+    {
+      "description": "Referred to Commerce Committee",
+      "date": "2025-12-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-19T11:36:55Z"
+      }
+    },
+    {
+      "description": "Now in State Administration Budget Subcommittee",
+      "date": "2025-12-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-19T11:36:55Z"
       }
     }
   ],
@@ -1268,6 +1300,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-17T12:07:53Z"
+    "logs_latest_update": "2025-12-19T11:36:55Z"
   }
 }
