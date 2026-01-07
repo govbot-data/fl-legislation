@@ -7,7 +7,8 @@
     "bill"
   ],
   "subject": [
-    "subject index"
+    "domestic relations",
+    "judicial branch"
   ],
   "abstracts": [
     {
@@ -40,6 +41,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-12-17T12:07:53Z"
+      }
+    },
+    {
+      "description": "On Committee agenda-- Judiciary, 01/12/26, 4:00 pm, 110 Senate Building",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-07T12:29:40Z"
       }
     }
   ],
@@ -104,6 +115,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-17T12:07:53Z"
+    "logs_latest_update": "2026-01-07T12:29:40Z"
   }
 }

@@ -7,7 +7,7 @@
     "bill"
   ],
   "subject": [
-    "subject index"
+    "(claims bills)"
   ],
   "abstracts": [
     {
@@ -41,6 +41,36 @@
       "_processing": {
         "log_file_created": "2025-11-27T10:34:17Z"
       }
+    },
+    {
+      "description": "Recommendation: Favorable by Special Master on Claim Bills",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-07T12:29:40Z"
+      }
+    },
+    {
+      "description": "Now in Judiciary",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-07T12:29:40Z"
+      }
+    },
+    {
+      "description": "On Committee agenda-- Judiciary, 01/12/26, 4:00 pm, 110 Senate Building",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-07T12:29:40Z"
+      }
     }
   ],
   "sponsorships": [
@@ -71,7 +101,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Special Master -- Special Master on Claim Bills (1/5/2026 1:09 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/24/Analyses/2026s00024.sm.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -87,6 +129,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T10:34:17Z"
+    "logs_latest_update": "2026-01-07T12:29:40Z"
   }
 }

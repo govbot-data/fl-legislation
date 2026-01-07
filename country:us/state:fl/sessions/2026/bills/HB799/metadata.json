@@ -7,7 +7,7 @@
     "bill"
   ],
   "subject": [
-    "subject index"
+    "taxation and finance"
   ],
   "abstracts": [
     {
@@ -28,6 +28,52 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-12-18T13:00:02Z"
+      }
+    },
+    {
+      "description": "Referred to Budget Committee",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-07T12:29:40Z"
+      }
+    },
+    {
+      "description": "Referred to Ways & Means Committee",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-07T12:29:40Z"
+      }
+    },
+    {
+      "description": "Referred to State Affairs Committee",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-07T12:29:40Z"
+      }
+    },
+    {
+      "description": "Now in Budget Committee",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-07T12:29:40Z"
       }
     }
   ],
@@ -71,6 +117,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-18T13:00:02Z"
+    "logs_latest_update": "2026-01-07T12:29:40Z"
   }
 }

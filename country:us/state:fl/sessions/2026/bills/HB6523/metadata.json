@@ -1,18 +1,16 @@
 {
   "legislative_session": "2026",
   "identifier": "HB 6523",
-  "title": "Relief/Descendants and Estates of Charles Greenlee, Walter Irvin, Samuel Shepherd, and Ernest Thomas/State of Florida",
+  "title": "Descendants and Estates of Charles Greenlee, Walter Irvin, Samuel Shepherd, and Ernest Thomas",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
-  "subject": [
-    "(claims bills)"
-  ],
+  "subject": [],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Relief/Descendants and Estates of Charles Greenlee, Walter Irvin, Samuel Shepherd, and Ernest Thomas/State of Florida;  Provides that certain facts are found & declared to be true; provides that sum is appropriated from General Revenue Fund to DOS for specified relief; provides that specified persons are ineligible for further compensation. \r\n    \r\n        CLAIM WITH APPROPRIATION:\r\n        Indeterminate"
+      "abstract": "Descendants and Estates of Charles Greenlee, Walter Irvin, Samuel Shepherd, and Ernest Thomas;  Provides that certain facts are found & declared to be true; provides that sum is appropriated from General Revenue Fund to DOS for specified relief; provides that specified persons are ineligible for further compensation. \r\n    \r\n        CLAIM WITH APPROPRIATION:\r\n        Indeterminate"
     }
   ],
   "other_titles": [],
@@ -29,6 +27,52 @@
       "_processing": {
         "log_file_created": "2025-12-02T18:22:22Z"
       }
+    },
+    {
+      "description": "Referred to Civil Justice & Claims Subcommittee",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-07T12:29:40Z"
+      }
+    },
+    {
+      "description": "Referred to Budget Committee",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-07T12:29:40Z"
+      }
+    },
+    {
+      "description": "Referred to Judiciary Committee",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-07T12:29:40Z"
+      }
+    },
+    {
+      "description": "Now in Civil Justice & Claims Subcommittee",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-07T12:29:40Z"
+      }
     }
   ],
   "sponsorships": [
@@ -38,6 +82,30 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Young\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Campbell",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Campbell\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Eskamani",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Eskamani\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rosenwald",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rosenwald\"}",
       "organization_id": null
     }
   ],
@@ -71,6 +139,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-02T18:22:22Z"
+    "logs_latest_update": "2026-01-07T12:29:40Z"
   }
 }

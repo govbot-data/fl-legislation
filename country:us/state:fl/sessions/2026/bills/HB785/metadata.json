@@ -7,8 +7,8 @@
     "bill"
   ],
   "subject": [
-    "insurance",
-    "social welfare"
+    "social welfare",
+    "subject index"
   ],
   "abstracts": [
     {
@@ -30,6 +30,64 @@
       "_processing": {
         "log_file_created": "2025-12-17T12:07:53Z"
       }
+    },
+    {
+      "description": "Referred to Health Care Facilities & Systems Subcommittee",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-07T12:29:40Z"
+      }
+    },
+    {
+      "description": "Referred to Insurance & Banking Subcommittee",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-07T12:29:40Z"
+      }
+    },
+    {
+      "description": "Referred to Budget Committee",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-07T12:29:40Z"
+      }
+    },
+    {
+      "description": "Referred to Health & Human Services Committee",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-07T12:29:40Z"
+      }
+    },
+    {
+      "description": "Now in Health Care Facilities & Systems Subcommittee",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-07T12:29:40Z"
+      }
     }
   ],
   "sponsorships": [
@@ -39,6 +97,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Eskamani\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Campbell",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Campbell\"}",
       "organization_id": null
     }
   ],
@@ -81,6 +147,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-17T12:07:53Z"
+    "logs_latest_update": "2026-01-07T12:29:40Z"
   }
 }

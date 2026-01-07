@@ -7,7 +7,7 @@
     "resolution"
   ],
   "subject": [
-    "subject index"
+    "concurrent)"
   ],
   "abstracts": [
     {
@@ -29,6 +29,40 @@
       "_processing": {
         "log_file_created": "2025-12-14T21:03:13Z"
       }
+    },
+    {
+      "description": "Referred to Judiciary Committee",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-07T12:29:40Z"
+      }
+    },
+    {
+      "description": "Referred to State Affairs Committee",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-07T12:29:40Z"
+      }
+    },
+    {
+      "description": "Now in Judiciary Committee",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-07T12:29:40Z"
+      }
     }
   ],
   "sponsorships": [
@@ -38,6 +72,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Daniels\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Plakon",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Plakon\"}",
       "organization_id": null
     }
   ],
@@ -71,6 +113,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-14T21:03:13Z"
+    "logs_latest_update": "2026-01-07T12:29:40Z"
   }
 }

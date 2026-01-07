@@ -27,6 +27,18 @@
       "_processing": {
         "log_file_created": "2025-12-18T13:00:02Z"
       }
+    },
+    {
+      "description": "Referred to Governmental Oversight and Accountability; Children, Families, and Elder Affairs; Appropriations",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-07T12:29:40Z"
+      }
     }
   ],
   "sponsorships": [
@@ -73,6 +85,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-18T13:00:02Z"
+    "logs_latest_update": "2026-01-07T12:29:40Z"
   }
 }

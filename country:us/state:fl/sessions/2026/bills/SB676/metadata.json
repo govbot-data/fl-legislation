@@ -8,10 +8,10 @@
   ],
   "subject": [
     "crimes",
-    "criminal procedure and corrections",
     "domestic relations",
     "evidence",
     "judicial branch",
+    "social welfare",
     "subject index"
   ],
   "abstracts": [
@@ -45,6 +45,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-12-10T01:08:31Z"
+      }
+    },
+    {
+      "description": "On Committee agenda-- Criminal Justice, 01/12/26, 1:30 pm, 37 Senate Building",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-07T12:29:40Z"
       }
     }
   ],
@@ -173,6 +183,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-10T01:08:31Z"
+    "logs_latest_update": "2026-01-07T12:29:40Z"
   }
 }

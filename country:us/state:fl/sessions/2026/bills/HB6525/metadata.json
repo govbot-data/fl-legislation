@@ -7,12 +7,12 @@
     "bill"
   ],
   "subject": [
-    "subject index"
+    "(claims bills)"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Relief/Reginald Jackson/City of Lakeland;  Provides appropriation to compensate Mr. Jackson for injuries & damages sustained as result of negligence of Officer Mike Cochran of Lakeland Police Department; provides limitation on payment of compensation & attorney fees.\r\n    \r\n        CLAIM:\r\n        $312,500"
+      "abstract": "Relief/Reginald Jackson/City of Lakeland;  Provides appropriation to compensate Mr. Jackson for injuries & damages sustained as result of negligence of Officer Mike Cochran of Lakeland Police Department; provides limitation on payment of compensation & attorney fees.\r\n    \r\n        CLAIM WITH APPROPRIATION:\r\n        $312,500"
     }
   ],
   "other_titles": [],
@@ -28,6 +28,40 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-12-24T12:27:33Z"
+      }
+    },
+    {
+      "description": "Referred to Civil Justice & Claims Subcommittee",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-07T12:29:40Z"
+      }
+    },
+    {
+      "description": "Referred to Judiciary Committee",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-07T12:29:40Z"
+      }
+    },
+    {
+      "description": "Now in Civil Justice & Claims Subcommittee",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-07T12:29:40Z"
       }
     }
   ],
@@ -80,6 +114,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-24T12:27:33Z"
+    "logs_latest_update": "2026-01-07T12:29:40Z"
   }
 }

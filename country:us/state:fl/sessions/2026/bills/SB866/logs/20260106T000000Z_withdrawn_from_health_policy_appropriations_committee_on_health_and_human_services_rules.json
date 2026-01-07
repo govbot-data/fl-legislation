@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Withdrawn from Health Policy; Appropriations Committee on Health and Human Services; Rules",
+    "date": "2026-01-06",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "withdrawal"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 866"
+}

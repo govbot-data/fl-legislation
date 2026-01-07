@@ -41,6 +41,16 @@
       "_processing": {
         "log_file_created": "2025-11-27T10:34:17Z"
       }
+    },
+    {
+      "description": "On Committee agenda-- Children, Families, and Elder Affairs, 01/12/26, 4:00 pm, 301 Senate Building",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-07T12:29:40Z"
+      }
     }
   ],
   "sponsorships": [
@@ -50,6 +60,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Sharief\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rouson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rouson\"}",
       "organization_id": null
     }
   ],
@@ -112,6 +130,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T10:34:17Z"
+    "logs_latest_update": "2026-01-07T12:29:40Z"
   }
 }
