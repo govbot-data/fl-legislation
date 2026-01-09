@@ -29,6 +29,18 @@
       "_processing": {
         "log_file_created": "2025-12-20T13:03:56Z"
       }
+    },
+    {
+      "description": "Referred to Education Pre-K - 12; Appropriations Committee on Pre-K - 12 Education; Appropriations",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-09T12:29:06Z"
+      }
     }
   ],
   "sponsorships": [
@@ -92,6 +104,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-20T13:03:56Z"
+    "logs_latest_update": "2026-01-09T12:29:06Z"
   }
 }

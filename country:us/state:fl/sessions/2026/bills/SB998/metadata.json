@@ -7,12 +7,9 @@
     "bill"
   ],
   "subject": [
-    "aviation",
-    "insurance",
     "labor",
-    "public business",
-    "public lands and property",
-    "subject index"
+    "subject index",
+    "taxation and finance"
   ],
   "abstracts": [
     {
@@ -33,6 +30,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-12-23T11:56:52Z"
+      }
+    },
+    {
+      "description": "Referred to Commerce and Tourism; Appropriations Committee on Transportation, Tourism, and Economic Development; Rules",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-09T12:29:06Z"
       }
     }
   ],
@@ -233,6 +242,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-23T11:56:52Z"
+    "logs_latest_update": "2026-01-09T12:29:06Z"
   }
 }

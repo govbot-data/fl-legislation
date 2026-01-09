@@ -29,6 +29,18 @@
       "_processing": {
         "log_file_created": "2025-12-30T12:28:51Z"
       }
+    },
+    {
+      "description": "Referred to Children, Families, and Elder Affairs; Appropriations Committee on Health and Human Services; Appropriations",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-09T12:29:06Z"
+      }
     }
   ],
   "sponsorships": [
@@ -75,6 +87,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-30T12:28:51Z"
+    "logs_latest_update": "2026-01-09T12:29:06Z"
   }
 }
