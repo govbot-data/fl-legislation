@@ -7,7 +7,7 @@
     "bill"
   ],
   "subject": [
-    "subject index"
+    "insurance"
   ],
   "abstracts": [
     {
@@ -40,6 +40,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-12-17T12:07:53Z"
+      }
+    },
+    {
+      "description": "On Committee agenda-- Banking and Insurance, 01/13/26, 4:00 pm, 412 Knott Building",
+      "date": "2026-01-08",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-10T12:25:21Z"
       }
     }
   ],
@@ -112,6 +122,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-17T12:07:53Z"
+    "logs_latest_update": "2026-01-10T12:25:21Z"
   }
 }
