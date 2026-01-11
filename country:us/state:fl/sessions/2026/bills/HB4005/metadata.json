@@ -117,6 +117,16 @@
       "_processing": {
         "log_file_created": "2025-12-02T23:14:58Z"
       }
+    },
+    {
+      "description": "Added to Government Operations Subcommittee agenda",
+      "date": "2026-01-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-11T12:26:19Z"
+      }
     }
   ],
   "sponsorships": [
@@ -154,6 +164,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Government Operations Subcommittee (Post-Meeting) (1/9/2026 6:09 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/4005/Analyses/h4005b.GOS.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [],
@@ -171,6 +192,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-02T23:14:58Z"
+    "logs_latest_update": "2026-01-11T12:26:19Z"
   }
 }

@@ -7,7 +7,7 @@
     "bill"
   ],
   "subject": [
-    "criminal procedure and corrections"
+    "subject index"
   ],
   "abstracts": [
     {
@@ -74,6 +74,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-12-14T21:03:13Z"
+      }
+    },
+    {
+      "description": "Added to Human Services Subcommittee agenda",
+      "date": "2026-01-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-11T12:26:19Z"
       }
     }
   ],
@@ -142,6 +152,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-14T21:03:13Z"
+    "logs_latest_update": "2026-01-11T12:26:19Z"
   }
 }

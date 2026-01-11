@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "On Committee agenda-- Fiscal Policy, 01/14/26, 9:00 am, 110 Senate Building",
+    "date": "2026-01-09",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB 290"
+}

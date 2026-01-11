@@ -41,6 +41,30 @@
       "_processing": {
         "log_file_created": "2025-12-17T12:07:53Z"
       }
+    },
+    {
+      "description": "Withdrawn from Regulated Industries; Community Affairs; Rules",
+      "date": "2026-01-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "withdrawal"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-11T12:26:19Z"
+      }
+    },
+    {
+      "description": "Withdrawn prior to introduction",
+      "date": "2026-01-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "withdrawal"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-11T12:26:19Z"
+      }
     }
   ],
   "sponsorships": [
@@ -176,6 +200,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-17T12:07:53Z"
+    "logs_latest_update": "2026-01-11T12:26:19Z"
   }
 }

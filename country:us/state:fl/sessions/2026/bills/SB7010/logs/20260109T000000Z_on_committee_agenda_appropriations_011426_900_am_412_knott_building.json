@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "On Committee agenda-- Appropriations, 01/14/26, 9:00 am, 412 Knott Building",
+    "date": "2026-01-09",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB 7010"
+}

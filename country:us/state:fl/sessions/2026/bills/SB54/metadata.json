@@ -81,6 +81,16 @@
       "_processing": {
         "log_file_created": "2025-12-14T21:03:13Z"
       }
+    },
+    {
+      "description": "On Committee agenda-- Appropriations Committee on Criminal and Civil Justice, 01/14/26, 2:00 pm, 37 Senate Building",
+      "date": "2026-01-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-11T12:26:19Z"
+      }
     }
   ],
   "sponsorships": [
@@ -98,6 +108,22 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Sharief\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Osgood",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Osgood\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rouson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rouson\"}",
       "organization_id": null
     }
   ],
@@ -197,6 +223,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-14T21:03:13Z"
+    "logs_latest_update": "2026-01-11T12:26:19Z"
   }
 }

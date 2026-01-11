@@ -7,7 +7,7 @@
     "bill"
   ],
   "subject": [
-    "insurance"
+    "subject index"
   ],
   "abstracts": [
     {
@@ -74,6 +74,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T10:34:17Z"
+      }
+    },
+    {
+      "description": "Withdrawn prior to introduction",
+      "date": "2026-01-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "withdrawal"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-11T12:26:19Z"
       }
     }
   ],
@@ -182,6 +194,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T10:34:17Z"
+    "logs_latest_update": "2026-01-11T12:26:19Z"
   }
 }

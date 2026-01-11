@@ -7,19 +7,16 @@
     "bill"
   ],
   "subject": [
-    "and solicitations",
     "business organizations",
     "crimes",
-    "criminal procedure and corrections",
     "industry",
     "motor vehicles",
     "municipalities",
-    "public health",
+    "ports and harbors",
+    "public business",
     "public lands and property",
-    "reclamation, and use",
-    "regulation of professions and occupations",
-    "relations",
-    "subject index"
+    "subject index",
+    "taxation and finance"
   ],
   "abstracts": [
     {
@@ -92,6 +89,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-12-06T00:07:49Z"
+      }
+    },
+    {
+      "description": "On Committee agenda-- Fiscal Policy, 01/14/26, 9:00 am, 110 Senate Building",
+      "date": "2026-01-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-11T12:26:19Z"
       }
     }
   ],
@@ -230,6 +237,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-06T00:07:49Z"
+    "logs_latest_update": "2026-01-11T12:26:19Z"
   }
 }
