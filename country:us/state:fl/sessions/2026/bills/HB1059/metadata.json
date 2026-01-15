@@ -7,14 +7,13 @@
     "bill"
   ],
   "subject": [
-    "appropriations",
     "commercial relations",
     "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Speech and Debate in Education;  Designates FDI as official statewide speech & debate organization in state; provides requirements for speech & debate in K-12 & public postsecondary education; creates Florida Speech & Debate Hall of Fame; & creates Institute for Speech & Debate Innovation within FLVS.\r\n    \r\n        APPROPRIATION:\r\n        $4,850,000"
+      "abstract": "Speech and Debate in Education;  Designates FDI as official statewide speech & debate organization in state; provides requirements for speech & debate in K-12 & public postsecondary education; creates Florida Speech & Debate Hall of Fame; & creates Institute for Speech & Debate Innovation within FLVS.\r\n    \r\n        APPROPRIATION:\r\n        $2,400,000"
     }
   ],
   "other_titles": [],
@@ -30,6 +29,65 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-01-07T12:29:40Z"
+      }
+    },
+    {
+      "description": "Referred to Student Academic Success Subcommittee",
+      "date": "2026-01-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "Referred to PreK-12 Budget Subcommittee",
+      "date": "2026-01-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "Referred to Education & Employment Committee",
+      "date": "2026-01-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "Now in Student Academic Success Subcommittee",
+      "date": "2026-01-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "1st Reading (Original Filed Version)",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
       }
     }
   ],
@@ -73,6 +131,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-07T12:29:40Z"
+    "logs_latest_update": "2026-01-15T12:29:13Z"
   }
 }

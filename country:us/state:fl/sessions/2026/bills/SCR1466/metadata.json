@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SCR 1466",
-  "title": "Joint Session for Purpose of Recieving Governor's Message",
+  "title": "Joint Session for Purpose of Receiving Governor's Message",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "concurrent resolution"
@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Joint Session for Purpose of Recieving Governor's Message;  Providing that the House of Representatives and the Senate convene in Joint Session for the purpose of receiving a message from the Governor, etc."
+      "abstract": "Joint Session for Purpose of Receiving Governor's Message;  Providing that the House of Representatives and the Senate convene in Joint Session for the purpose of receiving a message from the Governor, etc."
     }
   ],
   "other_titles": [],
@@ -28,6 +28,118 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-01-10T12:25:21Z"
+      }
+    },
+    {
+      "description": "Introduced",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "Read 2nd time",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "Adopted",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "Immediately certified",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "In Messages",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "Read 1st time",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "Read 2nd time",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "Adopted",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "Ordered enrolled",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "enrolled"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "Signed by Officers and filed with Secretary of State",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
       }
     }
   ],
@@ -57,6 +169,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 1466 er",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1466/BillText/er/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1466/BillText/er/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -75,6 +202,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-10T12:25:21Z"
+    "logs_latest_update": "2026-01-15T12:29:13Z"
   }
 }

@@ -29,6 +29,53 @@
       "_processing": {
         "log_file_created": "2026-01-07T12:29:40Z"
       }
+    },
+    {
+      "description": "Referred to Insurance & Banking Subcommittee",
+      "date": "2026-01-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "Referred to Commerce Committee",
+      "date": "2026-01-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "Now in Insurance & Banking Subcommittee",
+      "date": "2026-01-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "1st Reading (Original Filed Version)",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
     }
   ],
   "sponsorships": [
@@ -38,6 +85,22 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Rosenwald\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Campbell",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Campbell\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Eskamani",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Eskamani\"}",
       "organization_id": null
     }
   ],
@@ -80,6 +143,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-07T12:29:40Z"
+    "logs_latest_update": "2026-01-15T12:29:13Z"
   }
 }

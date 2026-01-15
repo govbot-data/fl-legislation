@@ -7,6 +7,7 @@
     "bill"
   ],
   "subject": [
+    "labor",
     "subject index"
   ],
   "abstracts": [
@@ -28,6 +29,65 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-01-07T12:29:40Z"
+      }
+    },
+    {
+      "description": "Referred to Government Operations Subcommittee",
+      "date": "2026-01-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "Referred to State Administration Budget Subcommittee",
+      "date": "2026-01-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "Referred to State Affairs Committee",
+      "date": "2026-01-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "Now in Government Operations Subcommittee",
+      "date": "2026-01-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "1st Reading (Original Filed Version)",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
       }
     }
   ],
@@ -67,27 +127,11 @@
     },
     {
       "publication": "Florida Statues",
-      "citation": "119.15",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/119.15"
-    },
-    {
-      "publication": "Florida Statues",
       "citation": "447.205",
       "citation_type": "proposed",
       "effective": null,
       "expires": null,
       "url": "https://flsenate.gov/laws/statutes/2025/447.205"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "447.307",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/447.307"
     },
     {
       "publication": "Florida Statues",
@@ -112,6 +156,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-07T12:29:40Z"
+    "logs_latest_update": "2026-01-15T12:29:13Z"
   }
 }

@@ -183,6 +183,41 @@
       "_processing": {
         "log_file_created": "2025-12-02T23:14:58Z"
       }
+    },
+    {
+      "description": "Bill added to Special Order Calendar (1/15/2026)",
+      "date": "2026-01-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:12Z"
+      }
+    },
+    {
+      "description": "1st Reading (Original Filed Version)",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:12Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 1)",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:12Z"
+      }
     }
   ],
   "sponsorships": [
@@ -266,6 +301,105 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "711845 - Amendment to H 289 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/289/Amendment/711845/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "601709 - Amendment to H 289 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/289/Amendment/601709/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "557409 - Amendment to H 289 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/289/Amendment/557409/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "800927 - Amendment to H 289 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/289/Amendment/800927/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "443711 - Amendment to H 289 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/289/Amendment/443711/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "301915 - Amendment to H 289 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/289/Amendment/301915/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "308391 - Substitute Amendment (301915) to H 289 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/289/Amendment/308391/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "591157 - Amendment to H 289 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/289/Amendment/591157/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "562551 - Amendment to H 289 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/289/Amendment/562551/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [
@@ -308,6 +442,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-02T23:14:58Z"
+    "logs_latest_update": "2026-01-15T12:29:12Z"
   }
 }

@@ -7,9 +7,9 @@
     "bill"
   ],
   "subject": [
-    "civil practice and procedure",
     "domestic relations",
     "judicial branch",
+    "real and personal property",
     "subject index"
   ],
   "abstracts": [
@@ -78,6 +78,61 @@
       "_processing": {
         "log_file_created": "2026-01-07T12:29:40Z"
       }
+    },
+    {
+      "description": "Added to Civil Justice & Claims Subcommittee agenda",
+      "date": "2026-01-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "1st Reading (Original Filed Version)",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "Favorable by Civil Justice & Claims Subcommittee",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "Reported out of Civil Justice & Claims Subcommittee",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "Now in Justice Budget Subcommittee",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
     }
   ],
   "sponsorships": [
@@ -87,6 +142,30 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Smith\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rayner",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rayner\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Stark",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Stark\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Yarkosky",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Yarkosky\"}",
       "organization_id": null
     }
   ],
@@ -104,7 +183,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Civil Justice & Claims Subcommittee (Post-Meeting) (1/14/2026 6:13 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/759/Analyses/h0759a.CIV.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [
     {
       "publication": "Florida Statues",
@@ -177,6 +268,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-07T12:29:40Z"
+    "logs_latest_update": "2026-01-15T12:29:13Z"
   }
 }

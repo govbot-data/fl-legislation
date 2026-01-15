@@ -1,19 +1,20 @@
 {
   "legislative_session": "2026",
   "identifier": "HB 21",
-  "title": "Pub. Rec./Medical Examiners",
+  "title": "Pub. Rec./Agency Employees",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
   "subject": [
-    "public officers, employees, and records",
+    "judicial branch",
+    "social welfare",
     "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Pub. Rec./Medical Examiners;  Defines term \"medical examiner\"; provides exemption from public records requirements for personal identifying & location information of current & former medical examiners & spouses & children of such medical examiners; provides for future legislative review & repeal of exemption; provides for retroactive application; provides statement of public necessity."
+      "abstract": "Pub. Rec./Agency Employees;  Provides exemption from public records requirements for certain identifying & location information of current or former agency employees & spouses & children of such employees; provides for retroactive application; specifies that exemption does not limit certain existing exemptions; provides for future legislative review & repeal of exemption; provides statement of public necessity."
     }
   ],
   "other_titles": [],
@@ -76,15 +77,100 @@
       "_processing": {
         "log_file_created": "2025-11-27T10:34:17Z"
       }
+    },
+    {
+      "description": "PCS added to Criminal Justice Subcommittee agenda",
+      "date": "2026-01-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "1st Reading (Original Filed Version)",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "Favorable with CS by Criminal Justice Subcommittee",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "Reported out of Criminal Justice Subcommittee",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Criminal Justice Subcommittee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Criminal Justice Subcommittee\"}"
+    },
     {
       "name": "Kendall",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Kendall\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Partington",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Partington\"}",
       "organization_id": null
     }
   ],
@@ -100,10 +186,41 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 21 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/21/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Criminal Justice Subcommittee (Post-Meeting) (1/14/2026 5:29 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/21/Analyses/h0021.CRM.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [
+    {
+      "publication": "Florida Statues",
+      "citation": "28.2221",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/28.2221"
+    },
     {
       "publication": "Florida Statues",
       "citation": "119.071",
@@ -111,6 +228,30 @@
       "effective": null,
       "expires": null,
       "url": "https://flsenate.gov/laws/statutes/2025/119.071"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "119.0714",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/119.0714"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "409.2577",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/409.2577"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "744.21031",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/744.21031"
     }
   ],
   "sources": [
@@ -127,6 +268,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T10:34:17Z"
+    "logs_latest_update": "2026-01-15T12:29:13Z"
   }
 }

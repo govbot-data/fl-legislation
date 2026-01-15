@@ -29,6 +29,30 @@
       "_processing": {
         "log_file_created": "2026-01-07T12:29:40Z"
       }
+    },
+    {
+      "description": "Referred to Community Affairs; Judiciary; Rules",
+      "date": "2026-01-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "Introduced",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
     }
   ],
   "sponsorships": [
@@ -38,6 +62,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Gruters\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Calatayud",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Calatayud\"}",
       "organization_id": null
     }
   ],
@@ -84,6 +116,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-07T12:29:40Z"
+    "logs_latest_update": "2026-01-15T12:29:13Z"
   }
 }

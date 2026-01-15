@@ -52,6 +52,40 @@
       "_processing": {
         "log_file_created": "2026-01-10T12:25:21Z"
       }
+    },
+    {
+      "description": "Favorable by Commerce and Tourism; YEAS 10 NAYS 0",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "Introduced",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "Now in Governmental Oversight and Accountability",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
     }
   ],
   "sponsorships": [
@@ -82,7 +116,30 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Commerce and Tourism (Pre-Meeting) (1/12/2026 4:04 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/930/Analyses/2026s00930.pre.cm.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Commerce and Tourism (Post-Meeting) (1/14/2026 9:14 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/930/Analyses/2026s00930.cm.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -98,6 +155,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-10T12:25:21Z"
+    "logs_latest_update": "2026-01-15T12:29:13Z"
   }
 }

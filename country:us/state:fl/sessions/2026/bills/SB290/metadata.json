@@ -7,16 +7,18 @@
     "bill"
   ],
   "subject": [
+    "and solicitations",
     "business organizations",
     "crimes",
     "industry",
-    "motor vehicles",
     "municipalities",
-    "ports and harbors",
     "public business",
+    "public health",
     "public lands and property",
-    "subject index",
-    "taxation and finance"
+    "reclamation, and use",
+    "regulation of professions and occupations",
+    "relations",
+    "subject index"
   ],
   "abstracts": [
     {
@@ -100,6 +102,38 @@
       "_processing": {
         "log_file_created": "2026-01-11T12:26:19Z"
       }
+    },
+    {
+      "description": "Introduced",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "CS by Agriculture read 1st time",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "CS/CS by Fiscal Policy; YEAS 17 NAYS 3",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
     }
   ],
   "sponsorships": [
@@ -177,6 +211,17 @@
       "classification": ""
     },
     {
+      "note": "Bill Analysis -- Fiscal Policy (Pre-Meeting) (1/13/2026 8:55 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/290/Analyses/2026s00290.pre.fp.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "506412 - Amendment to S 290 Filed",
       "links": [
         {
@@ -237,6 +282,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-11T12:26:19Z"
+    "logs_latest_update": "2026-01-15T12:29:13Z"
   }
 }

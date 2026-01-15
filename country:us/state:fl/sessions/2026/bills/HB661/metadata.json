@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Pub. Rec./Private Investigators;  Provides exemption from public records requirements for personal identifying & location information of current & former private investigators licensed by DACS & spouses & children of such private investigators; provides for future legislative review & repeal of exemption; provides for retroactive application; provides statement of public necessity."
+      "abstract": "Pub. Rec./Private Investigators;  Provides exemption from public record requirements for personal identifying & location information of current & former private investigators licensed by DACS & spouses & children of such private investigators; provides for future legislative review & repeal of exemption; provides statement of public necessity."
     }
   ],
   "other_titles": [],
@@ -75,9 +75,86 @@
       "_processing": {
         "log_file_created": "2025-12-17T12:07:53Z"
       }
+    },
+    {
+      "description": "Added to Industries & Professional Activities Subcommittee agenda",
+      "date": "2026-01-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "1st Reading (Original Filed Version)",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "Favorable with CS by Industries & Professional Activities Subcommittee",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "Reported out of Industries & Professional Activities Subcommittee",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Industries & Professional Activities Subcommittee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Industries & Professional Activities Subcommittee\"}"
+    },
     {
       "name": "Stark",
       "classification": "primary",
@@ -99,9 +176,43 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 661 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/661/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Industries & Professional Activities Subcommittee (Post-Meeting) (1/12/2026 4:52 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/661/Analyses/h0661.IPA.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "881937 - Strike All Amendment to H 661 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/661/Amendment/881937/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [
     {
       "publication": "Florida Statues",
@@ -126,6 +237,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-17T12:07:53Z"
+    "logs_latest_update": "2026-01-15T12:29:13Z"
   }
 }

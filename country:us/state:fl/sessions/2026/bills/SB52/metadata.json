@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Security Services at Places of Worship;  Providing an exemption from licensure requirements for certain volunteers who provide armed security services for places of worship under certain circumstances, etc."
+      "abstract": "Security Services at Places of Worship;  Providing an exemption from licensure requirements for certain volunteers who provide armed security services for places of worship, etc."
     }
   ],
   "other_titles": [],
@@ -51,9 +51,69 @@
       "_processing": {
         "log_file_created": "2026-01-07T12:29:40Z"
       }
+    },
+    {
+      "description": "CS by Criminal Justice; YEAS 8 NAYS 0",
+      "date": "2026-01-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:12Z"
+      }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:12Z"
+      }
+    },
+    {
+      "description": "Introduced",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:12Z"
+      }
+    },
+    {
+      "description": "CS by Criminal Justice read 1st time",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:12Z"
+      }
+    },
+    {
+      "description": "Now in Judiciary",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:12Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Criminal Justice",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Criminal Justice\"}"
+    },
     {
       "name": "Gaetz",
       "classification": "primary",
@@ -87,9 +147,62 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 52 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/52/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/52/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Criminal Justice (Pre-Meeting) (1/9/2026 1:28 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/52/Analyses/2026s00052.pre.cj.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Criminal Justice (Post-Meeting) (1/13/2026 8:38 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/52/Analyses/2026s00052.cj.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "596732 - Amendment to S 52 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/52/Amendment/596732/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/52/Amendment/596732/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [
     {
       "publication": "Florida Statues",
@@ -122,6 +235,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-07T12:29:40Z"
+    "logs_latest_update": "2026-01-15T12:29:12Z"
   }
 }

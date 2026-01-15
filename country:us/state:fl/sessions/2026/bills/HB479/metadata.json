@@ -7,12 +7,12 @@
     "bill"
   ],
   "subject": [
-    "public business"
+    "reclamation, and use"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Land and Water Management;  Prohibits counties & municipalities from adopting laws, regulations, rules, or policies relating to water quality or quantity, pollution control, discharge prevention or removal, or wetlands & preempts such regulation to the state; requires DEP to notify CFO of certain violations; requires CFO to withhold certain funds; repeals provisions relating to land management review teams."
+      "abstract": "Land and Water Management;  Prohibits counties & municipalities from adopting laws, regulations, rules, policies, or ordinances that prohibit adjacent upland activities that are outside certain wetland buffers; repeals provisions relating to land management review teams."
     }
   ],
   "other_titles": [],
@@ -85,9 +85,76 @@
       "_processing": {
         "log_file_created": "2026-01-11T12:26:19Z"
       }
+    },
+    {
+      "description": "Favorable with CS by Natural Resources & Disasters Subcommittee",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "1st Reading (Original Filed Version)",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "Reported out of Natural Resources & Disasters Subcommittee",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Natural Resources & Disasters Subcommittee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Natural Resources & Disasters Subcommittee\"}"
+    },
     {
       "name": "Maggard",
       "classification": "primary",
@@ -109,9 +176,32 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 479 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/479/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Natural Resources & Disasters Subcommittee (Post-Meeting) (1/14/2026 11:12 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/479/Analyses/h0479.NRD.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -127,6 +217,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-11T12:26:19Z"
+    "logs_latest_update": "2026-01-15T12:29:13Z"
   }
 }

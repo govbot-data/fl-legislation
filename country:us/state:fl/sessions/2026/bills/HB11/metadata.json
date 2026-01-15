@@ -105,6 +105,19 @@
       "_processing": {
         "log_file_created": "2025-12-03T23:47:45Z"
       }
+    },
+    {
+      "description": "1st Reading (Original Filed Version)",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
     }
   ],
   "sponsorships": [
@@ -171,6 +184,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"Redondo\"}",
       "organization_id": null
+    },
+    {
+      "name": "Vald\u00e9s",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Vald\\u00e9s\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -215,6 +236,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T23:47:45Z"
+    "logs_latest_update": "2026-01-15T12:29:13Z"
   }
 }

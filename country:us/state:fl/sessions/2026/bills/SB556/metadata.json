@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Requirements for a Standard High School Diploma;  Providing that students with disabilities may participate in the Special Olympics to meet the physical education requirement for a standard high school diploma, etc."
+      "abstract": "Requirements for a Standard High School Diploma;  Providing that students can substitute marching band experience for physical education and performing fine arts credit requirements for a standard high school diploma; providing that students with disabilities may participate in the Special Olympics to meet the physical education requirement for a standard high school diploma, etc."
     }
   ],
   "other_titles": [],
@@ -51,9 +51,69 @@
       "_processing": {
         "log_file_created": "2026-01-10T12:25:21Z"
       }
+    },
+    {
+      "description": "CS by Education Pre-K - 12; YEAS 6 NAYS 0",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "Introduced",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "Now in Children, Families, and Elder Affairs",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "CS by Education Pre-K - 12 read 1st time",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Education Pre-K - 12",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Education Pre-K - 12\"}"
+    },
     {
       "name": "Berman",
       "classification": "primary",
@@ -79,9 +139,62 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 556 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/556/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/556/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Education Pre-K - 12 (Pre-Meeting) (1/12/2026 1:30 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/556/Analyses/2026s00556.pre.ed.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Education Pre-K - 12 (Post-Meeting) (1/14/2026 11:51 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/556/Analyses/2026s00556.ed.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "766280 - Amendment to S 556 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/556/Amendment/766280/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/556/Amendment/766280/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [
     {
       "publication": "Florida Statues",
@@ -106,6 +219,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-10T12:25:21Z"
+    "logs_latest_update": "2026-01-15T12:29:13Z"
   }
 }

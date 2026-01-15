@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Veterans Affairs;  Revising the admissions process for veterans treatment court programs; authorizing the court, in consultation with the multidisciplinary team, to determine eligibility for veterans treatment court programs; authorizing sentencing courts to divert defendants to veterans treatment court programs under certain circumstances, etc."
+      "abstract": "Veterans Affairs;  Revising the admissions process for veterans treatment court programs; authorizing the multidisciplinary team to determine eligibility for veterans treatment court programs; authorizing sentencing courts to divert defendants to veterans treatment court programs under certain circumstances; requiring that a defendant\u2019s satisfactory completion of the program be a condition of the defendant\u2019s probation or community control, etc."
     }
   ],
   "other_titles": [],
@@ -51,9 +51,69 @@
       "_processing": {
         "log_file_created": "2026-01-07T12:29:40Z"
       }
+    },
+    {
+      "description": "CS by Criminal Justice; YEAS 8 NAYS 0",
+      "date": "2026-01-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "Introduced",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "CS by Criminal Justice read 1st time",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "Now in Judiciary",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Criminal Justice",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Criminal Justice\"}"
+    },
     {
       "name": "Gaetz",
       "classification": "primary",
@@ -79,9 +139,77 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 50 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/50/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/50/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Criminal Justice (Pre-Meeting) (1/9/2026 1:28 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/50/Analyses/2026s00050.pre.cj.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Criminal Justice (Post-Meeting) (1/13/2026 10:04 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/50/Analyses/2026s00050.cj.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "533034 - Amendment to S 50 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/50/Amendment/533034/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/50/Amendment/533034/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "669186 - Amendment to S 50 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/50/Amendment/669186/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/50/Amendment/669186/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [
     {
       "publication": "Florida Statues",
@@ -114,6 +242,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-07T12:29:40Z"
+    "logs_latest_update": "2026-01-15T12:29:13Z"
   }
 }

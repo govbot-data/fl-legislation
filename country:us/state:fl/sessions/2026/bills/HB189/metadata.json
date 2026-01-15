@@ -7,15 +7,15 @@
     "bill"
   ],
   "subject": [
-    "and solicitations",
     "crimes",
     "executive branch",
+    "subject index",
     "torts"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Gambling;  Revises provisions related to gambling including the Florida Gaming Control Commission, gaming machines, pari-mutuel permits & permitholders, betting on certain athletic contests, criminal penalties, Internet gambling, Internet sports wagering, manipulation of card games, fantasy sports contests, games of chance, slot machines, illegal gambling, & preempting regulation of certain gaming activities."
+      "abstract": "Gambling;  Revises provisions related to gambling including the Florida Gaming Control Commission, gaming machines, pari-mutuel permits & permitholders, betting on certain athletic contests, criminal penalties, Internet gambling, Internet sports wagering, manipulation of card games, fantasy sports contests, games of chance, slot machines, & illegal gambling; preempts regulation of certain gaming activities."
     }
   ],
   "other_titles": [],
@@ -168,9 +168,98 @@
       "_processing": {
         "log_file_created": "2025-12-02T18:22:22Z"
       }
+    },
+    {
+      "description": "Added to Criminal Justice Subcommittee agenda",
+      "date": "2026-01-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "1st Reading (Original Filed Version)",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 1)",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "Favorable with CS by Criminal Justice Subcommittee",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "Reported out of Criminal Justice Subcommittee",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Criminal Justice Subcommittee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Criminal Justice Subcommittee\"}"
+    },
     {
       "name": "Industries & Professional Activities Subcommittee",
       "classification": "primary",
@@ -185,6 +274,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Trabulsy\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Yarkosky",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Yarkosky\"}",
       "organization_id": null
     }
   ],
@@ -211,6 +308,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 189 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/189/BillText/c2/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -219,6 +327,28 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/189/Analyses/h0189.IPA.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Criminal Justice Subcommittee (Post-Meeting) (1/14/2026 5:29 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/189/Analyses/h0189b.CRM.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "322399 - Amendment to H 189 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/189/Amendment/322399/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -362,6 +492,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-02T18:22:22Z"
+    "logs_latest_update": "2026-01-15T12:29:13Z"
   }
 }

@@ -51,6 +51,40 @@
       "_processing": {
         "log_file_created": "2026-01-07T12:29:40Z"
       }
+    },
+    {
+      "description": "Favorable by Children, Families, and Elder Affairs; YEAS 6 NAYS 0",
+      "date": "2026-01-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:12Z"
+      }
+    },
+    {
+      "description": "Now in Appropriations Committee on Health and Human Services",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:12Z"
+      }
+    },
+    {
+      "description": "Introduced",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:12Z"
+      }
     }
   ],
   "sponsorships": [
@@ -68,6 +102,22 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Rouson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Grall",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Grall\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bernard",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bernard\"}",
       "organization_id": null
     }
   ],
@@ -89,7 +139,30 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Children, Families, and Elder Affairs (Pre-Meeting) (1/9/2026 4:00 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/42/Analyses/2026s00042.pre.cf.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Children, Families, and Elder Affairs (Post-Meeting) (1/13/2026 8:48 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/42/Analyses/2026s00042.cf.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [
     {
       "publication": "Florida Statues",
@@ -130,6 +203,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-07T12:29:40Z"
+    "logs_latest_update": "2026-01-15T12:29:12Z"
   }
 }

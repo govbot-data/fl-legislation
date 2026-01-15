@@ -7,16 +7,16 @@
     "bill"
   ],
   "subject": [
-    "and solicitations",
+    "concurrent)",
+    "executive branch",
     "industry",
     "labor",
+    "ports and harbors",
     "public lands and property",
-    "public officers, employees, and records",
-    "public transportation",
     "real and personal property",
     "reclamation, and use",
+    "regulation of professions and occupations",
     "subject index",
-    "taxation and finance",
     "vessels"
   ],
   "abstracts": [
@@ -175,6 +175,73 @@
       "_processing": {
         "log_file_created": "2025-12-19T11:36:55Z"
       }
+    },
+    {
+      "description": "Added to State Administration Budget Subcommittee agenda",
+      "date": "2026-01-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:12Z"
+      }
+    },
+    {
+      "description": "1st Reading (Original Filed Version)",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:12Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 1)",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:12Z"
+      }
+    },
+    {
+      "description": "Favorable by State Administration Budget Subcommittee",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:12Z"
+      }
+    },
+    {
+      "description": "Reported out of State Administration Budget Subcommittee",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:12Z"
+      }
+    },
+    {
+      "description": "Now in Commerce Committee",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:12Z"
+      }
     }
   ],
   "sponsorships": [
@@ -226,6 +293,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/607/Analyses/h0607a.IPA.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- State Administration Budget Subcommittee (Post-Meeting) (1/14/2026 3:20 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/607/Analyses/h0607c.SAB.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -1300,6 +1378,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-19T11:36:55Z"
+    "logs_latest_update": "2026-01-15T12:29:12Z"
   }
 }

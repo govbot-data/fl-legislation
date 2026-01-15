@@ -7,14 +7,10 @@
     "bill"
   ],
   "subject": [
-    "concurrent)",
-    "planning and development",
-    "public health",
     "reclamation, and use",
     "regulation of professions and occupations",
     "relations",
     "subject index",
-    "taxation and finance",
     "torts"
   ],
   "abstracts": [
@@ -70,6 +66,19 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-12-17T12:07:53Z"
+      }
+    },
+    {
+      "description": "1st Reading (Original Filed Version)",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
       }
     }
   ],
@@ -218,6 +227,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-17T12:07:53Z"
+    "logs_latest_update": "2026-01-15T12:29:13Z"
   }
 }

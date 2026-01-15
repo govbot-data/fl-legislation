@@ -7,7 +7,7 @@
     "bill"
   ],
   "subject": [
-    "public officers, employees, and records"
+    "subject index"
   ],
   "abstracts": [
     {
@@ -91,6 +91,50 @@
       "_processing": {
         "log_file_created": "2026-01-10T12:25:21Z"
       }
+    },
+    {
+      "description": "Favorable by Ethics and Elections; YEAS 8 NAYS 0",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:12Z"
+      }
+    },
+    {
+      "description": "Introduced",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:12Z"
+      }
+    },
+    {
+      "description": "CS by Governmental Oversight and Accountability read 1st time",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:12Z"
+      }
+    },
+    {
+      "description": "Now in Rules",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:12Z"
+      }
     }
   ],
   "sponsorships": [
@@ -168,6 +212,28 @@
       "classification": ""
     },
     {
+      "note": "Bill Analysis -- Ethics and Elections (Pre-Meeting) (1/12/2026 4:12 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/92/Analyses/2026s00092.pre.ee.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Ethics and Elections (Post-Meeting) (1/14/2026 2:58 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/92/Analyses/2026s00092.ee.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "776688 - Amendment (Delete All) to S 92 Filed",
       "links": [
         {
@@ -223,6 +289,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-10T12:25:21Z"
+    "logs_latest_update": "2026-01-15T12:29:12Z"
   }
 }

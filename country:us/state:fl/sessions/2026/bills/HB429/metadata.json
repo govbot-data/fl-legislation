@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Criteria for Determining Criminal Gang Membership;  Revises definition of term \"criminal gang member.\""
+      "abstract": "Criteria for Determining Criminal Gang Membership;  Revises definition of term \"criminal gang member\"; defines \"gang-related language.\""
     }
   ],
   "other_titles": [],
@@ -63,9 +63,86 @@
       "_processing": {
         "log_file_created": "2025-11-27T10:34:17Z"
       }
+    },
+    {
+      "description": "Added to Criminal Justice Subcommittee agenda",
+      "date": "2026-01-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "1st Reading (Original Filed Version)",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "Favorable with CS by Criminal Justice Subcommittee",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "Reported out of Criminal Justice Subcommittee",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Criminal Justice Subcommittee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Criminal Justice Subcommittee\"}"
+    },
     {
       "name": "Baker",
       "classification": "primary",
@@ -89,6 +166,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"Barnaby\"}",
       "organization_id": null
+    },
+    {
+      "name": "Yarkosky",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Yarkosky\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -103,10 +188,52 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 429 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/429/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Criminal Justice Subcommittee (Post-Meeting) (1/14/2026 5:59 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/429/Analyses/h0429a.CRM.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "341101 - Strike All Amendment to H 429 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/429/Amendment/341101/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [
+    {
+      "publication": "Florida Statues",
+      "citation": "823.05",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/823.05"
+    },
     {
       "publication": "Florida Statues",
       "citation": "874.03",
@@ -114,6 +241,22 @@
       "effective": null,
       "expires": null,
       "url": "https://flsenate.gov/laws/statutes/2025/874.03"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "921.141",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/921.141"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "951.23",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/951.23"
     }
   ],
   "sources": [
@@ -130,6 +273,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T10:34:17Z"
+    "logs_latest_update": "2026-01-15T12:29:13Z"
   }
 }

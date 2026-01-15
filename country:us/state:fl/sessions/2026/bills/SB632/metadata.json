@@ -43,13 +43,25 @@
       }
     },
     {
-      "description": "On Committee agenda-- Banking and Insurance, 01/13/26, 4:00 pm, 412 Knott Building",
+      "description": "On Committee agenda-- Banking and Insurance, 01/13/26, 4:00 pm, 412 Knott Building --Temporarily Postponed",
       "date": "2026-01-08",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-01-10T12:25:21Z"
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "Introduced",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
       }
     }
   ],
@@ -81,7 +93,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Banking and Insurance (Pre-Meeting) (1/12/2026 3:55 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/632/Analyses/2026s00632.pre.bi.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [
     {
       "publication": "Florida Statues",
@@ -106,6 +130,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-10T12:25:21Z"
+    "logs_latest_update": "2026-01-15T12:29:13Z"
   }
 }

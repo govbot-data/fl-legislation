@@ -75,6 +75,41 @@
       "_processing": {
         "log_file_created": "2025-12-17T12:07:53Z"
       }
+    },
+    {
+      "description": "Added to Civil Justice & Claims Subcommittee agenda",
+      "date": "2026-01-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "1st Reading (Original Filed Version)",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "Favorable with CS by Civil Justice & Claims Subcommittee",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
     }
   ],
   "sponsorships": [
@@ -84,6 +119,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Duggan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Daley",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Daley\"}",
       "organization_id": null
     }
   ],
@@ -101,7 +144,30 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Civil Justice & Claims Subcommittee (Post-Meeting) (1/12/2026 5:38 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/655/Analyses/h0655.CIV.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "739647 - Strike All Amendment to H 655 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/655/Amendment/739647/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [
     {
       "publication": "Florida Statues",
@@ -126,6 +192,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-17T12:07:53Z"
+    "logs_latest_update": "2026-01-15T12:29:13Z"
   }
 }

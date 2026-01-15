@@ -51,6 +51,40 @@
       "_processing": {
         "log_file_created": "2026-01-10T12:25:21Z"
       }
+    },
+    {
+      "description": "Favorable by Community Affairs; YEAS 8 NAYS 0",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "Introduced",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "Now in Appropriations Committee on Criminal and Civil Justice",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
     }
   ],
   "sponsorships": [
@@ -81,7 +115,30 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Community Affairs (Pre-Meeting) (1/12/2026 1:30 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/506/Analyses/2026s00506.pre.ca.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Community Affairs (Post-Meeting) (1/13/2026 4:04 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/506/Analyses/2026s00506.ca.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [
     {
       "publication": "Florida Statues",
@@ -106,6 +163,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-10T12:25:21Z"
+    "logs_latest_update": "2026-01-15T12:29:13Z"
   }
 }

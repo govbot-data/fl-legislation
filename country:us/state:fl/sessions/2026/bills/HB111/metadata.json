@@ -74,6 +74,51 @@
       "_processing": {
         "log_file_created": "2026-01-11T12:26:19Z"
       }
+    },
+    {
+      "description": "Favorable by Government Operations Subcommittee",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:12Z"
+      }
+    },
+    {
+      "description": "Reported out of Government Operations Subcommittee",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:12Z"
+      }
+    },
+    {
+      "description": "Now in State Affairs Committee",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:12Z"
+      }
+    },
+    {
+      "description": "1st Reading (Original Filed Version)",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:12Z"
+      }
     }
   ],
   "sponsorships": [
@@ -86,11 +131,59 @@
       "organization_id": null
     },
     {
+      "name": "Bartleman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bartleman\"}",
+      "organization_id": null
+    },
+    {
       "name": "Campbell",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Campbell\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Cassel",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Cassel\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Conerly",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Conerly\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Daley",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Daley\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hunschofsky",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Hunschofsky\"}",
+      "organization_id": null
+    },
+    {
+      "name": "LaMarca",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"LaMarca\"}",
       "organization_id": null
     },
     {
@@ -116,6 +209,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"Tendrich\"}",
       "organization_id": null
+    },
+    {
+      "name": "Woodson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Woodson\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -134,10 +235,10 @@
   ],
   "documents": [
     {
-      "note": "Bill Analysis -- Government Operations Subcommittee (Post-Meeting) (1/9/2026 6:05 PM)",
+      "note": "Bill Analysis -- Government Operations Subcommittee (Post-Meeting) (1/13/2026 5:39 PM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/111/Analyses/h0111.GOS.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/111/Analyses/h0111a.GOS.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -160,6 +261,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-11T12:26:19Z"
+    "logs_latest_update": "2026-01-15T12:29:12Z"
   }
 }

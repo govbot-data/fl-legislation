@@ -7,24 +7,18 @@
     "bill"
   ],
   "subject": [
-    "appropriations",
     "executive branch",
     "industry",
-    "k",
-    "labor",
     "military affairs and related matters",
-    "motor vehicles",
-    "public business",
     "public lands and property",
-    "public transportation",
     "relations",
-    "subject index",
-    "taxation and finance"
+    "social welfare",
+    "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Rural Communities;  Requiring the state land planning agency to give preference for technical assistance funding to local governments located in a rural area of opportunity; revising the conditions required for a county to be considered a fiscally constrained county; creating the Office of Rural Prosperity within the Department of Commerce; requiring the Office of Rural Prosperity to administer the Renaissance Grants Program to provide block grants to eligible communities; creating the Public Infrastructure Smart Technology Grant Program within the Office of Rural Prosperity; creating the Florida Arterial Road Modernization Program within the Department of Transportation, etc.\r\n    \r\n        APPROPRIATION:\r\n        $199,813,976"
+      "abstract": "Rural Communities;  Requiring the state land planning agency to give preference for technical assistance funding to local governments located in a rural area of opportunity; revising the conditions required for a county to be considered a fiscally constrained county; creating the Office of Rural Prosperity within the Department of Commerce; requiring the Office of Rural Prosperity to administer the Renaissance Grants Program to provide block grants to eligible communities; creating the Public Infrastructure Smart Technology Grant Program within the Office of Rural Prosperity; creating the Florida Arterial Road Modernization Program within the Department of Transportation, etc.\r\n    \r\n        APPROPRIATION:\r\n        $144,813,977"
     }
   ],
   "other_titles": [],
@@ -85,6 +79,94 @@
       "_processing": {
         "log_file_created": "2025-12-11T12:29:20Z"
       }
+    },
+    {
+      "description": "Placed on Special Order Calendar, 01/14/26",
+      "date": "2026-01-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "Introduced",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "Read 2nd time",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "Amendment(s) adopted (211610, 655052)",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "Read 3rd time",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "Passed as amended; YEAS 39 NAYS 0",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "Immediately certified",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "In Messages",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
     }
   ],
   "sponsorships": [
@@ -121,6 +203,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 250 e1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/250/BillText/e1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/250/BillText/e1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -136,10 +233,40 @@
       "classification": ""
     },
     {
-      "note": "Bill Analysis -- Appropriations (Post-Meeting) (12/10/2025 3:31 PM)",
+      "note": "Bill Analysis -- Appropriations (Post-Meeting) (1/6/2026 10:18 AM)",
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/250/Analyses/2026s00250.ap.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "655052 - Amendment to S 250 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/250/Amendment/655052/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/250/Amendment/655052/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "211610 - Amendment to S 250 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/250/Amendment/211610/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/250/Amendment/211610/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -355,6 +482,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-11T12:29:20Z"
+    "logs_latest_update": "2026-01-15T12:29:13Z"
   }
 }

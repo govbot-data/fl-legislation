@@ -7,12 +7,14 @@
     "bill"
   ],
   "subject": [
+    "municipalities",
+    "relations",
     "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Land Use and Development Regulations;  Prohibiting local land development regulations from requiring the denial of, or conditioning or delaying the approval of, residential development on the basis of a lack of compatibility under certain circumstances; revising the circumstances under which land development regulations may be applied to a single-family or two-family dwelling; prohibiting local land development regulations from conditioning the approval of an application for certain residential development on the payment of certain fees, charges, or exactions; requiring that a fee or charge imposed by a local government in connection with the review, processing, or inspection of a residential development application meet certain requirements, etc."
+      "abstract": "Land Use and Development Regulations;  Requiring that the amount of certain application fees reasonably relate to certain costs; requiring that local government comprehensive plans and land development regulations include factors for assessing the compatibility of certain residential uses; prohibiting a local government from denying certain applications on compatibility grounds if the applicant has proposed certain measures; requiring that the denial of an application specify certain information; providing that a local government\u2019s approval of an application may include certain requirements or conditions, etc."
     }
   ],
   "other_titles": [],
@@ -83,9 +85,59 @@
       "_processing": {
         "log_file_created": "2026-01-07T12:29:40Z"
       }
+    },
+    {
+      "description": "CS by Judiciary; YEAS 10 NAYS 0",
+      "date": "2026-01-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "Introduced",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "CS by Judiciary read 1st time",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Judiciary",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Judiciary\"}",
+      "organization_id": null
+    },
     {
       "name": "McClain",
       "classification": "primary",
@@ -106,6 +158,21 @@
         },
         {
           "url": "https://flsenate.gov/Session/Bill/2026/208/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S 208 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/208/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/208/BillText/c1/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -135,32 +202,69 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Judiciary (Pre-Meeting) (1/9/2026 3:39 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/208/Analyses/2026s00208.pre.ju.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Judiciary (Post-Meeting) (1/13/2026 12:27 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/208/Analyses/2026s00208.ju.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "378440 - Amendment (Delete All) to S 208 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/208/Amendment/378440/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/208/Amendment/378440/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [
     {
       "publication": "Florida Statues",
-      "citation": "163.3164",
+      "citation": "125.022",
       "citation_type": "proposed",
       "effective": null,
       "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/163.3164"
+      "url": "https://flsenate.gov/laws/statutes/2025/125.022"
     },
     {
       "publication": "Florida Statues",
-      "citation": "163.3202",
+      "citation": "163.3194",
       "citation_type": "proposed",
       "effective": null,
       "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/163.3202"
+      "url": "https://flsenate.gov/laws/statutes/2025/163.3194"
     },
     {
       "publication": "Florida Statues",
-      "citation": "212.055",
+      "citation": "166.033",
       "citation_type": "proposed",
       "effective": null,
       "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/212.055"
+      "url": "https://flsenate.gov/laws/statutes/2025/166.033"
     }
   ],
   "sources": [
@@ -177,6 +281,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-07T12:29:40Z"
+    "logs_latest_update": "2026-01-15T12:29:13Z"
   }
 }

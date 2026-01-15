@@ -8,7 +8,6 @@
   ],
   "subject": [
     "aviation",
-    "crimes",
     "ports and harbors",
     "subject index"
   ],
@@ -32,6 +31,19 @@
       "_processing": {
         "log_file_created": "2026-01-10T12:25:21Z"
       }
+    },
+    {
+      "description": "1st Reading (Original Filed Version)",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
     }
   ],
   "sponsorships": [
@@ -41,6 +53,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Griffitts\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Conerly",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Conerly\"}",
       "organization_id": null
     }
   ],
@@ -74,6 +94,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-10T12:25:21Z"
+    "logs_latest_update": "2026-01-15T12:29:13Z"
   }
 }

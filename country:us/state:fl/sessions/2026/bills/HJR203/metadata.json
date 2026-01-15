@@ -7,8 +7,8 @@
     "joint resolution"
   ],
   "subject": [
-    "constitutional amendments",
-    "subject index"
+    "concurrent)",
+    "constitutional amendments"
   ],
   "abstracts": [
     {
@@ -118,6 +118,29 @@
       "_processing": {
         "log_file_created": "2025-11-27T10:34:17Z"
       }
+    },
+    {
+      "description": "Added to State Affairs Committee agenda",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "1st Reading (Original Filed Version)",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
     }
   ],
   "sponsorships": [
@@ -155,6 +178,39 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- State Affairs Committee (Post-Meeting) (1/13/2026 2:58 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/203/Analyses/h0203b.SAC.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "036949 - Amendment to H 203 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/203/Amendment/036949/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "414023 - Strike All Amendment to H 203 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/203/Amendment/414023/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [],
@@ -172,6 +228,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T10:34:17Z"
+    "logs_latest_update": "2026-01-15T12:29:13Z"
   }
 }

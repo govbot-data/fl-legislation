@@ -7,9 +7,9 @@
     "bill"
   ],
   "subject": [
-    "crimes",
     "k",
     "public officers, employees, and records",
+    "relations",
     "taxation and finance"
   ],
   "abstracts": [
@@ -86,6 +86,40 @@
       "_processing": {
         "log_file_created": "2026-01-11T12:26:19Z"
       }
+    },
+    {
+      "description": "Introduced",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "Favorable by- Fiscal Policy; YEAS 20 NAYS 0",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "Placed on Calendar, on 2nd reading",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
     }
   ],
   "sponsorships": [
@@ -133,6 +167,28 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/320/Analyses/2026s00320.ed.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Fiscal Policy (Pre-Meeting) (1/13/2026 8:55 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/320/Analyses/2026s00320.pre.fp.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Fiscal Policy (Post-Meeting) (1/14/2026 10:02 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/320/Analyses/2026s00320.fp.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -500,6 +556,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-11T12:26:19Z"
+    "logs_latest_update": "2026-01-15T12:29:13Z"
   }
 }

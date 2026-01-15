@@ -8,13 +8,13 @@
   ],
   "subject": [
     "public lands and property",
-    "subject index",
-    "taxation and finance"
+    "reclamation, and use",
+    "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Conservation Lands;  Requires Division of State Lands to publish certain information on its website before Board of Trustees of Internal Improvement Trust Fund meets to review proposed sale of conservation lands; requires that certain parcels proposed for exchange be appraised in accordance with certain criteria; removes provisions requiring division to submit certain requests to Acquisition & Restoration Council for review; removes provisions requiring division to provide certain recommendations to board; requires division to publish certain information on its website before council meets to review proposed land exchange; requires division to submit certain requests to council for review & requiring council to provide recommendations to division in certain circumstances; requires division to provide certain recommendations to board of trustees in certain circumstances; requires governing board of water management district to publish certain information on its website before meeting to review proposed sale or exchange of certain lands."
+      "abstract": "Conservation Lands;  Requires Division of State Lands to publish certain information on its website before Acquisition & Restoration Council or Board of Trustees of Internal Improvement Trust Fund meets to review proposed sale of conservation lands; requires that certain parcels proposed for exchange be appraised in accordance with certain criteria; removes provisions requiring division to submit certain requests to Acquisition & Restoration Council for review; removes provisions requiring division to provide certain recommendations to board of trustees; requires division to publish certain information on its website before council or board of trustees meets to review proposed land exchange; requires division to submit certain requests to council for review & requiring council to provide recommendations to division in certain circumstances; requires division to provide certain recommendations to board of trustees in certain circumstances; requires governing board of water management district to publish certain information on its website before meeting to review proposed sale or exchange of certain lands."
     }
   ],
   "other_titles": [],
@@ -87,9 +87,76 @@
       "_processing": {
         "log_file_created": "2026-01-11T12:26:19Z"
       }
+    },
+    {
+      "description": "Favorable with CS by Natural Resources & Disasters Subcommittee",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "1st Reading (Original Filed Version)",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "Reported out of Natural Resources & Disasters Subcommittee",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Natural Resources & Disasters Subcommittee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Natural Resources & Disasters Subcommittee\"}"
+    },
     {
       "name": "Kendall",
       "classification": "primary",
@@ -183,14 +250,36 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 441 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/441/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
     {
-      "note": "Bill Analysis -- Natural Resources & Disasters Subcommittee (Post-Meeting) (1/9/2026 5:50 PM)",
+      "note": "Bill Analysis -- Natural Resources & Disasters Subcommittee (Post-Meeting) (1/14/2026 11:23 AM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/441/Analyses/h0441.NRD.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/441/Analyses/h0441a.NRD.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "580175 - Amendment to H 441 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/441/Amendment/580175/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -246,6 +335,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-11T12:26:19Z"
+    "logs_latest_update": "2026-01-15T12:29:13Z"
   }
 }

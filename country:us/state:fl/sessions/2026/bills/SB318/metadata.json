@@ -7,9 +7,6 @@
     "bill"
   ],
   "subject": [
-    "k",
-    "labor",
-    "planning and development",
     "subject index"
   ],
   "abstracts": [
@@ -83,6 +80,104 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-12-14T21:03:13Z"
+      }
+    },
+    {
+      "description": "Placed on Special Order Calendar, 01/14/26",
+      "date": "2026-01-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "Introduced",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "CS by Appropriations read 1st time",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "Read 2nd time",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "Amendment(s) adopted (629180, 713876, 789314)",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "Read 3rd time",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "CS passed as amended; YEAS 38 NAYS 0",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "Immediately certified",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "In Messages",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
       }
     }
   ],
@@ -170,6 +265,21 @@
         },
         {
           "url": "https://flsenate.gov/Session/Bill/2026/318/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S 318 e1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/318/BillText/e1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/318/BillText/e1/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -269,6 +379,51 @@
         },
         {
           "url": "https://flsenate.gov/Session/Bill/2026/318/Amendment/442232/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "713876 - Amendment to S 318 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/318/Amendment/713876/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/318/Amendment/713876/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "789314 - Amendment to S 318 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/318/Amendment/789314/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/318/Amendment/789314/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "629180 - Amendment to S 318 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/318/Amendment/629180/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/318/Amendment/629180/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -412,6 +567,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-14T21:03:13Z"
+    "logs_latest_update": "2026-01-15T12:29:13Z"
   }
 }

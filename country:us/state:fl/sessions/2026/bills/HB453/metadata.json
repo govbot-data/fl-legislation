@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "HB 453",
-  "title": "Requirements for Standard High School Diploma",
+  "title": "Requirements for a Standard High School Diploma",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Requirements for Standard High School Diploma;  Provides that students with disabilities may participate in Special Olympics to meet physical education requirement for standard high school diploma."
+      "abstract": "Requirements for a Standard High School Diploma;  Provides that completion of 2 years of marching band satisfies both physical education & performing arts requirements for standard high school diploma &  that students with disabilities may participate in Special Olympics to meet physical education requirement for standard high school diploma."
     }
   ],
   "other_titles": [],
@@ -73,9 +73,76 @@
       "_processing": {
         "log_file_created": "2026-01-11T12:26:19Z"
       }
+    },
+    {
+      "description": "Favorable with CS by Student Academic Success Subcommittee",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "1st Reading (Original Filed Version)",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "Reported out of Student Academic Success Subcommittee",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Student Academic Success Subcommittee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Student Academic Success Subcommittee\"}"
+    },
     {
       "name": "Gossett-Seidman",
       "classification": "primary",
@@ -97,14 +164,36 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 453 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/453/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
     {
-      "note": "Bill Analysis -- Student Academic Success Subcommittee (Post-Meeting) (1/9/2026 3:47 PM)",
+      "note": "Bill Analysis -- Student Academic Success Subcommittee (Post-Meeting) (1/14/2026 11:17 AM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/453/Analyses/h0453.SAS.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/453/Analyses/h0453a.SAS.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "600357 - Amendment to H 453 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/453/Amendment/600357/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -136,6 +225,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-11T12:26:19Z"
+    "logs_latest_update": "2026-01-15T12:29:13Z"
   }
 }

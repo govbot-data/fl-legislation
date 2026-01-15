@@ -9,12 +9,12 @@
   "subject": [
     "public lands and property",
     "reclamation, and use",
-    "taxation and finance"
+    "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Conservation Lands;  Requiring the Division of State Lands to publish certain information on its website before the Board of Trustees of the Internal Improvement Trust Fund meets to review the proposed sale of conservation lands; requiring that certain parcels proposed for exchange be appraised in accordance with certain criteria; requiring the governing board of a water management district to publish certain information on its website before meeting to review the proposed sale or exchange of certain lands, etc."
+      "abstract": "Conservation Lands;  Requiring the Division of State Lands to publish certain information on its website before the Acquisition and Restoration Council or the Board of Trustees of the Internal Improvement Trust Fund meets to review the proposed sale of conservation lands; requiring that certain parcels proposed for exchange be appraised in accordance with certain criteria; requiring the governing board of a water management district to publish certain information on its website before meeting to review the proposed sale or exchange of certain lands, etc."
     }
   ],
   "other_titles": [],
@@ -53,9 +53,69 @@
       "_processing": {
         "log_file_created": "2026-01-10T12:25:21Z"
       }
+    },
+    {
+      "description": "CS by Environment and Natural Resources; YEAS 7 NAYS 0",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:12Z"
+      }
+    },
+    {
+      "description": "Introduced",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:12Z"
+      }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:12Z"
+      }
+    },
+    {
+      "description": "Now in Appropriations Committee on Agriculture, Environment, and General Government",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:12Z"
+      }
+    },
+    {
+      "description": "CS by Environment and Natural Resources read 1st time",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:12Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Environment and Natural Resources",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Environment and Natural Resources\"}"
+    },
     {
       "name": "Mayfield",
       "classification": "primary",
@@ -89,9 +149,62 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 546 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/546/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/546/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Environment and Natural Resources (Pre-Meeting) (1/13/2026 4:43 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/546/Analyses/2026s00546.pre.en.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Environment and Natural Resources (Post-Meeting) (1/14/2026 8:02 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/546/Analyses/2026s00546.en.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "730190 - Amendment to S 546 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/546/Amendment/730190/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/546/Amendment/730190/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [
     {
       "publication": "Florida Statues",
@@ -140,6 +253,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-10T12:25:21Z"
+    "logs_latest_update": "2026-01-15T12:29:12Z"
   }
 }

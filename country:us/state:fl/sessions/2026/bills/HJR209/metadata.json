@@ -7,7 +7,8 @@
     "joint resolution"
   ],
   "subject": [
-    "subject index"
+    "concurrent)",
+    "constitutional amendments"
   ],
   "abstracts": [
     {
@@ -273,6 +274,53 @@
       "_processing": {
         "log_file_created": "2025-12-14T21:03:13Z"
       }
+    },
+    {
+      "description": "1st Reading (Original Filed Version)",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 1)",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 2)",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "Added to Second Reading Calendar",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
     }
   ],
   "sponsorships": [
@@ -361,10 +409,10 @@
       "classification": ""
     },
     {
-      "note": "Bill Analysis -- Ways & Means Committee (Post-Meeting) (12/10/2025 5:48 PM)",
+      "note": "Bill Analysis -- Ways & Means Committee (Post-Meeting) (1/13/2026 4:34 PM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/209/Analyses/h0209d.WMC.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/209/Analyses/h0209e.WMC.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -398,6 +446,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-14T21:03:13Z"
+    "logs_latest_update": "2026-01-15T12:29:13Z"
   }
 }

@@ -13,7 +13,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Felony Battery;  Providing enhanced criminal penalties for persons who commit a second or subsequent battery after having a prior conviction for resisting an officer with violence, etc."
+      "abstract": "Felony Battery;  Revising the definition of \u201cprison releasee reoffender\u201d to include a defendant who commits or attempts to commit felony battery that results in bodily injury; providing enhanced criminal penalties for persons who commit a second or subsequent battery after having a prior conviction for resisting an officer with violence, etc."
     }
   ],
   "other_titles": [],
@@ -52,9 +52,69 @@
       "_processing": {
         "log_file_created": "2026-01-07T12:29:40Z"
       }
+    },
+    {
+      "description": "CS by Criminal Justice; YEAS 8 NAYS 0",
+      "date": "2026-01-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "Introduced",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "CS by Criminal Justice read 1st time",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "Now in Appropriations Committee on Criminal and Civil Justice",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Criminal Justice",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Criminal Justice\"}"
+    },
     {
       "name": "Leek",
       "classification": "primary",
@@ -80,10 +140,79 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 436 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/436/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/436/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Criminal Justice (Pre-Meeting) (1/9/2026 1:28 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/436/Analyses/2026s00436.pre.cj.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Criminal Justice (Post-Meeting) (1/13/2026 9:58 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/436/Analyses/2026s00436.cj.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "288848 - Amendment to S 436 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/436/Amendment/288848/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/436/Amendment/288848/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [
+    {
+      "publication": "Florida Statues",
+      "citation": "775.082",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/775.082"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "775.261",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/775.261"
+    },
     {
       "publication": "Florida Statues",
       "citation": "784.03",
@@ -94,11 +223,59 @@
     },
     {
       "publication": "Florida Statues",
+      "citation": "900.05",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/900.05"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "903.011",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/903.011"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "907.041",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/907.041"
+    },
+    {
+      "publication": "Florida Statues",
       "citation": "943.0584",
       "citation_type": "proposed",
       "effective": null,
       "expires": null,
       "url": "https://flsenate.gov/laws/statutes/2025/943.0584"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "944.608",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/944.608"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "944.609",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/944.609"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "944.705",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/944.705"
     }
   ],
   "sources": [
@@ -115,6 +292,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-07T12:29:40Z"
+    "logs_latest_update": "2026-01-15T12:29:13Z"
   }
 }

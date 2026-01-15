@@ -7,8 +7,6 @@
     "bill"
   ],
   "subject": [
-    "crimes",
-    "d",
     "railroads and other regulated utilities",
     "subject index"
   ],
@@ -90,6 +88,19 @@
       "_processing": {
         "log_file_created": "2025-11-27T10:34:17Z"
       }
+    },
+    {
+      "description": "1st Reading (Original Filed Version)",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
     }
   ],
   "sponsorships": [
@@ -107,6 +118,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Nix\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Alvarez, J.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Alvarez, J.\"}",
       "organization_id": null
     },
     {
@@ -131,6 +150,62 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Basabe\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Campbell",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Campbell\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Driskell",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Driskell\"}",
+      "organization_id": null
+    },
+    {
+      "name": "L\u00f3pez, J.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"L\\u00f3pez, J.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Michael",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Michael\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Owen",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Owen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Spencer",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Spencer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Vald\u00e9s",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Vald\\u00e9s\"}",
       "organization_id": null
     }
   ],
@@ -205,6 +280,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T10:34:17Z"
+    "logs_latest_update": "2026-01-15T12:29:13Z"
   }
 }

@@ -7,8 +7,7 @@
     "bill"
   ],
   "subject": [
-    "crimes",
-    "motor vehicles"
+    "subject index"
   ],
   "abstracts": [
     {
@@ -88,6 +87,19 @@
       "_processing": {
         "log_file_created": "2025-11-27T10:34:17Z"
       }
+    },
+    {
+      "description": "1st Reading (Original Filed Version)",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:12Z"
+      }
     }
   ],
   "sponsorships": [
@@ -97,6 +109,22 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Vald\\u00e9s\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Harris",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Harris\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tant",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tant\"}",
       "organization_id": null
     }
   ],
@@ -130,6 +158,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T10:34:17Z"
+    "logs_latest_update": "2026-01-15T12:29:12Z"
   }
 }

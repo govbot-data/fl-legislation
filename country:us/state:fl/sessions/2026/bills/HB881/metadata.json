@@ -7,12 +7,12 @@
     "bill"
   ],
   "subject": [
-    "and solicitations"
+    "concurrent)"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Pari-Mutuel Wagering;  Authorizes certain permitholders to choose not to conduct live racing following notice to FGCC; provides that certain permitholders are not required to pay specified tax; revises provisions related to permitholder relocation; authorizes thoroughbred racing permits to be transferred upon authorizing of commission; removes requirement for certain referendums; removes requirement that certain permits escheat to state following nonpayment of taxes; revises entity that designates certain members of board of directors of specified not-for-profit corporation; revises provisions related to facilities that may be leased."
+      "abstract": "Pari-Mutuel Wagering;  Authorizes certain permitholders to choose not to conduct live racing following notice to FGCC; revises provisions related to permitholder relocation; authorizes thoroughbred racing permits to be transferred upon authorizing of commission; removes requirement for certain referendums; removes requirement that certain permits escheat to state following nonpayment of taxes; revises entity that designates certain members of board of directors of specified not-for-profit corporation; revises provisions related to facilities that may be leased."
     }
   ],
   "other_titles": [],
@@ -63,9 +63,86 @@
       "_processing": {
         "log_file_created": "2026-01-07T12:29:40Z"
       }
+    },
+    {
+      "description": "Added to Industries & Professional Activities Subcommittee agenda",
+      "date": "2026-01-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:12Z"
+      }
+    },
+    {
+      "description": "1st Reading (Original Filed Version)",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:12Z"
+      }
+    },
+    {
+      "description": "Favorable with CS by Industries & Professional Activities Subcommittee",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:12Z"
+      }
+    },
+    {
+      "description": "Reported out of Industries & Professional Activities Subcommittee",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:12Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:12Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:12Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Industries & Professional Activities Subcommittee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Industries & Professional Activities Subcommittee\"}"
+    },
     {
       "name": "Anderson",
       "classification": "primary",
@@ -87,9 +164,43 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 881 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/881/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Industries & Professional Activities Subcommittee (Post-Meeting) (1/14/2026 4:23 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/881/Analyses/h0881a.IPA.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "940101 - Amendment to H 881 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/881/Amendment/940101/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [
     {
       "publication": "Florida Statues",
@@ -162,6 +273,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-07T12:29:40Z"
+    "logs_latest_update": "2026-01-15T12:29:12Z"
   }
 }

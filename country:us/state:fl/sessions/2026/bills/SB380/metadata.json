@@ -7,11 +7,7 @@
     "bill"
   ],
   "subject": [
-    "crimes",
     "evidence",
-    "k",
-    "motor vehicles",
-    "planning and development",
     "relations",
     "subject index"
   ],
@@ -86,6 +82,28 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-12-06T00:07:49Z"
+      }
+    },
+    {
+      "description": "Introduced",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "CS by Judiciary read 1st time",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
       }
     }
   ],
@@ -299,6 +317,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-06T00:07:49Z"
+    "logs_latest_update": "2026-01-15T12:29:13Z"
   }
 }

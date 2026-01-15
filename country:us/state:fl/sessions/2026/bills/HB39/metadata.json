@@ -8,8 +8,8 @@
   ],
   "subject": [
     "municipalities",
-    "planning and development",
-    "relations"
+    "relations",
+    "subject index"
   ],
   "abstracts": [
     {
@@ -119,6 +119,61 @@
       "_processing": {
         "log_file_created": "2025-12-14T21:03:13Z"
       }
+    },
+    {
+      "description": "Added to Intergovernmental Affairs Subcommittee agenda",
+      "date": "2026-01-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "1st Reading (Original Filed Version)",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "Favorable by Intergovernmental Affairs Subcommittee",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "Reported out of Intergovernmental Affairs Subcommittee",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "Now in State Affairs Committee",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
     }
   ],
   "sponsorships": [
@@ -151,6 +206,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/39/Analyses/h0039a.WMC.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Intergovernmental Affairs Subcommittee (Post-Meeting) (1/14/2026 12:53 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/39/Analyses/h0039c.IAS.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -198,6 +264,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-14T21:03:13Z"
+    "logs_latest_update": "2026-01-15T12:29:13Z"
   }
 }

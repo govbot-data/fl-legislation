@@ -7,15 +7,14 @@
     "bill"
   ],
   "subject": [
-    "civil practice and procedure",
     "crimes",
     "criminal procedure and corrections",
     "domestic relations",
     "judicial branch",
-    "motor vehicles",
     "public health",
     "real and personal property",
-    "relations"
+    "relations",
+    "subject index"
   ],
   "abstracts": [
     {
@@ -37,6 +36,65 @@
       "_processing": {
         "log_file_created": "2025-12-30T12:28:51Z"
       }
+    },
+    {
+      "description": "Referred to Civil Justice & Claims Subcommittee",
+      "date": "2026-01-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:12Z"
+      }
+    },
+    {
+      "description": "Referred to Justice Budget Subcommittee",
+      "date": "2026-01-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:12Z"
+      }
+    },
+    {
+      "description": "Referred to Judiciary Committee",
+      "date": "2026-01-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:12Z"
+      }
+    },
+    {
+      "description": "Now in Civil Justice & Claims Subcommittee",
+      "date": "2026-01-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:12Z"
+      }
+    },
+    {
+      "description": "1st Reading (Original Filed Version)",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:12Z"
+      }
     }
   ],
   "sponsorships": [
@@ -46,6 +104,22 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Trabulsy\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rayner",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rayner\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Yarkosky",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Yarkosky\"}",
       "organization_id": null
     }
   ],
@@ -304,6 +378,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-30T12:28:51Z"
+    "logs_latest_update": "2026-01-15T12:29:12Z"
   }
 }

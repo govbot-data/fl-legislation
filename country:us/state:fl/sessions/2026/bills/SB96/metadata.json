@@ -7,7 +7,7 @@
     "bill"
   ],
   "subject": [
-    "appropriations",
+    "subject index",
     "veterans"
   ],
   "abstracts": [
@@ -102,6 +102,28 @@
       "_processing": {
         "log_file_created": "2025-11-27T10:34:17Z"
       }
+    },
+    {
+      "description": "Introduced",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:12Z"
+      }
+    },
+    {
+      "description": "CS by Military and Veterans Affairs, Space, and Domestic Security read 1st time",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:12Z"
+      }
     }
   ],
   "sponsorships": [
@@ -119,6 +141,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Sharief\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rouson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rouson\"}",
       "organization_id": null
     }
   ],
@@ -218,6 +248,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T10:34:17Z"
+    "logs_latest_update": "2026-01-15T12:29:12Z"
   }
 }

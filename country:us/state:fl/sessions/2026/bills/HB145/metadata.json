@@ -7,18 +7,16 @@
     "bill"
   ],
   "subject": [
-    "and solicitations",
-    "civil practice and procedure",
     "civil rights",
+    "concurrent)",
     "industry",
+    "limitations",
     "military affairs and related matters",
-    "planning and development",
-    "public business",
     "public lands and property",
-    "public transportation",
     "railroads and other regulated utilities",
-    "real and personal property",
+    "reclamation, and use",
     "relations",
+    "social welfare",
     "subject index",
     "torts"
   ],
@@ -213,6 +211,29 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-12-14T21:03:13Z"
+      }
+    },
+    {
+      "description": "Bill added to Special Order Calendar (1/15/2026)",
+      "date": "2026-01-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "1st Reading (Original Filed Version)",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
       }
     }
   ],
@@ -747,6 +768,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-14T21:03:13Z"
+    "logs_latest_update": "2026-01-15T12:29:13Z"
   }
 }

@@ -7,12 +7,12 @@
     "bill"
   ],
   "subject": [
-    "crimes"
+    "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Violations of Pretrial Release Conditions for Violent Crimes;  Provides that person who is on pretrial release for specified violent crime commits separate criminal offense if such person willfully violates condition of pretrial release; specifies procedures at person's first appearance hearing; requires court to consider certain factors in determining whether to order pretrial detention or grant pretrial release; provides that law enforcement officer is not liable in civil action for arrest of person based on probable cause to believe that person has violated condition of pretrial release in specified circumstances; authorizes law enforcement officer to arrest without warrant any person suspected of violating condition of pretrial release if original arrest was for specified violent crime."
+      "abstract": "Violations of Pretrial Release Conditions for Violent Crimes;  Provides that person who is on pretrial release for specified violent crime commits separate criminal offense if such person willfully violates certain conditions of pretrial release; provides penalty for second or subsequent violation; specifies procedures at person's first appearance hearing; requires court to consider certain factors in determining whether to order pretrial detention or grant pretrial release; provides that law enforcement officer is not liable in civil action for arrest of person based on probable cause to believe that person has violated condition of pretrial release in specified circumstances; authorizes law enforcement officer to arrest person without warrant if there is probable cause to believe that person has willfully violated certain conditions of pretrial release."
     }
   ],
   "other_titles": [],
@@ -75,9 +75,86 @@
       "_processing": {
         "log_file_created": "2025-11-27T10:34:17Z"
       }
+    },
+    {
+      "description": "PCS added to Criminal Justice Subcommittee agenda",
+      "date": "2026-01-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "1st Reading (Original Filed Version)",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "Favorable with CS by Criminal Justice Subcommittee",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "Reported out of Criminal Justice Subcommittee",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Criminal Justice Subcommittee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Criminal Justice Subcommittee\"}"
+    },
     {
       "name": "Daley",
       "classification": "primary",
@@ -99,9 +176,32 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 397 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/397/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Criminal Justice Subcommittee (Post-Meeting) (1/14/2026 5:54 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/397/Analyses/h0397.CRM.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [
     {
       "publication": "Florida Statues",
@@ -126,6 +226,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T10:34:17Z"
+    "logs_latest_update": "2026-01-15T12:29:13Z"
   }
 }

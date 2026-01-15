@@ -7,23 +7,18 @@
     "bill"
   ],
   "subject": [
-    "and solicitations",
     "aviation",
     "commercial relations",
     "crimes",
-    "criminal procedure and corrections",
     "electors and elections",
     "industry",
-    "k",
     "labor",
-    "motor vehicles",
     "municipalities",
-    "public health",
+    "public business",
     "public lands and property",
-    "public officers, employees, and records",
-    "public transportation",
     "real and personal property",
     "relations",
+    "social welfare",
     "state organization",
     "subject index",
     "vessels"
@@ -60,6 +55,28 @@
       "_processing": {
         "log_file_created": "2025-12-06T00:07:49Z"
       }
+    },
+    {
+      "description": "On Committee agenda-- Rules, 01/15/26, 9:00 am, 412 Knott Building",
+      "date": "2026-01-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "Introduced",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
     }
   ],
   "sponsorships": [
@@ -90,7 +107,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Rules (Pre-Meeting) (1/13/2026 2:11 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/104/Analyses/2026s00104.pre.rc.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [
     {
       "publication": "Florida Statues",
@@ -651,6 +680,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-06T00:07:49Z"
+    "logs_latest_update": "2026-01-15T12:29:13Z"
   }
 }

@@ -81,9 +81,69 @@
       "_processing": {
         "log_file_created": "2026-01-07T12:29:40Z"
       }
+    },
+    {
+      "description": "CS by Governmental Oversight and Accountability; YEAS 9 NAYS 0",
+      "date": "2026-01-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:12Z"
+      }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:12Z"
+      }
+    },
+    {
+      "description": "Introduced",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:12Z"
+      }
+    },
+    {
+      "description": "CS by Governmental Oversight and Accountability read 1st time",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:12Z"
+      }
+    },
+    {
+      "description": "Now in Rules",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:12Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Governmental Oversight and Accountability",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Governmental Oversight and Accountability\"}"
+    },
     {
       "name": "Transportation",
       "classification": "primary",
@@ -124,6 +184,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 7012 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/7012/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/7012/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -143,6 +218,43 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/7012/Analyses/2026s07012.tr.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Governmental Oversight and Accountability (Pre-Meeting) (1/9/2026 8:48 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/7012/Analyses/2026s07012.pre.go.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Governmental Oversight and Accountability (Post-Meeting) (1/13/2026 10:44 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/7012/Analyses/2026s07012.go.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "913622 - Amendment to S 7012 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/7012/Amendment/913622/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/7012/Amendment/913622/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -198,6 +310,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-07T12:29:40Z"
+    "logs_latest_update": "2026-01-15T12:29:12Z"
   }
 }

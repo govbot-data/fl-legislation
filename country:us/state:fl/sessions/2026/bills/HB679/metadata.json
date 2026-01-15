@@ -7,12 +7,12 @@
     "bill"
   ],
   "subject": [
-    "social welfare"
+    "concurrent)"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Registration of Trademarks;  Removes provisions regarding classification of goods & services for trademark purposes; requires DOS to adopt federal system of classification each year; requires classification to be published as part of trademark registration application; requires department to establish & maintain secure internet website that allows submission of online trademark registration application & renewal application; provides website requirements; requires department to make online application system available by specified date; provides online application requirements."
+      "abstract": "Registration of Trademarks;  Removes provisions relating to classification of goods and services for trademark purposes; requires DOS to utilize international schedule of classes of goods and services; requires department to establish & maintain secure Internet website that allows submission of online trademark registration application and renewal application; provides website requirements; requires department to make online application system available by specified date; provides online application requirements."
     }
   ],
   "other_titles": [],
@@ -75,9 +75,86 @@
       "_processing": {
         "log_file_created": "2025-12-17T12:07:53Z"
       }
+    },
+    {
+      "description": "Added to Industries & Professional Activities Subcommittee agenda",
+      "date": "2026-01-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "1st Reading (Original Filed Version)",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "Favorable with CS by Industries & Professional Activities Subcommittee",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "Reported out of Industries & Professional Activities Subcommittee",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Industries & Professional Activities Subcommittee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Industries & Professional Activities Subcommittee\"}"
+    },
     {
       "name": "Greco",
       "classification": "primary",
@@ -99,9 +176,43 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 679 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/679/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Industries & Professional Activities Subcommittee (Post-Meeting) (1/12/2026 4:52 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/679/Analyses/h0679.IPA.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "840781 - Strike All Amendment to H 679 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/679/Amendment/840781/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [
     {
       "publication": "Florida Statues",
@@ -126,6 +237,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-17T12:07:53Z"
+    "logs_latest_update": "2026-01-15T12:29:13Z"
   }
 }

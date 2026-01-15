@@ -8,10 +8,9 @@
   ],
   "subject": [
     "and solicitations",
-    "civil practice and procedure",
     "crimes",
-    "insurance",
-    "public health"
+    "public health",
+    "subject index"
   ],
   "abstracts": [
     {
@@ -33,6 +32,19 @@
       "_processing": {
         "log_file_created": "2026-01-09T12:29:06Z"
       }
+    },
+    {
+      "description": "1st Reading (Original Filed Version)",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:12Z"
+      }
     }
   ],
   "sponsorships": [
@@ -42,6 +54,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Rosenwald\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Campbell",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Campbell\"}",
       "organization_id": null
     }
   ],
@@ -140,6 +160,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-09T12:29:06Z"
+    "logs_latest_update": "2026-01-15T12:29:12Z"
   }
 }

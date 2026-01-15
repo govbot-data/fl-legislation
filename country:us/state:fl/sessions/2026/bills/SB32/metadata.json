@@ -7,11 +7,8 @@
     "bill"
   ],
   "subject": [
-    "civil practice and procedure",
     "crimes",
-    "domestic relations",
     "judicial branch",
-    "public officers, employees, and records",
     "subject index"
   ],
   "abstracts": [
@@ -86,6 +83,28 @@
       "_processing": {
         "log_file_created": "2025-11-27T10:34:17Z"
       }
+    },
+    {
+      "description": "Introduced",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "CS by Criminal Justice read 1st time",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
     }
   ],
   "sponsorships": [
@@ -119,6 +138,22 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Berman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Davis",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Davis\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bernard",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bernard\"}",
       "organization_id": null
     }
   ],
@@ -394,6 +429,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T10:34:17Z"
+    "logs_latest_update": "2026-01-15T12:29:13Z"
   }
 }

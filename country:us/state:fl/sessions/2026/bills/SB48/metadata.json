@@ -7,7 +7,7 @@
     "bill"
   ],
   "subject": [
-    "crimes",
+    "relations",
     "subject index"
   ],
   "abstracts": [
@@ -84,6 +84,28 @@
       "_processing": {
         "log_file_created": "2026-01-11T12:26:19Z"
       }
+    },
+    {
+      "description": "Introduced",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:12Z"
+      }
+    },
+    {
+      "description": "CS by Appropriations Committee on Transportation, Tourism, and Economic Development; YEAS 13 NAYS 0",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:12Z"
+      }
     }
   ],
   "sponsorships": [
@@ -152,6 +174,32 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Appropriations Committee on Transportation, Tourism, and Economic Development (Pre-Meeting) (1/13/2026 11:41 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/48/Analyses/2026s00048.pre.atd.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "408564 - Amendment to S 48 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/48/Amendment/408564/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/48/Amendment/408564/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [],
@@ -169,6 +217,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-11T12:26:19Z"
+    "logs_latest_update": "2026-01-15T12:29:12Z"
   }
 }

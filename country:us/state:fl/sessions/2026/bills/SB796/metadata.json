@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Veterinary Medicine;  Citing this act as the \u201cVeterinary Workforce Innovation Act\u201d; revising the membership of the Board of Veterinary Medicine; providing requirements for veterinary professional associates, veterinary technicians, and veterinary technologists to receive certificates of registration from the Department of Business and Professional Regulation; authorizing the department to suspend the registration of a veterinary professional associate, veterinary technician, or veterinary technologist upon a certain determination by the Board of Veterinary Medicine; providing that a supervising licensed veterinarian is liable for any acts or omissions by certain persons under his or her supervision and control, etc."
+      "abstract": "Veterinary Medicine;  Citing this act as the \u201cVeterinary Workforce Innovation Act\u201d; increasing the amount of time for which prescriptions based solely on a veterinary telehealth evaluation may be issued for certain drugs; providing requirements for veterinary professional associates to receive certificates of registration from the Department of Business and Professional Regulation; requiring the department to make a list of veterinary professional associate registrants publicly available on its website; authorizing the department to rescind the registration of a veterinary professional associate under certain circumstances, etc."
     }
   ],
   "other_titles": [],
@@ -51,9 +51,69 @@
       "_processing": {
         "log_file_created": "2026-01-07T12:29:40Z"
       }
+    },
+    {
+      "description": "CS by Regulated Industries; YEAS 9 NAYS 0",
+      "date": "2026-01-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "Introduced",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "Now in Appropriations Committee on Agriculture, Environment, and General Government",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "CS by Regulated Industries read 1st time",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:13Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Regulated Industries",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Regulated Industries\"}"
+    },
     {
       "name": "Bradley",
       "classification": "primary",
@@ -79,9 +139,62 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 796 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/796/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/796/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Regulated Industries (Pre-Meeting) (1/9/2026 4:00 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/796/Analyses/2026s00796.pre.ri.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Regulated Industries (Post-Meeting) (1/14/2026 1:33 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/796/Analyses/2026s00796.ri.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "497168 - Amendment (Delete All) to S 796 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/796/Amendment/497168/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/796/Amendment/497168/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [
     {
       "publication": "Florida Statues",
@@ -114,14 +227,6 @@
       "effective": null,
       "expires": null,
       "url": "https://flsenate.gov/laws/statutes/2025/474.203"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "474.204",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/474.204"
     }
   ],
   "sources": [
@@ -138,6 +243,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-07T12:29:40Z"
+    "logs_latest_update": "2026-01-15T12:29:13Z"
   }
 }

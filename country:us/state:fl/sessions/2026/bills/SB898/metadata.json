@@ -7,7 +7,7 @@
     "bill"
   ],
   "subject": [
-    "subject index"
+    "concurrent)"
   ],
   "abstracts": [
     {
@@ -43,13 +43,25 @@
       }
     },
     {
-      "description": "On Committee agenda-- Commerce and Tourism, 01/13/26, 4:00 pm, 110 Senate Building",
+      "description": "On Committee agenda-- Commerce and Tourism, 01/13/26, 4:00 pm, 110 Senate Building --Temporarily Postponed",
       "date": "2026-01-08",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-01-10T12:25:21Z"
+        "log_file_created": "2026-01-15T12:29:12Z"
+      }
+    },
+    {
+      "description": "Introduced",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:29:12Z"
       }
     }
   ],
@@ -81,7 +93,34 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Commerce and Tourism (Pre-Meeting) (1/12/2026 4:09 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/898/Analyses/2026s00898.pre.cm.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "652430 - Amendment (Delete All) to S 898 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/898/Amendment/652430/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/898/Amendment/652430/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -97,6 +136,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-10T12:25:21Z"
+    "logs_latest_update": "2026-01-15T12:29:12Z"
   }
 }
