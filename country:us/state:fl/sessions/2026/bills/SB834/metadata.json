@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 834",
-  "title": "Insurance Requirements for Nonprofit Religious Organizations",
+  "title": "Nonprofit Religious Organizations",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Insurance Requirements for Nonprofit Religious Organizations;  Revising the conditions under which a nonprofit religious organization is not subject to the requirements of the Florida Insurance Code, etc."
+      "abstract": "Nonprofit Religious Organizations;  Revising the conditions under which a nonprofit religious organization is not subject to the requirements of the Florida Insurance Code, etc."
     }
   ],
   "other_titles": [],
@@ -73,9 +73,47 @@
       "_processing": {
         "log_file_created": "2026-01-15T12:29:13Z"
       }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-01-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-17T12:25:13Z"
+      }
+    },
+    {
+      "description": "Now in Judiciary",
+      "date": "2026-01-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-17T12:25:13Z"
+      }
+    },
+    {
+      "description": "On Committee agenda-- Judiciary, 01/20/26, 9:30 am, 110 Senate Building",
+      "date": "2026-01-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-17T12:25:13Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Banking and Insurance",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Banking and Insurance\"}"
+    },
     {
       "name": "Yarborough",
       "classification": "primary",
@@ -101,6 +139,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 834 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/834/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/834/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -109,6 +162,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/834/Analyses/2026s00834.pre.bi.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Banking and Insurance (Post-Meeting) (1/15/2026 9:55 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/834/Analyses/2026s00834.bi.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -155,6 +219,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-15T12:29:13Z"
+    "logs_latest_update": "2026-01-17T12:25:13Z"
   }
 }

@@ -13,7 +13,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Office of Financial Regulation;  Requiring loan originators, mortgage brokers, and mortgage lenders to develop, implement, and maintain comprehensive written information security programs for the protection of information systems and nonpublic personal information; providing additional acts that constitute a ground for specified disciplinary actions against loan originators and mortgage brokers; revising the list of general law provisions that are waived upon approval of a Financial Technology Sandbox application; requiring money services businesses to develop, implement, and maintain comprehensive written information security programs for the protection of information systems and nonpublic personal information, etc."
+      "abstract": "Office of Financial Regulation;  Requiring loan originators, mortgage brokers, and mortgage lenders to develop, implement, and maintain comprehensive written information security programs for the protection of information systems and nonpublic personal information; providing requirements for such programs; providing additional acts that constitute a ground for specified disciplinary actions against loan originators and mortgage brokers; requiring money services businesses to develop, implement, and maintain comprehensive written information security programs for the protection of information systems and nonpublic personal information; requiring financial institutions to take measures to protect and secure certain data that contain personal information; providing requirements for notices of security breaches to the office, the Department of Legal Affairs, certain individuals, and certain credit reporting agencies, etc."
     }
   ],
   "other_titles": [],
@@ -74,9 +74,27 @@
       "_processing": {
         "log_file_created": "2026-01-15T12:29:12Z"
       }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-01-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-17T12:25:13Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Banking and Insurance",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Banking and Insurance\"}"
+    },
     {
       "name": "Martin",
       "classification": "primary",
@@ -102,6 +120,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 540 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/540/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/540/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -110,6 +143,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/540/Analyses/2026s00540.pre.bi.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Banking and Insurance (Post-Meeting) (1/15/2026 10:55 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/540/Analyses/2026s00540.bi.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -192,6 +236,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-15T12:29:12Z"
+    "logs_latest_update": "2026-01-17T12:25:13Z"
   }
 }

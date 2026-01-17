@@ -86,6 +86,38 @@
       "_processing": {
         "log_file_created": "2026-01-15T12:29:13Z"
       }
+    },
+    {
+      "description": "Favorable by Health Professions & Programs Subcommittee",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-17T12:25:13Z"
+      }
+    },
+    {
+      "description": "Reported out of Health Professions & Programs Subcommittee",
+      "date": "2026-01-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-17T12:25:13Z"
+      }
+    },
+    {
+      "description": "Now in Health & Human Services Committee",
+      "date": "2026-01-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-17T12:25:13Z"
+      }
     }
   ],
   "sponsorships": [
@@ -114,10 +146,10 @@
   ],
   "documents": [
     {
-      "note": "Bill Analysis -- Health Professions & Programs Subcommittee (Post-Meeting) (1/12/2026 5:22 PM)",
+      "note": "Bill Analysis -- Health Professions & Programs Subcommittee (Post-Meeting) (1/15/2026 10:54 AM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/301/Analyses/h0301.HPP.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/301/Analyses/h0301a.HPP.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -149,6 +181,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-15T12:29:13Z"
+    "logs_latest_update": "2026-01-17T12:25:13Z"
   }
 }

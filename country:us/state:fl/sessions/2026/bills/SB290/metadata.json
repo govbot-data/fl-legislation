@@ -11,6 +11,7 @@
     "business organizations",
     "crimes",
     "industry",
+    "motor vehicles",
     "municipalities",
     "public business",
     "public health",
@@ -23,7 +24,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Department of Agriculture and Consumer Services;  Prohibiting counties and municipalities, respectively, from enacting or enforcing any law that restricts or prohibits the use of gasoline-powered farm equipment or gasoline-powered landscape equipment or that distinguishes such equipment from any other equipment under certain circumstances; requiring the Acquisition and Restoration Council to determine whether certain surplused lands are suitable for bona fide agricultural purposes; establishing the Food Animal Veterinary Medicine Loan Repayment Program; revising the Florida Forest Service powers, authority, and duties; authorizing the Forest Service to manage the Welaka Training Center; establishing the Farmers Feeding Florida Program for specified purposes; limiting the number of incorporated state fair associations per county; prohibiting the possession, manufacture, sale, importation, distribution, or use of a signal jamming device, etc."
+      "abstract": "Department of Agriculture and Consumer Services;  Prohibiting counties from enacting or enforcing any law that restricts or prohibits the use of gasoline-powered farm equipment or gasoline-powered landscape equipment or that distinguishes such equipment from any other equipment under certain circumstances; prohibiting an application for a development on an ecologically significant parcel in a low-density municipality from being administratively approved without an attestation provided by the developer; establishing the Florida Food Animal Veterinary Medicine Loan Repayment Program; revising the Florida Forest Service\u2019s powers, authority, and duties, etc."
     }
   ],
   "other_titles": [],
@@ -134,9 +135,27 @@
       "_processing": {
         "log_file_created": "2026-01-15T12:29:13Z"
       }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-01-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-17T12:25:13Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Fiscal Policy",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Fiscal Policy\"}"
+    },
     {
       "name": "Agriculture",
       "classification": "primary",
@@ -185,6 +204,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 290 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/290/BillText/c2/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/290/BillText/c2/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -215,6 +249,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/290/Analyses/2026s00290.pre.fp.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Fiscal Policy (Post-Meeting) (1/15/2026 3:44 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/290/Analyses/2026s00290.fp.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -282,6 +327,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-15T12:29:13Z"
+    "logs_latest_update": "2026-01-17T12:25:13Z"
   }
 }

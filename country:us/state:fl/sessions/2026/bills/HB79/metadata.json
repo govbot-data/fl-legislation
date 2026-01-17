@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Water Safety Requirements for the Rental of Residential Property;  Requires that certain dwelling units, premises, & residential property be equipped with specified pool safety requirements; provides criminal penalty."
+      "abstract": "Water Safety Requirements for the Rental of Residential Property;  Requires vacation rental licensee to equip certain rental units with specified water safety features; provides for civil liability; provides exception."
     }
   ],
   "other_titles": [],
@@ -120,9 +120,53 @@
       "_processing": {
         "log_file_created": "2026-01-15T12:29:12Z"
       }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-01-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-17T12:25:13Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-01-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-17T12:25:13Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 1)",
+      "date": "2026-01-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-17T12:25:13Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Civil Justice & Claims Subcommittee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Civil Justice & Claims Subcommittee\"}"
+    },
     {
       "name": "Maggard",
       "classification": "primary",
@@ -152,14 +196,25 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 79 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/79/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
     {
-      "note": "Bill Analysis -- Civil Justice & Claims Subcommittee (Post-Meeting) (1/12/2026 5:07 PM)",
+      "note": "Bill Analysis -- Civil Justice & Claims Subcommittee (Post-Meeting) (1/15/2026 9:34 AM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/79/Analyses/h0079.CIV.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/79/Analyses/h0079a.CIV.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -181,19 +236,11 @@
   "citations": [
     {
       "publication": "Florida Statues",
-      "citation": "83.51",
+      "citation": "509.211",
       "citation_type": "proposed",
       "effective": null,
       "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/83.51"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "515.27",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/515.27"
+      "url": "https://flsenate.gov/laws/statutes/2025/509.211"
     }
   ],
   "sources": [
@@ -210,6 +257,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-15T12:29:12Z"
+    "logs_latest_update": "2026-01-17T12:25:13Z"
   }
 }

@@ -7,12 +7,13 @@
     "bill"
   ],
   "subject": [
-    "public business"
+    "public business",
+    "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Pub. Meetings/Attorney Meetings to Discuss Private Property Rights Claims;  Provides that specified entities may meet in private with their attorneys to discuss certain claims concerning private property rights; specifies what may be discussed during such closed meetings; requires that such meetings be transcribed; provides that such transcripts become public records at specified times."
+      "abstract": "Pub. Meetings/Attorney Meetings to Discuss Private Property Rights Claims;  Provides that specified entities may meet in private with their attorneys to discuss certain claims concerning private property rights; specifies what may be discussed during such closed meetings; requires that such meetings be transcribed; provides that such transcripts become public records at specified times; provides for future review; provides public necessity statement."
     }
   ],
   "other_titles": [],
@@ -110,9 +111,63 @@
       "_processing": {
         "log_file_created": "2026-01-15T12:29:13Z"
       }
+    },
+    {
+      "description": "Reported out of Civil Justice & Claims Subcommittee",
+      "date": "2026-01-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-17T12:25:13Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-01-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-17T12:25:13Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-01-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-17T12:25:13Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 1)",
+      "date": "2026-01-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-17T12:25:13Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Civil Justice & Claims Subcommittee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Civil Justice & Claims Subcommittee\"}"
+    },
     {
       "name": "Duggan",
       "classification": "primary",
@@ -142,14 +197,25 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 655 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/655/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
     {
-      "note": "Bill Analysis -- Civil Justice & Claims Subcommittee (Post-Meeting) (1/12/2026 5:38 PM)",
+      "note": "Bill Analysis -- Civil Justice & Claims Subcommittee (Post-Meeting) (1/15/2026 12:10 PM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/655/Analyses/h0655.CIV.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/655/Analyses/h0655a.CIV.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -168,16 +234,7 @@
       "classification": ""
     }
   ],
-  "citations": [
-    {
-      "publication": "Florida Statues",
-      "citation": "286.011",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/286.011"
-    }
-  ],
+  "citations": [],
   "sources": [
     {
       "url": "https://flsenate.gov/Session/Bill/2026/655/ByCategory",
@@ -192,6 +249,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-15T12:29:13Z"
+    "logs_latest_update": "2026-01-17T12:25:13Z"
   }
 }

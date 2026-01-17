@@ -13,12 +13,13 @@
     "electors and elections",
     "industry",
     "labor",
+    "motor vehicles",
     "municipalities",
     "public business",
     "public lands and property",
+    "public transportation",
     "real and personal property",
     "relations",
-    "social welfare",
     "state organization",
     "subject index",
     "vessels"
@@ -77,6 +78,28 @@
       "_processing": {
         "log_file_created": "2026-01-15T12:29:13Z"
       }
+    },
+    {
+      "description": "Favorable by- Rules; YEAS 23 NAYS 0",
+      "date": "2026-01-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-17T12:25:13Z"
+      }
+    },
+    {
+      "description": "Placed on Calendar, on 2nd reading",
+      "date": "2026-01-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-17T12:25:13Z"
+      }
     }
   ],
   "sponsorships": [
@@ -113,6 +136,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/104/Analyses/2026s00104.pre.rc.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Rules (Post-Meeting) (1/15/2026 9:53 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/104/Analyses/2026s00104.rc.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -680,6 +714,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-15T12:29:13Z"
+    "logs_latest_update": "2026-01-17T12:25:13Z"
   }
 }

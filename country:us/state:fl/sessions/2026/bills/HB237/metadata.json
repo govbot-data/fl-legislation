@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Use of Professional Nursing Titles;  Authorizes persons who hold specified licenses to practice professional nursing or to perform nursing services to use certain titles & abbreviations; requires doctoral degree holders to specify their profession when using specified title."
+      "abstract": "Use of Professional Nursing Titles;  Authorizes persons who hold specified degrees to use certain titles & abbreviations; requires certain doctoral degree holders to specify their profession when using specified title."
     }
   ],
   "other_titles": [],
@@ -86,9 +86,75 @@
       "_processing": {
         "log_file_created": "2026-01-15T12:29:13Z"
       }
+    },
+    {
+      "description": "Favorable with CS by Health Professions & Programs Subcommittee",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-17T12:25:13Z"
+      }
+    },
+    {
+      "description": "Reported out of Health Professions & Programs Subcommittee",
+      "date": "2026-01-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-17T12:25:13Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-01-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-17T12:25:13Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-01-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-17T12:25:13Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 1)",
+      "date": "2026-01-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-17T12:25:13Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Health Professions & Programs Subcommittee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Health Professions & Programs Subcommittee\"}"
+    },
     {
       "name": "Salzman",
       "classification": "primary",
@@ -110,14 +176,25 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 237 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/237/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
     {
-      "note": "Bill Analysis -- Health Professions & Programs Subcommittee (Post-Meeting) (1/12/2026 4:37 PM)",
+      "note": "Bill Analysis -- Health Professions & Programs Subcommittee (Post-Meeting) (1/15/2026 11:05 AM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/237/Analyses/h0237.HPP.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/237/Analyses/h0237a.HPP.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -160,6 +237,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-15T12:29:13Z"
+    "logs_latest_update": "2026-01-17T12:25:13Z"
   }
 }

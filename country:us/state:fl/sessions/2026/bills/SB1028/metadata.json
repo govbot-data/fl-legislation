@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Citizens Property Insurance Corporation;  Requiring the corporation to charge a specified premium on certain risks; requiring the corporation to establish a personal lines clearinghouse for specified purposes; authorizing approved surplus lines clearinghouse insurers to participate in the commercial lines clearinghouse; specifying the circumstances under which policyholders of the corporation are not eligible for commercial lines residential coverage with the corporation, etc."
+      "abstract": "Citizens Property Insurance Corporation;  Prohibiting the corporation from issuing or renewing coverage for commercial residential and commercial nonresidential risks under certain circumstances; requiring the corporation to establish a personal lines clearinghouse for specified purposes; authorizing approved surplus lines clearinghouse insurers to participate in the commercial lines clearinghouse; specifying the circumstances under which policyholders of the corporation are not eligible for new commercial lines residential coverage from the corporation, etc."
     }
   ],
   "other_titles": [],
@@ -73,9 +73,27 @@
       "_processing": {
         "log_file_created": "2026-01-15T12:29:13Z"
       }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-01-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-17T12:25:13Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Banking and Insurance",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Banking and Insurance\"}"
+    },
     {
       "name": "Gruters",
       "classification": "primary",
@@ -101,14 +119,40 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 1028 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1028/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1028/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
     {
-      "note": "Bill Analysis -- Banking and Insurance (Pre-Meeting) (1/12/2026 3:56 PM)",
+      "note": "Bill Analysis -- Banking and Insurance (Pre-Meeting) (1/15/2026 4:09 PM)",
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/1028/Analyses/2026s01028.pre.bi.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Banking and Insurance (Post-Meeting) (1/15/2026 4:11 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1028/Analyses/2026s01028.bi.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -163,6 +207,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-15T12:29:13Z"
+    "logs_latest_update": "2026-01-17T12:25:13Z"
   }
 }

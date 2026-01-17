@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "On Committee agenda-- Transportation, 01/20/26, 9:30 am, 37 Senate Building",
+    "date": "2026-01-15",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB 654"
+}
