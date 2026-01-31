@@ -53,15 +53,71 @@
       "_processing": {
         "log_file_created": "2026-01-15T12:29:13Z"
       }
+    },
+    {
+      "description": "On Committee agenda-- Finance and Tax, 01/28/26, 3:45 pm, 301 Senate Building",
+      "date": "2026-01-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "CS by Finance and Tax; YEAS 8 NAYS 0",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-01-30",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "Now in Appropriations",
+      "date": "2026-01-30",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Finance and Tax",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Finance and Tax\"}"
+    },
     {
       "name": "Arrington",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Arrington\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gaetz",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Gaetz\"}",
       "organization_id": null
     }
   ],
@@ -81,9 +137,62 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 110 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/110/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/110/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Finance and Tax (Pre-Meeting) (1/27/2026 3:37 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/110/Analyses/2026s00110.pre.ft.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Finance and Tax (Post-Meeting) (1/30/2026 12:16 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/110/Analyses/2026s00110.ft.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "829438 - Amendment to S 110 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/110/Amendment/829438/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/110/Amendment/829438/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [
     {
       "publication": "Florida Statues",
@@ -108,6 +217,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-15T12:29:13Z"
+    "logs_latest_update": "2026-01-31T12:29:57Z"
   }
 }

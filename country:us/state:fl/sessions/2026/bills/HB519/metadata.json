@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Golf Cart Crossings ;  Authorizes operation of golf cart for purpose of crossing certain highways under certain conditions; requires certain counties & municipalities to post certain signs; requires certain permits; provides penalties."
+      "abstract": "Golf Cart Crossings;  Authorizes operation of golf cart for purpose of crossing certain streets & highways under certain conditions."
     }
   ],
   "other_titles": [],
@@ -88,9 +88,119 @@
       "_processing": {
         "log_file_created": "2026-01-15T12:29:13Z"
       }
+    },
+    {
+      "description": "Added to Economic Infrastructure Subcommittee agenda",
+      "date": "2026-01-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "Favorable with CS by Economic Infrastructure Subcommittee",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "Reported out of Economic Infrastructure Subcommittee",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "Referred to Intergovernmental Affairs Subcommittee",
+      "date": "2026-01-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "Referred to Commerce Committee",
+      "date": "2026-01-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "Now in Intergovernmental Affairs Subcommittee",
+      "date": "2026-01-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 1)",
+      "date": "2026-01-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Economic Infrastructure Subcommittee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Economic Infrastructure Subcommittee\"}"
+    },
     {
       "name": "Yeager",
       "classification": "primary",
@@ -112,10 +222,52 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 519 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/519/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Economic Infrastructure Subcommittee (Post-Meeting) (1/29/2026 5:02 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/519/Analyses/h0519a.EIS.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "759743 - Strike All Amendment to H 519 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/519/Amendment/759743/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [
+    {
+      "publication": "Florida Statues",
+      "citation": "316.1995",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/316.1995"
+    },
     {
       "publication": "Florida Statues",
       "citation": "316.212",
@@ -123,6 +275,30 @@
       "effective": null,
       "expires": null,
       "url": "https://flsenate.gov/laws/statutes/2025/316.212"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "316.2125",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/316.2125"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "316.2126",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/316.2126"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "316.2128",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/316.2128"
     }
   ],
   "sources": [
@@ -139,6 +315,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-15T12:29:13Z"
+    "logs_latest_update": "2026-01-31T12:29:57Z"
   }
 }

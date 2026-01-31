@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Minimum Wage Requirements;  Provides that employer is not subject to state minimum wage requirements for specified employees; prohibits certain work-based learning opportunities from lasting longer than specified amount of time; authorizes employees to voluntarily opt out of state minimum wage requirements by signing waiver; prohibits employer from coercing employee into opting out of state minimum wage; provides requirements in order for waiver to be effective for minor employee; requires employers to pay employee at or above federal minimum wage; provides that employee's waiver to opt out of state minimum wage is only valid for specified timeframe."
+      "abstract": "Minimum Wage Requirements;  Exempts employer from state minimum wage requirements for specified employees; prohibits certain work-based learning opportunities from lasting longer than specified timeframe; authorizes employees to voluntarily opt out of state minimum wage requirements by signing waiver; prohibits employer from coercing employee into opting out of state minimum wage; provides requirements for waiver to be effective for minor employee; requires employers to pay employee at or above federal minimum wage; requires employee to be paid at or above state minimum wage at expiration of work-based learning opportunity."
     }
   ],
   "other_titles": [],
@@ -88,9 +88,119 @@
       "_processing": {
         "log_file_created": "2026-01-15T12:29:13Z"
       }
+    },
+    {
+      "description": "Added to Industries & Professional Activities Subcommittee agenda",
+      "date": "2026-01-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "Favorable with CS by Industries & Professional Activities Subcommittee",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "Reported out of Industries & Professional Activities Subcommittee",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "Referred to Careers & Workforce Subcommittee",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "Referred to Commerce Committee",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "Now in Careers & Workforce Subcommittee",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 1)",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Industries & Professional Activities Subcommittee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Industries & Professional Activities Subcommittee\"}"
+    },
     {
       "name": "Chamberlin",
       "classification": "primary",
@@ -112,9 +222,43 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 221 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/221/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Industries & Professional Activities Subcommittee (Post-Meeting) (1/28/2026 6:19 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/221/Analyses/h0221a.IPA.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "329405 - Amendment to H 221 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/221/Amendment/329405/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [
     {
       "publication": "Florida Statues",
@@ -139,6 +283,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-15T12:29:13Z"
+    "logs_latest_update": "2026-01-31T12:29:56Z"
   }
 }

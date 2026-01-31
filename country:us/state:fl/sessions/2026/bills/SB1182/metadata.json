@@ -53,6 +53,16 @@
       "_processing": {
         "log_file_created": "2026-01-15T12:29:12Z"
       }
+    },
+    {
+      "description": "On Committee agenda-- Military and Veterans Affairs, Space, and Domestic Security, 02/02/26, 3:30 pm, 301 Senate Building",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
     }
   ],
   "sponsorships": [
@@ -83,7 +93,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Military and Veterans Affairs, Space, and Domestic Security (Pre-Meeting) (1/30/2026 2:50 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1182/Analyses/2026s01182.pre.ms.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -99,6 +121,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-15T12:29:12Z"
+    "logs_latest_update": "2026-01-31T12:29:57Z"
   }
 }

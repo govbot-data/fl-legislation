@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Virtual Currency Kiosks;  Requires owner or operator of virtual currency kiosk to ensure that specified disclosure is displayed before customer initiates virtual currency kiosk transaction; prohibits owner or operator of virtual currency kiosk from permitting new & existing customers from transacting more than specified amount per calendar day; requires owner or operator of virtual currency kiosk to provide customer with specified electronic receipt upon completion of virtual currency transaction; requires owner or operator of virtual currency kiosk to issue full refund under certain circumstsances."
+      "abstract": "Virtual Currency Kiosks;  Revises definition of term \"money transmitter\" to include owners & operators of virtual currency kiosks; exempts owners & operators of virtual currency kiosks from license application fees & license renewal fees; requires owner or operator of virtual currency kiosk to ensure that specified disclosure is displayed before customer initiates virtual currency kiosk transaction; prohibits owner or operator of virtual currency kiosk from permitting new & existing customers to transact more than specified amount per calendar day; requires owner or operator of virtual currency kiosk to provide customer with specified electronic & paper receipt upon completion of virtual currency kiosk transaction; requires owner or operator of virtual currency kiosk to issue full refund of transaction fees under certain circumstances; authorizes FSC to adopt rules."
     }
   ],
   "other_titles": [],
@@ -118,9 +118,85 @@
       "_processing": {
         "log_file_created": "2026-01-15T12:29:13Z"
       }
+    },
+    {
+      "description": "Added to Commerce Committee agenda",
+      "date": "2026-01-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "Favorable with CS by Commerce Committee",
+      "date": "2026-01-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "Reported out of Commerce Committee",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 1)",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Commerce Committee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Commerce Committee\"}"
+    },
     {
       "name": "Owen",
       "classification": "primary",
@@ -146,6 +222,14 @@
       "organization_id": null
     },
     {
+      "name": "Miller",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Miller\"}",
+      "organization_id": null
+    },
+    {
       "name": "Tendrich",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -166,6 +250,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 505 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/505/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -179,9 +274,59 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Commerce Committee (Post-Meeting) (1/29/2026 3:57 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/505/Analyses/h0505c.COM.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "476503 - Strike All Amendment to H 505 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/505/Amendment/476503/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "454065 - Amendment to Amendment (476503) to H 505 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/505/Amendment/454065/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "citations": [],
+  "citations": [
+    {
+      "publication": "Florida Statues",
+      "citation": "560.103",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/560.103"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "560.143",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/560.143"
+    }
+  ],
   "sources": [
     {
       "url": "https://flsenate.gov/Session/Bill/2026/505/ByCategory",
@@ -196,6 +341,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-15T12:29:13Z"
+    "logs_latest_update": "2026-01-31T12:29:56Z"
   }
 }

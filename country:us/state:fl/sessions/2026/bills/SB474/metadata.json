@@ -7,12 +7,13 @@
     "bill"
   ],
   "subject": [
+    "military affairs and related matters",
     "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Military Affairs;  Revising the authorization to be granted a leave of absence for military service to include the Coast Guard; revising the authorization to be granted a leave of absence for reserve or guard training to include members of the Florida State Guard; specifying that an authorization for a leave of absence for all employees of the state and the counties, municipalities, and political subdivisions of the state to perform active military service for a specified timeframe is based on a single order; deleting positions from the Department of Military Affairs from compulsory participation in the Senior Management Service Class, etc."
+      "abstract": "Military Affairs;  Revising the authorization to be granted a leave of absence for military service to include the Coast Guard; revising the authorization to be granted a leave of absence for reserve or guard training to include members of the Florida State Guard; specifying that an authorization for a leave of absence for all employees of the state and the counties, municipalities, and political subdivisions of the state to perform active military service for a specified timeframe is based on a single order; deleting a requirement that certain positions from the Department of Military Affairs participate in the Senior Management Service Class, etc."
     }
   ],
   "other_titles": [],
@@ -63,9 +64,57 @@
       "_processing": {
         "log_file_created": "2026-01-22T12:31:40Z"
       }
+    },
+    {
+      "description": "CS by Governmental Oversight and Accountability; YEAS 9 NAYS 0",
+      "date": "2026-01-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-01-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "Now in Appropriations",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "CS by Governmental Oversight and Accountability read 1st time",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Governmental Oversight and Accountability",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Governmental Oversight and Accountability\"}"
+    },
     {
       "name": "Wright",
       "classification": "primary",
@@ -91,9 +140,92 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 474 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/474/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/474/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Governmental Oversight and Accountability (Pre-Meeting) (1/23/2026 2:23 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/474/Analyses/2026s00474.pre.go.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Governmental Oversight and Accountability (Post-Meeting) (1/27/2026 11:16 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/474/Analyses/2026s00474.go.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "797214 - Amendment to S 474 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/474/Amendment/797214/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/474/Amendment/797214/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "368028 - Amendment to S 474 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/474/Amendment/368028/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/474/Amendment/368028/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "485754 - Amendment to S 474 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/474/Amendment/485754/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/474/Amendment/485754/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [
     {
       "publication": "Florida Statues",
@@ -182,6 +314,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-22T12:31:40Z"
+    "logs_latest_update": "2026-01-31T12:29:56Z"
   }
 }

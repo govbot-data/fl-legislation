@@ -7,8 +7,8 @@
     "joint resolution"
   ],
   "subject": [
-    "concurrent)",
-    "constitutional amendments"
+    "constitutional amendments",
+    "subject index"
   ],
   "abstracts": [
     {
@@ -53,6 +53,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-01-15T12:29:12Z"
+      }
+    },
+    {
+      "description": "On Committee agenda-- Education Pre-K - 12, 02/03/26, 3:30 pm, 412 Knott Building",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
       }
     }
   ],
@@ -100,6 +110,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-15T12:29:12Z"
+    "logs_latest_update": "2026-01-31T12:29:56Z"
   }
 }

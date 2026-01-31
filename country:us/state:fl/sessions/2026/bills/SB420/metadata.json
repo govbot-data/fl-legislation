@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 420",
-  "title": "Patriotic Displays in Classrooms",
+  "title": "Patriotic Displays at Public Schools",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Patriotic Displays in Classrooms;  Requiring each district school board to adopt rules to require the display of portraits of George Washington and Abraham Lincoln in certain classrooms, etc."
+      "abstract": "Patriotic Displays at Public Schools;  Requiring, subject to legislative appropriation, each district school board to adopt rules to require the display of portraits of George Washington and Abraham Lincoln at each public school in the district; requiring the Department of Education to select the portraits and make them available to each school district, etc."
     }
   ],
   "other_titles": [],
@@ -85,9 +85,57 @@
       "_processing": {
         "log_file_created": "2026-01-15T12:29:13Z"
       }
+    },
+    {
+      "description": "On Committee agenda-- Appropriations Committee on Pre-K - 12 Education, 01/28/26, 1:00 pm, 37 Senate Building",
+      "date": "2026-01-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "CS by Appropriations Committee on Pre-K - 12 Education; YEAS 9 NAYS 1",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-01-30",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "Now in Rules",
+      "date": "2026-01-30",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Appropriations Committee on Pre-K - 12 Education",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Appropriations Committee on Pre-K - 12 Education\"}"
+    },
     {
       "name": "Burgess",
       "classification": "primary",
@@ -103,6 +151,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"Yarborough\"}",
       "organization_id": null
+    },
+    {
+      "name": "Gaetz",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Gaetz\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -116,6 +172,21 @@
         },
         {
           "url": "https://flsenate.gov/Session/Bill/2026/420/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S 420 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/420/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/420/BillText/c1/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -140,6 +211,43 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/420/Analyses/2026s00420.ed.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Appropriations Committee on Pre-K - 12 Education (Pre-Meeting) (1/27/2026 3:14 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/420/Analyses/2026s00420.pre.aed.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Appropriations Committee on Pre-K - 12 Education (Post-Meeting) (1/30/2026 3:59 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/420/Analyses/2026s00420.aed.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "928064 - Amendment (Delete All) to S 420 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/420/Amendment/928064/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/420/Amendment/928064/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -171,6 +279,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-15T12:29:13Z"
+    "logs_latest_update": "2026-01-31T12:29:56Z"
   }
 }

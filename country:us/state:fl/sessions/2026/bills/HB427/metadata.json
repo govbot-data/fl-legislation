@@ -7,7 +7,7 @@
     "bill"
   ],
   "subject": [
-    "subject index"
+    "insurance"
   ],
   "abstracts": [
     {
@@ -98,6 +98,38 @@
       "_processing": {
         "log_file_created": "2026-01-19T12:32:00Z"
       }
+    },
+    {
+      "description": "Favorable by Insurance & Banking Subcommittee",
+      "date": "2026-01-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "Reported out of Insurance & Banking Subcommittee",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "Now in Civil Justice & Claims Subcommittee",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
     }
   ],
   "sponsorships": [
@@ -126,10 +158,10 @@
   ],
   "documents": [
     {
-      "note": "Bill Analysis -- Insurance & Banking Subcommittee (Post-Meeting) (1/16/2026 6:28 PM)",
+      "note": "Bill Analysis -- Insurance & Banking Subcommittee (Post-Meeting) (1/22/2026 8:41 AM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/427/Analyses/h0427.IBS.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/427/Analyses/h0427a.IBS.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -177,6 +209,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-19T12:32:00Z"
+    "logs_latest_update": "2026-01-31T12:29:56Z"
   }
 }

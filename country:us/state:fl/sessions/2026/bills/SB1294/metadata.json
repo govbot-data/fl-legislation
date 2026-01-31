@@ -7,12 +7,12 @@
     "bill"
   ],
   "subject": [
-    "public health"
+    "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Biosolids Management;  Prohibiting the land application of Class AA biosolids fertilizer and compost products from exceeding the agronomic rate; authorizing bulk Class AA biosolids or biosolids products to be distributed or marketed as fertilizer and land applied if specified requirements are met; authorizing bulk Class AA biosolids compost products to be distributed or marketed as soil amendments and land applied if specified requirements are met; requiring the University of Florida\u2019s Institute of Food and Agricultural Sciences to publish and make publicly available recommended agronomic rates for the reuse of bulk Class AA biosolids fertilizer and compost products, etc."
+      "abstract": "Biosolids Management;  Prohibiting the land application of bulk Class AA biosolids fertilizer and compost products from exceeding the appropriate agronomic rate; requiring the University of Florida\u2019s Institute of Food and Agricultural Sciences to publish and make publicly available recommended agronomic rates for the reuse of bulk Class AA biosolids fertilizer and compost products, based on certain criteria; authorizing bulk Class AA biosolids compost products to be distributed or marketed as soil amendments and land applied if specified requirements are met; requiring that certain bulk Class AA biosolids compost and fertilizer products be land applied only at land application sites approved by the Department of Environmental Protection, etc."
     }
   ],
   "other_titles": [],
@@ -53,9 +53,67 @@
       "_processing": {
         "log_file_created": "2026-01-15T12:29:13Z"
       }
+    },
+    {
+      "description": "On Committee agenda-- Environment and Natural Resources, 01/27/26, 3:30 pm, 110 Senate Building",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "CS by Environment and Natural Resources; YEAS 8 NAYS 0",
+      "date": "2026-01-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "Now in Appropriations Committee on Agriculture, Environment, and General Government",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "CS by Environment and Natural Resources read 1st time",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Environment and Natural Resources",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Environment and Natural Resources\"}"
+    },
     {
       "name": "Bradley",
       "classification": "primary",
@@ -81,9 +139,77 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 1294 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1294/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1294/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Environment and Natural Resources (Pre-Meeting) (1/26/2026 3:36 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1294/Analyses/2026s01294.pre.en.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Environment and Natural Resources (Post-Meeting) (1/28/2026 9:59 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1294/Analyses/2026s01294.en.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "945106 - Amendment to S 1294 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1294/Amendment/945106/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1294/Amendment/945106/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "145986 - Amendment (Delete All) to S 1294 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1294/Amendment/145986/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1294/Amendment/145986/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [
     {
       "publication": "Florida Statues",
@@ -108,6 +234,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-15T12:29:13Z"
+    "logs_latest_update": "2026-01-31T12:29:56Z"
   }
 }

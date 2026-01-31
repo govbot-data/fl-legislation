@@ -8,13 +8,15 @@
   ],
   "subject": [
     "evidence",
+    "local bills",
+    "planning and development",
     "relations",
     "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Legal Notices;  Revising the definition of the term \u201cgovernmental agency\u201d; requiring governmental agencies and special governmental agencies to publish certain legal notices continuously for a specified timeframe when the notices are for a specified purpose and provided under a certain circumstance; authorizing certain special governmental agencies to use a publicly accessible website to publish certain advertisements and legal notices under specified conditions; requiring that a public bid advertisement made by a special governmental agency on a publicly accessible website include a method to accept electronic bids, etc."
+      "abstract": "Legal Notices;  Revising the definition of the term \u201cgovernmental agency\u201d; requiring that certain legal notices be continuously published for a specified timeframe when the notices are for a specified purpose and provided under a certain circumstance; authorizing certain counties or specified municipalities, school boards, clerks of the circuit court, and tax collectors to use a publicly accessible website to publish certain advertisements and legal notices under specified conditions, etc."
     }
   ],
   "other_titles": [],
@@ -105,9 +107,57 @@
       "_processing": {
         "log_file_created": "2026-01-15T12:29:13Z"
       }
+    },
+    {
+      "description": "On Committee agenda-- Community Affairs, 01/27/26, 3:30 pm, 37 Senate Building",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "CS/CS by Community Affairs; YEAS 8 NAYS 0",
+      "date": "2026-01-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "Now in Rules",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Community Affairs",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Community Affairs\"}"
+    },
     {
       "name": "Judiciary",
       "classification": "primary",
@@ -156,6 +206,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 380 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/380/BillText/c2/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/380/BillText/c2/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -175,6 +240,28 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/380/Analyses/2026s00380.ju.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Community Affairs (Pre-Meeting) (1/29/2026 1:00 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/380/Analyses/2026s00380.pre.ca.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Community Affairs (Post-Meeting) (1/29/2026 1:04 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/380/Analyses/2026s00380.ca.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -317,6 +404,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-15T12:29:13Z"
+    "logs_latest_update": "2026-01-31T12:29:56Z"
   }
 }

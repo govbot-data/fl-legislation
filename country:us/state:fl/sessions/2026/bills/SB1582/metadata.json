@@ -1,18 +1,18 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 1582",
-  "title": "Pawn Data Statewide System",
+  "title": "Statewide Data Sharing of Secondhand Dealer and Pawnbroker Transactions",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
   ],
   "subject": [
-    "concurrent)"
+    "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Pawn Data Statewide System;  Requiring the Department of Law Enforcement to establish, operate, and maintain a statewide system for the collection of pawn data; providing procurement authority to the department to contract with a single vendor to provide pawn data collection as a service; requiring mandatory participation in the statewide system by specified dealers and recyclers; providing that all pawn data collected is the exclusive property of the state, etc."
+      "abstract": "Statewide Data Sharing of Secondhand Dealer and Pawnbroker Transactions;  Revising the recordkeeping, transaction, and reporting requirements of certain secondhand dealers and pawnbrokers to be shared with the Department of Law Enforcement for the purpose of statewide data sharing of such records, transactions, and reports, etc."
     }
   ],
   "other_titles": [],
@@ -41,9 +41,79 @@
       "_processing": {
         "log_file_created": "2026-01-19T12:32:00Z"
       }
+    },
+    {
+      "description": "Introduced",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "On Committee agenda-- Commerce and Tourism, 01/28/26, 10:30 am, 110 Senate Building",
+      "date": "2026-01-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "CS by Commerce and Tourism; YEAS 9 NAYS 0",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "Now in Appropriations Committee on Criminal and Civil Justice",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "CS by Commerce and Tourism read 1st time",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Commerce and Tourism",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Commerce and Tourism\"}"
+    },
     {
       "name": "Yarborough",
       "classification": "primary",
@@ -69,10 +139,96 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 1582 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1582/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1582/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
-  "citations": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Commerce and Tourism (Pre-Meeting) (1/27/2026 10:28 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1582/Analyses/2026s01582.pre.cm.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Commerce and Tourism (Post-Meeting) (1/28/2026 3:57 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1582/Analyses/2026s01582.cm.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "173164 - Amendment (Delete All) to S 1582 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1582/Amendment/173164/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1582/Amendment/173164/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [
+    {
+      "publication": "Florida Statues",
+      "citation": "538.04",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/538.04"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "538.19",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/538.19"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "538.32",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/538.32"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "539.001",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/539.001"
+    }
+  ],
   "sources": [
     {
       "url": "https://flsenate.gov/Session/Bill/2026/1582/ByCategory",
@@ -87,6 +243,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-19T12:32:00Z"
+    "logs_latest_update": "2026-01-31T12:29:56Z"
   }
 }

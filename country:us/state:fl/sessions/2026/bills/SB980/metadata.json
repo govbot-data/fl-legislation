@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Nicotine Dispensing Devices;  Citing this act as the \u201cFlorida Age-Gate Act\u201d; defining the term \u201cnon-FDA-authorized nicotine dispensing device\u201d; requiring an applicant for a retail nicotine products dealer permit to consent to inspections and searches of the licensed premises by the Department of Law Enforcement for specified purposes; providing civil and criminal penalties for retail tobacco products dealers that advertise, promote, or display for sale non-FDA-authorized nicotine dispensing devices; requiring the department and the division to use the administrative fines assessed for specified purposes, etc."
+      "abstract": "Nicotine Dispensing Devices;  Citing this act as the \u201cFlorida Age-Gate Act\u201d; defining the term \u201cnon-FDA-authorized nicotine dispensing device\u201d; requiring an applicant for a retail nicotine products dealer permit to consent to inspections and searches of the licensed premises by the Department of Law Enforcement for specified purposes; providing civil and criminal penalties for retail tobacco products dealers that sell or advertise, promote, or display for sale non-FDA-authorized nicotine dispensing devices; prohibiting certain dealers that sell non-FDA-authorized nicotine dispensing devices from advertising, promoting, or displaying such devices if such dealers do not prohibit persons younger than 21 years of age on the licensed premises, etc."
     }
   ],
   "other_titles": [],
@@ -53,9 +53,67 @@
       "_processing": {
         "log_file_created": "2026-01-15T12:29:13Z"
       }
+    },
+    {
+      "description": "On Committee agenda-- Regulated Industries, 01/27/26, 1:00 pm, 412 Knott Building",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "CS by Regulated Industries; YEAS 8 NAYS 0",
+      "date": "2026-01-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "Now in Appropriations Committee on Agriculture, Environment, and General Government",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "CS by Regulated Industries read 1st time",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Regulated Industries",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Regulated Industries\"}"
+    },
     {
       "name": "Calatayud",
       "classification": "primary",
@@ -81,9 +139,62 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 980 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/980/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/980/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Regulated Industries (Pre-Meeting) (1/26/2026 1:06 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/980/Analyses/2026s00980.pre.ri.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Regulated Industries (Post-Meeting) (1/29/2026 9:08 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/980/Analyses/2026s00980.ri.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "381784 - Amendment (Delete All) to S 980 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/980/Amendment/381784/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/980/Amendment/381784/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [
     {
       "publication": "Florida Statues",
@@ -148,6 +259,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-15T12:29:13Z"
+    "logs_latest_update": "2026-01-31T12:29:56Z"
   }
 }

@@ -128,6 +128,58 @@
       "_processing": {
         "log_file_created": "2026-01-21T12:32:32Z"
       }
+    },
+    {
+      "description": "Favorable by Education & Employment Committee",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "Reported out of Education & Employment Committee",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "Bill released to House Calendar",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "Added to Second Reading Calendar",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "Bill added to Special Order Calendar (2/4/2026)",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
     }
   ],
   "sponsorships": [
@@ -148,11 +200,59 @@
       "organization_id": null
     },
     {
+      "name": "Bankson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bankson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Michael",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Michael\"}",
+      "organization_id": null
+    },
+    {
       "name": "Nix",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Nix\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Partington",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Partington\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Plasencia",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Plasencia\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rizo",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rizo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Salzman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Salzman\"}",
       "organization_id": null
     }
   ],
@@ -183,10 +283,10 @@
       "classification": ""
     },
     {
-      "note": "Bill Analysis -- Education & Employment Committee (Post-Meeting) (1/20/2026 4:58 PM)",
+      "note": "Bill Analysis -- Education & Employment Committee (Post-Meeting) (1/22/2026 1:12 PM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/583/Analyses/h0583b.EEC.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/583/Analyses/h0583c.EEC.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -209,6 +309,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-21T12:32:32Z"
+    "logs_latest_update": "2026-01-31T12:29:57Z"
   }
 }

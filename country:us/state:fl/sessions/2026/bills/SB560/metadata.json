@@ -8,7 +8,7 @@
   ],
   "subject": [
     "judicial branch",
-    "social welfare"
+    "subject index"
   ],
   "abstracts": [
     {
@@ -83,6 +83,46 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-01-21T12:32:33Z"
+      }
+    },
+    {
+      "description": "Original reference(s) removed: Health Policy",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "Remaining references corrected to Appropriations Committee on Health and Human Services; Rules",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "Now in Appropriations Committee on Health and Human Services",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "CS by Children, Families, and Elder Affairs read 1st time",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
       }
     }
   ],
@@ -239,6 +279,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-21T12:32:33Z"
+    "logs_latest_update": "2026-01-31T12:29:57Z"
   }
 }

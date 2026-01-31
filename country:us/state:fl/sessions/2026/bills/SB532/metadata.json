@@ -7,9 +7,7 @@
     "bill"
   ],
   "subject": [
-    "domestic relations",
     "judicial branch",
-    "real and personal property",
     "subject index"
   ],
   "abstracts": [
@@ -55,6 +53,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-01-15T12:29:13Z"
+      }
+    },
+    {
+      "description": "On Committee agenda-- Judiciary, 01/27/26, 1:00 pm, 110 Senate Building --Temporarily Postponed",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
       }
     }
   ],
@@ -122,6 +130,30 @@
       "primary": false,
       "person_id": "~{\"name\": \"Bracy Davis\"}",
       "organization_id": null
+    },
+    {
+      "name": "Boyd",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Boyd\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Massullo",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Massullo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rouson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rouson\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -142,7 +174,34 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Judiciary (Pre-Meeting) (1/26/2026 12:29 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/532/Analyses/2026s00532.pre.ju.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "491654 - Amendment (Delete All) to S 532 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/532/Amendment/491654/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/532/Amendment/491654/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [
     {
       "publication": "Florida Statues",
@@ -215,6 +274,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-15T12:29:13Z"
+    "logs_latest_update": "2026-01-31T12:29:57Z"
   }
 }

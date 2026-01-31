@@ -7,12 +7,12 @@
     "bill"
   ],
   "subject": [
-    "executive branch"
+    "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "State Lotteries;  Revising the powers and duties of the Department of the Lottery; revising the information required to be provided to the department by persons who submit a bid, a proposal, or an offer to negotiate a contract for major procurement; authorizing the division\u2019s sworn law enforcement officers to purchase and present lottery tickets to a lottery retailer to claim a prize under certain circumstances; prohibiting certain false claims relating to state lottery tickets, etc."
+      "abstract": "State Lotteries;  Revising the powers and duties of the Department of the Lottery; revising the information required to be provided to the department by persons who submit a bid, a proposal, or an offer to negotiate a contract for major procurement; authorizing the Division of Security\u2019s sworn law enforcement officers to purchase and present lottery tickets to a lottery retailer to claim a prize under certain circumstances; prohibiting certain false claims relating to state lottery tickets, etc."
     }
   ],
   "other_titles": [],
@@ -53,15 +53,81 @@
       "_processing": {
         "log_file_created": "2026-01-15T12:29:13Z"
       }
+    },
+    {
+      "description": "On Committee agenda-- Regulated Industries, 01/27/26, 1:00 pm, 412 Knott Building",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "CS by Regulated Industries; YEAS 9 NAYS 0",
+      "date": "2026-01-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "Now in Appropriations Committee on Agriculture, Environment, and General Government",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "CS by Regulated Industries read 1st time",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Regulated Industries",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Regulated Industries\"}"
+    },
     {
       "name": "Simon",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Simon\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Pizzo",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Pizzo\"}",
       "organization_id": null
     }
   ],
@@ -81,9 +147,77 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 530 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/530/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/530/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Regulated Industries (Pre-Meeting) (1/26/2026 1:05 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/530/Analyses/2026s00530.pre.ri.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Regulated Industries (Post-Meeting) (1/29/2026 9:08 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/530/Analyses/2026s00530.ri.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "515854 - Amendment to S 530 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/530/Amendment/515854/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/530/Amendment/515854/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "707718 - Amendment to S 530 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/530/Amendment/707718/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/530/Amendment/707718/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [
     {
       "publication": "Florida Statues",
@@ -156,6 +290,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-15T12:29:13Z"
+    "logs_latest_update": "2026-01-31T12:29:57Z"
   }
 }

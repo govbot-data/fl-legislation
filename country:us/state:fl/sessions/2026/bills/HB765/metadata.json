@@ -7,14 +7,18 @@
     "bill"
   ],
   "subject": [
+    "insurance",
     "judicial branch",
-    "public health",
-    "subject index"
+    "k",
+    "municipalities",
+    "relations",
+    "subject index",
+    "taxation and finance"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Child Care and Early Learning Services;  Revises minimum standards for child care facility licensing; removes provisions that require large family child care homes to provide parents of enrolled children information relating to certain viruses & risks of leaving children in vehicles; prohibits residential property insurance policies from providing coverage for liability for claims arising out of, or in connection with, operations of large family child care homes; provides that insurers are under no obligation to defend against lawsuits covering such claims; prohibits insurers from denying, cancelling, & refusing to renew policy for residential property insurance on basis that policyholders or applicants operate large family child care homes; creates Florida Endowment for Early Learning within DOE direct-support organization; provides revenues for endowment fund; provides that funds from state sources are accounted separately from public & private sources; provides for distribution of moneys from endowment fund; requires annual reports & publications; provides for administration of Center for Early Childhood Professional Recognition."
+      "abstract": "Child Care and Early Learning Services ;  Revises minimum standards for child care facility licensing; removes provisions requiring family day care homes & large family day care homes to provide specified information to parents; prohibits residential property insurance policies from providing coverage for liability for claims arising out of, or in connection with, operations of large family child care homes; provides that insurers are under no obligation to defend against lawsuits covering such claims; prohibits insurers from denying, cancelling, & refusing to renew policy for residential property insurance on basis that policyholders or applicants operate large family child care homes; establishes Florida Endowment for Early Learning Foundation within DOE direct-support organization; provides revenues for endowment fund; provides that funds from state sources are accounted separately from public & private sources; provides powers & duties of board of directors; provides for distribution of moneys from endowment fund; provides administration of Center for Early Childhood Professional Recognition."
     }
   ],
   "other_titles": [],
@@ -102,9 +106,85 @@
       "_processing": {
         "log_file_created": "2026-01-15T12:29:13Z"
       }
+    },
+    {
+      "description": "Added to Human Services Subcommittee agenda",
+      "date": "2026-01-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "Favorable with CS by Human Services Subcommittee",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "Reported out of Human Services Subcommittee",
+      "date": "2026-01-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-01-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-01-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 1)",
+      "date": "2026-01-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Human Services Subcommittee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Human Services Subcommittee\"}"
+    },
     {
       "name": "McFarland",
       "classification": "primary",
@@ -134,9 +214,43 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 765 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/765/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Human Services Subcommittee (Post-Meeting) (1/30/2026 10:08 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/765/Analyses/h0765a.HSS.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "932349 - Strike All Amendment to H 765 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/765/Amendment/932349/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [
     {
       "publication": "Florida Statues",
@@ -145,6 +259,38 @@
       "effective": null,
       "expires": null,
       "url": "https://flsenate.gov/laws/statutes/2025/39.101"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "39.202",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/39.202"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "125.0109",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/125.0109"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "166.0445",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/166.0445"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "212.08",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/212.08"
     },
     {
       "publication": "Florida Statues",
@@ -164,11 +310,107 @@
     },
     {
       "publication": "Florida Statues",
+      "citation": "402.306",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/402.306"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "402.309",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/402.309"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "402.310",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/402.310"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "402.3115",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/402.3115"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "402.312",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/402.312"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "402.313",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/402.313"
+    },
+    {
+      "publication": "Florida Statues",
       "citation": "402.3131",
       "citation_type": "proposed",
       "effective": null,
       "expires": null,
       "url": "https://flsenate.gov/laws/statutes/2025/402.3131"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "402.315",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/402.315"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "402.316",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/402.316"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "402.318",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/402.318"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "402.319",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/402.319"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "409.988",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/409.988"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "411.203",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/411.203"
     },
     {
       "publication": "Florida Statues",
@@ -185,6 +427,22 @@
       "effective": null,
       "expires": null,
       "url": "https://flsenate.gov/laws/statutes/2025/1001.24"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "1002.55",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/1002.55"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "1002.82",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/1002.82"
     }
   ],
   "sources": [
@@ -201,6 +459,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-15T12:29:13Z"
+    "logs_latest_update": "2026-01-31T12:29:56Z"
   }
 }

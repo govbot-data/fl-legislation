@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "CS by Environment and Natural Resources read 1st time",
+    "date": "2026-01-22",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB 1288"
+}

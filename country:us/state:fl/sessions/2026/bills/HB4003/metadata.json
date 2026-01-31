@@ -242,6 +242,48 @@
       "_processing": {
         "log_file_created": "2026-01-21T12:32:32Z"
       }
+    },
+    {
+      "description": "Favorable by State Affairs Committee",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "Reported out of State Affairs Committee",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "Bill released to House Calendar",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "Added to Second Reading Calendar",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
     }
   ],
   "sponsorships": [
@@ -311,10 +353,10 @@
       "classification": ""
     },
     {
-      "note": "Bill Analysis -- State Affairs Committee (Post-Meeting) (1/20/2026 6:54 PM)",
+      "note": "Bill Analysis -- State Affairs Committee (Post-Meeting) (1/22/2026 3:47 PM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/4003/Analyses/h4003d.SAC.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/4003/Analyses/h4003e.SAC.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -357,6 +399,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-21T12:32:32Z"
+    "logs_latest_update": "2026-01-31T12:29:56Z"
   }
 }

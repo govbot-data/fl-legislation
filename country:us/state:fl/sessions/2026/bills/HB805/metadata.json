@@ -166,6 +166,16 @@
       "_processing": {
         "log_file_created": "2026-01-22T12:31:40Z"
       }
+    },
+    {
+      "description": "Added to Commerce Committee agenda",
+      "date": "2026-01-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
     }
   ],
   "sponsorships": [
@@ -217,6 +227,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/805/Analyses/h0805a.IPA.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Commerce Committee (Post-Meeting) (1/30/2026 4:49 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/805/Analyses/h0805b.COM.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -283,6 +304,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-22T12:31:40Z"
+    "logs_latest_update": "2026-01-31T12:29:56Z"
   }
 }

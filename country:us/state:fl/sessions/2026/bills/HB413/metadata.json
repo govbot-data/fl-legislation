@@ -7,13 +7,13 @@
     "bill"
   ],
   "subject": [
-    "domestic relations",
+    "civil practice and procedure",
     "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Attorney Fees, Suit Money, and Costs;  Provides that award of attorney fees, suit money, & costs may be awarded retroactively & prospectively; authorizes inclusion of fees, money, & costs in award of attorney fees, suit money, & costs; authorizes court to consider whether party rejected good faith offer of settlement when awarding fees, money, & costs; authorizes court to award, deny, or reduce fees, money, & costs as sanction; requires court to make certain written findings; authorizes fees, money, & costs be paid to attorney; provides presumption for fees, money, & costs; provides relief is cumulative; authorizes court to order attorney fees, suit money, & costs in certain appellate proceedings; prohibits court from awarding fees, money, & costs to noncompliant party; provides that trial court has continuing jurisdiction to award temporary appellate fees, money, & costs; specifies primary factor for court to consider in making awards of appellate fees & costs; authorizes court to take certain actions in action involving criminal contempt."
+      "abstract": "Attorney Fees, Suit Money, and Costs;  Provides that award of attorney fees, suit money, & costs may be awarded retroactively & prospectively; authorizes inclusion of fees, money, & costs in award of attorney fees, suit money, & costs; authorizes court to consider whether party rejected good faith offer of settlement when awarding fees, money, & costs; authorizes court to award, deny, or reduce fees, money, & costs as sanction; requires court to make certain written findings; authorizes fees, money, & costs be paid to attorney; provides award of attorney fees & costs to nonoffending party under certain circumstances; provides relief is cumulative; authorizes court to order attorney fees, suit money, & costs in certain appellate proceedings; prohibits court from awarding fees, money, & costs to noncompliant party; provides that trial court has continuing jurisdiction to award temporary appellate fees, money, & costs; specifies primary factor for court to consider in making awards of appellate fees & costs; authorizes court to take certain actions in action involving criminal contempt."
     }
   ],
   "other_titles": [],
@@ -177,9 +177,105 @@
       "_processing": {
         "log_file_created": "2026-01-21T12:32:32Z"
       }
+    },
+    {
+      "description": "Favorable with CS by Judiciary Committee",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "Reported out of Judiciary Committee",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 2)",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "Bill referred to House Calendar",
+      "date": "2026-01-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "Added to Second Reading Calendar",
+      "date": "2026-01-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "Bill added to Special Order Calendar (2/4/2026)",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Judiciary Committee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Judiciary Committee\"}"
+    },
     {
       "name": "Civil Justice & Claims Subcommittee",
       "classification": "primary",
@@ -197,11 +293,27 @@
       "organization_id": null
     },
     {
+      "name": "Bartleman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bartleman\"}",
+      "organization_id": null
+    },
+    {
       "name": "Campbell",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Campbell\"}",
+      "organization_id": null
+    },
+    {
+      "name": "L\u00f3pez, J.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"L\\u00f3pez, J.\"}",
       "organization_id": null
     }
   ],
@@ -228,6 +340,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 413 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/413/BillText/c2/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -243,10 +366,10 @@
       "classification": ""
     },
     {
-      "note": "Bill Analysis -- Judiciary Committee (Post-Meeting) (1/20/2026 4:43 PM)",
+      "note": "Bill Analysis -- Judiciary Committee (Post-Meeting) (1/22/2026 12:57 PM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/413/Analyses/h0413b.JDC.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/413/Analyses/h0413c.JDC.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -297,6 +420,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-21T12:32:32Z"
+    "logs_latest_update": "2026-01-31T12:29:56Z"
   }
 }

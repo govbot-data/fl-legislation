@@ -7,12 +7,12 @@
     "bill"
   ],
   "subject": [
-    "judicial branch"
+    "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Specific Medical Diagnoses in Child Protective Investigations;  Provides exception to requirement that DCF immediately forward certain allegations to law enforcement agency; requires child protective investigator to inform subject of investigation of certain duty; requires Child Protection Teams to consult with licensed physician or advanced practice registered nurse when evaluating certain reports; authorizes, under certain circumstance, parent or legal custodian from whom child was removed to request specified examinations of child; requires that certain examinations be paid for by parent or legal custodian making request or as otherwise covered by insurance or Medicaid; prohibits request of examination for specified purpose."
+      "abstract": "Specific Medical Diagnoses in Child Protective Investigations ;  Provides exception to requirement that DCF immediately forward certain allegations to law enforcement agency; requires such allegations to be immediately forwarded to law enforcement agency upon completion of department's investigation; requires child protective investigator to inform subject of investigation of certain duty; conforms cross-reference; requires Child Protection Teams to consult with licensed physician or advanced practice registered nurse with pediatric experience when evaluating certain reports; authorizes parent or legal custodian of child who is subject of protective investigation or shelter order to request specified examinations of child within specified timeframe; requires that certain examinations be paid for by parent or legal custodian making request or as otherwise covered by insurance; requires physician or advanced practice registered nurse who performed certain medical examinations to submit written report to department & certain persons within specified timeframe; requires department to immediately convene case staffing with specified persons."
     }
   ],
   "other_titles": [],
@@ -88,9 +88,129 @@
       "_processing": {
         "log_file_created": "2026-01-15T12:29:13Z"
       }
+    },
+    {
+      "description": "Added to Human Services Subcommittee agenda",
+      "date": "2026-01-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "Favorable with CS by Human Services Subcommittee",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "Reported out of Human Services Subcommittee",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "Referred to Judiciary Committee",
+      "date": "2026-01-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "Referred to Health & Human Services Committee",
+      "date": "2026-01-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "Now in Judiciary Committee",
+      "date": "2026-01-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "Added to Judiciary Committee agenda",
+      "date": "2026-01-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 1)",
+      "date": "2026-01-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Human Services Subcommittee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Human Services Subcommittee\"}"
+    },
     {
       "name": "Bartleman",
       "classification": "primary",
@@ -152,9 +272,54 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 47 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/47/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Human Services Subcommittee (Post-Meeting) (1/29/2026 4:37 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/47/Analyses/h0047a.HSS.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Judiciary Committee (Post-Meeting) (1/30/2026 5:09 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/47/Analyses/h0047b.JDC.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "257053 - Strike All Amendment to H 47 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/47/Amendment/257053/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [
     {
       "publication": "Florida Statues",
@@ -195,6 +360,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-15T12:29:13Z"
+    "logs_latest_update": "2026-01-31T12:29:56Z"
   }
 }

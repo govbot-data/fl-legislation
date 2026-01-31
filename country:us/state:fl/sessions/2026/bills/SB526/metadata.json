@@ -86,6 +86,16 @@
       "_processing": {
         "log_file_created": "2026-01-15T12:29:12Z"
       }
+    },
+    {
+      "description": "On Committee agenda-- Governmental Oversight and Accountability, 02/02/26, 3:30 pm, 110 Senate Building",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
     }
   ],
   "sponsorships": [
@@ -138,6 +148,32 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Governmental Oversight and Accountability (Pre-Meeting) (1/30/2026 3:17 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/526/Analyses/2026s00526.pre.go.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "865572 - Amendment (Delete All) to S 526 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/526/Amendment/865572/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/526/Amendment/865572/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [],
@@ -155,6 +191,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-15T12:29:12Z"
+    "logs_latest_update": "2026-01-31T12:29:57Z"
   }
 }

@@ -7,12 +7,14 @@
     "bill"
   ],
   "subject": [
-    "and solicitations"
+    "and solicitations",
+    "railroads and other regulated utilities",
+    "state organization"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Building Permit Requirements;  Prohibits local government from adopting certain technical amendments to Florida Building Code; prohibits local government from requiring building permit for work valued at specified amount that is performed on single-family dwelling; authorizes local government to require building permit for certain work regardless of value of work; requires contractor to maintain certain written records; prohibits local enforcement agency from requiring building permit for specified work on backup power system that is installed by certain persons or entities; provides exception; prohibits local governments from adopting or enforcing certain ordinances, rules, or other measures; authorizes local enforcement agency to conduct certain inspections, either in person or virtually; authorizes owner or owner's contractor to use private provider for certain inspections; provides requirements for private provider; requires local enforcement agency to provide certain persons written notice of correction; authorizes stop-work order only under specific circumstances; requires local enforcement agency to offer owner or owner's contractor reinspection date within certain time period; provides that private provider inspection report constitutes acceptance; prohibits local enforcement agency from withholding or revoking certificate of occupancy based solely on failed inspection report."
+      "abstract": "Building Permit Requirements;  Provides that certain residential manufactured buildings may not be denied building permit for placement of such building; prohibits local government from adopting certain technical amendments to FBC; prohibits local enforcement agency from requiring building permit for work valued at specified amount; prohibits project from being divided into multiple projects; requires building permit for certain work regardless of value of work; requires contractor to maintain certain written records; prohibits local enforcement agency from requiring building permit for specified work on backup power system installed by certain persons or entities; requires local enforcement agencies to establish specified process to submit certain notice before installation of backup power system; prohibits local governments from adopting or enforcing certain ordinances, rules, or other measures; authorizes local enforcement agency to conduct one inspection, either in person or virtually; authorizes use of private provider for certain inspections; requires local enforcement agency to provide certain persons written notice of correction; authorizes stop-work order under specific circumstances; requires local enforcement agency to offer reinspection date within certain time period; provides that private provider inspection report constitutes acceptance; prohibits local enforcement agency from withholding or revoking certificate of occupancy based solely on failed inspection report."
     }
   ],
   "other_titles": [],
@@ -130,9 +132,107 @@
       "_processing": {
         "log_file_created": "2026-01-21T12:32:32Z"
       }
+    },
+    {
+      "description": "Added to Industries & Professional Activities Subcommittee agenda",
+      "date": "2026-01-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "Favorable with CS by Industries & Professional Activities Subcommittee",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "Reported out of Industries & Professional Activities Subcommittee",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 1)",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "Referred to State Affairs Committee",
+      "date": "2026-01-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "Now in State Affairs Committee",
+      "date": "2026-01-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Industries & Professional Activities Subcommittee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Industries & Professional Activities Subcommittee\"}"
+    },
     {
       "name": "Esposito",
       "classification": "primary",
@@ -154,6 +254,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 1049 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1049/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -167,9 +278,50 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Industries & Professional Activities Subcommittee (Post-Meeting) (1/29/2026 5:02 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1049/Analyses/h1049c.IPA.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "535547 - Amendment to H 1049 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1049/Amendment/535547/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "813289 - Amendment to H 1049 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1049/Amendment/813289/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [
+    {
+      "publication": "Florida Statues",
+      "citation": "553.382",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/553.382"
+    },
     {
       "publication": "Florida Statues",
       "citation": "553.73",
@@ -201,6 +353,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-21T12:32:32Z"
+    "logs_latest_update": "2026-01-31T12:29:57Z"
   }
 }

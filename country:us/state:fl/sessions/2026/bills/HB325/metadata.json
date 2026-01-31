@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "HB 325",
-  "title": "Education and Workforce Development for Current and Former Inmates",
+  "title": "Education and Workforce Development for Inmates",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -14,7 +14,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Education and Workforce Development for Current and Former Inmates;  Provides that DFS may reimburse, subject to appropriation, employers for cost of certain workers' compensation & auto liability premiums; provides requirements for reimbursement application; provides requirements & restrictions for reimbursement; requires department to process application & notify applicant within specified timeframe; requires department to coordinate with employer for certain purpose; provides that reimbursements are made on first-come, first-serve basis; authorizes Correctional Education Program to develop & implement vocational curriculum in which certain inmates can earn specified commercial driver licenses; provides for eligibility of certain inmates in Open Door Grant Program."
+      "abstract": "Education and Workforce Development for Inmates;  Authorizes DOT to expend certain funds for all workforce development programs, rather than only construction workforce development programs; authorizes department to provide grants to private educational providers to use for certain certification & training opportunities; requires certification & training opportunities to include training for specified commercial driver licenses to certain inmates; provides eligibility; authorizes department to use workforce development funds for certain certification & training opportunities; requires Correctional Education Program under DOC to annually submit report to Secretary of Corrections with specified information; authorizes Correctional Education Program to implement career & technical education program in which certain inmates can earn specified commercial driver licenses; provides eligibility; authorizes inmate to be transported in or to operate state-owned vehicle; requires certified correctional officer to be present during such transport or operation."
     }
   ],
   "other_titles": [],
@@ -122,15 +122,99 @@
       "_processing": {
         "log_file_created": "2026-01-22T12:31:40Z"
       }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 1)",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "Referred to Education & Employment Committee",
+      "date": "2026-01-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "Now in Education & Employment Committee",
+      "date": "2026-01-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "Added to Education & Employment Committee agenda",
+      "date": "2026-01-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Careers & Workforce Subcommittee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Careers & Workforce Subcommittee\"}"
+    },
     {
       "name": "Kendall",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Kendall\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Partington",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Partington\"}",
       "organization_id": null
     }
   ],
@@ -146,9 +230,43 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 325 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/325/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Careers & Workforce Subcommittee (Post-Meeting) (1/22/2026 3:07 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/325/Analyses/h0325.CWS.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Education & Employment Committee (Post-Meeting) (1/30/2026 5:54 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/325/Analyses/h0325a.EEC.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [
     {
       "publication": "Florida Statues",
@@ -165,6 +283,30 @@
       "effective": null,
       "expires": null,
       "url": "https://flsenate.gov/laws/statutes/2025/334.62"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "944.801",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/944.801"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "945.091",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/945.091"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "945.0913",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/945.0913"
     }
   ],
   "sources": [
@@ -181,6 +323,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-22T12:31:40Z"
+    "logs_latest_update": "2026-01-31T12:29:57Z"
   }
 }

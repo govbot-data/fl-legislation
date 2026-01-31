@@ -7,7 +7,7 @@
     "bill"
   ],
   "subject": [
-    "torts"
+    "subject index"
   ],
   "abstracts": [
     {
@@ -85,6 +85,38 @@
       "_processing": {
         "log_file_created": "2026-01-15T12:29:13Z"
       }
+    },
+    {
+      "description": "On Committee agenda-- Appropriations Committee on Criminal and Civil Justice, 01/28/26, 3:45 pm, 37 Senate Building",
+      "date": "2026-01-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "Favorable by Appropriations Committee on Criminal and Civil Justice; YEAS 5 NAYS 3",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "Now in Rules",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
     }
   ],
   "sponsorships": [
@@ -94,6 +126,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Grall\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Yarborough",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Yarborough\"}",
       "organization_id": null
     }
   ],
@@ -132,6 +172,28 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/164/Analyses/2026s00164.ju.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Appropriations Committee on Criminal and Civil Justice (Pre-Meeting) (1/27/2026 8:39 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/164/Analyses/2026s00164.pre.acj.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Appropriations Committee on Criminal and Civil Justice (Post-Meeting) (1/29/2026 10:28 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/164/Analyses/2026s00164.acj.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -179,6 +241,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-15T12:29:13Z"
+    "logs_latest_update": "2026-01-31T12:29:57Z"
   }
 }

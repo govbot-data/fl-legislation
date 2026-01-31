@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 1030",
-  "title": "Recovery Residences",
+  "title": "Substance Abuse Services",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Recovery Residences;  Prohibiting providers licensed for primary inpatient or outpatient mental health services from using certified recovery residences to provide housing to their patients; authorizing service providers certified as Level IV programs to use their certified recovery residences to provide housing to persons who receive primary outpatient mental health services; requiring the Department of Children and Families to issue a regular license after the department receives a complete application from certain existing licensed service providers that are seeking to add licensed services or one or more additional levels of care at an existing licensed location or at one or more new locations within a specified timeframe, if certain requirements are met, etc."
+      "abstract": "Substance Abuse Services;  Revising the definition of the term \u201ctransfer\u201d; requiring the Department of Children and Families to issue a regular license to substance abuse service providers after the department receives a complete application from certain existing licensed service providers that are seeking to add licensed services or one or more additional levels of care at an existing licensed location or at one or more new locations within a specified timeframe, if certain requirements are met; prohibiting a credentialing entity from requesting or obtaining certain records when determining whether to suspend or revoke a licensed service provider\u2019s certificate to serve as a recovery residence, etc."
     }
   ],
   "other_titles": [],
@@ -53,15 +53,81 @@
       "_processing": {
         "log_file_created": "2026-01-15T12:29:13Z"
       }
+    },
+    {
+      "description": "On Committee agenda-- Children, Families, and Elder Affairs, 01/27/26, 1:00 pm, 301 Senate Building",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "CS by Children, Families, and Elder Affairs; YEAS 5 NAYS 0",
+      "date": "2026-01-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "Now in Appropriations Committee on Health and Human Services",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "CS by Children, Families, and Elder Affairs read 1st time",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Children, Families, and Elder Affairs",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Children, Families, and Elder Affairs\"}"
+    },
     {
       "name": "Gruters",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Gruters\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rouson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rouson\"}",
       "organization_id": null
     }
   ],
@@ -81,18 +147,78 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 1030 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1030/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1030/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
-  "citations": [
+  "documents": [
     {
-      "publication": "Florida Statues",
-      "citation": "394.875",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/394.875"
+      "note": "Bill Analysis -- Children, Families, and Elder Affairs (Pre-Meeting) (1/26/2026 1:09 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1030/Analyses/2026s01030.pre.cf.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     },
+    {
+      "note": "Bill Analysis -- Children, Families, and Elder Affairs (Post-Meeting) (1/28/2026 11:57 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1030/Analyses/2026s01030.cf.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "707950 - Amendment (Delete All) to S 1030 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1030/Amendment/707950/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1030/Amendment/707950/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "609746 - Substitute Amendment (Delete All) (707950) to S 1030 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1030/Amendment/609746/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1030/Amendment/609746/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [
     {
       "publication": "Florida Statues",
       "citation": "397.407",
@@ -103,51 +229,11 @@
     },
     {
       "publication": "Florida Statues",
-      "citation": "397.410",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/397.410"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "397.4104",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/397.4104"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "397.411",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/397.411"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "397.415",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/397.415"
-    },
-    {
-      "publication": "Florida Statues",
       "citation": "397.487",
       "citation_type": "proposed",
       "effective": null,
       "expires": null,
       "url": "https://flsenate.gov/laws/statutes/2025/397.487"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "397.4873",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/397.4873"
     }
   ],
   "sources": [
@@ -164,6 +250,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-15T12:29:13Z"
+    "logs_latest_update": "2026-01-31T12:29:56Z"
   }
 }

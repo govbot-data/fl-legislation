@@ -14,12 +14,10 @@
     "motor vehicles",
     "municipalities",
     "public business",
-    "public health",
-    "public lands and property",
-    "reclamation, and use",
     "regulation of professions and occupations",
     "relations",
-    "subject index"
+    "subject index",
+    "taxation and finance"
   ],
   "abstracts": [
     {
@@ -155,6 +153,26 @@
       "_processing": {
         "log_file_created": "2026-01-19T12:32:00Z"
       }
+    },
+    {
+      "description": "On Committee agenda-- Rules, 01/27/26, 9:00 am, 412 Knott Building --Temporarily Postponed",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "CS/CS by Fiscal Policy read 1st time",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
     }
   ],
   "sponsorships": [
@@ -277,6 +295,17 @@
       "classification": ""
     },
     {
+      "note": "Bill Analysis -- Rules (Pre-Meeting) (1/26/2026 8:18 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/290/Analyses/2026s00290.pre.rc.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "506412 - Amendment to S 290 Filed",
       "links": [
         {
@@ -337,6 +366,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-19T12:32:00Z"
+    "logs_latest_update": "2026-01-31T12:29:57Z"
   }
 }

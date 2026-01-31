@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Reported out of Health Care Budget Subcommittee",
+    "date": "2026-01-28",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 867"
+}

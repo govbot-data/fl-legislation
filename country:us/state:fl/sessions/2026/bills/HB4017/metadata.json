@@ -7,7 +7,7 @@
     "bill"
   ],
   "subject": [
-    "subject index"
+    "local bills"
   ],
   "abstracts": [
     {
@@ -176,6 +176,48 @@
       "_processing": {
         "log_file_created": "2026-01-21T12:32:33Z"
       }
+    },
+    {
+      "description": "Favorable by State Affairs Committee",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "Reported out of State Affairs Committee",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "Bill released to House Calendar",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "Added to Second Reading Calendar",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
     }
   ],
   "sponsorships": [
@@ -234,10 +276,10 @@
       "classification": ""
     },
     {
-      "note": "Bill Analysis -- State Affairs Committee (Post-Meeting) (1/20/2026 6:59 PM)",
+      "note": "Bill Analysis -- State Affairs Committee (Post-Meeting) (1/22/2026 3:57 PM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/4017/Analyses/h4017b.SAC.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/4017/Analyses/h4017c.SAC.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -288,6 +330,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-21T12:32:33Z"
+    "logs_latest_update": "2026-01-31T12:29:57Z"
   }
 }

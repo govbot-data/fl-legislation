@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 538",
-  "title": "Physical Education",
+  "title": "Extracurricular Activities",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Physical Education;  Revising eligibility requirements for a student to participate in an interscholastic or intrascholastic extracurricular activity; deleting requirements for the Florida High School Athletic Association to facilitate a program for private school students to participate in an interscholastic or intrascholastic sport; prohibiting a school from imposing additional fees on a student who wishes to participate in extracurricular activities; providing indemnity for a school and district school board under specified circumstances, etc."
+      "abstract": "Extracurricular Activities;  Revising eligibility requirements for a student to participate in an interscholastic or intrascholastic extracurricular activity; deleting requirements for the Florida High School Athletic Association to facilitate a program for private school students to participate in an interscholastic or intrascholastic sport; prohibiting a school from imposing additional fees on a student who wishes to participate in extracurricular activities; providing indemnity for a school and district school board under specified circumstances, etc."
     }
   ],
   "other_titles": [],
@@ -73,9 +73,57 @@
       "_processing": {
         "log_file_created": "2026-01-21T12:32:33Z"
       }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "Now in Judiciary",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "CS by Education Pre-K - 12 read 1st time",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "On Committee agenda-- Judiciary, 02/03/26, 1:00 pm, 110 Senate Building",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Education Pre-K - 12",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Education Pre-K - 12\"}"
+    },
     {
       "name": "Simon",
       "classification": "primary",
@@ -101,6 +149,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 538 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/538/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/538/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -109,6 +172,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/538/Analyses/2026s00538.pre.ed.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Education Pre-K - 12 (Post-Meeting) (1/21/2026 8:33 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/538/Analyses/2026s00538.ed.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -195,6 +269,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-21T12:32:33Z"
+    "logs_latest_update": "2026-01-31T12:29:56Z"
   }
 }

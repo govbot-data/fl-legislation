@@ -152,6 +152,38 @@
       "_processing": {
         "log_file_created": "2026-01-21T12:32:32Z"
       }
+    },
+    {
+      "description": "Favorable by Judiciary Committee",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "Reported out of Judiciary Committee",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "Now in Government Operations Subcommittee",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
     }
   ],
   "sponsorships": [
@@ -191,10 +223,10 @@
       "classification": ""
     },
     {
-      "note": "Bill Analysis -- Judiciary Committee (Post-Meeting) (1/20/2026 4:43 PM)",
+      "note": "Bill Analysis -- Judiciary Committee (Post-Meeting) (1/22/2026 12:32 PM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/447/Analyses/h0447b.JDC.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/447/Analyses/h0447c.JDC.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -234,6 +266,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-21T12:32:32Z"
+    "logs_latest_update": "2026-01-31T12:29:57Z"
   }
 }

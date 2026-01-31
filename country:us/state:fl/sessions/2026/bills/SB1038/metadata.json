@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Florida Strategic Cryptocurrency Reserve;  Authorizing the Chief Financial Officer to take certain actions in administering and managing the Florida Strategic Cryptocurrency Reserve; authorizing payment of the reasonable cost of administering and managing the reserve from a specified source; authorizing the Chief Financial Officer to purchase cryptocurrency for the reserve only if a specified condition is met; creating the Florida Strategic Cryptocurrency Reserve Advisory Committee for a specified purpose, etc."
+      "abstract": "Florida Strategic Cryptocurrency Reserve;  Creating the \u201cFlorida Strategic Cryptocurrency Reserve Act\u201d; authorizing the Chief Financial Officer to take certain actions in administering and managing the Florida Strategic Cryptocurrency Reserve; authorizing payment of the reasonable cost of administering and managing the reserve from a specified source; authorizing the Chief Financial Officer to purchase cryptocurrency for the reserve only if a specified condition is met; creating the Florida Strategic Cryptocurrency Reserve Advisory Committee for a specified purpose, etc."
     }
   ],
   "other_titles": [],
@@ -53,9 +53,57 @@
       "_processing": {
         "log_file_created": "2026-01-15T12:29:13Z"
       }
+    },
+    {
+      "description": "On Committee agenda-- Banking and Insurance, 01/28/26, 10:30 am, 412 Knott Building",
+      "date": "2026-01-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "CS by Banking and Insurance; YEAS 10 NAYS 0",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "Now in Appropriations Committee on Agriculture, Environment, and General Government",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Banking and Insurance",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Banking and Insurance\"}"
+    },
     {
       "name": "Gruters",
       "classification": "primary",
@@ -81,9 +129,62 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 1038 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1038/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1038/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Banking and Insurance (Pre-Meeting) (1/27/2026 10:34 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1038/Analyses/2026s01038.pre.bi.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Banking and Insurance (Post-Meeting) (1/29/2026 1:11 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1038/Analyses/2026s01038.bi.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "152950 - Amendment to S 1038 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1038/Amendment/152950/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1038/Amendment/152950/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -99,6 +200,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-15T12:29:13Z"
+    "logs_latest_update": "2026-01-31T12:29:56Z"
   }
 }

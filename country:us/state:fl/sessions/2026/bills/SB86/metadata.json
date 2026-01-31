@@ -7,12 +7,12 @@
     "bill"
   ],
   "subject": [
-    "subject index"
+    "motor vehicles"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Commercial Motor Vehicles Operated by Unauthorized Aliens;  Requiring law enforcement officers to take certain persons operating commercial motor vehicles into custody and facilitate the transfer of such persons into the custody of a federal immigration agency; requiring the impoundment of a commercial motor vehicle under certain circumstances; requiring the owner of an impounded commercial motor vehicle to pay a fine and certain costs and fees; prohibiting certain motor carriers from operating in this state, etc."
+      "abstract": "Commercial Motor Vehicles Operated by Unauthorized Aliens;  Declaring the policy of the state with respect to the operation of commercial motor vehicles by unauthorized aliens; requiring sworn law enforcement officers with certain authority to take into custody persons determined to be unauthorized aliens operating commercial motor vehicles and facilitate the transfer of such persons into the custody of a federal immigration agency; requiring the impoundment and removal of a commercial motor vehicle under certain circumstances; providing that motor carriers are liable for certain civil penalties, etc."
     }
   ],
   "other_titles": [],
@@ -53,9 +53,57 @@
       "_processing": {
         "log_file_created": "2026-01-15T12:29:13Z"
       }
+    },
+    {
+      "description": "On Committee agenda-- Transportation, 01/27/26, 1:00 pm, 37 Senate Building",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "CS by Transportation; YEAS 6 NAYS 3",
+      "date": "2026-01-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "Now in Criminal Justice",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Transportation",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Transportation\"}"
+    },
     {
       "name": "Gaetz",
       "classification": "primary",
@@ -81,10 +129,72 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 86 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/86/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/86/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
-  "citations": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Transportation (Pre-Meeting) (1/26/2026 12:51 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/86/Analyses/2026s00086.pre.tr.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Transportation (Post-Meeting) (1/28/2026 2:41 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/86/Analyses/2026s00086.tr.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "815506 - Amendment (Delete All) to S 86 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/86/Amendment/815506/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/86/Amendment/815506/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [
+    {
+      "publication": "Florida Statues",
+      "citation": "316.3026",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/316.3026"
+    }
+  ],
   "sources": [
     {
       "url": "https://flsenate.gov/Session/Bill/2026/86/ByCategory",
@@ -99,6 +209,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-15T12:29:13Z"
+    "logs_latest_update": "2026-01-31T12:29:57Z"
   }
 }

@@ -8,7 +8,7 @@
   ],
   "subject": [
     "judicial branch",
-    "social welfare",
+    "k",
     "subject index"
   ],
   "abstracts": [
@@ -85,6 +85,16 @@
       "_processing": {
         "log_file_created": "2026-01-15T12:29:13Z"
       }
+    },
+    {
+      "description": "On Committee agenda-- Appropriations Committee on Health and Human Services, 02/04/26, 1:00 pm, 412 Knott Building",
+      "date": "2026-01-30",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
     }
   ],
   "sponsorships": [
@@ -143,7 +153,7 @@
       "classification": ""
     },
     {
-      "note": "Bill Analysis -- Children, Families, and Elder Affairs (Post-Meeting) (1/13/2026 8:48 AM)",
+      "note": "Bill Analysis -- Children, Families, and Elder Affairs (Post-Meeting) (1/15/2026 11:40 AM)",
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/7018/Analyses/2026s07018.cf.PDF",
@@ -194,6 +204,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-15T12:29:13Z"
+    "logs_latest_update": "2026-01-31T12:29:57Z"
   }
 }

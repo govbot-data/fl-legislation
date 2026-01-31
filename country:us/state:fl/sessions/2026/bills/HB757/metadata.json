@@ -7,13 +7,12 @@
     "bill"
   ],
   "subject": [
-    "judicial branch",
     "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "School Safety;  Authorizes public postsecondary institutions to participate in school guardian program; authorizes certain college or university employees, faculty members, & students to openly carry handgun or carry concealed weapon or concealed firearm into college or university facility; creates offense of discharging weapon or firearm within 1,000 feet of school; provides exception; provides that person arrested for certain offenses must be held in custody until brought before court for admittance to bail; ranks offense created by act on offense severity ranking chart; requires that postsecondary institutions be made aware of mobile suspicious activity reporting tool in specified manner; requires public postsecondary educational institutions to promote use of such tool; requires transfer of specified educational records for certain students; requires State Board of Education & Board of Governors to adopt rules & regulations; requires certain trainings to include specified information relating to school safety; defines \"public postsecondary educational institution\"; authorizes such institutions to participate in certain programs and appoint certified school guardians; requires such institutions to adopt specified emergency response plans, provide specified training, post specified information, & adopt threat management processes; authorizes State Board of Education & Board of Governors to adopt rules & regulations."
+      "abstract": "School Safety;  Authorizes public postsecondary educational institutions to participate in school guardian program; requires sheriffs to assist such institutions in implementing guardian programs under certain provisions of law; requires such institutions to provide specified notice to sheriff; creates offense of discharging weapon or firearm within 1,000 feet of school; provides exception; provides that person arrested for certain offenses must be held in custody until brought before court for admittance to bail; ranks offense created by act on offense severity ranking chart; requires that postsecondary institutions be made aware of mobile suspicious activity reporting tool in specified manner; requires public postsecondary educational institutions to promote use of such tool; requires transfer of specified educational records for certain students; requires State Board of Education & Board of Governors to adopt rules & regulations; requires certain trainings to include specified information relating to school safety; defines \"public postsecondary educational institution\"; authorizes such institutions to participate in certain programs & appoint certified school guardians; authorizes specified persons to serve as school guardians; requires such institutions to adopt specified emergency response plans, provide specified training, post specified information, & adopt threat management processes; authorizes State Board of Education & Board of Governors to adopt rules & regulations."
     }
   ],
   "other_titles": [],
@@ -89,9 +88,129 @@
       "_processing": {
         "log_file_created": "2026-01-15T12:29:13Z"
       }
+    },
+    {
+      "description": "PCS added to Judiciary Committee agenda",
+      "date": "2026-01-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "Favorable with CS by Judiciary Committee",
+      "date": "2026-01-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "Reported out of Judiciary Committee",
+      "date": "2026-01-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-01-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-01-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 1)",
+      "date": "2026-01-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "Referred to Education & Employment Committee",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "Referred to Budget Committee",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "Now in Education & Employment Committee",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "Added to Education & Employment Committee agenda",
+      "date": "2026-01-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Judiciary Committee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Judiciary Committee\"}"
+    },
     {
       "name": "Salzman",
       "classification": "primary",
@@ -113,9 +232,43 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 757 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/757/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Judiciary Committee (Post-Meeting) (1/27/2026 5:31 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/757/Analyses/h0757.JDC.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Education & Employment Committee (Post-Meeting) (1/30/2026 5:39 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/757/Analyses/h0757a.EEC.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [
     {
       "publication": "Florida Statues",
@@ -132,22 +285,6 @@
       "effective": null,
       "expires": null,
       "url": "https://flsenate.gov/laws/statutes/2025/402.305"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "790.013",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/790.013"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "790.06",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/790.06"
     },
     {
       "publication": "Florida Statues",
@@ -236,6 +373,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-15T12:29:13Z"
+    "logs_latest_update": "2026-01-31T12:29:57Z"
   }
 }

@@ -7,7 +7,7 @@
     "bill"
   ],
   "subject": [
-    "social welfare"
+    "subject index"
   ],
   "abstracts": [
     {
@@ -40,6 +40,28 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-01-19T12:32:00Z"
+      }
+    },
+    {
+      "description": "Introduced",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "On Committee agenda-- Health Policy, 02/02/26, 3:30 pm, 412 Knott Building",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
       }
     }
   ],
@@ -79,7 +101,64 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Health Policy (Pre-Meeting) (1/30/2026 3:39 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1758/Analyses/2026s01758.pre.hp.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "654120 - Amendment to S 1758 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1758/Amendment/654120/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1758/Amendment/654120/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "838908 - Amendment to S 1758 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1758/Amendment/838908/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1758/Amendment/838908/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "822634 - Amendment to S 1758 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1758/Amendment/822634/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1758/Amendment/822634/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [
     {
       "publication": "Florida Statues",
@@ -104,6 +183,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-19T12:32:00Z"
+    "logs_latest_update": "2026-01-31T12:29:57Z"
   }
 }

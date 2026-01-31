@@ -7,20 +7,18 @@
     "bill"
   ],
   "subject": [
-    "civil practice and procedure",
     "crimes",
     "evidence",
-    "k",
+    "local bills",
     "planning and development",
     "public transportation",
-    "reclamation, and use",
     "relations",
     "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Governmental Agency Publication of Advertisements and Public Notices;  Expands definition of term \"governmental agency\" to include clerk of court, comptroller, or tax collector; revises definition of term \"publicly accessible website\"; revises website that governmental agency may use for publication of legally required advertisements & public notices; removes requirement that governmental agency include on registry information about persons who request to receive public notices by first-class mail."
+      "abstract": "Governmental Agency Publication of Advertisements and Public Notices;  Expands definition of term \"governmental agency\"; revises definition of term \"publicly accessible website\"; requires that certain legal notices be continuously published for specified timeframe when notices are for specified purpose & provided under certain circumstance; authorizes certain counties or specified municipalities, school boards, clerks of circuit court, & tax collectors to use publicly accessible website to publish certain advertisements & legal notices under specified conditions; revises definition of term \"special district.\""
     }
   ],
   "other_titles": [],
@@ -138,9 +136,107 @@
       "_processing": {
         "log_file_created": "2026-01-22T12:31:40Z"
       }
+    },
+    {
+      "description": "Added to Intergovernmental Affairs Subcommittee agenda",
+      "date": "2026-01-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "Favorable with CS by Intergovernmental Affairs Subcommittee",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "Reported out of Intergovernmental Affairs Subcommittee",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "Referred to Judiciary Committee",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "Now in Judiciary Committee",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 1)",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Intergovernmental Affairs Subcommittee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Intergovernmental Affairs Subcommittee\"}"
+    },
     {
       "name": "Griffitts",
       "classification": "primary",
@@ -162,6 +258,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 1009 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1009/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -170,6 +277,28 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/1009/Analyses/h1009a.CIV.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Intergovernmental Affairs Subcommittee (Post-Meeting) (1/28/2026 5:49 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1009/Analyses/h1009c.IAS.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "981835 - Amendment to H 1009 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1009/Amendment/981835/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -441,6 +570,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-22T12:31:40Z"
+    "logs_latest_update": "2026-01-31T12:29:57Z"
   }
 }

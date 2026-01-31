@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Passed; YEAS 32 NAYS 3",
+    "date": "2026-01-29",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 7008"
+}

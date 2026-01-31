@@ -1,20 +1,19 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 1062",
-  "title": "Speech and Debate",
+  "title": "Speech and Debate Education",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
   ],
   "subject": [
     "commercial relations",
-    "public lands and property",
     "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Speech and Debate;  Citing this act as the \"Florida Speech and Debate Education Act\"; creating the Florida Speech and Debate Hall of Fame; designating Florida Speech and Debate Week each year in November; designating the Florida Debate Initiative, Inc., (FDI) as the official statewide speech and debate organization; authorizing a certified teacher to earn an endorsement in speech and debate; requiring the Florida Virtual School to establish the Institute for Speech and Debate Innovation, etc.\r\n    \r\n        APPROPRIATION:\r\n        $4,600,000"
+      "abstract": "Speech and Debate Education;  Citing this act as the \"Florida Speech and Debate Education Act\"; creating the Florida Speech and Debate Hall of Fame; requiring the Department of Management Services to set aside an area on a specified level in the Capitol Building; designating Florida Speech and Debate Week annually in February; designating the Florida Debate Initiative, Inc., (FDI) as the official statewide speech and debate organization; requiring the Florida Virtual School to establish the Institute for Speech and Debate Innovation; providing duties of the institute, etc.\r\n    \r\n        APPROPRIATION:\r\n        $13,340,000"
     }
   ],
   "other_titles": [],
@@ -55,9 +54,67 @@
       "_processing": {
         "log_file_created": "2026-01-15T12:29:12Z"
       }
+    },
+    {
+      "description": "On Committee agenda-- Education Pre-K - 12, 01/27/26, 3:30 pm, 412 Knott Building",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "CS by Education Pre-K - 12; YEAS 6 NAYS 0",
+      "date": "2026-01-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "Now in Appropriations Committee on Pre-K - 12 Education",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "CS by Education Pre-K - 12 read 1st time",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Education Pre-K - 12",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Education Pre-K - 12\"}"
+    },
     {
       "name": "Brodeur",
       "classification": "primary",
@@ -99,9 +156,62 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 1062 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1062/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1062/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Education Pre-K - 12 (Pre-Meeting) (1/26/2026 3:30 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1062/Analyses/2026s01062.pre.ed.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Education Pre-K - 12 (Post-Meeting) (1/29/2026 8:12 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1062/Analyses/2026s01062.ed.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "220472 - Amendment (Delete All) to S 1062 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1062/Amendment/220472/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1062/Amendment/220472/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -117,6 +227,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-15T12:29:12Z"
+    "logs_latest_update": "2026-01-31T12:29:57Z"
   }
 }

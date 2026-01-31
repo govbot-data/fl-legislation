@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Virtual Currency Kiosks;  Requiring an owner or operator of a virtual currency kiosk to ensure that a specified disclosure is displayed before a customer initiates a virtual currency kiosk transaction; prohibiting an owner or operator of a virtual currency kiosk from permitting new and existing customers from transacting more than a specified amount per calendar day; requiring an owner or operator of a virtual currency kiosk to provide a customer with a specified electronic receipt upon completion of a virtual currency transaction, etc."
+      "abstract": "Virtual Currency Kiosks;  Revising the definition of the term \u201cmoney services business\u201d; revising the requirements for certain rules adopted by the Financial Services Commission; prohibiting a virtual currency kiosk business from operating in this state without registering or renewing its registration; specifying that certain money transmitters are exempt from registration as a virtual currency kiosk business but are subject to certain provisions; prohibiting certain entities from performing certain actions without being licensed as a money services business, etc."
     }
   ],
   "other_titles": [],
@@ -53,9 +53,67 @@
       "_processing": {
         "log_file_created": "2026-01-15T12:29:12Z"
       }
+    },
+    {
+      "description": "On Committee agenda-- Banking and Insurance, 01/28/26, 10:30 am, 412 Knott Building",
+      "date": "2026-01-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "CS by Banking and Insurance; YEAS 10 NAYS 0",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "Now in Commerce and Tourism",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "On Committee agenda-- Commerce and Tourism, 02/04/26, 10:30 am, 110 Senate Building",
+      "date": "2026-01-30",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Banking and Insurance",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Banking and Insurance\"}"
+    },
     {
       "name": "Rouson",
       "classification": "primary",
@@ -81,10 +139,95 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 198 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/198/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/198/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
-  "citations": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Banking and Insurance (Pre-Meeting) (1/27/2026 10:34 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/198/Analyses/2026s00198.pre.bi.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Banking and Insurance (Post-Meeting) (1/29/2026 1:10 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/198/Analyses/2026s00198.bi.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "695850 - Amendment (Delete All) to S 198 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/198/Amendment/695850/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/198/Amendment/695850/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "959472 - Substitute Amendment (Delete All) (695850) to S 198 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/198/Amendment/959472/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/198/Amendment/959472/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [
+    {
+      "publication": "Florida Statues",
+      "citation": "560.103",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/560.103"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "560.105",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/560.105"
+    }
+  ],
   "sources": [
     {
       "url": "https://flsenate.gov/Session/Bill/2026/198/ByCategory",
@@ -99,6 +242,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-15T12:29:12Z"
+    "logs_latest_update": "2026-01-31T12:29:56Z"
   }
 }

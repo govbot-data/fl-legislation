@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "HB 655",
-  "title": "Pub. Meetings/Attorney Meetings to Discuss Private Property Rights Claims",
+  "title": "Pub. Rec. and Pub. Meetings/Attorney Meetings to Discuss Private Property Rights Claims",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -13,7 +13,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Pub. Meetings/Attorney Meetings to Discuss Private Property Rights Claims;  Provides that specified entities may meet in private with their attorneys to discuss certain claims concerning private property rights; specifies what may be discussed during such closed meetings; requires that such meetings be transcribed; provides that such transcripts become public records at specified times; provides for future review; provides public necessity statement."
+      "abstract": "Pub. Rec. and Pub. Meetings/Attorney Meetings to Discuss Private Property Rights Claims;  Provides exemption from public meetings requirements for meetings or portions of meetings between agencies & their attorneys to discuss certain claims concerning private property rights; specifies what may be discussed during such meetings; requires that such meetings be transcribed; provides that such transcripts become public records at specified times; provides exemption from public records requirements for transcripts, recordings, minutes, & records generated during exempt meetings or portions of such meetings; provides for future legislative review & repeal of exemptions; provides statement of public necessity."
     }
   ],
   "other_titles": [],
@@ -191,9 +191,85 @@
       "_processing": {
         "log_file_created": "2026-01-20T12:32:17Z"
       }
+    },
+    {
+      "description": "PCS added to Government Operations Subcommittee agenda",
+      "date": "2026-01-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "Favorable with CS by Government Operations Subcommittee",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "Reported out of Government Operations Subcommittee",
+      "date": "2026-01-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-01-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-01-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 2)",
+      "date": "2026-01-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Government Operations Subcommittee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Government Operations Subcommittee\"}"
+    },
     {
       "name": "Civil Justice & Claims Subcommittee",
       "classification": "primary",
@@ -216,6 +292,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Daley\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Vald\u00e9s",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Vald\\u00e9s\"}",
       "organization_id": null
     }
   ],
@@ -242,6 +326,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 655 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/655/BillText/c2/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -250,6 +345,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/655/Analyses/h0655a.CIV.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Government Operations Subcommittee (Post-Meeting) (1/30/2026 3:58 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/655/Analyses/h0655b.GOS.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -283,6 +389,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-20T12:32:17Z"
+    "logs_latest_update": "2026-01-31T12:29:57Z"
   }
 }

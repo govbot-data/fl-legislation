@@ -8,13 +8,13 @@
   ],
   "subject": [
     "municipalities",
-    "reclamation, and use",
-    "relations"
+    "relations",
+    "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Net-zero Policies by Governmental Entities;  Prohibiting governmental entities from adopting or requiring the adoption of net-zero policies; prohibiting governmental entities from expending government funds to support, implement, or advance net-zero policies; prohibiting governmental entities from imposing taxes, fees, penalties, charges, offsets, or assessments to advance net-zero policies; prohibiting governmental entities from implementing, administering, or enforcing a program that functions as a cap-and-trade program, etc."
+      "abstract": "Net-zero Policies by Governmental Entities;  Prohibiting governmental entities from adopting or requiring the adoption of net-zero policies; prohibiting governmental entities from expending government funds to support, implement, or advance net-zero policies; prohibiting governmental entities from imposing taxes, fees, penalties, charges, offsets, or assessments to advance net-zero policies; prohibiting governmental entities from implementing, administering, or enforcing a program that functions as a cap-and-trade program or has such effect, etc."
     }
   ],
   "other_titles": [],
@@ -43,9 +43,79 @@
       "_processing": {
         "log_file_created": "2026-01-19T12:32:00Z"
       }
+    },
+    {
+      "description": "On Committee agenda-- Environment and Natural Resources, 01/27/26, 3:30 pm, 110 Senate Building",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "Introduced",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "CS by Environment and Natural Resources; YEAS 5 NAYS 3",
+      "date": "2026-01-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "Now in Finance and Tax",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "CS by Environment and Natural Resources read 1st time",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Environment and Natural Resources",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Environment and Natural Resources\"}"
+    },
     {
       "name": "Avila",
       "classification": "primary",
@@ -71,9 +141,62 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 1628 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1628/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1628/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Environment and Natural Resources (Pre-Meeting) (1/26/2026 3:37 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1628/Analyses/2026s01628.pre.en.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Environment and Natural Resources (Post-Meeting) (1/28/2026 9:59 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1628/Analyses/2026s01628.en.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "886550 - Amendment to S 1628 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1628/Amendment/886550/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1628/Amendment/886550/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [
     {
       "publication": "Florida Statues",
@@ -114,6 +237,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-19T12:32:00Z"
+    "logs_latest_update": "2026-01-31T12:29:57Z"
   }
 }

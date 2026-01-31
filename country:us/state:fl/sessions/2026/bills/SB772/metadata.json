@@ -1,18 +1,18 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 772",
-  "title": "Limited Licenses for Portable Electronics and Eyewear Insurance",
+  "title": "Limited Licenses for Portable Electronics or Eyewear Insurance",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
   ],
   "subject": [
-    "subject index"
+    "insurance"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Limited Licenses for Portable Electronics and Eyewear Insurance;  Renaming \u201cportable electronics insurance\u201d as \u201cportable electronics and eyewear insurance\u201d to include eyewear for purposes of insurance coverage and licenses; defining the term \u201ceyewear\u201d, etc."
+      "abstract": "Limited Licenses for Portable Electronics or Eyewear Insurance;  Renaming \u201cportable electronics insurance\u201d as \u201cportable electronics or eyewear insurance\u201d to include eyewear for purposes of insurance coverage and licenses; defining the term \u201ceyewear\u201d; revising the definition of the term \u201cportable electronics\u201d, etc."
     }
   ],
   "other_titles": [],
@@ -53,9 +53,57 @@
       "_processing": {
         "log_file_created": "2026-01-15T12:29:13Z"
       }
+    },
+    {
+      "description": "On Committee agenda-- Banking and Insurance, 01/28/26, 10:30 am, 412 Knott Building",
+      "date": "2026-01-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "CS by Banking and Insurance; YEAS 10 NAYS 0",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "Now in Appropriations Committee on Agriculture, Environment, and General Government",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Banking and Insurance",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Banking and Insurance\"}"
+    },
     {
       "name": "Burgess",
       "classification": "primary",
@@ -81,9 +129,62 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 772 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/772/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/772/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Banking and Insurance (Pre-Meeting) (1/27/2026 10:34 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/772/Analyses/2026s00772.pre.bi.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Banking and Insurance (Post-Meeting) (1/29/2026 1:11 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/772/Analyses/2026s00772.bi.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "668782 - Amendment (Delete All) to S 772 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/772/Amendment/668782/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/772/Amendment/668782/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [
     {
       "publication": "Florida Statues",
@@ -132,6 +233,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-15T12:29:13Z"
+    "logs_latest_update": "2026-01-31T12:29:57Z"
   }
 }

@@ -7,12 +7,12 @@
     "bill"
   ],
   "subject": [
-    "public health"
+    "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Biosolids Management;  Prohibits land application of Class AA biosolids fertilizer & compost products from exceeding agronomic rate; requires land application site operator to maintain application records; authorizes bulk Class AA biosolids or biosolids products to be distributed or marketed as fertilizer & land applied if specified requirements are met; authorizes bulk Class AA biosolids compost products to be distributed or marketed as soil amendments & land applied if specified requirements are met; requires that certain bulk Class AA biosolids compost & fertilizer products be land applied at land application sites approved by DEP; requires University of Florida's Institute of Food & Agricultural Sciences to publish & make publicly available recommended agronomic rates for reuse of bulk Class AA biosolids fertilizer & compost products."
+      "abstract": "Biosolids Management;  Prohibits land application of Class AA biosolids fertilizer & compost products from exceeding appropriate agronomic rate; requires land application site operator to maintain records; requires University of Florida's IFAS to publish & make publicly available recommended agronomic rates for bulk Class AA biosolids fertilizer & compost products; authorizes bulk Class AA biosolids or biosolids products to be distributed or marketed as fertilizer & land applied if specified requirements are met; authorizes bulk Class AA biosolids compost products to be distributed or marketed as soil amendments & land applied if specified requirements are met; requires that certain bulk Class AA biosolids compost & fertilizer products be applied at certain land application sites; requires certain bulk Class AA products applied on certain lands meet certain requirements before application."
     }
   ],
   "other_titles": [],
@@ -88,9 +88,119 @@
       "_processing": {
         "log_file_created": "2026-01-17T12:25:13Z"
       }
+    },
+    {
+      "description": "Added to Natural Resources & Disasters Subcommittee agenda",
+      "date": "2026-01-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "Favorable with CS by Natural Resources & Disasters Subcommittee",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "Reported out of Natural Resources & Disasters Subcommittee",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 1)",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "Referred to Housing, Agriculture & Tourism Subcommittee",
+      "date": "2026-01-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "Referred to State Affairs Committee",
+      "date": "2026-01-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "Now in Housing, Agriculture & Tourism Subcommittee",
+      "date": "2026-01-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Natural Resources & Disasters Subcommittee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Natural Resources & Disasters Subcommittee\"}"
+    },
     {
       "name": "Shoaf",
       "classification": "primary",
@@ -112,9 +222,43 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 1245 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1245/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Natural Resources & Disasters Subcommittee (Post-Meeting) (1/29/2026 7:12 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1245/Analyses/h1245a.NRD.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "270477 - Strike All Amendment to H 1245 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1245/Amendment/270477/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [
     {
       "publication": "Florida Statues",
@@ -139,6 +283,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-17T12:25:13Z"
+    "logs_latest_update": "2026-01-31T12:29:57Z"
   }
 }

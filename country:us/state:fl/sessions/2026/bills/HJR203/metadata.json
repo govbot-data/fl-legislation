@@ -1,19 +1,19 @@
 {
   "legislative_session": "2026",
   "identifier": "HJR 203",
-  "title": "Phased Out Elimination of Non-school Property Tax for Homesteads",
+  "title": "Phased Out Elimination of Non-school Property for Homesteads",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "joint resolution"
   ],
   "subject": [
-    "concurrent)",
-    "constitutional amendments"
+    "constitutional amendments",
+    "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Phased Out Elimination of Non-school Property Tax for Homesteads;  Proposes amendment to State Constitution to increase exemption for homestead property from all ad valorem taxation other than school district levies annually for 10 years by a certain amount, to make homestead property exempt from all ad valorem taxation other than school district levies beginning in a specified year, to prohibit local governments from reducing total funding for services provided by law enforcement, firefighters, and other first responders, and provide an effective date."
+      "abstract": "Phased Out Elimination of Non-school Property for Homesteads;  Proposes amendment to State Constitution to increase exemption for homestead property from all ad valorem taxation other than school district levies annually for 10 years by a certain amount, to make homestead property exempt from all ad valorem taxation other than school district levies beginning in a specified year, to prohibit local governments from reducing total funding for services provided by law enforcement, firefighters, and other first responders, and provide an effective date."
     }
   ],
   "other_titles": [],
@@ -231,9 +231,95 @@
       "_processing": {
         "log_file_created": "2026-01-21T12:32:32Z"
       }
+    },
+    {
+      "description": "Favorable with CS by Ways & Means Committee",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "Reported out of Ways & Means Committee",
+      "date": "2026-01-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-01-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-01-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 2)",
+      "date": "2026-01-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "Bill referred to House Calendar",
+      "date": "2026-01-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "Added to Second Reading Calendar",
+      "date": "2026-01-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Ways & Means Committee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Ways & Means Committee\"}"
+    },
     {
       "name": "State Affairs Committee",
       "classification": "primary",
@@ -248,6 +334,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Miller\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Barnaby",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Barnaby\"}",
       "organization_id": null
     }
   ],
@@ -269,6 +363,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/203/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "H 203 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/203/BillText/c2/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -300,10 +405,10 @@
       "classification": ""
     },
     {
-      "note": "Bill Analysis -- Ways & Means Committee (Post-Meeting) (1/20/2026 4:58 PM)",
+      "note": "Bill Analysis -- Ways & Means Committee (Post-Meeting) (1/23/2026 9:44 AM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/203/Analyses/h0203d.WMC.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/203/Analyses/h0203e.WMC.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -348,6 +453,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-21T12:32:32Z"
+    "logs_latest_update": "2026-01-31T12:29:56Z"
   }
 }

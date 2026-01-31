@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Original bill laid on Table, refer to combined CS/SB 658",
+    "date": "2026-01-27",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB 608"
+}

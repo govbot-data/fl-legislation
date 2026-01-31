@@ -9,15 +9,15 @@
   "subject": [
     "and solicitations",
     "civil rights",
-    "criminal procedure and corrections",
     "industry",
+    "insurance",
     "judicial branch",
+    "k",
     "limitations",
     "military affairs and related matters",
     "motor vehicles",
+    "planning and development",
     "public business",
-    "public health",
-    "public lands and property",
     "public officers, employees, and records",
     "public transportation",
     "railroads and other regulated utilities",
@@ -25,9 +25,8 @@
     "reclamation, and use",
     "regulation of professions and occupations",
     "relations",
-    "social welfare",
     "subject index",
-    "torts"
+    "taxation and finance"
   ],
   "abstracts": [
     {
@@ -60,6 +59,28 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-01-19T12:32:00Z"
+      }
+    },
+    {
+      "description": "Introduced",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "On Committee agenda-- Judiciary, 02/03/26, 1:00 pm, 110 Senate Building",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
       }
     }
   ],
@@ -636,6 +657,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-19T12:32:00Z"
+    "logs_latest_update": "2026-01-31T12:29:56Z"
   }
 }

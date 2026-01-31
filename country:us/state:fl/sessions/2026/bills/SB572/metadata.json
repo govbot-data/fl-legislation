@@ -1,19 +1,21 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 572",
-  "title": "Ethics for Public Employees",
+  "title": "Ethics for Public Officers and Employees",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
   ],
   "subject": [
+    "electors and elections",
     "k",
-    "subject index"
+    "public officers, employees, and records",
+    "public transportation"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Ethics for Public Employees;  Revising the definition of the term \u201crelative\u201d to include foster parents and foster children, etc."
+      "abstract": "Ethics for Public Officers and Employees;  Revising the definition of the term \u201crelative\u201d to include foster parents and foster children, etc."
     }
   ],
   "other_titles": [],
@@ -96,9 +98,67 @@
       "_processing": {
         "log_file_created": "2026-01-22T12:31:40Z"
       }
+    },
+    {
+      "description": "CS by Governmental Oversight and Accountability; YEAS 9 NAYS 0",
+      "date": "2026-01-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-01-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "Now in Rules",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "CS by Governmental Oversight and Accountability read 1st time",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "On Committee agenda-- Rules, 02/03/26, 9:00 am, 412 Knott Building",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Governmental Oversight and Accountability",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Governmental Oversight and Accountability\"}"
+    },
     {
       "name": "Harrell",
       "classification": "primary",
@@ -119,6 +179,21 @@
         },
         {
           "url": "https://flsenate.gov/Session/Bill/2026/572/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S 572 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/572/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/572/BillText/c1/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -148,9 +223,62 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Governmental Oversight and Accountability (Pre-Meeting) (1/23/2026 2:23 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/572/Analyses/2026s00572.pre.go.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Governmental Oversight and Accountability (Post-Meeting) (1/27/2026 10:33 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/572/Analyses/2026s00572.go.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "913752 - Amendment to S 572 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/572/Amendment/913752/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/572/Amendment/913752/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [
+    {
+      "publication": "Florida Statues",
+      "citation": "106.07",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/106.07"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "106.0702",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/106.0702"
+    },
     {
       "publication": "Florida Statues",
       "citation": "112.312",
@@ -158,6 +286,14 @@
       "effective": null,
       "expires": null,
       "url": "https://flsenate.gov/laws/statutes/2025/112.312"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "348.0305",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/348.0305"
     },
     {
       "publication": "Florida Statues",
@@ -182,6 +318,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-22T12:31:40Z"
+    "logs_latest_update": "2026-01-31T12:29:57Z"
   }
 }

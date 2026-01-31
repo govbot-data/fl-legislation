@@ -54,6 +54,16 @@
       "_processing": {
         "log_file_created": "2026-01-15T12:29:13Z"
       }
+    },
+    {
+      "description": "On Committee agenda-- Governmental Oversight and Accountability, 02/02/26, 3:30 pm, 110 Senate Building",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
     }
   ],
   "sponsorships": [
@@ -63,6 +73,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Calatayud\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Pizzo",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Pizzo\"}",
       "organization_id": null
     }
   ],
@@ -84,7 +102,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Governmental Oversight and Accountability (Pre-Meeting) (1/30/2026 3:17 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1072/Analyses/2026s01072.pre.go.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -100,6 +130,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-15T12:29:13Z"
+    "logs_latest_update": "2026-01-31T12:29:56Z"
   }
 }

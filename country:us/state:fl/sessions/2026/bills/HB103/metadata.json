@@ -9,10 +9,8 @@
   "subject": [
     "aviation",
     "business organizations",
-    "concurrent)",
     "municipalities",
     "public transportation",
-    "reclamation, and use",
     "relations",
     "subject index"
   ],
@@ -179,6 +177,26 @@
       "_processing": {
         "log_file_created": "2026-01-21T12:32:33Z"
       }
+    },
+    {
+      "description": "Added to State Affairs Committee agenda",
+      "date": "2026-01-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "PCS added to State Affairs Committee agenda",
+      "date": "2026-01-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
     }
   ],
   "sponsorships": [
@@ -230,6 +248,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/103/Analyses/h0103c.IAS.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- State Affairs Committee (Post-Meeting) (1/23/2026 5:09 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/103/Analyses/h0103d.SAC.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -573,6 +602,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-21T12:32:33Z"
+    "logs_latest_update": "2026-01-31T12:29:57Z"
   }
 }

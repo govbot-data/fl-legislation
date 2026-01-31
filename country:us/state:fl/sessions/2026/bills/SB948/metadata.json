@@ -8,12 +8,13 @@
   ],
   "subject": [
     "municipalities",
-    "relations"
+    "relations",
+    "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Local Government Land Development Regulations and Orders;  Revising, for counties and municipalities, respectively, the application procedures for development permits and orders; creating the \u201cFlorida Starter Homes Act\u201d; prohibiting local governments from adopting land development regulations governing lots on residential real property unless such adoption meets specified requirements; prohibiting local governments from adopting certain land development regulations if a lot on residential real property is connected to a public water system or a public sewer system, etc."
+      "abstract": "Local Government Land Development Regulations and Orders;  Requiring counties and municipalities, respectively, to follow certain application procedures for applications for certain development permits and development orders; creating the \u201cFlorida Starter Homes Act\u201d for a specified purpose; prohibiting local governments from imposing regulations governing residential lots unless such regulations meet specified requirements; prohibiting local governments from imposing certain regulations if a residential lot is connected to a public water system and a sewerage system; requiring the permitting as of right of an off-site constructed residential dwelling in certain zoning districts, etc."
     }
   ],
   "other_titles": [],
@@ -54,9 +55,57 @@
       "_processing": {
         "log_file_created": "2026-01-15T12:29:12Z"
       }
+    },
+    {
+      "description": "On Committee agenda-- Community Affairs, 01/27/26, 3:30 pm, 37 Senate Building",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "CS by Community Affairs; YEAS 7 NAYS 1",
+      "date": "2026-01-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "Now in Judiciary",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Community Affairs",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Community Affairs\"}"
+    },
     {
       "name": "McClain",
       "classification": "primary",
@@ -71,6 +120,30 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Rodriguez\"}",
+      "organization_id": null
+    },
+    {
+      "name": "DiCeglie",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"DiCeglie\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Smith",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Smith\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rouson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rouson\"}",
       "organization_id": null
     }
   ],
@@ -90,9 +163,62 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 948 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/948/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/948/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Community Affairs (Pre-Meeting) (1/26/2026 3:31 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/948/Analyses/2026s00948.pre.ca.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Community Affairs (Post-Meeting) (1/29/2026 6:25 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/948/Analyses/2026s00948.ca.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "486426 - Amendment (Delete All) to S 948 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/948/Amendment/486426/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/948/Amendment/486426/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [
     {
       "publication": "Florida Statues",
@@ -117,6 +243,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-15T12:29:12Z"
+    "logs_latest_update": "2026-01-31T12:29:56Z"
   }
 }

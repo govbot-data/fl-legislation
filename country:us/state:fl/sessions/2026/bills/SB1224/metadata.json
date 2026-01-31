@@ -13,7 +13,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Fraudulent Entry of Residential Dwellings;  Defining the term \u201cfraudulent entry\u201d; providing a cause of action against a person who obtains possession of certain real property by fraudulent entry; authorizing a property owner to request that the sheriff remove a person unlawfully occupying a residential dwelling if the unauthorized person obtained possession through fraudulent entry, etc."
+      "abstract": "Fraudulent Entry of Residential Dwellings;  Creating the crime of fraudulent entry of a residential dwelling unit; prohibiting a person from entering into and taking possession of a residential dwelling unit under specified circumstances; providing that fraudulent entry of a residential dwelling unit is an act of noncompliance for which a landlord may terminate a rental agreement, etc."
     }
   ],
   "other_titles": [],
@@ -54,9 +54,67 @@
       "_processing": {
         "log_file_created": "2026-01-15T12:29:12Z"
       }
+    },
+    {
+      "description": "On Committee agenda-- Judiciary, 01/27/26, 1:00 pm, 110 Senate Building",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "CS by Judiciary; YEAS 10 NAYS 0",
+      "date": "2026-01-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "Now in Criminal Justice",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "CS by Judiciary read 1st time",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Judiciary",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Judiciary\"}",
+      "organization_id": null
+    },
     {
       "name": "Rodriguez",
       "classification": "primary",
@@ -82,41 +140,70 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 1224 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1224/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1224/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Judiciary (Pre-Meeting) (1/26/2026 12:30 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1224/Analyses/2026s01224.pre.ju.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Judiciary (Post-Meeting) (1/28/2026 12:30 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1224/Analyses/2026s01224.ju.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "809630 - Amendment (Delete All) to S 1224 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1224/Amendment/809630/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1224/Amendment/809630/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [
     {
       "publication": "Florida Statues",
-      "citation": "82.01",
+      "citation": "83.56",
       "citation_type": "proposed",
       "effective": null,
       "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/82.01"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "82.02",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/82.02"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "82.03",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/82.03"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "82.036",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/82.036"
+      "url": "https://flsenate.gov/laws/statutes/2025/83.56"
     }
   ],
   "sources": [
@@ -133,6 +220,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-15T12:29:12Z"
+    "logs_latest_update": "2026-01-31T12:29:57Z"
   }
 }

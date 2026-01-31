@@ -7,11 +7,10 @@
     "bill"
   ],
   "subject": [
-    "and solicitations",
     "executive branch",
-    "public health",
     "public officers, employees, and records",
     "regulation of professions and occupations",
+    "subject index",
     "vessels"
   ],
   "abstracts": [
@@ -45,6 +44,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-01-19T12:32:00Z"
+      }
+    },
+    {
+      "description": "Introduced",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
       }
     }
   ],
@@ -373,6 +384,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-19T12:32:00Z"
+    "logs_latest_update": "2026-01-31T12:29:56Z"
   }
 }

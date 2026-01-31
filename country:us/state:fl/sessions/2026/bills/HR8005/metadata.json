@@ -7,7 +7,7 @@
     "resolution"
   ],
   "subject": [
-    "concurrent)"
+    "subject index"
   ],
   "abstracts": [
     {
@@ -41,6 +41,40 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-01-17T12:25:13Z"
+      }
+    },
+    {
+      "description": "Placed on Ceremonial Resolutions Calendar - Publication only",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "Read 2nd time",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "Adopted by Publication",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
       }
     }
   ],
@@ -84,6 +118,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-17T12:25:13Z"
+    "logs_latest_update": "2026-01-31T12:29:57Z"
   }
 }

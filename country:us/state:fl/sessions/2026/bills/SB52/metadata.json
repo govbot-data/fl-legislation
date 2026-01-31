@@ -135,6 +135,16 @@
       "_processing": {
         "log_file_created": "2026-01-21T12:32:32Z"
       }
+    },
+    {
+      "description": "On Committee agenda-- Rules, 02/03/26, 9:00 am, 412 Knott Building",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
     }
   ],
   "sponsorships": [
@@ -220,7 +230,7 @@
       "classification": ""
     },
     {
-      "note": "Bill Analysis -- Judiciary (Pre-Meeting) (1/16/2026 8:56 AM)",
+      "note": "Bill Analysis -- Judiciary (Pre-Meeting) (1/21/2026 4:13 PM)",
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/52/Analyses/2026s00052.pre.ju.PDF",
@@ -231,7 +241,7 @@
       "classification": ""
     },
     {
-      "note": "Bill Analysis -- Judiciary (Post-Meeting) (1/20/2026 12:08 PM)",
+      "note": "Bill Analysis -- Judiciary (Post-Meeting) (1/21/2026 3:44 PM)",
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/52/Analyses/2026s00052.ju.PDF",
@@ -289,6 +299,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-21T12:32:32Z"
+    "logs_latest_update": "2026-01-31T12:29:57Z"
   }
 }

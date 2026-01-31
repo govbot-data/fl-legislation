@@ -8,12 +8,13 @@
   ],
   "subject": [
     "and solicitations",
-    "public business"
+    "public business",
+    "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Commercial Construction Projects;  Provides that provisions contained in public construction contracts which purport to waive, release, deny, restrict, or extinguish certain rights of contractor are void & unenforceable; requires Florida Building Commission, in consultation with DBPR, to create uniform commercial building permit application to & standardized trade-specific forms be accepted statewide; prohibits such application from being modified; authorizes local enforcement agencies to require supplemental trade-specific forms or additional documentation or plans for certain projects; provides requirements for such supplemental forms; requires local enforcement agencies to allow certain reviews to take place simultaneously; requires commission to electronically publish on its website & make available to local enforcement agencies & applicants such application by specified date; requires local enforcement agencies to reduce permit fees for commercial construction projects by certain percentages; prohibits local enforcement agencies from collecting any fees for commercial construction projects.."
+      "abstract": "Commercial Construction Projects;  Prohibits governmental entity from enforcing certain contract provisions for public works project; requires Florida Building Commission to adopt by rule uniform commercial building permit application by specified date; provides requirements for such application; requires commission to adopt by rule certain trade-specific forms; requires local enforcement agency to accept uniform application & standardized forms adopted by commission; authorizes local enforcement agency to require additional documentation or plans; requires permit fees that local enforcement agency imposes to be proportional to actual & reasonable costs incurred for performing certain functions; prohibits political subdivision from adopting or enforcing ordinance that imposes certain glazing requirements; requires local jurisdictions to include specified information on their websites; prohibits local jurisdictions from charging fees for plans review services performed by private provider; requires local enforcement agencies to reduce permit fees for commercial construction projects by certain percentages; prohibits local enforcement agencies from collecting any fees for commercial construction projects; requires specified surcharge to be calculated based on reduced permit fee."
     }
   ],
   "other_titles": [],
@@ -233,9 +234,105 @@
       "_processing": {
         "log_file_created": "2026-01-15T12:29:13Z"
       }
+    },
+    {
+      "description": "Added to Commerce Committee agenda",
+      "date": "2026-01-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "Favorable with CS by Commerce Committee",
+      "date": "2026-01-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "Reported out of Commerce Committee",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 2)",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "Bill referred to House Calendar",
+      "date": "2026-01-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "Added to Second Reading Calendar",
+      "date": "2026-01-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Commerce Committee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Commerce Committee\"}"
+    },
     {
       "name": "Industries & Professional Activities Subcommittee",
       "classification": "primary",
@@ -250,6 +347,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Griffitts\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Salzman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Salzman\"}",
       "organization_id": null
     }
   ],
@@ -276,6 +381,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 405 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/405/BillText/c2/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -295,6 +411,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/405/Analyses/h0405c.SAB.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Commerce Committee (Post-Meeting) (1/29/2026 5:02 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/405/Analyses/h0405e.COM.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -339,6 +466,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-15T12:29:13Z"
+    "logs_latest_update": "2026-01-31T12:29:56Z"
   }
 }

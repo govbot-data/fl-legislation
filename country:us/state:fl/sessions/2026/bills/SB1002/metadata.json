@@ -1,19 +1,20 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 1002",
-  "title": "Temporary Custody of Minor Children",
+  "title": "Child Welfare",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
   ],
   "subject": [
     "judicial branch",
+    "k",
     "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Temporary Custody of Minor Children;  Requiring a protective investigator to provide certain information and, if necessary, guidance to a relative of a child contacted during a protective investigation; authorizing a grandparent to petition for temporary or concurrent custody of his or her grandchild, regardless of certain circumstances; including a statement of specific acts or omissions of a child\u2019s parents which demonstrate certain use of a controlled substance or alcohol in the statements that may be contained in a petition for temporary or concurrent custody, etc."
+      "abstract": "Child Welfare;  Revising the definition of the term \u201charm\u201d to provide that exposure of a child to a controlled substance may be established by evidence of acute or chronic use of a controlled substance by a parent to a specified extent; revising the definition of the term \u201cneglect\u201d to provide that neglect occurs when there is evidence of acute or chronic use of a controlled substance by a parent to a specified extent, etc."
     }
   ],
   "other_titles": [],
@@ -54,9 +55,87 @@
       "_processing": {
         "log_file_created": "2026-01-15T12:29:12Z"
       }
+    },
+    {
+      "description": "On Committee agenda-- Children, Families, and Elder Affairs, 01/27/26, 1:00 pm, 301 Senate Building",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "CS by Children, Families, and Elder Affairs; YEAS 5 NAYS 0",
+      "date": "2026-01-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "Original reference(s) removed: Judiciary",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "Remaining references corrected to Appropriations Committee on Health and Human Services; Rules",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "Now in Appropriations Committee on Health and Human Services",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "CS by Children, Families, and Elder Affairs read 1st time",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Children, Families, and Elder Affairs",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Children, Families, and Elder Affairs\"}"
+    },
     {
       "name": "Gaetz",
       "classification": "primary",
@@ -82,41 +161,150 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 1002 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1002/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1002/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Children, Families, and Elder Affairs (Pre-Meeting) (1/28/2026 1:25 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1002/Analyses/2026s01002.pre.cf.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Children, Families, and Elder Affairs (Post-Meeting) (1/28/2026 1:26 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1002/Analyses/2026s01002.cf.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "818722 - Amendment (Delete All) to S 1002 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1002/Amendment/818722/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1002/Amendment/818722/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [
     {
       "publication": "Florida Statues",
-      "citation": "39.301",
+      "citation": "39.01",
       "citation_type": "proposed",
       "effective": null,
       "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/39.301"
+      "url": "https://flsenate.gov/laws/statutes/2025/39.01"
     },
     {
       "publication": "Florida Statues",
-      "citation": "751.02",
+      "citation": "39.521",
       "citation_type": "proposed",
       "effective": null,
       "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/751.02"
+      "url": "https://flsenate.gov/laws/statutes/2025/39.521"
     },
     {
       "publication": "Florida Statues",
-      "citation": "751.03",
+      "citation": "39.6012",
       "citation_type": "proposed",
       "effective": null,
       "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/751.03"
+      "url": "https://flsenate.gov/laws/statutes/2025/39.6012"
     },
     {
       "publication": "Florida Statues",
-      "citation": "751.05",
+      "citation": "39.806",
       "citation_type": "proposed",
       "effective": null,
       "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/751.05"
+      "url": "https://flsenate.gov/laws/statutes/2025/39.806"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "61.13",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/61.13"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "61.401",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/61.401"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "61.402",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/61.402"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "390.01114",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/390.01114"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "744.309",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/744.309"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "984.03",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/984.03"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "1001.42",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/1001.42"
     }
   ],
   "sources": [
@@ -133,6 +321,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-15T12:29:12Z"
+    "logs_latest_update": "2026-01-31T12:29:56Z"
   }
 }

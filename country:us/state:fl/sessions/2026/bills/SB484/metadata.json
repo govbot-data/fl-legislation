@@ -7,8 +7,8 @@
     "bill"
   ],
   "subject": [
+    "public officers, employees, and records",
     "railroads and other regulated utilities",
-    "reclamation, and use",
     "relations",
     "subject index"
   ],
@@ -88,6 +88,16 @@
       "_processing": {
         "log_file_created": "2026-01-22T12:31:40Z"
       }
+    },
+    {
+      "description": "On Committee agenda-- Community Affairs, 02/03/26, 3:30 pm, 37 Senate Building",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
     }
   ],
   "sponsorships": [
@@ -97,6 +107,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Avila\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Yarborough",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Yarborough\"}",
       "organization_id": null
     }
   ],
@@ -157,6 +175,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-22T12:31:40Z"
+    "logs_latest_update": "2026-01-31T12:29:56Z"
   }
 }

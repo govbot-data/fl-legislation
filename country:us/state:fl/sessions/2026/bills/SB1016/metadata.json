@@ -7,12 +7,12 @@
     "bill"
   ],
   "subject": [
-    "s"
+    "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Medical Assistance Eligibility for Working Persons with Disabilities;  Creating the Working People with Disabilities program within the Agency for Health Care Administration; specifying income and asset requirements for eligibility in the program; requiring the Department of Children and Families to provide a written notice of specified information to eligible adults upon their initial enrollment in certain Medicaid waiver programs, and at least annually thereafter; requiring the department to provide the initial written notice to currently eligible enrollees within a specified timeframe, etc."
+      "abstract": "Medical Assistance Eligibility for Working Persons with Disabilities;  Creating the Working People with Disabilities program within the Agency for Health Care Administration; specifying income and asset requirements for eligibility in the program; requiring the Department of Children and Families to provide a written notice of specified information to eligible adults upon their initial enrollment in certain Medicaid waiver programs, and at least annually thereafter; requiring the agency to identify certain Medicaid recipients and share such information with the department for a specified purpose, etc."
     }
   ],
   "other_titles": [],
@@ -53,9 +53,67 @@
       "_processing": {
         "log_file_created": "2026-01-15T12:29:13Z"
       }
+    },
+    {
+      "description": "On Committee agenda-- Children, Families, and Elder Affairs, 01/27/26, 1:00 pm, 301 Senate Building",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "CS by Children, Families, and Elder Affairs; YEAS 5 NAYS 0",
+      "date": "2026-01-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "Now in Appropriations Committee on Health and Human Services",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "CS by Children, Families, and Elder Affairs read 1st time",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Children, Families, and Elder Affairs",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Children, Families, and Elder Affairs\"}"
+    },
     {
       "name": "Bradley",
       "classification": "primary",
@@ -81,9 +139,77 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 1016 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1016/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1016/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Children, Families, and Elder Affairs (Pre-Meeting) (1/26/2026 1:09 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1016/Analyses/2026s01016.pre.cf.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Children, Families, and Elder Affairs (Post-Meeting) (1/28/2026 10:02 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1016/Analyses/2026s01016.cf.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "611086 - Amendment to S 1016 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1016/Amendment/611086/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1016/Amendment/611086/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "173198 - Amendment to S 1016 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1016/Amendment/173198/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1016/Amendment/173198/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -99,6 +225,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-15T12:29:13Z"
+    "logs_latest_update": "2026-01-31T12:29:56Z"
   }
 }

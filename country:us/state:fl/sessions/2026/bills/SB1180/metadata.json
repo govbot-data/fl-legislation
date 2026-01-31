@@ -1,18 +1,19 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 1180",
-  "title": "Community Development District Recall Elections",
+  "title": "Community Development Districts",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
   ],
   "subject": [
-    "subject index"
+    "planning and development",
+    "relations"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Community Development District Recall Elections;  Providing that certain members of the governing body of a community development district may be removed by the electors of the community development district; requiring separate petitions for each member sought to be recalled; requiring the designation of a recall committee and chair of such committee; requiring that each petition contain specified information; requiring that a petition be filed with the Department of Commerce in a specified manner by the chair of the committee, etc."
+      "abstract": "Community Development Districts;  Providing that specified provisions regarding synthetic turf do not apply to community development districts enforcing deed restrictions; providing that certain members of the governing body of a community development district may be removed by the electors of the community development district; requiring separate petitions for each member sought to be recalled; requiring a specified percentage of electors to sign the petition; providing the grounds for removal of elected members, etc."
     }
   ],
   "other_titles": [],
@@ -53,9 +54,67 @@
       "_processing": {
         "log_file_created": "2026-01-15T12:29:13Z"
       }
+    },
+    {
+      "description": "On Committee agenda-- Community Affairs, 01/27/26, 3:30 pm, 37 Senate Building",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "CS by Community Affairs; YEAS 8 NAYS 0",
+      "date": "2026-01-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "Now in Ethics and Elections",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "On Committee agenda-- Ethics and Elections, 02/04/26, 10:30 am, 37 Senate Building",
+      "date": "2026-01-30",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Community Affairs",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Community Affairs\"}"
+    },
     {
       "name": "Arrington",
       "classification": "primary",
@@ -81,10 +140,94 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 1180 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1180/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1180/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Community Affairs (Pre-Meeting) (1/26/2026 3:31 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1180/Analyses/2026s01180.pre.ca.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Community Affairs (Post-Meeting) (1/29/2026 1:00 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1180/Analyses/2026s01180.ca.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "657364 - Amendment (Delete All) to S 1180 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1180/Amendment/657364/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1180/Amendment/657364/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "353762 - Amendment (Delete All) to S 1180 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1180/Amendment/353762/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1180/Amendment/353762/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [
+    {
+      "publication": "Florida Statues",
+      "citation": "125.572",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/125.572"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "190.003",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/190.003"
+    },
     {
       "publication": "Florida Statues",
       "citation": "190.006",
@@ -108,6 +251,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-15T12:29:13Z"
+    "logs_latest_update": "2026-01-31T12:29:56Z"
   }
 }

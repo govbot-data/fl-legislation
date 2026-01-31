@@ -7,13 +7,12 @@
     "bill"
   ],
   "subject": [
-    "appropriations",
     "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Exceptional Students and Video Cameras in Public Schools;  Removes references to Video Cameras in Public School Classrooms Pilot Program; requires district school board to establish specified policy relating to video cameras in self-contained classrooms; prohibits concealment of certain employee identities in video recording; & provides that video recording made available after request must include accompanying audio.\r\n    \r\n        APPROPRIATION:\r\n        $2,000,000"
+      "abstract": "Exceptional Students and Video Cameras in Public Schools;   Removes references to Video Cameras in Public School Classrooms Pilot Program; requires district school board to establish specified policy relating to video cameras in self-contained classrooms; prohibits concealment of certain employee identities in video recording; & provides that video recording made available after request must include accompanying audio."
     }
   ],
   "other_titles": [],
@@ -89,15 +88,107 @@
       "_processing": {
         "log_file_created": "2026-01-15T12:29:13Z"
       }
+    },
+    {
+      "description": "Added to Student Academic Success Subcommittee agenda",
+      "date": "2026-01-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "Favorable with CS by Student Academic Success Subcommittee",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "Reported out of Student Academic Success Subcommittee",
+      "date": "2026-01-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-01-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-01-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 1)",
+      "date": "2026-01-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Student Academic Success Subcommittee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Student Academic Success Subcommittee\"}"
+    },
     {
       "name": "Chambliss",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Chambliss\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tramont",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Tramont\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bartleman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bartleman\"}",
       "organization_id": null
     },
     {
@@ -121,9 +212,43 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 859 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/859/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Student Academic Success Subcommittee (Post-Meeting) (1/30/2026 11:38 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/859/Analyses/h0859a.SAS.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "248507 - Amendment to H 859 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/859/Amendment/248507/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [
     {
       "publication": "Florida Statues",
@@ -148,6 +273,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-15T12:29:13Z"
+    "logs_latest_update": "2026-01-31T12:29:56Z"
   }
 }

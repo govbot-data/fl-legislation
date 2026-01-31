@@ -13,7 +13,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Housing;  Defining the terms \u201cby right\u201d and \u201cprimary dwelling unit\u201d; requiring, rather than authorizing, local governments to adopt, by a specified date, an ordinance to allow accessory dwelling units by right in certain areas; requiring the Office of Program Policy Analysis and Government Accountability to evaluate the efficacy of using mezzanine finance and the potential of tiny homes for specified purposes, etc."
+      "abstract": "Housing;  Defining the term \u201cprimary dwelling unit\u201d; requiring local governments to adopt, by a specified date, an ordinance to allow accessory dwelling units to be approved in certain areas; requiring the Office of Program Policy Analysis and Government Accountability to evaluate the efficacy of using mezzanine finance and the potential of tiny homes for specified purposes, etc."
     }
   ],
   "other_titles": [],
@@ -126,9 +126,77 @@
       "_processing": {
         "log_file_created": "2026-01-19T12:32:00Z"
       }
+    },
+    {
+      "description": "On Committee agenda-- Rules, 01/27/26, 9:00 am, 412 Knott Building",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "CS by Appropriations Committee on Transportation, Tourism, and Economic Development read 1st time",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "CS/CS by- Rules; YEAS 22 NAYS 0",
+      "date": "2026-01-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "Pending reference review -under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "Placed on Calendar, on 2nd reading",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "CS/CS by Rules read 1st time",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Rules",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Rules\"}"
+    },
     {
       "name": "Appropriations Committee on Transportation, Tourism, and Economic Development",
       "classification": "primary",
@@ -160,6 +228,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"Pizzo\"}",
       "organization_id": null
+    },
+    {
+      "name": "Arrington",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Arrington\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -188,6 +264,21 @@
         },
         {
           "url": "https://flsenate.gov/Session/Bill/2026/48/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S 48 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/48/BillText/c2/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/48/BillText/c2/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -230,10 +321,32 @@
       "classification": ""
     },
     {
-      "note": "Bill Analysis -- Appropriations Committee on Transportation, Tourism, and Economic Development (Post-Meeting) (1/16/2026 12:06 PM)",
+      "note": "Bill Analysis -- Appropriations Committee on Transportation, Tourism, and Economic Development (Post-Meeting) (1/22/2026 8:33 AM)",
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/48/Analyses/2026s00048.atd.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Rules (Pre-Meeting) (1/26/2026 7:42 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/48/Analyses/2026s00048.pre.rc.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Rules (Post-Meeting) (1/27/2026 5:52 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/48/Analyses/2026s00048.rc.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -288,6 +401,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-19T12:32:00Z"
+    "logs_latest_update": "2026-01-31T12:29:57Z"
   }
 }

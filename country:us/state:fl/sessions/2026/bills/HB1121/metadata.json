@@ -8,13 +8,13 @@
   ],
   "subject": [
     "domestic relations",
-    "public health",
-    "social welfare"
+    "social welfare",
+    "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Aging and Disability Services;  Revises requirements for Medicaid recipients to receive offer for enrollment for long-term care services; requires DOEA to maintain statewide pre-enrollment list for certain services; requires aging & disability resource center personnel to place individuals on certain lists; requires certain staff to administer rescreening under certain circumstances; revises purposes of DOEA to include providing direct services to elderly population; defines \"functionally impaired elderly person\"; revises certain subsidy payments to include food & nutritional supplements; provides purpose & legislative intent for Florida Alzheimer's Center of Excellence; provides powers & duties of center; provides eligibility requirements for services; provides requirements for Office of Public & Professional Guardians in conducting certain investigations; requires court to enter written order with specified information when waiving certain bond; revises powers & duties of guardian; authorizes clerk of court to disclose certain confidential information to DOEA; revises requirements for sale of any real or personal property by guardian."
+      "abstract": "Aging and Disability Services ;  Revises requirements for Medicaid recipients to receive long-term care enrollment offer; requires DOEA to maintain pre-enrollment list; authorizes certain individuals to enroll in long-term care managed care program; requires assessment of enrollee by Comprehensive Assessment & Review for Long-term Care Services program; revises provisions relating to intermediate measures taken against area agency on aging; provides requirements for procurement of commodities or contractual services by area agencies on aging; limits salary of CEO & executive director; requires DOEA to impose penalties; authorizes area agency on aging to directly provide core services; revises frequency of inservice training; requires aging resource centers to include services for adults with disabilities; authorizes centers to adjust pre-enrollment lists; requires center to receive waiver to provide other direct services; revises entity with which DOEA may consult to develop capitation rates; includes supplements to provide for food & nutritional supplements & certain care in subsidy payments; revises qualifications of executive director of Office of Public & Professional Guardians; revises continuing education requirements & disciplinary actions for guardians; provides certain authority for office in conducting investigations; requires clerk to disclose information to DOEA; requires DOEA to provide records to Legislature."
     }
   ],
   "other_titles": [],
@@ -90,15 +90,87 @@
       "_processing": {
         "log_file_created": "2026-01-15T12:29:13Z"
       }
+    },
+    {
+      "description": "PCS added to Human Services Subcommittee agenda",
+      "date": "2026-01-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "Favorable with CS by Human Services Subcommittee",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "Reported out of Human Services Subcommittee",
+      "date": "2026-01-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-01-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-01-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Human Services Subcommittee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Human Services Subcommittee\"}"
+    },
     {
       "name": "Rizo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Rizo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Basabe",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Basabe\"}",
       "organization_id": null
     }
   ],
@@ -114,58 +186,33 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 1121 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1121/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Human Services Subcommittee (Post-Meeting) (1/30/2026 5:09 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1121/Analyses/h1121.HSS.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [
-    {
-      "publication": "Florida Statues",
-      "citation": "400.0060",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/400.0060"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "400.0065",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/400.0065"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "400.0067",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/400.0067"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "400.0073",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/400.0073"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "400.0075",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/400.0075"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "400.0087",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/400.0087"
-    },
     {
       "publication": "Florida Statues",
       "citation": "409.979",
@@ -184,27 +231,11 @@
     },
     {
       "publication": "Florida Statues",
-      "citation": "430.03",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/430.03"
-    },
-    {
-      "publication": "Florida Statues",
       "citation": "430.04",
       "citation_type": "proposed",
       "effective": null,
       "expires": null,
       "url": "https://flsenate.gov/laws/statutes/2025/430.04"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "430.071",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/430.071"
     }
   ],
   "sources": [
@@ -221,6 +252,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-15T12:29:13Z"
+    "logs_latest_update": "2026-01-31T12:29:56Z"
   }
 }

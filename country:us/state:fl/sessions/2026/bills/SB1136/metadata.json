@@ -7,12 +7,13 @@
     "bill"
   ],
   "subject": [
+    "k",
     "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Dental Screenings for K-12 Students;  Authorizing specified dental screenings to be performed on K-12 students after written parental notification of such services is provided and the student\u2019s parents are given specified opportunities, etc."
+      "abstract": "Dental Screenings for K-12 Students;  Defining the term \u201cdental screening\u201d; authorizing dental screenings provided under the school health services program to be conducted after written notice and an opportunity for a parent or guardian to opt out; clarifying district school board parent notification requirements for dental screenings; providing that the parental consent requirement does not apply to dental screenings, etc."
     }
   ],
   "other_titles": [],
@@ -73,9 +74,47 @@
       "_processing": {
         "log_file_created": "2026-01-21T12:32:32Z"
       }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "Now in Health Policy",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "CS by Education Pre-K - 12 read 1st time",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Education Pre-K - 12",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Education Pre-K - 12\"}"
+    },
     {
       "name": "Calatayud",
       "classification": "primary",
@@ -101,6 +140,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 1136 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1136/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1136/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -109,6 +163,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/1136/Analyses/2026s01136.pre.ed.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Education Pre-K - 12 (Post-Meeting) (1/21/2026 8:33 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1136/Analyses/2026s01136.ed.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -132,6 +197,14 @@
     }
   ],
   "citations": [
+    {
+      "publication": "Florida Statues",
+      "citation": "381.0056",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/381.0056"
+    },
     {
       "publication": "Florida Statues",
       "citation": "1001.42",
@@ -163,6 +236,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-21T12:32:32Z"
+    "logs_latest_update": "2026-01-31T12:29:56Z"
   }
 }

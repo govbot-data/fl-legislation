@@ -7,13 +7,12 @@
     "bill"
   ],
   "subject": [
-    "appropriations",
     "k"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Cybersecurity Internships;  Creating the Cybersecurity Experiential Internship and Clearance Readiness Program within the Department of Commerce; requiring the department to enter into an agreement with the Florida Center for Cybersecurity (Cyber Florida) to implement the program in collaboration with specified universities and institutions; requiring the department, using data and analyses provided by Cyber Florida, to submit a report by a specified date and annually thereafter to the Governor and the Legislature, etc.\r\n    \r\n        APPROPRIATION:\r\n        $11,900,000"
+      "abstract": "Cybersecurity Internships;  Creating the Cybersecurity Experiential Internship and Clearance Readiness Program within the Department of Commerce; requiring the department to enter into an agreement with the Florida Center for Cybersecurity (Cyber Florida) to implement the program in collaboration with specified universities and institutions; requiring the department, using data and analyses provided by Cyber Florida, to submit a report by a specified date and annually thereafter to the Governor and the Legislature, etc."
     }
   ],
   "other_titles": [],
@@ -74,9 +73,57 @@
       "_processing": {
         "log_file_created": "2026-01-22T12:31:40Z"
       }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "Now in Appropriations Committee on Transportation, Tourism, and Economic Development",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "CS by Commerce and Tourism read 1st time",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "On Committee agenda-- Appropriations Committee on Transportation, Tourism, and Economic Development, 02/04/26, 1:00 pm, 110 Senate Building",
+      "date": "2026-01-30",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Commerce and Tourism",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Commerce and Tourism\"}"
+    },
     {
       "name": "Calatayud",
       "classification": "primary",
@@ -102,6 +149,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 1266 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1266/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1266/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -110,6 +172,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/1266/Analyses/2026s01266.pre.cm.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Commerce and Tourism (Post-Meeting) (1/22/2026 10:45 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1266/Analyses/2026s01266.cm.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -147,6 +220,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-22T12:31:40Z"
+    "logs_latest_update": "2026-01-31T12:29:57Z"
   }
 }

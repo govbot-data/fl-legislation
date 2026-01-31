@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Withdrawn from Education Pre-K - 12; Appropriations Committee on Pre-K - 12 Education; Appropriations",
+    "date": "2026-01-22",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "withdrawal"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 1720"
+}

@@ -1,19 +1,21 @@
 {
   "legislative_session": "2026",
   "identifier": "HB 277",
-  "title": "Violent Criminal Offenses",
+  "title": "Domestic Violence and Protective Injunctions",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
   "subject": [
+    "crimes",
+    "insurance",
     "railroads and other regulated utilities",
     "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Violent Criminal Offenses;  Requires emergency communications state plan to include system to flag specified addresses; requires emergency medical technicians, paramedics, & firefighters to have training in domestic violence, dating violence, & strangulation; authorizes & requires court to order electronic monitoring in domestic & dating violence cases; authorizes certain persons to participate in domestic violence diversion program; provides requirements for such program; revises information law enforcement officer must provide to victim of alleged incident of domestic or dating violence; requires, if lethality assessment is performed, law enforcement officer or designated liaison to follow up with victim in a certain manner within specified amount of time; requires certain law enforcement officers to have their body camera turned on & recording when investigating allegation of domestic & dating violence; revises petitions for injunctions for domestic & dating violence; provides enhancement penalties for violation of injunction for protection against domestic & dating violence; increases dollar amounts for relocation assistance for victims of domestic violence."
+      "abstract": "Domestic Violence and Protective Injunctions;  Provides enhanced penalties for committing domestic violence offense if person has prior conviction for domestic violence; provides that sentencing & incentive gain-time eligibility determinations are made without regard to penalty enhancement; authorizes & in certain circumstances requires court to order electronic monitoring in domestic violence cases; requires respondent to pay for such electronic monitoring services; revises information contained in petition for injunction for protection against domestic violence; revises factors judge may consider in determining whether to grant petition for injunction against domestic violence; requires FDLE to enter injunctions against dating violence & sexual violence into statewide verification system; requires law enforcement officer to make specified notification if he or she has probable cause to believe that person violated military protective order; authorizes & in certain circumstances requires court to order electronic monitoring for respondent in injunction for protection against dating violence, repeat violence, or sexual violence; requires respondent to pay for such electronic monitoring services; increases dollar amounts for relocation assistance for victims of domestic violence."
     }
   ],
   "other_titles": [],
@@ -101,9 +103,119 @@
       "_processing": {
         "log_file_created": "2026-01-15T12:29:13Z"
       }
+    },
+    {
+      "description": "PCS added to Criminal Justice Subcommittee agenda",
+      "date": "2026-01-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "Favorable with CS by Criminal Justice Subcommittee",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "Reported out of Criminal Justice Subcommittee",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 1)",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "Referred to Justice Budget Subcommittee",
+      "date": "2026-01-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "Referred to Judiciary Committee",
+      "date": "2026-01-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "Now in Justice Budget Subcommittee",
+      "date": "2026-01-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Criminal Justice Subcommittee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Criminal Justice Subcommittee\"}"
+    },
     {
       "name": "Tendrich",
       "classification": "primary",
@@ -137,6 +249,22 @@
       "organization_id": null
     },
     {
+      "name": "Bankson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bankson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Barnaby",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Barnaby\"}",
+      "organization_id": null
+    },
+    {
       "name": "Bartleman",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -153,6 +281,14 @@
       "organization_id": null
     },
     {
+      "name": "Black",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Black\"}",
+      "organization_id": null
+    },
+    {
       "name": "Campbell",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -166,6 +302,38 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Driskell\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Dunkley",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Dunkley\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Franklin",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Franklin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Grow",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Grow\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hart-Lowman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Hart-Lowman\"}",
       "organization_id": null
     },
     {
@@ -193,6 +361,14 @@
       "organization_id": null
     },
     {
+      "name": "Rosenwald",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rosenwald\"}",
+      "organization_id": null
+    },
+    {
       "name": "Spencer",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -201,11 +377,35 @@
       "organization_id": null
     },
     {
+      "name": "Steele",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Steele\"}",
+      "organization_id": null
+    },
+    {
       "name": "Vald\u00e9s",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Vald\\u00e9s\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Weinberger",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Weinberger\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Yarkosky",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Yarkosky\"}",
       "organization_id": null
     }
   ],
@@ -221,34 +421,33 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 277 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/277/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Criminal Justice Subcommittee (Post-Meeting) (1/29/2026 1:01 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/277/Analyses/h0277.CRM.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [
-    {
-      "publication": "Florida Statues",
-      "citation": "365.171",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/365.171"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "401.27",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/401.27"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "633.408",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/633.408"
-    },
     {
       "publication": "Florida Statues",
       "citation": "741.28",
@@ -256,14 +455,6 @@
       "effective": null,
       "expires": null,
       "url": "https://flsenate.gov/laws/statutes/2025/741.28"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "741.281",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/741.281"
     }
   ],
   "sources": [
@@ -280,6 +471,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-15T12:29:13Z"
+    "logs_latest_update": "2026-01-31T12:29:57Z"
   }
 }

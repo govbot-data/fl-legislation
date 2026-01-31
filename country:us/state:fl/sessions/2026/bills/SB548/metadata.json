@@ -13,7 +13,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Growth Management;  Deleting an exception to an applicability provision relating to concurrency; requiring that a demonstrated-need study use plan-based methodology for a certain purpose; revising the voting threshold required for approval of an ordinance increasing an impact fee beyond certain phase-in limitations; prohibiting local governments and school districts from increasing impact fee rates beyond certain phase-in limitations by more than a specified percentage within a certain timeframe, etc."
+      "abstract": "Growth Management;  Providing requirements for coordination mechanisms that are required for certain agreements required as part of the intergovernmental coordination element of a comprehensive plan; requiring that certain interlocal agreements use a plan-based methodology for a certain purpose; requiring that certain capacity standards be specified in a certain impact fee study; requiring that a demonstrated-need study be accompanied by a certain declaration; prohibiting local governments, school districts, and special districts from using certain data for a specified purpose, etc."
     }
   ],
   "other_titles": [],
@@ -74,9 +74,47 @@
       "_processing": {
         "log_file_created": "2026-01-21T12:32:32Z"
       }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "Now in Finance and Tax",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "CS by Community Affairs read 1st time",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:56Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Community Affairs",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Community Affairs\"}"
+    },
     {
       "name": "McClain",
       "classification": "primary",
@@ -102,6 +140,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 548 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/548/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/548/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -110,6 +163,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/548/Analyses/2026s00548.pre.ca.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Community Affairs (Post-Meeting) (1/22/2026 9:17 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/548/Analyses/2026s00548.ca.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -140,6 +204,14 @@
       "effective": null,
       "expires": null,
       "url": "https://flsenate.gov/laws/statutes/2025/163.3164"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "163.3177",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/163.3177"
     },
     {
       "publication": "Florida Statues",
@@ -180,6 +252,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-21T12:32:32Z"
+    "logs_latest_update": "2026-01-31T12:29:56Z"
   }
 }

@@ -7,15 +7,13 @@
     "bill"
   ],
   "subject": [
-    "civil practice and procedure",
-    "domestic relations",
     "judicial branch",
-    "real and personal property"
+    "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Court Fees;  Increases service charges clerk of circuit court charges for certain services rendered by clerk's office; increases certain filing fees that may be charged by clerk in probate matters; increases certain filing fees & service charges in trial & appellate proceedings; increases certain filing fees & service charges for civil actions, suits, or proceedings in county court; revises distribution formula for additional filing fees; increases service charge clerk is entitled to for disbursement of surplus proceeds for certain judicial sales procedures; increases filing fee for additional timeshare interests joining consolidated timeshare foreclosure action; increases fee clerk of circuit court may charge for auditing of return of ward's estate."
+      "abstract": "Court Fees;  Increases service charges clerk of circuit court charges for certain services rendered by clerk's office; increases certain filing fees & service charges that may be charged by clerk in probate matters; increases certain filing fees & service charges in trial & appellate proceedings; increases certain filing fees & service charges for civil actions, suits, or proceedings in county court; revises distribution formula for additional filing fees; increases service charge clerk is entitled to for disbursement of surplus proceeds for certain judicial sales procedures; increases filing fee for additional timeshare interests joining consolidated timeshare foreclosure action; increases fee clerk of circuit court may charge for auditing of return of ward's estate; requires Office of Economic & Demographic Research to prepare certain report; requires such report to be submitted to Legislature."
     }
   ],
   "other_titles": [],
@@ -155,9 +153,85 @@
       "_processing": {
         "log_file_created": "2026-01-22T12:31:40Z"
       }
+    },
+    {
+      "description": "Reported out of Justice Budget Subcommittee",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 1)",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "Referred to Judiciary Committee",
+      "date": "2026-01-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "Now in Judiciary Committee",
+      "date": "2026-01-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-31T12:29:57Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Justice Budget Subcommittee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Justice Budget Subcommittee\"}"
+    },
     {
       "name": "Smith",
       "classification": "primary",
@@ -167,11 +241,27 @@
       "organization_id": null
     },
     {
+      "name": "Alvarez, D.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Alvarez, D.\"}",
+      "organization_id": null
+    },
+    {
       "name": "Blanco",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Blanco\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gossett-Seidman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Gossett-Seidman\"}",
       "organization_id": null
     },
     {
@@ -227,6 +317,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 759 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/759/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -242,10 +343,10 @@
       "classification": ""
     },
     {
-      "note": "Bill Analysis -- Justice Budget Subcommittee (Post-Meeting) (1/20/2026 8:32 AM)",
+      "note": "Bill Analysis -- Justice Budget Subcommittee (Post-Meeting) (1/22/2026 11:36 AM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/759/Analyses/h0759b.JUB.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/759/Analyses/h0759c.JUB.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -336,6 +437,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-22T12:31:40Z"
+    "logs_latest_update": "2026-01-31T12:29:57Z"
   }
 }
