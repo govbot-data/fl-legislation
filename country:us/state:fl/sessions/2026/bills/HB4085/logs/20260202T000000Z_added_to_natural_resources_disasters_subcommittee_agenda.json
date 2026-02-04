@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Added to Natural Resources & Disasters Subcommittee agenda",
+    "date": "2026-02-02",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 4085"
+}

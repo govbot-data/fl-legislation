@@ -156,6 +156,50 @@
       "_processing": {
         "log_file_created": "2026-01-31T12:29:56Z"
       }
+    },
+    {
+      "description": "Referred to PreK-12 Budget Subcommittee",
+      "date": "2026-02-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-04T12:39:55Z"
+      }
+    },
+    {
+      "description": "Referred to Education & Employment Committee",
+      "date": "2026-02-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-04T12:39:55Z"
+      }
+    },
+    {
+      "description": "Now in PreK-12 Budget Subcommittee",
+      "date": "2026-02-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-04T12:39:55Z"
+      }
+    },
+    {
+      "description": "Added to PreK-12 Budget Subcommittee agenda",
+      "date": "2026-02-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-04T12:39:55Z"
+      }
     }
   ],
   "sponsorships": [
@@ -238,6 +282,17 @@
       "classification": ""
     },
     {
+      "note": "Bill Analysis -- PreK-12 Budget Subcommittee (Post-Meeting) (2/2/2026 5:00 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/859/Analyses/h0859b.PKB.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "248507 - Amendment to H 859 Filed",
       "links": [
         {
@@ -273,6 +328,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-31T12:29:56Z"
+    "logs_latest_update": "2026-02-04T12:39:55Z"
   }
 }

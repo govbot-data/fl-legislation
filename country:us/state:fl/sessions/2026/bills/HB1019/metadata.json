@@ -190,6 +190,16 @@
       "_processing": {
         "log_file_created": "2026-01-31T12:29:56Z"
       }
+    },
+    {
+      "description": "Added to Agriculture & Natural Resources Budget Subcommittee agenda",
+      "date": "2026-02-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-04T12:39:55Z"
+      }
     }
   ],
   "sponsorships": [
@@ -256,6 +266,17 @@
       "classification": ""
     },
     {
+      "note": "Bill Analysis -- Agriculture & Natural Resources Budget Subcommittee (Post-Meeting) (2/2/2026 5:15 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1019/Analyses/h1019b.ANR.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "201523 - Amendment to H 1019 Filed",
       "links": [
         {
@@ -293,6 +314,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-31T12:29:56Z"
+    "logs_latest_update": "2026-02-04T12:39:55Z"
   }
 }

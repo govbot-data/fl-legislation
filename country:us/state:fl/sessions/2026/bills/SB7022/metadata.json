@@ -93,6 +93,18 @@
       "_processing": {
         "log_file_created": "2026-01-31T12:29:56Z"
       }
+    },
+    {
+      "description": "Favorable by Governmental Oversight and Accountability; YEAS 9 NAYS 0",
+      "date": "2026-02-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-04T12:39:55Z"
+      }
     }
   ],
   "sponsorships": [
@@ -171,6 +183,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Governmental Oversight and Accountability (Post-Meeting) (2/2/2026 7:53 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/7022/Analyses/2026s07022.go.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [
@@ -197,6 +220,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-31T12:29:56Z"
+    "logs_latest_update": "2026-02-04T12:39:55Z"
   }
 }

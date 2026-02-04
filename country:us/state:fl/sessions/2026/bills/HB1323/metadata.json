@@ -88,6 +88,16 @@
       "_processing": {
         "log_file_created": "2026-01-17T12:25:12Z"
       }
+    },
+    {
+      "description": "Added to Economic Infrastructure Subcommittee agenda",
+      "date": "2026-02-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-04T12:39:55Z"
+      }
     }
   ],
   "sponsorships": [
@@ -114,7 +124,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Economic Infrastructure Subcommittee (Post-Meeting) (2/2/2026 5:25 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1323/Analyses/h1323.EIS.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -130,6 +152,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-17T12:25:12Z"
+    "logs_latest_update": "2026-02-04T12:39:55Z"
   }
 }

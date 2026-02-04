@@ -191,6 +191,16 @@
       "_processing": {
         "log_file_created": "2026-01-31T12:29:57Z"
       }
+    },
+    {
+      "description": "Added to Careers & Workforce Subcommittee agenda",
+      "date": "2026-02-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-04T12:39:55Z"
+      }
     }
   ],
   "sponsorships": [
@@ -257,6 +267,17 @@
       "classification": ""
     },
     {
+      "note": "Bill Analysis -- Careers & Workforce Subcommittee (Post-Meeting) (2/2/2026 5:20 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1343/Analyses/h1343b.CWS.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "785921 - Amendment to H 1343 Filed",
       "links": [
         {
@@ -303,6 +324,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-31T12:29:57Z"
+    "logs_latest_update": "2026-02-04T12:39:55Z"
   }
 }

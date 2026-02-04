@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Reported out of Ways & Means Committee",
+    "date": "2026-02-02",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 4061"
+}

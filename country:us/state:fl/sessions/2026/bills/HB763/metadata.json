@@ -8,7 +8,7 @@
   ],
   "subject": [
     "judicial branch",
-    "social welfare"
+    "subject index"
   ],
   "abstracts": [
     {
@@ -89,6 +89,16 @@
       "_processing": {
         "log_file_created": "2026-01-15T12:29:13Z"
       }
+    },
+    {
+      "description": "Added to Human Services Subcommittee agenda",
+      "date": "2026-02-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-04T12:39:55Z"
+      }
     }
   ],
   "sponsorships": [
@@ -98,6 +108,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Trabulsy\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rosenwald",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rosenwald\"}",
       "organization_id": null
     }
   ],
@@ -164,6 +182,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-15T12:29:13Z"
+    "logs_latest_update": "2026-02-04T12:39:55Z"
   }
 }

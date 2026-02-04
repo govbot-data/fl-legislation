@@ -113,6 +113,18 @@
       "_processing": {
         "log_file_created": "2026-01-31T12:29:57Z"
       }
+    },
+    {
+      "description": "Favorable by Military and Veterans Affairs, Space, and Domestic Security; YEAS 5 NAYS 0",
+      "date": "2026-02-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-04T12:39:55Z"
+      }
     }
   ],
   "sponsorships": [
@@ -201,6 +213,17 @@
       "classification": ""
     },
     {
+      "note": "Bill Analysis -- Military and Veterans Affairs, Space, and Domestic Security (Post-Meeting) (2/2/2026 5:14 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/502/Analyses/2026s00502.ms.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "544570 - Amendment (Delete All) to S 502 Filed",
       "links": [
         {
@@ -231,6 +254,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-31T12:29:57Z"
+    "logs_latest_update": "2026-02-04T12:39:55Z"
   }
 }

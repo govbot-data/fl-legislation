@@ -66,13 +66,25 @@
       }
     },
     {
-      "description": "On Committee agenda-- Criminal Justice, 02/02/26, 3:30 pm, 37 Senate Building",
+      "description": "On Committee agenda-- Criminal Justice, 02/02/26, 3:30 pm, 37 Senate Building --Motion to Reconsider Adopted",
       "date": "2026-01-28",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-01-31T12:29:57Z"
+        "log_file_created": "2026-02-04T12:39:55Z"
+      }
+    },
+    {
+      "description": "Favorable by Criminal Justice; YEAS 8 NAYS 0",
+      "date": "2026-02-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-04T12:39:55Z"
       }
     }
   ],
@@ -110,6 +122,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/1750/Analyses/2026s01750.pre.cj.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Criminal Justice (Post-Meeting) (2/2/2026 6:16 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1750/Analyses/2026s01750.cj.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -213,6 +236,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-31T12:29:57Z"
+    "logs_latest_update": "2026-02-04T12:39:55Z"
   }
 }
