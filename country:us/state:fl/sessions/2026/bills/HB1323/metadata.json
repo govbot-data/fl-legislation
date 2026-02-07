@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Railroad Crossing Safety;  Requires railroad crossing constructed after specified date to include advanced detection & monitoring system & provides requirements therefor; requires existing railroad crossing upgrade or significant modification occurring after specified date to incorporate such system; requires DOT, in consultation with rail operators & safety experts, to develop certain standards, identify priority existing railroad crossings, & provide technical assistance to rail operators; authorizes funding assistance, tax credits, & other financial incentives; provides reporting requirements."
+      "abstract": "Railroad Crossing Safety;  Requires DOT to conduct statewide study on advanced detection & monitoring systems at railroad crossings; specifies scope of study; requires DOT to consult with specified entities; requires report to Governor & Legislature by specified date."
     }
   ],
   "other_titles": [],
@@ -98,9 +98,75 @@
       "_processing": {
         "log_file_created": "2026-02-04T12:39:55Z"
       }
+    },
+    {
+      "description": "Favorable with CS by Economic Infrastructure Subcommittee",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "Reported out of Economic Infrastructure Subcommittee",
+      "date": "2026-02-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 1)",
+      "date": "2026-02-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Economic Infrastructure Subcommittee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Economic Infrastructure Subcommittee\"}"
+    },
     {
       "name": "Tuck",
       "classification": "primary",
@@ -122,14 +188,36 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 1323 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1323/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
     {
-      "note": "Bill Analysis -- Economic Infrastructure Subcommittee (Post-Meeting) (2/2/2026 5:25 PM)",
+      "note": "Bill Analysis -- Economic Infrastructure Subcommittee (Post-Meeting) (2/5/2026 3:04 PM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/1323/Analyses/h1323.EIS.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/1323/Analyses/h1323a.EIS.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "132927 - Strike All Amendment to H 1323 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1323/Amendment/132927/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -152,6 +240,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-04T12:39:55Z"
+    "logs_latest_update": "2026-02-07T12:30:43Z"
   }
 }

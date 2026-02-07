@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Florida Building Code;  Prohibiting a local government from receiving state funds through a local funding initiative request to its legislative designation unless it has expended all funds through enforcing the Florida Building Code on authorized uses and does not have excess funds; providing that a local government is not eligible for additional state funds if it has been subject to a legislative committee\u2019s audit within a specified timeframe or if it fails to submit an affirmation to its legislative delegation, etc."
+      "abstract": "Florida Building Code;  Revising how a local government is required to spend excess funds; providing that a local government is not eligible to receive state funds through a local funding initiative request if it has been subject to a legislative committee\u2019s audit within a specified timeframe or if it fails to submit a certain affirmation to its legislative delegation, etc."
     }
   ],
   "other_titles": [],
@@ -63,9 +63,47 @@
       "_processing": {
         "log_file_created": "2026-01-31T12:29:56Z"
       }
+    },
+    {
+      "description": "CS by Community Affairs; YEAS 8 NAYS 0",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "Now in Appropriations Committee on Agriculture, Environment, and General Government",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Community Affairs",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Community Affairs\"}"
+    },
     {
       "name": "Leek",
       "classification": "primary",
@@ -91,9 +129,62 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 1614 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1614/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1614/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Community Affairs (Pre-Meeting) (2/2/2026 3:34 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1614/Analyses/2026s01614.pre.ca.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Community Affairs (Post-Meeting) (2/4/2026 5:03 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1614/Analyses/2026s01614.ca.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "709702 - Amendment to S 1614 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1614/Amendment/709702/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1614/Amendment/709702/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [
     {
       "publication": "Florida Statues",
@@ -118,6 +209,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-31T12:29:56Z"
+    "logs_latest_update": "2026-02-07T12:30:43Z"
   }
 }

@@ -8,6 +8,7 @@
   ],
   "subject": [
     "municipalities",
+    "real and personal property",
     "relations",
     "subject index"
   ],
@@ -65,9 +66,57 @@
       "_processing": {
         "log_file_created": "2026-01-31T12:29:56Z"
       }
+    },
+    {
+      "description": "CS by Transportation; YEAS 9 NAYS 0",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "Now in Community Affairs",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "On Committee agenda-- Community Affairs, 02/10/26, 3:00 pm, 37 Senate Building",
+      "date": "2026-02-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Transportation",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Transportation\"}"
+    },
     {
       "name": "Burgess",
       "classification": "primary",
@@ -93,9 +142,62 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 260 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/260/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/260/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Transportation (Pre-Meeting) (2/2/2026 12:57 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/260/Analyses/2026s00260.pre.tr.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Transportation (Post-Meeting) (2/4/2026 11:02 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/260/Analyses/2026s00260.tr.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "834474 - Amendment to S 260 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/260/Amendment/834474/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/260/Amendment/834474/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [
     {
       "publication": "Florida Statues",
@@ -128,6 +230,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-31T12:29:56Z"
+    "logs_latest_update": "2026-02-07T12:30:43Z"
   }
 }

@@ -8,7 +8,7 @@
   ],
   "subject": [
     "public lands and property",
-    "taxation and finance"
+    "subject index"
   ],
   "abstracts": [
     {
@@ -213,6 +213,38 @@
       "_processing": {
         "log_file_created": "2026-02-04T12:39:55Z"
       }
+    },
+    {
+      "description": "Favorable by Agriculture & Natural Resources Budget Subcommittee",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "Reported out of Agriculture & Natural Resources Budget Subcommittee",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "Now in State Affairs Committee",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
     }
   ],
   "sponsorships": [
@@ -271,10 +303,10 @@
       "classification": ""
     },
     {
-      "note": "Bill Analysis -- Agriculture & Natural Resources Budget Subcommittee (Post-Meeting) (2/2/2026 5:15 PM)",
+      "note": "Bill Analysis -- Agriculture & Natural Resources Budget Subcommittee (Post-Meeting) (2/4/2026 4:41 PM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/755/Analyses/h0755b.ANR.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/755/Analyses/h0755c.ANR.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -325,6 +357,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-04T12:39:55Z"
+    "logs_latest_update": "2026-02-07T12:30:43Z"
   }
 }

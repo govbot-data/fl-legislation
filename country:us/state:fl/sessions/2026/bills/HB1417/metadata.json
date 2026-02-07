@@ -9,7 +9,9 @@
   "subject": [
     "executive branch",
     "industry",
-    "public officers, employees, and records",
+    "public health",
+    "public lands and property",
+    "reclamation, and use",
     "subject index"
   ],
   "abstracts": [
@@ -101,6 +103,18 @@
       "_processing": {
         "log_file_created": "2026-02-04T12:39:55Z"
       }
+    },
+    {
+      "description": "Favorable with CS by Natural Resources & Disasters Subcommittee",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
     }
   ],
   "sponsorships": [
@@ -127,7 +141,41 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Natural Resources & Disasters Subcommittee (Post-Meeting) (2/3/2026 12:42 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1417/Analyses/h1417.NRD.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "254525 - Strike All Amendment to H 1417 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1417/Amendment/254525/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "037361 - Amendment to Amendment (254525) to H 1417 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1417/Amendment/037361/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [
     {
       "publication": "Florida Statues",
@@ -464,6 +512,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-04T12:39:55Z"
+    "logs_latest_update": "2026-02-07T12:30:43Z"
   }
 }

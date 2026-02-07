@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 1690",
-  "title": "Early Childhood Education",
+  "title": "Child Care and Early Learning Services",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,12 +10,16 @@
     "insurance",
     "judicial branch",
     "k",
+    "municipalities",
+    "public health",
+    "relations",
+    "social welfare",
     "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Early Childhood Education;  Revising the definition of the terms \u201cchild care facility\u201d and \u201cchild care personnel\u201d; revising the minimum standards for child care facility licensing; deleting provisions that require large family child care homes to provide parents of enrolled children information relating to certain viruses and the risks of leaving children in vehicles; prohibiting insurers from denying, cancelling, or refusing to renew a policy for residential property insurance on the basis that the policyholders or applicants operate large family child care homes, etc."
+      "abstract": "Child Care and Early Learning Services;  Revising the information on child care required to be disseminated electronically to the community; deleting the requirement that family child care homes and large family child care homes, respectively, provide specified information to parents each year; requiring that certain child care facilities exempt from licensure requirements meet certain minimum requirements; prohibiting residential property insurance policies from providing coverage for liability for claims arising out of, or in connection with, the operations of large family child care homes; establishing the Florida Endowment for Early Learning Foundation within a Department of Education direct-support organization for a specified purpose, etc."
     }
   ],
   "other_titles": [],
@@ -66,9 +70,57 @@
       "_processing": {
         "log_file_created": "2026-01-31T12:29:57Z"
       }
+    },
+    {
+      "description": "CS by Children, Families, and Elder Affairs; YEAS 4 NAYS 0",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-02-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "Now in Education Pre-K - 12",
+      "date": "2026-02-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "On Committee agenda-- Education Pre-K - 12, 02/10/26, 3:00 pm, 412 Knott Building",
+      "date": "2026-02-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Children, Families, and Elder Affairs",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Children, Families, and Elder Affairs\"}"
+    },
     {
       "name": "Calatayud",
       "classification": "primary",
@@ -94,17 +146,94 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 1690 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1690/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1690/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Children, Families, and Elder Affairs (Pre-Meeting) (2/2/2026 1:05 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1690/Analyses/2026s01690.pre.cf.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Children, Families, and Elder Affairs (Post-Meeting) (2/5/2026 1:17 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1690/Analyses/2026s01690.cf.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "109638 - Amendment (Delete All) to S 1690 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1690/Amendment/109638/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1690/Amendment/109638/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [
     {
       "publication": "Florida Statues",
-      "citation": "39.101",
+      "citation": "39.202",
       "citation_type": "proposed",
       "effective": null,
       "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/39.101"
+      "url": "https://flsenate.gov/laws/statutes/2025/39.202"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "125.0109",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/125.0109"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "166.0445",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/166.0445"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "212.08",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/212.08"
     },
     {
       "publication": "Florida Statues",
@@ -124,11 +253,107 @@
     },
     {
       "publication": "Florida Statues",
+      "citation": "402.306",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/402.306"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "402.309",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/402.309"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "402.310",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/402.310"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "402.3115",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/402.3115"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "402.312",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/402.312"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "402.313",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/402.313"
+    },
+    {
+      "publication": "Florida Statues",
       "citation": "402.3131",
       "citation_type": "proposed",
       "effective": null,
       "expires": null,
       "url": "https://flsenate.gov/laws/statutes/2025/402.3131"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "402.315",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/402.315"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "402.316",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/402.316"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "402.318",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/402.318"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "402.319",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/402.319"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "409.988",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/409.988"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "411.203",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/411.203"
     },
     {
       "publication": "Florida Statues",
@@ -148,11 +373,19 @@
     },
     {
       "publication": "Florida Statues",
-      "citation": "1002.95",
+      "citation": "1002.55",
       "citation_type": "proposed",
       "effective": null,
       "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/1002.95"
+      "url": "https://flsenate.gov/laws/statutes/2025/1002.55"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "1002.82",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/1002.82"
     }
   ],
   "sources": [
@@ -169,6 +402,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-31T12:29:57Z"
+    "logs_latest_update": "2026-02-07T12:30:43Z"
   }
 }

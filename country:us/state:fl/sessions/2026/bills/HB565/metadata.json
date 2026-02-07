@@ -7,12 +7,12 @@
     "bill"
   ],
   "subject": [
-    "subject index"
+    "public health"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Agency for Persons with Disabilities;  Requires level 2 employment screening for all employees of residential facilities & adult day training programs; provides background screening requirements for such employees; removes provision requiring organization to implement certain mentoring program to be qualified; revises administrative fine requirements,"
+      "abstract": "Agency for Persons with Disabilities ;  Requires level 2 employment screening for all employees of residential facilities & adult day training programs; requires agency to contract with state university to develop & administer certain surveys; provides requirements for such surveys; requires state university to submit certain report to agency by specified date; requires agency to conduct public hearings on specified information; conduct or contract for gap analysis for specified purposes; identify core competencies & performance metrics & make recommendations for standardizing assessments; & submit certain report to Governor & Legislature by specified date."
     }
   ],
   "other_titles": [],
@@ -86,9 +86,75 @@
       "_processing": {
         "log_file_created": "2026-02-04T12:39:55Z"
       }
+    },
+    {
+      "description": "Favorable with CS by Human Services Subcommittee",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "Reported out of Human Services Subcommittee",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 1)",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Human Services Subcommittee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Human Services Subcommittee\"}"
+    },
     {
       "name": "Tant",
       "classification": "primary",
@@ -126,9 +192,32 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 565 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/565/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Human Services Subcommittee (Post-Meeting) (2/4/2026 3:36 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/565/Analyses/h0565.HSS.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [
     {
       "publication": "Florida Statues",
@@ -137,22 +226,6 @@
       "effective": null,
       "expires": null,
       "url": "https://flsenate.gov/laws/statutes/2025/393.0655"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "393.0663",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/393.0663"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "393.0673",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/393.0673"
     }
   ],
   "sources": [
@@ -169,6 +242,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-04T12:39:55Z"
+    "logs_latest_update": "2026-02-07T12:30:43Z"
   }
 }

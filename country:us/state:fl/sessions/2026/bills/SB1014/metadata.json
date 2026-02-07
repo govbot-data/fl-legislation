@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Provision of Municipal Utility Service to Owners Outside the Municipal Limits;  Prohibiting a municipal utility from declining to extend service to properties outside its corporate limits under certain circumstances; requiring a municipal utility to expand its service to an owner who makes such a request under certain circumstances; requiring the municipal utility to make a determination within a specified timeframe and provide such determination to the owner in writing; requiring the municipal utility to provide the owner with specified information and to connect properties in a timely manner, etc."
+      "abstract": "Provision of Municipal Utility Service to Owners Outside the Municipal Limits;  Prohibiting a municipal utility from declining to extend service to properties outside its corporate limits under certain circumstances; requiring a municipal utility to expand its service to an owner who makes such a request under certain circumstances; requiring the municipal utility to make a determination within a specified timeframe and provide such determination to the owner in writing; requiring the municipal utility to provide the owner with specified information and to connect properties in a timely manner; authorizing a municipal utility to establish minimum application filing requirements, etc."
     }
   ],
   "other_titles": [],
@@ -63,9 +63,57 @@
       "_processing": {
         "log_file_created": "2026-01-31T12:29:56Z"
       }
+    },
+    {
+      "description": "CS by Regulated Industries; YEAS 8 NAYS 0",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "Now in Community Affairs",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "On Committee agenda-- Community Affairs, 02/10/26, 3:00 pm, 37 Senate Building",
+      "date": "2026-02-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Regulated Industries",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Regulated Industries\"}"
+    },
     {
       "name": "Mayfield",
       "classification": "primary",
@@ -91,9 +139,46 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 1014 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1014/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1014/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
+    {
+      "note": "Bill Analysis -- Regulated Industries (Pre-Meeting) (2/2/2026 11:50 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1014/Analyses/2026s01014.pre.ri.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Regulated Industries (Post-Meeting) (2/4/2026 3:56 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1014/Analyses/2026s01014.ri.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "214004 - Amendment to S 1014 Filed",
       "links": [
@@ -103,6 +188,21 @@
         },
         {
           "url": "https://flsenate.gov/Session/Bill/2026/1014/Amendment/214004/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "970382 - Amendment to S 1014 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1014/Amendment/970382/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1014/Amendment/970382/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -134,6 +234,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-31T12:29:56Z"
+    "logs_latest_update": "2026-02-07T12:30:43Z"
   }
 }

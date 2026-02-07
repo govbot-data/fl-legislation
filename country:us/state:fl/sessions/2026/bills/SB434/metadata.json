@@ -7,7 +7,7 @@
     "bill"
   ],
   "subject": [
-    "taxation and finance"
+    "subject index"
   ],
   "abstracts": [
     {
@@ -95,6 +95,28 @@
       "_processing": {
         "log_file_created": "2026-02-04T12:39:55Z"
       }
+    },
+    {
+      "description": "Favorable by Appropriations; YEAS 16 NAYS 0",
+      "date": "2026-02-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "Now in Rules",
+      "date": "2026-02-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
     }
   ],
   "sponsorships": [
@@ -104,6 +126,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Leek\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gaetz",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Gaetz\"}",
       "organization_id": null
     }
   ],
@@ -147,6 +177,28 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Appropriations (Pre-Meeting) (2/4/2026 9:18 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/434/Analyses/2026s00434.pre.ap.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Appropriations (Post-Meeting) (2/5/2026 11:54 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/434/Analyses/2026s00434.ap.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [],
@@ -164,6 +216,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-04T12:39:55Z"
+    "logs_latest_update": "2026-02-07T12:30:43Z"
   }
 }

@@ -11,9 +11,10 @@
     "judicial branch",
     "k",
     "municipalities",
+    "public health",
     "relations",
-    "subject index",
-    "taxation and finance"
+    "social welfare",
+    "subject index"
   ],
   "abstracts": [
     {
@@ -220,6 +221,28 @@
       "_processing": {
         "log_file_created": "2026-02-04T12:39:55Z"
       }
+    },
+    {
+      "description": "Added to Student Academic Success Subcommittee agenda",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "Favorable with CS by Student Academic Success Subcommittee",
+      "date": "2026-02-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
     }
   ],
   "sponsorships": [
@@ -279,6 +302,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/765/Analyses/h0765a.HSS.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Student Academic Success Subcommittee (Post-Meeting) (2/3/2026 5:23 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/765/Analyses/h0765b.SAS.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -505,6 +539,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-04T12:39:55Z"
+    "logs_latest_update": "2026-02-07T12:30:43Z"
   }
 }

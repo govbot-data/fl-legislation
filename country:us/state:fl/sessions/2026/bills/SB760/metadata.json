@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Violations of Pretrial Release Conditions for Violent Crimes;  Citing this act as the \u201cVictim Safety in Pretrial Release Act\u201d; providing that a person who is on pretrial release for a specified violent crime commits a separate criminal offense if such person willfully violates a condition of pretrial release; requiring the court to consider certain factors in determining whether to order pretrial detention or grant pretrial release; authorizing a law enforcement officer to arrest without a warrant any person suspected of violating a condition of pretrial release if the original arrest was for a specified violent crime, etc."
+      "abstract": "Violations of Pretrial Release Conditions for Violent Crimes;  Citing this act as the \u201cVictim Safety in Pretrial Release Act\u201d; providing that a person who is on pretrial release for a specified violent crime commits a separate criminal offense if such person willfully violates certain conditions of pretrial release; providing criminal penalties; providing that a law enforcement officer is not liable in a civil action for an arrest of a person based on probable cause to believe that the person has violated a condition of pretrial release in specified circumstances; authorizing a law enforcement officer to arrest a person without a warrant if there is probable cause to believe that the person has willfully violated certain conditions of pretrial release, etc."
     }
   ],
   "other_titles": [],
@@ -73,9 +73,47 @@
       "_processing": {
         "log_file_created": "2026-02-04T12:39:55Z"
       }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "Now in Appropriations Committee on Criminal and Civil Justice",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "CS by Criminal Justice read 1st time",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Criminal Justice",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Criminal Justice\"}"
+    },
     {
       "name": "McClain",
       "classification": "primary",
@@ -101,6 +139,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 760 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/760/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/760/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -109,6 +162,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/760/Analyses/2026s00760.pre.cj.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Criminal Justice (Post-Meeting) (2/4/2026 9:08 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/760/Analyses/2026s00760.cj.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -155,6 +219,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-04T12:39:55Z"
+    "logs_latest_update": "2026-02-07T12:30:43Z"
   }
 }

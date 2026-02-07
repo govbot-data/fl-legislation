@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Gubernatorial Transition;  Requires Governor to designate transition liaison within EOG; requires head of each state agency to designate agency transition liaison; provides duties of agency transition liaisons; requires DMS & each state agency to provide temporary office space to certain persons during transition period; requires each state agency to provide Governor-elect & his or her staff with access to agency leadership personnel during transition period; authorizes Governor-elect & his or her staff to be granted access to state agency records under certain conditions; provides criminal penalties; requires Florida Digital Service to provide Governor-elect & his or her staff with specified resources."
+      "abstract": "Gubernatorial Transition;  Requires Governor to designate transition liaison within EOG within specified timeframe; provides duties of transition liaison; requires head of each state agency to designate agency transition liaison within specified timeframe; provides duties of agency transition liaisons; requires DMS & each state agency to provide certain temporary office facilities to certain persons during transition period; requires DMS, upon request, to provide Governor-elect & his or her staff with information technology & related services for such transition period; requires Governor-elect to designate in writing staff to be provided with such services; requires specified persons to sign certain memorandum of understanding; requires each state agency, upon request, to provide Governor-elect & his or her staff with access to agency leadership personnel during transition period; authorizes state agencies to assign limited personnel to assist Governor-elect & his or her staff; requires that Governor-elect & his or her staff be granted access to all state agency records upon request; requires that Governor-elect & persons designated by Governor-elect be granted access to confidential & exempt records under certain conditions; provides criminal penalties."
     }
   ],
   "other_titles": [],
@@ -86,9 +86,97 @@
       "_processing": {
         "log_file_created": "2026-01-31T12:29:57Z"
       }
+    },
+    {
+      "description": "Favorable with CS by State Affairs Committee",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "Reported out of State Affairs Committee",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "Referred to Budget Committee",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "Now in Budget Committee",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 1)",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "State Affairs Committee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"State Affairs Committee\"}"
+    },
     {
       "name": "Overdorf",
       "classification": "primary",
@@ -110,9 +198,43 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 1063 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1063/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- State Affairs Committee (Post-Meeting) (2/3/2026 6:08 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1063/Analyses/h1063a.SAC.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "890193 - Amendment to H 1063 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1063/Amendment/890193/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [
     {
       "publication": "Florida Statues",
@@ -137,6 +259,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-31T12:29:57Z"
+    "logs_latest_update": "2026-02-07T12:30:43Z"
   }
 }

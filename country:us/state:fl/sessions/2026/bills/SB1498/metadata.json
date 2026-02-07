@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Community Associations;  Revising a requirement that a developer, before turning over control of a condominium association to its unit owners, have a turnover inspection report for all buildings on the condominium property, rather than buildings that are three stories or higher in height; revising how associations that have not adopted electronic voting must receive electronically transmitted ballots; revising a requirement that a developer, before turning over control of a cooperative association to unit owners, have a turnover inspection report for all buildings on the cooperative property, rather than buildings that are three stories or higher in height, etc."
+      "abstract": "Community Associations;  Revising conditions that constitute a violation of certain provisions related to certain records of a condominium association; revising how associations that have not adopted electronic voting are required to receive electronically transmitted ballots; revising a requirement that a developer, before turning over control of a cooperative association to unit owners, have a turnover inspection report for all buildings on the cooperative property, rather than only for buildings that are three stories or higher; providing that the official records of a homeowners\u2019 association are open to inspection by certain persons at all reasonable times, etc."
     }
   ],
   "other_titles": [],
@@ -63,15 +63,61 @@
       "_processing": {
         "log_file_created": "2026-01-31T12:29:56Z"
       }
+    },
+    {
+      "description": "CS by Regulated Industries; YEAS 7 NAYS 0",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "Now in Appropriations Committee on Agriculture, Environment, and General Government",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Regulated Industries",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Regulated Industries\"}"
+    },
     {
       "name": "Bradley",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Bradley\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Boyd",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Boyd\"}",
       "organization_id": null
     }
   ],
@@ -91,9 +137,62 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 1498 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1498/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1498/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Regulated Industries (Pre-Meeting) (2/2/2026 11:50 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1498/Analyses/2026s01498.pre.ri.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Regulated Industries (Post-Meeting) (2/4/2026 3:56 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1498/Analyses/2026s01498.ri.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "946314 - Amendment (Delete All) to S 1498 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1498/Amendment/946314/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1498/Amendment/946314/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [
     {
       "publication": "Florida Statues",
@@ -102,6 +201,14 @@
       "effective": null,
       "expires": null,
       "url": "https://flsenate.gov/laws/statutes/2025/718.103"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "718.111",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/718.111"
     },
     {
       "publication": "Florida Statues",
@@ -126,6 +233,70 @@
       "effective": null,
       "expires": null,
       "url": "https://flsenate.gov/laws/statutes/2025/719.106"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "720.301",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/720.301"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "720.302",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/720.302"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "720.303",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/720.303"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "720.305",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/720.305"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "720.307",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/720.307"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "720.3075",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/720.3075"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "720.308",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/720.308"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "720.3086",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/720.3086"
     }
   ],
   "sources": [
@@ -142,6 +313,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-31T12:29:56Z"
+    "logs_latest_update": "2026-02-07T12:30:43Z"
   }
 }

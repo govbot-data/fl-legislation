@@ -7,12 +7,12 @@
     "bill"
   ],
   "subject": [
-    "subject index"
+    "social welfare"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Community-based Care Lead Agency and Subcontractor Liability;  Provides circumstances under which community-based care lead agency is not liable in tort for acts or omissions of its officers or employees; provides that community-based care lead agency may be held liable in tort for such acts or omissions; provides that community-based care lead agency is not liable in tort for acts or omissions of its subcontractors; provides circumstances under which subcontractor of community-based care lead agency is not liable in tort for acts or omissions of subcontractor's officers, agents, or employees; provides that subcontractor of community-based care lead agency may be held liable in tort for such acts or omissions."
+      "abstract": "Community-based Care Lead Agency and Subcontractor Liability;  Removes liability insurance coverage requirements for community-based care lead agencies & subcontractors of community-based care lead agencies; removes requirement to annually increase certain conditional limitations on damages by specified percentage."
     }
   ],
   "other_titles": [],
@@ -98,9 +98,75 @@
       "_processing": {
         "log_file_created": "2026-01-31T12:29:57Z"
       }
+    },
+    {
+      "description": "Favorable with CS by Civil Justice & Claims Subcommittee",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "Reported out of Civil Justice & Claims Subcommittee",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 1)",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Civil Justice & Claims Subcommittee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Civil Justice & Claims Subcommittee\"}"
+    },
     {
       "name": "Chamberlin",
       "classification": "primary",
@@ -122,9 +188,32 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 529 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/529/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Civil Justice & Claims Subcommittee (Post-Meeting) (2/4/2026 9:19 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/529/Analyses/h0529.CIV.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [
     {
       "publication": "Florida Statues",
@@ -149,6 +238,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-31T12:29:57Z"
+    "logs_latest_update": "2026-02-07T12:30:43Z"
   }
 }

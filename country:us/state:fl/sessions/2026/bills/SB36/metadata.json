@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Use of Professional Nursing Titles;  Authorizing persons who hold specified licenses to practice professional nursing or to perform nursing services to use certain titles and abbreviations; requiring doctoral degree holders to specify their profession when using a specified title, etc."
+      "abstract": "Use of Professional Nursing Titles;  Authorizing licensed nurses who hold a doctoral degree to use specified titles and abbreviations in a specified manner; prohibiting nurses who hold a doctoral degree from using a specified title in the clinical setting without clearly specifying their profession, etc."
     }
   ],
   "other_titles": [],
@@ -73,9 +73,47 @@
       "_processing": {
         "log_file_created": "2026-02-04T12:39:55Z"
       }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "Now in Appropriations Committee on Health and Human Services",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "CS by Health Policy read 1st time",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Health Policy",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Health Policy\"}"
+    },
     {
       "name": "Sharief",
       "classification": "primary",
@@ -133,6 +171,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 36 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/36/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/36/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -141,6 +194,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/36/Analyses/2026s00036.pre.hp.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Health Policy (Post-Meeting) (2/3/2026 1:18 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/36/Analyses/2026s00036.hp.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -187,6 +251,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-04T12:39:55Z"
+    "logs_latest_update": "2026-02-07T12:30:43Z"
   }
 }

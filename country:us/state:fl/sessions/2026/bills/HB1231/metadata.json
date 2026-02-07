@@ -7,13 +7,12 @@
     "bill"
   ],
   "subject": [
-    "insurance",
     "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Final Disposition, Funeral, and Cemetery Services;  Prohibits solicitations of sales of final disposition, funeral, & cemetery services by licensees of such services under certain circumstances; provides exceptions to civil actions against persons & companies offering final disposition, funeral, & cemetery services; revises land requirements for proposed cemeteries; specifies educational & testing requirements for licensure as embalmers & funeral directors by endorsement; revises requirements for licensure for funeral director interns; prohibits new applications for direct disposer licenses & prohibits issuances of such licenses on or after specified date; authorizes practices of direct disposition for grandfathered licensees; prohibits new applications for direct disposal establishment licenses & prohibits issuances of such licenses on or after specified date; authorizes practices of direct disposition for grandfathered establishments; decreases waiting time period for funeral & direct disposal establishments to dispose of cremated remains; excludes preneed contracts from requirements that insured persons apply for or consent to such contracts & terms."
+      "abstract": "Final Disposition, Funeral, and Cemetery Services ;  Revises provisions relating to solicitations of sales of final disposition, funeral, & cemetery services by licensees of such services; cemetery land requirements; licensure of specified positions relating to final disposition, funeral, & cemetery services; disposal of human remains; & requirements for notices to purchasers & legally authorized persons of unfulfilled preneed contracts; provides requirements for licensure of natural organic reduction facilities & requirements for practice of natural organic reduction; revises provisions relating to waiting time period for funeral & direct disposal establishments to dispose of cremated remains; excludes preneed contracts from requirements that insured persons apply for or consent to such contracts & terms."
     }
   ],
   "other_titles": [],
@@ -87,9 +86,75 @@
       "_processing": {
         "log_file_created": "2026-01-31T12:29:57Z"
       }
+    },
+    {
+      "description": "Favorable with CS by Insurance & Banking Subcommittee",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "Reported out of Insurance & Banking Subcommittee",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 1)",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Insurance & Banking Subcommittee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Insurance & Banking Subcommittee\"}"
+    },
     {
       "name": "Oliver",
       "classification": "primary",
@@ -111,10 +176,52 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 1231 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1231/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Insurance & Banking Subcommittee (Post-Meeting) (2/5/2026 11:08 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1231/Analyses/h1231a.IBS.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "027301 - Strike All Amendment to H 1231 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1231/Amendment/027301/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [
+    {
+      "publication": "Florida Statues",
+      "citation": "497.005",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/497.005"
+    },
     {
       "publication": "Florida Statues",
       "citation": "497.164",
@@ -122,14 +229,6 @@
       "effective": null,
       "expires": null,
       "url": "https://flsenate.gov/laws/statutes/2025/497.164"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "497.169",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/497.169"
     },
     {
       "publication": "Florida Statues",
@@ -202,38 +301,6 @@
       "effective": null,
       "expires": null,
       "url": "https://flsenate.gov/laws/statutes/2025/497.459"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "497.602",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/497.602"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "497.604",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/497.604"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "497.607",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/497.607"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "627.404",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/627.404"
     }
   ],
   "sources": [
@@ -250,6 +317,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-31T12:29:57Z"
+    "logs_latest_update": "2026-02-07T12:30:43Z"
   }
 }

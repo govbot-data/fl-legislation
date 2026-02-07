@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Practice of Chiropractic Medicine;  Revises definition of term \"practice of chiropractic medicine\"; authorizes chiropractic physicians to possess, prescribe, & administer vitamins, nutrient preparations, homeopathic remedies, dietary supplements, & epinephrine by specified means; requires chiropractic physicians to be certified by Board of Chiropractic Medicine to administer by injection vitamins, nutrient preparations, homeopathic remedies, dietary supplements, & epinephrine; provides requirements for certification program; authorizes licensed pharmacists to fill, compound, or dispense certain nutritional prescriptions for licensed chiropractic physicians under certain circumstances."
+      "abstract": "Practice of Chiropractic Medicine;  Revises definition of term \"practice of chiropractic medicine\"; authorizes chiropractic physicians to order, store, possess, prescribe, & administer, only by means of injection at chiropractic physician\u2019s office, sterile substances, including vitamins, minerals, & nutritional supplements; authorizes chiropractic physicians to possess, for emergency purposes only at chiropractic physician's office or place of business, prescription medical oxygen; prohibits chiropractic physicians from administering certain sterile substances by means of injection unless he or she has been certified by board; prohibits chiropractic physicians from administering certain any substance through intravenous therapy; requires chiropractic physician to be certified before administering sterile substances in specified manner; requires Board of Chiropractic Medicine to establish minimum standards of practice for administration of certain sterile substances by means of injection by chiropractic physicians; provides requirements for such standards; requires board to issue chiropractic physician letter certifying that he or she is authorized to administer specified sterile substances by means of injection under certain conditions."
     }
   ],
   "other_titles": [],
@@ -86,9 +86,75 @@
       "_processing": {
         "log_file_created": "2026-01-31T12:29:56Z"
       }
+    },
+    {
+      "description": "Favorable with CS by Health Professions & Programs Subcommittee",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "Reported out of Health Professions & Programs Subcommittee",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 1)",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Health Professions & Programs Subcommittee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Health Professions & Programs Subcommittee\"}"
+    },
     {
       "name": "Cobb",
       "classification": "primary",
@@ -110,9 +176,54 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 439 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/439/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Health Professions & Programs Subcommittee (Post-Meeting) (2/4/2026 1:10 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/439/Analyses/h0439a.HPP.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "863031 - Amendment to H 439 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/439/Amendment/863031/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "253293 - Strike All Amendment to H 439 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/439/Amendment/253293/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [
     {
       "publication": "Florida Statues",
@@ -137,6 +248,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-31T12:29:56Z"
+    "logs_latest_update": "2026-02-07T12:30:43Z"
   }
 }

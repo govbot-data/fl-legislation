@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Extracurricular Activities;  Revising eligibility requirements for a student to participate in an interscholastic or intrascholastic extracurricular activity; deleting requirements for the Florida High School Athletic Association to facilitate a program for private school students to participate in an interscholastic or intrascholastic sport; prohibiting a school from imposing additional fees on a student who wishes to participate in extracurricular activities; providing indemnity for a school and district school board under specified circumstances, etc."
+      "abstract": "Extracurricular Activities;  Revising eligibility requirements for a student to participate in an interscholastic or intrascholastic extracurricular activity; deleting requirements for the Florida High School Athletic Association to facilitate a program for private school students to participate in an interscholastic or intrascholastic sport; authorizing a public school to assess an activity fee for certain students; providing indemnity for a school and district school board under specified circumstances, etc."
     }
   ],
   "other_titles": [],
@@ -113,9 +113,67 @@
       "_processing": {
         "log_file_created": "2026-01-31T12:29:56Z"
       }
+    },
+    {
+      "description": "CS/CS by Judiciary; YEAS 11 NAYS 0",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "CS/CS by Judiciary read 1st time",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "Now in Rules",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "On Committee agenda-- Rules, 02/10/26, 9:00 am, 412 Knott Building",
+      "date": "2026-02-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Judiciary",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Judiciary\"}",
+      "organization_id": null
+    },
     {
       "name": "Education Pre-K - 12",
       "classification": "primary",
@@ -164,6 +222,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 538 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/538/BillText/c2/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/538/BillText/c2/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -190,6 +263,28 @@
       "classification": ""
     },
     {
+      "note": "Bill Analysis -- Judiciary (Pre-Meeting) (2/2/2026 12:31 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/538/Analyses/2026s00538.pre.ju.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Judiciary (Post-Meeting) (2/4/2026 11:01 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/538/Analyses/2026s00538.ju.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "733444 - Amendment (Delete All) to S 538 Filed",
       "links": [
         {
@@ -206,6 +301,14 @@
     }
   ],
   "citations": [
+    {
+      "publication": "Florida Statues",
+      "citation": "1002.31",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/1002.31"
+    },
     {
       "publication": "Florida Statues",
       "citation": "1002.33",
@@ -269,6 +372,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-31T12:29:56Z"
+    "logs_latest_update": "2026-02-07T12:30:43Z"
   }
 }

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Favorable by Community Affairs; YEAS 8 NAYS 0",
+    "date": "2026-02-03",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 1548"
+}

@@ -8,12 +8,12 @@
   ],
   "subject": [
     "k",
-    "subject index"
+    "torts"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Athletics in Public K-12 Schools;  Requiring the Florida High School Athletic Association to adopt bylaws authorizing a coach to support the welfare of a student by using personal funds to provide certain effects to the student; requiring the coach to report such use of personal funds to the association; providing that such use of personal funds is presumed not to be an impermissible benefit, etc."
+      "abstract": "Athletics in Public K-12 Schools;  Requiring the Florida High School Athletic Association to adopt bylaws authorizing a head coach to support the welfare of a student by using personal funds to provide certain effects to the student; requiring the head coach to report such use of personal funds to the association; providing that such use of personal funds is presumed not to be an impermissible benefit, etc."
     }
   ],
   "other_titles": [],
@@ -114,9 +114,67 @@
       "_processing": {
         "log_file_created": "2026-01-31T12:29:57Z"
       }
+    },
+    {
+      "description": "CS/CS by Judiciary; YEAS 10 NAYS 0",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "CS/CS by Judiciary read 1st time",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "Now in Rules",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "On Committee agenda-- Rules, 02/10/26, 9:00 am, 412 Knott Building",
+      "date": "2026-02-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Judiciary",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Judiciary\"}",
+      "organization_id": null
+    },
     {
       "name": "Education Pre-K - 12",
       "classification": "primary",
@@ -165,6 +223,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 178 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/178/BillText/c2/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/178/BillText/c2/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -184,6 +257,28 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/178/Analyses/2026s00178.ed.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Judiciary (Pre-Meeting) (2/2/2026 12:31 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/178/Analyses/2026s00178.pre.ju.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Judiciary (Post-Meeting) (2/3/2026 7:10 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/178/Analyses/2026s00178.ju.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -262,6 +357,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-31T12:29:57Z"
+    "logs_latest_update": "2026-02-07T12:30:43Z"
   }
 }

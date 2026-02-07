@@ -8,15 +8,14 @@
   ],
   "subject": [
     "crimes",
-    "electors and elections",
     "public business",
-    "public officers, employees, and records",
+    "real and personal property",
     "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Foreign Influence;  Requires agents of foreign countries of concern & foreign-supported political organizations to register with, & provide updates to, Division of Elections; provides registration & form requirements; prohibits specified persons from soliciting or accepting anything of value from certain organizations & countries; requires Commission on Ethics to adopt certain rules by specified date; prohibits governmental entity from entering into certain contracts with foreign sources of concern; prohibits certain activities encouraging affiliations with foreign countries of concern; requires Department of Commerce to publish & update certain information on its website; revises list of, & exemption for, linkage institutes; prohibits linkage institute from entering into agreement or participating in activity with foreign country of concern; requires certain agreements be terminated by specified date; prohibits certain entities from entering into certain contracts with foreign sources of concern; requires certain entities to register with Department of Commerce by specified date; provides requirements for registration forms; provides civil & criminal penalties; requires certain entities to provide specified affidavit to department; prohibits information technology from foreign source of concern from being used in critical infrastructure facilities; provides for reclassification of criminal penalties; prohibits enforcement of certain laws of foreign government."
+      "abstract": "Foreign Influence;  Requires agents of foreign countries of concern & foreign-supported political organizations to register with Division of Elections; provides registration & form requirements; prohibits specified persons from soliciting or accepting anything of value from certain organizations & countries; authorizes tax collector or local governing authority to revoke or refuse to renew certain receipts & to request specified affidavits; provides criminal penalties; prohibits governmental entity from entering into certain contracts with foreign sources of concern; prohibits certain activities encouraging affiliations with foreign countries of concern; requires Department of Commerce to publish & update certain information on its website; revises list of, exemption for, & authority of linkage institutes; requires certain agreements be terminated by specified date; prohibits certain entities from entering into certain contracts with foreign sources of concern; requires certain entities to register with Department of Commerce by specified date; provides requirements for registration forms; provides civil & criminal penalties; requires certain entities to provide specified affidavit to department; prohibits information technology from foreign source of concern from being used in critical infrastructure facilities; provides for reclassification of criminal penalties; prohibits enforcement of certain laws of foreign government."
     }
   ],
   "other_titles": [],
@@ -228,9 +227,97 @@
       "_processing": {
         "log_file_created": "2026-01-31T12:29:57Z"
       }
+    },
+    {
+      "description": "Favorable with CS by Judiciary Committee",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "Reported out of Judiciary Committee",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "Referred to State Affairs Committee",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "Now in State Affairs Committee",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 2)",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Judiciary Committee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Judiciary Committee\"}"
+    },
     {
       "name": "Government Operations Subcommittee",
       "classification": "primary",
@@ -245,6 +332,30 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Persons-Mulicka\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Alvarez, D.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Alvarez, D.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Cassel",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Cassel\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Fabricio",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Fabricio\"}",
       "organization_id": null
     },
     {
@@ -287,6 +398,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 905 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/905/BillText/c2/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -295,6 +417,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/905/Analyses/h0905a.GOS.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Judiciary Committee (Post-Meeting) (2/3/2026 4:13 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/905/Analyses/h0905c.JDC.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -328,6 +461,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-31T12:29:57Z"
+    "logs_latest_update": "2026-02-07T12:30:43Z"
   }
 }

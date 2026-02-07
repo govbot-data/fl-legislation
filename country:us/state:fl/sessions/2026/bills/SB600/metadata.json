@@ -7,13 +7,13 @@
     "bill"
   ],
   "subject": [
-    "criminal procedure and corrections",
-    "insurance"
+    "insurance",
+    "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Bail Bonds;  Decreasing the duration of in-person classroom-instruction basic certification courses required to be considered for approval and certification as an approved limited surety agent and professional bail bond agent prelicensing school; prohibiting bail bond agents and agencies from soliciting certain persons; requiring, rather than authorizing, that any monetary or cash component of any form of pretrial release be met by specified means; requiring that, upon a court\u2019s entry of an order to revoke pretrial release and order pretrial detention, the clerk of the court discharge any bond previously posted as a condition of pretrial release without further order of the court, etc."
+      "abstract": "Bail Bonds;  Decreasing the duration of in-person classroom-instruction basic certification courses required to be considered for approval and certification as an approved limited surety agent and professional bail bond agent prelicensing school; prohibiting bail bond agents and agencies from soliciting certain persons; requiring, rather than authorizing, that any monetary or cash component of any form of pretrial release be met by specified means; requiring that, upon a court\u2019s entry of an order to revoke pretrial release and order pretrial detention in certain circumstances, the clerk of the court discharge any bond previously posted as a condition of pretrial release without further order of the court, etc."
     }
   ],
   "other_titles": [],
@@ -74,9 +74,57 @@
       "_processing": {
         "log_file_created": "2026-02-04T12:39:55Z"
       }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "Original reference(s) removed: Judiciary",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "Remaining references corrected to Appropriations Committee on Criminal and Civil Justice; Rules",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "Now in Appropriations Committee on Criminal and Civil Justice",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Criminal Justice",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Criminal Justice\"}"
+    },
     {
       "name": "Truenow",
       "classification": "primary",
@@ -102,6 +150,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 600 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/600/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/600/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -110,6 +173,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/600/Analyses/2026s00600.pre.cj.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Criminal Justice (Post-Meeting) (2/4/2026 2:31 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/600/Analyses/2026s00600.cj.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -340,6 +414,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-04T12:39:55Z"
+    "logs_latest_update": "2026-02-07T12:30:43Z"
   }
 }

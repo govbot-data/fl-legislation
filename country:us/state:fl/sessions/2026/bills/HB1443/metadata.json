@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Parkinson's Disease Registry;  Requires physicians to report certain information to Parkinson's disease registry; provides limited liability for physicians; authorizes President of Senate & Speaker of House of Representatives to each appoint one member to Parkinson's Disease Research Board; requires board, subject to appropriation, to contract with private entity to establish & maintain statewide Parkinson's disease registry; provides requirements for such registry & private entity."
+      "abstract": "Parkinson's Disease Registry;  Requires physicians & advanced practice registered nurses to report certain information to Parkinson's disease registry; provides limited liability for physicians & advanced practice registered nurses; requires President of Senate & Speaker of House of Representatives to each appoint one member to Parkinson's Disease Research Board; revises membership qualifications & terms; revises report requirements; requires Institute for Parkinson's Disease within University of South Florida, subject to appropriation, to establish & maintain statewide Parkinson's disease registry; provides requirements for such registry; requires institute to create & maintain Parkinson's disease registry-specific website; provides requirements for such website."
     }
   ],
   "other_titles": [],
@@ -190,9 +190,85 @@
       "_processing": {
         "log_file_created": "2026-01-31T12:29:56Z"
       }
+    },
+    {
+      "description": "Added to Health Care Budget Subcommittee agenda",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "Favorable with CS by Health Care Budget Subcommittee",
+      "date": "2026-02-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "Reported out of Health Care Budget Subcommittee",
+      "date": "2026-02-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 2)",
+      "date": "2026-02-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Health Care Budget Subcommittee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Health Care Budget Subcommittee\"}"
+    },
     {
       "name": "Health Professions & Programs Subcommittee",
       "classification": "primary",
@@ -233,6 +309,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 1443 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1443/BillText/c2/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -241,6 +328,28 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/1443/Analyses/h1443.HPP.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Health Care Budget Subcommittee (Post-Meeting) (2/4/2026 8:44 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1443/Analyses/h1443a.HCB.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "468749 - Strike All Amendment to H 1443 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1443/Amendment/468749/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -263,6 +372,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-31T12:29:56Z"
+    "logs_latest_update": "2026-02-07T12:30:43Z"
   }
 }

@@ -1,23 +1,23 @@
 {
   "legislative_session": "2026",
   "identifier": "HB 1069",
-  "title": "Background Screenings",
+  "title": "Background Screenings of Athletic Coaches",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
   "subject": [
-    "and solicitations",
-    "criminal procedure and corrections",
     "judicial branch",
     "k",
     "labor",
+    "public health",
+    "social welfare",
     "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Background Screenings;  Specifies additional disqualifying offenses under background screening requirements for certain persons; requires AHCA, beginning on specified date or as soon as practicable thereafter, to review & determine eligibility for all criminal history checks submitted to Care Provider Background Screening Clearinghouse by specified agencies; requires clearinghouse to share eligibility determinations with specified agencies; requires specified agencies & qualified entities to process exemptions from disqualification pursuant to specified provision; making technical change; provides that, beginning on specified date, independent sanctioning authority is considered qualified entity for purpose of participating in clearinghouse; prohibits independent sanctioning authority from allowing certain persons to act as athletic coaches beginning on specified date; authorizes person who has not undergone certain background screening to act as athletic coach if he or she is under direct supervision of athletic coach who meets certain background screening requirements."
+      "abstract": "Background Screenings of Athletic Coaches;  Provides that independent sanctioning authority is deemed to be a qualified entity for purpose of participating in Care Provider Background Screening Clearinghouse; authorizes person who has not undergone certain background screening to act as athletic coach if he or she is under direct supervision of athletic coach who meets certain background screening requirements."
     }
   ],
   "other_titles": [],
@@ -115,9 +115,75 @@
       "_processing": {
         "log_file_created": "2026-01-31T12:29:56Z"
       }
+    },
+    {
+      "description": "Favorable with CS by Health & Human Services Committee",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "Reported out of Health & Human Services Committee",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 1)",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Health & Human Services Committee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Health & Human Services Committee\"}"
+    },
     {
       "name": "Trabulsy",
       "classification": "primary",
@@ -139,74 +205,33 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 1069 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1069/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Health & Human Services Committee (Post-Meeting) (2/4/2026 11:45 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1069/Analyses/h1069.HHS.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [
-    {
-      "publication": "Florida Statues",
-      "citation": "44.407",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/44.407"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "397.487",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/397.487"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "397.4871",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/397.4871"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "409.913",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/409.913"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "435.03",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/435.03"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "435.04",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/435.04"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "435.12",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/435.12"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "501.9741",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/501.9741"
-    },
     {
       "publication": "Florida Statues",
       "citation": "943.0438",
@@ -214,46 +239,6 @@
       "effective": null,
       "expires": null,
       "url": "https://flsenate.gov/laws/statutes/2025/943.0438"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "943.0542",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/943.0542"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "1012.22",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/1012.22"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "1012.315",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/1012.315"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "1012.797",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/1012.797"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "1012.799",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/1012.799"
     }
   ],
   "sources": [
@@ -270,6 +255,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-31T12:29:56Z"
+    "logs_latest_update": "2026-02-07T12:30:43Z"
   }
 }

@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Prosecution of Defendants;  Specifying that it is a defense to a prosecution under any law that a defendant, as a result of mental disease or defect, lacked the culpable mental state required as an element of the crime charged; requiring an expert examining a defendant\u2019s mental competence to proceed to administer a clinically recognized instrument to determine whether the defendant is malingering and include the results in his or her report; revising a mitigating circumstance under which a departure from the lowest permissible sentence is reasonably justified; authorizing the incorporation into a convicted defendant\u2019s criminal sentence certain specialized treatment for mental health disease or defects, etc."
+      "abstract": "Prosecution of Defendants;  Revising the qualifications for an insanity defense; updating reporting requirements for examining experts; revising requirements for dismissal of charges; requiring involuntary commitment for persons found not guilty by reason of insanity in certain circumstances; revising mitigating circumstances for sentencing, etc."
     }
   ],
   "other_titles": [],
@@ -83,9 +83,67 @@
       "_processing": {
         "log_file_created": "2026-02-04T12:39:55Z"
       }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "CS by Criminal Justice read 1st time",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "Original reference(s) removed: Judiciary",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "Remaining references corrected to Appropriations Committee on Criminal and Civil Justice; Rules",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "Now in Appropriations Committee on Criminal and Civil Justice",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Criminal Justice",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Criminal Justice\"}"
+    },
     {
       "name": "Martin",
       "classification": "primary",
@@ -111,6 +169,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 1326 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1326/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1326/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -119,6 +192,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/1326/Analyses/2026s01326.pre.cj.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Criminal Justice (Post-Meeting) (2/4/2026 11:46 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1326/Analyses/2026s01326.cj.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -160,6 +244,22 @@
     },
     {
       "publication": "Florida Statues",
+      "citation": "916.145",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/916.145"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "916.15",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/916.15"
+    },
+    {
+      "publication": "Florida Statues",
       "citation": "921.0026",
       "citation_type": "proposed",
       "effective": null,
@@ -181,6 +281,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-04T12:39:55Z"
+    "logs_latest_update": "2026-02-07T12:30:43Z"
   }
 }

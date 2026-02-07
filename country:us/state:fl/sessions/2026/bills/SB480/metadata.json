@@ -7,8 +7,6 @@
     "bill"
   ],
   "subject": [
-    "electors and elections",
-    "executive branch",
     "labor",
     "public business",
     "subject index"
@@ -67,6 +65,16 @@
       "_processing": {
         "log_file_created": "2026-01-31T12:29:56Z"
       }
+    },
+    {
+      "description": "CS by Appropriations Committee on Agriculture, Environment, and General Government; YEAS 11 NAYS 0",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
     }
   ],
   "sponsorships": [
@@ -97,7 +105,34 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Appropriations Committee on Agriculture, Environment, and General Government (Pre-Meeting) (2/3/2026 3:42 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/480/Analyses/2026s00480.pre.aeg.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "816038 - Amendment (Delete All) to S 480 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/480/Amendment/816038/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/480/Amendment/816038/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -113,6 +148,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-31T12:29:56Z"
+    "logs_latest_update": "2026-02-07T12:30:43Z"
   }
 }

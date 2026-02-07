@@ -1,18 +1,19 @@
 {
   "legislative_session": "2026",
   "identifier": "HB 881",
-  "title": "Pari-Mutuel Wagering",
+  "title": "Pari-mutuel Wagering",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
   "subject": [
+    "concurrent)",
     "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Pari-Mutuel Wagering;  Authorizes certain permitholders to choose not to conduct live racing following notice to FGCC; revises provisions related to permitholder relocation; authorizes thoroughbred racing permits to be transferred upon authorizing of commission; removes requirement for certain referendums; removes requirement that certain permits escheat to state following nonpayment of taxes; revises entity that designates certain members of board of directors of specified not-for-profit corporation; revises provisions related to facilities that may be leased."
+      "abstract": "Pari-mutuel Wagering;  Authorizes thoroughbred permitholders to elect not to conduct live racing; specifying that such permitholders retain certain permits, eligibility, exemptions, & licenses; revising penalties for permitholders who do not pay specified taxes; revising requirements for thoroughbred permitholders who have certain slot machines & cardroom licenses."
     }
   ],
   "other_titles": [],
@@ -176,9 +177,105 @@
       "_processing": {
         "log_file_created": "2026-01-31T12:29:56Z"
       }
+    },
+    {
+      "description": "Favorable with CS by Commerce Committee",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "Reported out of Commerce Committee",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "Bill referred to House Calendar",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 2)",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "Added to Second Reading Calendar",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "Bill added to Special Order Calendar (2/11/2026)",
+      "date": "2026-02-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Commerce Committee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Commerce Committee\"}"
+    },
     {
       "name": "Industries & Professional Activities Subcommittee",
       "classification": "primary",
@@ -219,6 +316,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 881 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/881/BillText/c2/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -227,6 +335,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/881/Analyses/h0881a.IPA.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Commerce Committee (Post-Meeting) (2/3/2026 5:58 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/881/Analyses/h0881b.COM.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -256,35 +375,11 @@
     },
     {
       "publication": "Florida Statues",
-      "citation": "550.054",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/550.054"
-    },
-    {
-      "publication": "Florida Statues",
       "citation": "550.09515",
       "citation_type": "proposed",
       "effective": null,
       "expires": null,
       "url": "https://flsenate.gov/laws/statutes/2025/550.09515"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "550.3345",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/550.3345"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "550.475",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/550.475"
     },
     {
       "publication": "Florida Statues",
@@ -296,11 +391,19 @@
     },
     {
       "publication": "Florida Statues",
-      "citation": "550.6335",
+      "citation": "551.104",
       "citation_type": "proposed",
       "effective": null,
       "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/550.6335"
+      "url": "https://flsenate.gov/laws/statutes/2025/551.104"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "849.086",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/849.086"
     }
   ],
   "sources": [
@@ -317,6 +420,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-31T12:29:56Z"
+    "logs_latest_update": "2026-02-07T12:30:43Z"
   }
 }

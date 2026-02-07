@@ -7,7 +7,7 @@
     "bill"
   ],
   "subject": [
-    "railroads and other regulated utilities"
+    "subject index"
   ],
   "abstracts": [
     {
@@ -86,6 +86,38 @@
       "_processing": {
         "log_file_created": "2026-02-04T12:39:55Z"
       }
+    },
+    {
+      "description": "Favorable by Economic Infrastructure Subcommittee",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "Reported out of Economic Infrastructure Subcommittee",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "Now in Commerce Committee",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
     }
   ],
   "sponsorships": [
@@ -114,10 +146,10 @@
   ],
   "documents": [
     {
-      "note": "Bill Analysis -- Economic Infrastructure Subcommittee (Post-Meeting) (2/2/2026 5:30 PM)",
+      "note": "Bill Analysis -- Economic Infrastructure Subcommittee (Post-Meeting) (2/4/2026 6:01 PM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/53/Analyses/h0053.EIS.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/53/Analyses/h0053a.EIS.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -140,6 +172,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-04T12:39:55Z"
+    "logs_latest_update": "2026-02-07T12:30:43Z"
   }
 }

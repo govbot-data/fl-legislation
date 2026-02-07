@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Transportation Infrastructure Land Development Regulations;  Citing this act as the \u201cTransit-Oriented Development Act\u201d or the \u201cTOD Act\u201d; requiring the governing body of a county or municipality to adopt an ordinance, and the governing body of a special district to adopt a resolution, establishing specified transit-oriented development (TOD) zones and rural livable urban village (LUV) areas by a certain date; prohibiting a local government from imposing certain building regulations in specified TOD zones and rural LUV areas; prohibiting the reduction or elimination of TOD zones after establishment; prohibiting a local government from imposing certain regulations for lots that contain historic property; providing a waiver of sovereign immunity, etc."
+      "abstract": "Transportation Infrastructure Land Development Regulations;  Creating the \u201cTransit-Oriented Development Act\u201d for a specified purpose; requiring the governing body of a county or municipality to adopt an ordinance, and the governing body of a special district to adopt a resolution, establishing specified transit-oriented development (TOD) zones by a certain date; prohibiting a local government from imposing certain regulations in specified TOD zones; providing a private cause of action for certain property owners and housing organizations; encouraging public transit providers and public agencies to develop land within specified TOD zones, etc."
     }
   ],
   "other_titles": [],
@@ -63,9 +63,67 @@
       "_processing": {
         "log_file_created": "2026-01-31T12:29:56Z"
       }
+    },
+    {
+      "description": "CS by Community Affairs; YEAS 8 NAYS 0",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "Original reference(s) removed: Judiciary",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "Remaining references corrected to Appropriations Committee on Transportation, Tourism, and Economic Development; Rules",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "Now in Appropriations Committee on Transportation, Tourism, and Economic Development",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Community Affairs",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Community Affairs\"}"
+    },
     {
       "name": "Rouson",
       "classification": "primary",
@@ -91,10 +149,87 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 1342 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1342/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1342/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
-  "citations": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Community Affairs (Pre-Meeting) (2/2/2026 3:33 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1342/Analyses/2026s01342.pre.ca.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Community Affairs (Post-Meeting) (2/4/2026 5:17 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1342/Analyses/2026s01342.ca.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "219360 - Amendment (Delete All) to S 1342 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1342/Amendment/219360/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1342/Amendment/219360/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "251288 - Amendment to Amendment (219360) to S 1342 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1342/Amendment/251288/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1342/Amendment/251288/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [
+    {
+      "publication": "Florida Statues",
+      "citation": "163.3164",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/163.3164"
+    }
+  ],
   "sources": [
     {
       "url": "https://flsenate.gov/Session/Bill/2026/1342/ByCategory",
@@ -109,6 +244,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-31T12:29:56Z"
+    "logs_latest_update": "2026-02-07T12:30:43Z"
   }
 }

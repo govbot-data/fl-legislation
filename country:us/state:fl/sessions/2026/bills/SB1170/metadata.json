@@ -13,7 +13,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Education;  Requiring the Office of Reimagining Education and Career Help to provide specified information to individuals; deleting references to the Video Cameras in Public School Classrooms Pilot Program; requiring a district school board to vote to establish a policy to provide video cameras in self-contained classrooms upon the request of a parent; prohibiting a school or school district from concealing the identity of an employee in a video recording, etc."
+      "abstract": "Education;  Deleting references to the Video Cameras in Public School Classrooms Pilot Program; deleting an obsolete definition; authorizing certain parents to submit a written request to the school principal for installation and operation of a video camera in a self-contained classroom; requiring that a video camera be operational within a specified timeframe after approval of a request under the policy; prohibiting a school or school district from concealing the identity of an employee in a video recording, etc."
     }
   ],
   "other_titles": [],
@@ -64,9 +64,67 @@
       "_processing": {
         "log_file_created": "2026-01-31T12:29:57Z"
       }
+    },
+    {
+      "description": "CS by Education Pre-K - 12; YEAS 6 NAYS 0",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-02-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "Original reference(s) removed: Judiciary",
+      "date": "2026-02-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "Remaining references corrected to Appropriations Committee on Pre-K - 12 Education; Rules",
+      "date": "2026-02-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "Now in Appropriations Committee on Pre-K - 12 Education",
+      "date": "2026-02-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Education Pre-K - 12",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Education Pre-K - 12\"}"
+    },
     {
       "name": "Calatayud",
       "classification": "primary",
@@ -92,18 +150,63 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 1170 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1170/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1170/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
-  "citations": [
+  "documents": [
     {
-      "publication": "Florida Statues",
-      "citation": "14.36",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/14.36"
+      "note": "Bill Analysis -- Education Pre-K - 12 (Pre-Meeting) (2/2/2026 3:30 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1170/Analyses/2026s01170.pre.ed.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     },
+    {
+      "note": "Bill Analysis -- Education Pre-K - 12 (Post-Meeting) (2/5/2026 9:04 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1170/Analyses/2026s01170.ed.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "294232 - Amendment to S 1170 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1170/Amendment/294232/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1170/Amendment/294232/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [
     {
       "publication": "Florida Statues",
       "citation": "1003.574",
@@ -127,6 +230,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-31T12:29:57Z"
+    "logs_latest_update": "2026-02-07T12:30:43Z"
   }
 }

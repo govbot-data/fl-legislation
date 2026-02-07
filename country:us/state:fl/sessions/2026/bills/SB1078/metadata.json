@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Gubernatorial Transition;  Requiring the Governor to designate a transition liaison within the Executive Office of the Governor within a specified timeframe; providing duties of the transition liaison; requiring the head of each state agency to designate an agency transition liaison within a specified timeframe; requiring the Department of Management Services and each state agency to provide certain temporary office facilities to certain persons during the transition period; requiring the Governor-elect and his or her staff to be granted access to state agency records under certain conditions, etc."
+      "abstract": "Gubernatorial Transition;  Requiring the Governor to designate a transition liaison within the Executive Office of the Governor within a specified timeframe; requiring the head of each state agency to designate an agency transition liaison within a specified timeframe; requiring the Department of Management Services and each state agency to provide certain temporary office facilities to certain persons during the transition period; requiring that the Governor-elect and his or her staff be granted access to all state agency records upon request, etc."
     }
   ],
   "other_titles": [],
@@ -73,9 +73,47 @@
       "_processing": {
         "log_file_created": "2026-02-04T12:39:55Z"
       }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "Now in Appropriations Committee on Agriculture, Environment, and General Government",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "CS by Governmental Oversight and Accountability read 1st time",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Governmental Oversight and Accountability",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Governmental Oversight and Accountability\"}"
+    },
     {
       "name": "Grall",
       "classification": "primary",
@@ -101,6 +139,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 1078 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1078/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1078/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -109,6 +162,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/1078/Analyses/2026s01078.pre.go.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Governmental Oversight and Accountability (Post-Meeting) (2/3/2026 11:53 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1078/Analyses/2026s01078.go.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -155,6 +219,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-04T12:39:55Z"
+    "logs_latest_update": "2026-02-07T12:30:43Z"
   }
 }

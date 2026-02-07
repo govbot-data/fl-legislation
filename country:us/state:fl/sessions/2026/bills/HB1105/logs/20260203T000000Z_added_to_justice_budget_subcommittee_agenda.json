@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Added to Justice Budget Subcommittee agenda",
+    "date": "2026-02-03",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 1105"
+}

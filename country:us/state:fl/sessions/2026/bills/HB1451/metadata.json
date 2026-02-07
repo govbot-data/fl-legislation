@@ -7,12 +7,12 @@
     "bill"
   ],
   "subject": [
-    "municipalities"
+    "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Utility Services;  Requires certain public meetings as condition precedent to effectiveness of new or extended agreement under which municipality will provide specified utility services in other municipalities or unincorporated areas; limits portion of certain utility revenues that municipality may use to fund or finance general government functions; requires excess revenues to be reinvested into municipal utility or returned to customers; requires municipalities that provide specified utility services to report certain information by specified date, & annually thereafter, to PSC; requires PSC to compile such information & submit report by specified date, & annually thereafter, to Governor & Legislature."
+      "abstract": "Utility Services;  Requires certain public meetings as condition precedent to effectiveness of new or extended agreement under which municipality will provide specified utility services in other municipalities or unincorporated areas; specifies matters to be addressed at such public meetings; requires such agreements to be written; requires annual public customer meetings; revises provisions relating to permissible rates, fees, & charges imposed by municipal water & sewer utilities on customers located outside municipal boundaries; requires municipalities that provide specified utility services to report certain information by specified date, & annually thereafter, to PSC; requires commission to compile such information & submit report by specified date, & annually thereafter, to Governor & Legislature."
     }
   ],
   "other_titles": [],
@@ -98,9 +98,75 @@
       "_processing": {
         "log_file_created": "2026-02-04T12:39:55Z"
       }
+    },
+    {
+      "description": "Favorable with CS by Economic Infrastructure Subcommittee",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "Reported out of Economic Infrastructure Subcommittee",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 1)",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Economic Infrastructure Subcommittee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Economic Infrastructure Subcommittee\"}"
+    },
     {
       "name": "Busatta",
       "classification": "primary",
@@ -122,14 +188,36 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 1451 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1451/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
     {
-      "note": "Bill Analysis -- Economic Infrastructure Subcommittee (Post-Meeting) (2/2/2026 7:30 PM)",
+      "note": "Bill Analysis -- Economic Infrastructure Subcommittee (Post-Meeting) (2/4/2026 6:27 PM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/1451/Analyses/h1451.EIS.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/1451/Analyses/h1451a.EIS.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "547041 - Amendment to H 1451 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1451/Amendment/547041/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -145,6 +233,14 @@
       "effective": null,
       "expires": null,
       "url": "https://flsenate.gov/laws/statutes/2025/180.19"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "180.191",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/180.191"
     }
   ],
   "sources": [
@@ -161,6 +257,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-04T12:39:55Z"
+    "logs_latest_update": "2026-02-07T12:30:43Z"
   }
 }

@@ -1,19 +1,20 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 526",
-  "title": "Commercial Construction Projects",
+  "title": "Construction Regulations",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
   ],
   "subject": [
-    "and solicitations",
-    "public business"
+    "public business",
+    "public lands and property",
+    "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Commercial Construction Projects;  Defining the term \u201cawarding body\u201d; providing that provisions contained in public construction contracts which purport to waive, release, or extinguish certain rights of a contractor are void and unenforceable under specified circumstances; providing construction; requiring the Florida Building Commission, in consultation with the Department of Business and Professional Regulation, to create a uniform commercial building permit application; defining the term \u201ccommercial construction project\u201d; requiring local enforcement agencies to reduce permit fees for commercial construction projects by certain percentages under certain circumstances, etc."
+      "abstract": "Construction Regulations;  Prohibiting a governmental entity that contracts for a public works project from taking certain actions; requiring the Florida Building Commission to adopt by rule uniform commercial building permit acceptance standards for a specified purpose by a specified date; requiring a local jurisdiction to include a certain reduction in the permit fee on its schedule of fees posted on its website; requiring nonresidential structures built in a flood zone after a specified date to have the lowest floor elevated above the required design flood elevation; revising the products requiring statewide approval to include mitigation products, etc."
     }
   ],
   "other_titles": [],
@@ -106,9 +107,47 @@
       "_processing": {
         "log_file_created": "2026-02-04T12:39:55Z"
       }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "Now in Rules",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "CS by Governmental Oversight and Accountability read 1st time",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Governmental Oversight and Accountability",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Governmental Oversight and Accountability\"}"
+    },
     {
       "name": "Grall",
       "classification": "primary",
@@ -129,6 +168,21 @@
         },
         {
           "url": "https://flsenate.gov/Session/Bill/2026/526/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S 526 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/526/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/526/BillText/c1/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -164,6 +218,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/526/Analyses/2026s00526.pre.go.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Governmental Oversight and Accountability (Post-Meeting) (2/3/2026 11:53 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/526/Analyses/2026s00526.go.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -216,6 +281,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-04T12:39:55Z"
+    "logs_latest_update": "2026-02-07T12:30:43Z"
   }
 }

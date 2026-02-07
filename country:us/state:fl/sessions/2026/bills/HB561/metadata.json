@@ -7,7 +7,7 @@
     "bill"
   ],
   "subject": [
-    "k"
+    "subject index"
   ],
   "abstracts": [
     {
@@ -140,6 +140,38 @@
       "_processing": {
         "log_file_created": "2026-02-04T12:39:55Z"
       }
+    },
+    {
+      "description": "Favorable by PreK-12 Budget Subcommittee",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "Reported out of PreK-12 Budget Subcommittee",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "Now in Education & Employment Committee",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
     }
   ],
   "sponsorships": [
@@ -149,6 +181,22 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Gerwig\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Daniels",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Daniels\"}",
+      "organization_id": null
+    },
+    {
+      "name": "L\u00f3pez, J.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"L\\u00f3pez, J.\"}",
       "organization_id": null
     },
     {
@@ -187,10 +235,10 @@
       "classification": ""
     },
     {
-      "note": "Bill Analysis -- PreK-12 Budget Subcommittee (Post-Meeting) (2/2/2026 5:05 PM)",
+      "note": "Bill Analysis -- PreK-12 Budget Subcommittee (Post-Meeting) (2/4/2026 10:50 AM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/561/Analyses/h0561b.PKB.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/561/Analyses/h0561c.PKB.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -238,6 +286,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-04T12:39:55Z"
+    "logs_latest_update": "2026-02-07T12:30:43Z"
   }
 }

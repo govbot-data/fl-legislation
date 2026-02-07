@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 862",
-  "title": "Law Enforcement Officers, Correctional Officers, and Institutional Security Specialists",
+  "title": "Correctional Officers, Correctional Probation Officers, and Institutional Security Specialists",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Law Enforcement Officers, Correctional Officers, and Institutional Security Specialists;  Citing this act as the \"Correctional and Probation Officer Fairness Act\"; requiring that the average salary of a correctional officer, a correctional probation officer, or an institutional security specialist be no less than a certain percentage of the average salaries of sworn law enforcement officers; requiring the Department of Management Services to submit an annual compensation analysis report to the Governor and the Legislature; requiring an annual salary increase for sworn law enforcement officers, correctional officers, correctional probation officers, and institutional security specialists, etc."
+      "abstract": "Correctional Officers, Correctional Probation Officers, and Institutional Security Specialists;  Citing this act as the \"Correctional and Probation Officer Fairness Act\"; requiring that, beginning on a specified date, the minimum annual base rate of pay for a correctional officer, a correctional probation officer, or an institutional security specialist be no less than $60,000; requiring the Department of Management Services to submit an annual compensation analysis report to the Governor and Legislature, beginning on a specified date; requiring, beginning with a specified fiscal year and subject to legislative appropriation, an annual increase to the base rate of pay for correctional officers, correctional probation officers, and institutional security specialists, etc."
     }
   ],
   "other_titles": [],
@@ -73,9 +73,47 @@
       "_processing": {
         "log_file_created": "2026-02-04T12:39:55Z"
       }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "Now in Appropriations Committee on Criminal and Civil Justice",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "CS by Governmental Oversight and Accountability read 1st time",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Governmental Oversight and Accountability",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Governmental Oversight and Accountability\"}"
+    },
     {
       "name": "Martin",
       "classification": "primary",
@@ -101,6 +139,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 862 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/862/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/862/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -109,6 +162,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/862/Analyses/2026s00862.pre.go.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Governmental Oversight and Accountability (Post-Meeting) (2/3/2026 10:36 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/862/Analyses/2026s00862.go.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -155,6 +219,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-04T12:39:55Z"
+    "logs_latest_update": "2026-02-07T12:30:43Z"
   }
 }

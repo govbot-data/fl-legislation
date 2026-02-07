@@ -9,13 +9,15 @@
   "subject": [
     "executive branch",
     "industry",
-    "public officers, employees, and records",
+    "public health",
+    "public lands and property",
+    "reclamation, and use",
     "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Department of Environmental Protection;  Deleting provisions creating the Environmental Regulation Commission; requiring that residential properties of a specified size located in a certain area connect to a central sewer system or upgrade to a specified type of nutrient-reducing wastewater treatment system; providing that remediation plans for certain properties may not prohibit or require certain actions relating to onsite sewage treatment and disposal systems; providing for a type 2 transfer of powers and functions of the Florida Communities Trust from the department to the Acquisition and Restoration Council; revising legislative findings and intent for the Florida Communities Trust, etc."
+      "abstract": "Department of Environmental Protection;  Deleting provisions creating the Environmental Regulation Commission; requiring that residential properties of a specified size located in a certain area connect to a central sewer system or upgrade to a specified type of nutrient-reducing wastewater treatment system; authorizing remediation plans for certain properties to have certain requirements related to existing conventional onsite sewage treatment and disposal systems; revising legislative findings and intent for the Florida Communities Trust; revising the approval criteria for certain onsite sewage treatment and disposal systems, etc."
     }
   ],
   "other_titles": [],
@@ -66,9 +68,47 @@
       "_processing": {
         "log_file_created": "2026-01-31T12:29:57Z"
       }
+    },
+    {
+      "description": "CS by Environment and Natural Resources; YEAS 7 NAYS 0",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-02-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "Now in Appropriations Committee on Agriculture, Environment, and General Government",
+      "date": "2026-02-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Environment and Natural Resources",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Environment and Natural Resources\"}"
+    },
     {
       "name": "Massullo",
       "classification": "primary",
@@ -94,9 +134,62 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 1510 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1510/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1510/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Environment and Natural Resources (Pre-Meeting) (2/5/2026 8:08 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1510/Analyses/2026s01510.pre.en.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Environment and Natural Resources (Post-Meeting) (2/5/2026 8:21 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1510/Analyses/2026s01510.en.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "732092 - Amendment to S 1510 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1510/Amendment/732092/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1510/Amendment/732092/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [
     {
       "publication": "Florida Statues",
@@ -393,30 +486,6 @@
       "effective": null,
       "expires": null,
       "url": "https://flsenate.gov/laws/statutes/2025/403.814"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "403.9301",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/403.9301"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "576.041",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/576.041"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "576.045",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/576.045"
     }
   ],
   "sources": [
@@ -433,6 +502,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-31T12:29:57Z"
+    "logs_latest_update": "2026-02-07T12:30:43Z"
   }
 }

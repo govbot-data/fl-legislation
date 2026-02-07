@@ -200,6 +200,38 @@
       "_processing": {
         "log_file_created": "2026-01-31T12:29:56Z"
       }
+    },
+    {
+      "description": "Favorable by Judiciary Committee",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "Reported out of Judiciary Committee",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "Now in Health & Human Services Committee",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
     }
   ],
   "sponsorships": [
@@ -244,6 +276,14 @@
       "organization_id": null
     },
     {
+      "name": "Hunschofsky",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Hunschofsky\"}",
+      "organization_id": null
+    },
+    {
       "name": "Tant",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -257,6 +297,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Tendrich\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Trabulsy",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Trabulsy\"}",
       "organization_id": null
     }
   ],
@@ -298,10 +346,10 @@
       "classification": ""
     },
     {
-      "note": "Bill Analysis -- Judiciary Committee (Post-Meeting) (1/30/2026 5:09 PM)",
+      "note": "Bill Analysis -- Judiciary Committee (Post-Meeting) (2/3/2026 1:57 PM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/47/Analyses/h0047b.JDC.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/47/Analyses/h0047c.JDC.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -360,6 +408,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-31T12:29:56Z"
+    "logs_latest_update": "2026-02-07T12:30:43Z"
   }
 }

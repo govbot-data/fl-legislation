@@ -9,13 +9,16 @@
   "subject": [
     "aviation",
     "ports and harbors",
+    "public lands and property",
     "public transportation",
+    "real and personal property",
+    "reclamation, and use",
     "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Transportation;  Revises provisions relating to personal delivery devices & drones; provides requirements for DOT; authorizes certain license tax revenues be pledged for repayment of specified bonds; requires EOG, rather than Legislative Budget Commission, to approve rolling over certain spending authority to next fiscal year; increases work program amendment threshold that requires certain approval; removes Legislative Budget Commission as entity required to approve certain emergency loans; provides penalties for certain offenses relating to autonomous vehicles; repeals provisions relating to digital proof of driver license or ID card & electronic insurance verification."
+      "abstract": "Transportation;  Requires Florida Greenways & Trails Council to meet within specified timeframe to update specified recommendations; requires seaports to include specified strategies for obtaining & maintaining critical infrastructure resources as part of 10-year strategic plan; revises provisions relating to personal delivery devices & drones; requires commercial service airports to provide methods for obtaining & maintaining critical infrastructure resources; provides penalties for certain offenses relating to autonomous vehicles."
     }
   ],
   "other_titles": [],
@@ -113,9 +116,75 @@
       "_processing": {
         "log_file_created": "2026-02-04T12:39:55Z"
       }
+    },
+    {
+      "description": "Favorable with CS by Economic Infrastructure Subcommittee",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "Reported out of Economic Infrastructure Subcommittee",
+      "date": "2026-02-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 1)",
+      "date": "2026-02-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Economic Infrastructure Subcommittee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Economic Infrastructure Subcommittee\"}"
+    },
     {
       "name": "Griffitts",
       "classification": "primary",
@@ -145,10 +214,58 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 1233 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1233/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
-  "citations": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Economic Infrastructure Subcommittee (Post-Meeting) (2/5/2026 5:14 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1233/Analyses/h1233.EIS.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [
+    {
+      "publication": "Florida Statues",
+      "citation": "260.0142",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/260.0142"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "311.07",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/311.07"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "311.14",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/311.14"
+    }
+  ],
   "sources": [
     {
       "url": "https://flsenate.gov/Session/Bill/2026/1233/ByCategory",
@@ -163,6 +280,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-04T12:39:55Z"
+    "logs_latest_update": "2026-02-07T12:30:43Z"
   }
 }

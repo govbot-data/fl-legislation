@@ -8,9 +8,12 @@
   ],
   "subject": [
     "business organizations",
-    "judicial branch",
+    "insurance",
     "real and personal property",
-    "subject index"
+    "social welfare",
+    "subject index",
+    "torts",
+    "veterans"
   ],
   "abstracts": [
     {
@@ -87,6 +90,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-01-22T12:31:40Z"
+      }
+    },
+    {
+      "description": "On Committee agenda-- Judiciary, 02/10/26, 12:00 pm, 110 Senate Building",
+      "date": "2026-02-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:30:43Z"
       }
     }
   ],
@@ -310,6 +323,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-22T12:31:40Z"
+    "logs_latest_update": "2026-02-07T12:30:43Z"
   }
 }
