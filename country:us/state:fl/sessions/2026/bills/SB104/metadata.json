@@ -7,17 +7,19 @@
     "bill"
   ],
   "subject": [
+    "(adopted)",
+    "and solicitations",
     "aviation",
     "commercial relations",
-    "concurrent)",
     "crimes",
-    "electors and elections",
     "industry",
     "labor",
+    "motor vehicles",
     "municipalities",
     "public business",
-    "public officers, employees, and records",
+    "public lands and property",
     "public transportation",
+    "real and personal property",
     "relations",
     "state organization",
     "subject index",
@@ -164,6 +166,39 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "Bill referred to House Calendar",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "Bill added to Special Order Calendar (2/19/2026)",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "1st Reading (Original Filed Version)",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
       }
     }
   ],
@@ -779,6 +814,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-31T12:29:56Z"
+    "logs_latest_update": "2026-02-13T12:39:39Z"
   }
 }

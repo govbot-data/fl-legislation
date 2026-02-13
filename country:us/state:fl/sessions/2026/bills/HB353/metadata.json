@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "HB 353",
-  "title": "Sickle Cell Care Management and Treatment Continuing Education",
+  "title": "Sickle Cell Disease Treatment of Pain Continuing Education",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Sickle Cell Care Management and Treatment Continuing Education;  Revises requirements for continuing education course on prescribing controlled substances; requires specified continuing education course for first licensure & certification renewal for specified health care professions; provides requirements for such courses; authorizes appropriate boards to adopt rules."
+      "abstract": "Sickle Cell Disease Treatment of Pain Continuing Education;  Revises requirements for continuing education course on prescribing controlled substances."
     }
   ],
   "other_titles": [],
@@ -76,9 +76,85 @@
       "_processing": {
         "log_file_created": "2026-01-15T12:29:12Z"
       }
+    },
+    {
+      "description": "PCS added to Health Professions & Programs Subcommittee agenda",
+      "date": "2026-02-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "Favorable with CS by Health Professions & Programs Subcommittee",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "Reported out of Health Professions & Programs Subcommittee",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 1)",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Health Professions & Programs Subcommittee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Health Professions & Programs Subcommittee\"}"
+    },
     {
       "name": "Robinson, F.",
       "classification": "primary",
@@ -108,9 +184,32 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 353 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/353/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Health Professions & Programs Subcommittee (Post-Meeting) (2/11/2026 2:02 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/353/Analyses/h0353.HPP.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [
     {
       "publication": "Florida Statues",
@@ -135,6 +234,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-15T12:29:12Z"
+    "logs_latest_update": "2026-02-13T12:39:39Z"
   }
 }

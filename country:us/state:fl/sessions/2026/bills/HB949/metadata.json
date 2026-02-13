@@ -1,19 +1,22 @@
 {
   "legislative_session": "2026",
   "identifier": "HB 949",
-  "title": "Temporary Custody of Minor Children",
+  "title": "Child Welfare",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
   "subject": [
+    "domestic relations",
     "judicial branch",
+    "k",
+    "public health",
     "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Temporary Custody of Minor Children;  Requires protective investigator to provide certain information and, if necessary, guidance to relatives of child contacted during protective investigation; authorizes grandparent to petition for temporary or concurrent custody of his or her grandchild; including statement of specific acts or omissions of child's parents which demonstrate certain use of controlled substance or alcohol in statements that may be contained in petition for temporary or concurrent custody; defines \"controlled substance\"; requires court to grant petition if it is in best interests of child to grant custody & there is substantial threat of harm if custody is not granted; provides that certain evidence is sufficient for court to make such finding."
+      "abstract": "Child Welfare;  Revises definition of term \"harm\" to provide that exposure of child to controlled substance may be established by evidence of acute or chronic use of controlled substance by parent to specified extent; revises definition of term \"neglect\" to provide that neglect occurs when there is evidence of acute or chronic use of controlled substance by parent to specified extent."
     }
   ],
   "other_titles": [],
@@ -89,9 +92,85 @@
       "_processing": {
         "log_file_created": "2026-01-15T12:29:12Z"
       }
+    },
+    {
+      "description": "PCS added to Civil Justice & Claims Subcommittee agenda",
+      "date": "2026-02-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "Favorable with CS by Civil Justice & Claims Subcommittee",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "Reported out of Civil Justice & Claims Subcommittee",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 1)",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Civil Justice & Claims Subcommittee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Civil Justice & Claims Subcommittee\"}"
+    },
     {
       "name": "Salzman",
       "classification": "primary",
@@ -113,41 +192,136 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 949 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/949/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Civil Justice & Claims Subcommittee (Post-Meeting) (2/11/2026 5:43 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/949/Analyses/h0949.CIV.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [
     {
       "publication": "Florida Statues",
-      "citation": "39.301",
+      "citation": "39.01",
       "citation_type": "proposed",
       "effective": null,
       "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/39.301"
+      "url": "https://flsenate.gov/laws/statutes/2025/39.01"
     },
     {
       "publication": "Florida Statues",
-      "citation": "751.02",
+      "citation": "39.521",
       "citation_type": "proposed",
       "effective": null,
       "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/751.02"
+      "url": "https://flsenate.gov/laws/statutes/2025/39.521"
     },
     {
       "publication": "Florida Statues",
-      "citation": "751.03",
+      "citation": "39.6012",
       "citation_type": "proposed",
       "effective": null,
       "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/751.03"
+      "url": "https://flsenate.gov/laws/statutes/2025/39.6012"
     },
     {
       "publication": "Florida Statues",
-      "citation": "751.05",
+      "citation": "39.806",
       "citation_type": "proposed",
       "effective": null,
       "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/751.05"
+      "url": "https://flsenate.gov/laws/statutes/2025/39.806"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "61.13",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/61.13"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "61.401",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/61.401"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "61.402",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/61.402"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "390.01114",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/390.01114"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "393.067",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/393.067"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "744.309",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/744.309"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "984.03",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/984.03"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "985.155",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/985.155"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "1001.42",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/1001.42"
     }
   ],
   "sources": [
@@ -164,6 +338,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-15T12:29:12Z"
+    "logs_latest_update": "2026-02-13T12:39:39Z"
   }
 }

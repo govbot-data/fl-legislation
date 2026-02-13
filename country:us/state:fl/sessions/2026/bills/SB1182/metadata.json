@@ -7,12 +7,13 @@
     "bill"
   ],
   "subject": [
+    "subject index",
     "veterans"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Business Development Incentives for Veterans and Military Spouses;  Creating the \"Florida Veterans and Military Spouses Business Development Act\"; requiring the Department of State to waive specified fees for certain businesses; providing eligibility and registration requirements for such waivers; providing tax exemptions for certain businesses; providing eligibility requirements for such exemptions; requiring the Department of Revenue to establish procedures for claiming such exemptions, etc."
+      "abstract": "Business Development Incentives for Veterans and Military Spouses;  Authorizing the Department of Revenue to provide specified state tax information to the Department of Veterans\u2019 Affairs and the Department of State under a specified condition; Creating the \u201cFlorida Veterans and Military Spouses Business Development Act\u201d; requiring the Department of State to waive all fees for certain businesses; requiring the Department of Veterans\u2019 Affairs to establish registration requirements for businesses seeking certain fee waivers and tax exemptions; providing annual reporting requirements, beginning on a specified date, etc."
     }
   ],
   "other_titles": [],
@@ -73,9 +74,37 @@
       "_processing": {
         "log_file_created": "2026-02-08T12:31:05Z"
       }
+    },
+    {
+      "description": "CS by Military and Veterans Affairs, Space, and Domestic Security; YEAS 5 NAYS 0",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Military and Veterans Affairs, Space, and Domestic Security",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Military and Veterans Affairs, Space, and Domestic Security\"}"
+    },
     {
       "name": "Jones",
       "classification": "primary",
@@ -101,11 +130,26 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 1182 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1182/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1182/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
     {
-      "note": "Bill Analysis -- Military and Veterans Affairs, Space, and Domestic Security (Pre-Meeting) (1/30/2026 2:50 PM)",
+      "note": "Bill Analysis -- Military and Veterans Affairs, Space, and Domestic Security (Pre-Meeting) (2/10/2026 11:36 AM)",
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/1182/Analyses/2026s01182.pre.ms.PDF",
@@ -114,9 +158,44 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Military and Veterans Affairs, Space, and Domestic Security (Post-Meeting) (2/11/2026 5:19 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1182/Analyses/2026s01182.ms.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "172602 - Amendment (Delete All) to S 1182 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1182/Amendment/172602/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1182/Amendment/172602/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "citations": [],
+  "citations": [
+    {
+      "publication": "Florida Statues",
+      "citation": "213.053",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/213.053"
+    }
+  ],
   "sources": [
     {
       "url": "https://flsenate.gov/Session/Bill/2026/1182/ByCategory",
@@ -131,6 +210,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-08T12:31:05Z"
+    "logs_latest_update": "2026-02-13T12:39:39Z"
   }
 }

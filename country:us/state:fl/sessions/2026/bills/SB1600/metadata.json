@@ -1,12 +1,13 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 1600",
-  "title": "Child Welfare",
+  "title": "Community-based Care Lead Agency Liability Insurance",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
   ],
   "subject": [
+    "(adopted)",
     "insurance",
     "judicial branch",
     "subject index"
@@ -14,7 +15,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Child Welfare;  Requiring certain organizations and agencies to provide employees with annual training approved by the Department of Children and Families relating to the protection of children from abuse and neglect; requiring the department to create a process to recognize and approve qualified accrediting organizations for a specified purpose; requiring the department to collect and analyze certain reports of abuse which are reported from or occurred at a child-serving organization; requiring the Office of Insurance Regulation to approve rating plans for employer\u2019s liability insurance which provide a premium discount to certain child-serving organizations, etc."
+      "abstract": "Community-based Care Lead Agency Liability Insurance;  Requiring the Office of Insurance Regulation, in collaboration with the Department of Children and Families and other entities, to review and analyze certain data; requiring the office to provide a certain report to the Governor and Legislature; authorizing the office to levy fines or otherwise penalize insurance companies, and the department to levy fines or otherwise penalize community-based care lead agencies, for failure to timely reply to certain requests for information, etc."
     }
   ],
   "other_titles": [],
@@ -65,9 +66,47 @@
       "_processing": {
         "log_file_created": "2026-02-07T12:30:43Z"
       }
+    },
+    {
+      "description": "CS by Children, Families, and Elder Affairs; YEAS 6 NAYS 0",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "CS by Children, Families, and Elder Affairs read 1st time",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Children, Families, and Elder Affairs",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Children, Families, and Elder Affairs\"}"
+    },
     {
       "name": "Yarborough",
       "classification": "primary",
@@ -93,17 +132,85 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 1600 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1600/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1600/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Children, Families, and Elder Affairs (Pre-Meeting) (2/9/2026 11:58 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1600/Analyses/2026s01600.pre.cf.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Children, Families, and Elder Affairs (Post-Meeting) (2/11/2026 12:30 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1600/Analyses/2026s01600.cf.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "496816 - Amendment (Delete All) to S 1600 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1600/Amendment/496816/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1600/Amendment/496816/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "466576 - Amendment to Amendment (496816) to S 1600 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1600/Amendment/466576/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1600/Amendment/466576/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [
     {
       "publication": "Florida Statues",
-      "citation": "39.01",
+      "citation": "409.993",
       "citation_type": "proposed",
       "effective": null,
       "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/39.01"
+      "url": "https://flsenate.gov/laws/statutes/2025/409.993"
     }
   ],
   "sources": [
@@ -120,6 +227,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-07T12:30:43Z"
+    "logs_latest_update": "2026-02-13T12:39:39Z"
   }
 }

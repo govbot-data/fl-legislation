@@ -114,6 +114,28 @@
       "_processing": {
         "log_file_created": "2026-02-08T12:31:04Z"
       }
+    },
+    {
+      "description": "Favorable by Banking and Insurance; YEAS 9 NAYS 0",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "Now in Rules",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
     }
   ],
   "sponsorships": [
@@ -191,6 +213,28 @@
       "classification": ""
     },
     {
+      "note": "Bill Analysis -- Banking and Insurance (Pre-Meeting) (2/10/2026 8:51 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/326/Analyses/2026s00326.pre.bi.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Banking and Insurance (Post-Meeting) (2/11/2026 2:59 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/326/Analyses/2026s00326.bi.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "908348 - Amendment to S 326 Filed",
       "links": [
         {
@@ -238,6 +282,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-08T12:31:04Z"
+    "logs_latest_update": "2026-02-13T12:39:39Z"
   }
 }

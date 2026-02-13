@@ -113,6 +113,16 @@
       "_processing": {
         "log_file_created": "2026-02-08T12:31:04Z"
       }
+    },
+    {
+      "description": "CS/CS by Criminal Justice; YEAS 7 NAYS 0",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
     }
   ],
   "sponsorships": [
@@ -190,6 +200,17 @@
       "classification": ""
     },
     {
+      "note": "Bill Analysis -- Criminal Justice (Pre-Meeting) (2/10/2026 3:14 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/758/Analyses/2026s00758.pre.cj.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "724742 - Amendment to S 758 Filed",
       "links": [
         {
@@ -229,6 +250,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-08T12:31:04Z"
+    "logs_latest_update": "2026-02-13T12:39:39Z"
   }
 }

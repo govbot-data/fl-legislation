@@ -7,13 +7,13 @@
     "bill"
   ],
   "subject": [
-    "criminal procedure and corrections",
-    "public lands and property"
+    "public lands and property",
+    "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Capitol Center and Complex;  Provides that DMS is responsible for aesthetics of Capitol Center for visitors; authorizes DMS to close certain streets under specified conditions; Requires DMS to consider certain factors when developing specified plan; Requires DMS, in consultation with Capitol Police, to establish enhanced security measures in certain parking areas; requires Capitol Police to ensure that Capitol Complex is safe for certain persons; provides requirement for certain operational plan; requires Capitol Police to provide certain report to Legislature; authorizes certain ex officio agents to patrol Capital Complex & surrounding areas; authorizes positions for certain purpose."
+      "abstract": "Capitol Center and Complex;  Provides that DMS is responsible for aesthetics of Capitol Center for visitors; requires DMS to consider certain factors when developing specified plan; requires DMS, in consultation with Capitol Police, to establish enhanced security measures in certain parking areas; authorizes Capitol Police to patrol area surrounding Capitol Complex to ensure safety of certain persons; provides requirement for certain operational plan; requires Capitol Police to provide certain report to Legislature; authorizes certain ex officio agents to patrol Capitol Complex & area surrounding Capitol Complex."
     }
   ],
   "other_titles": [],
@@ -101,9 +101,85 @@
       "_processing": {
         "log_file_created": "2026-01-15T12:29:13Z"
       }
+    },
+    {
+      "description": "PCS added to Government Operations Subcommittee agenda",
+      "date": "2026-02-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "Favorable with CS by Government Operations Subcommittee",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "Reported out of Government Operations Subcommittee",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 1)",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Government Operations Subcommittee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Government Operations Subcommittee\"}"
+    },
     {
       "name": "Botana",
       "classification": "primary",
@@ -125,18 +201,33 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 975 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/975/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
-  "citations": [
+  "documents": [
     {
-      "publication": "Florida Statues",
-      "citation": "272.09",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/272.09"
-    },
+      "note": "Bill Analysis -- Government Operations Subcommittee (Post-Meeting) (2/11/2026 7:19 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/975/Analyses/h0975.GOS.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [
     {
       "publication": "Florida Statues",
       "citation": "272.12",
@@ -163,11 +254,11 @@
     },
     {
       "publication": "Florida Statues",
-      "citation": "943.60",
+      "citation": "943.601",
       "citation_type": "proposed",
       "effective": null,
       "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/943.60"
+      "url": "https://flsenate.gov/laws/statutes/2025/943.601"
     },
     {
       "publication": "Florida Statues",
@@ -200,6 +291,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-15T12:29:13Z"
+    "logs_latest_update": "2026-02-13T12:39:39Z"
   }
 }

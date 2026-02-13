@@ -7,12 +7,12 @@
     "bill"
   ],
   "subject": [
-    "(claims bills)"
+    "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Relief/Estate of Mark LaGatta/Department of Transportation;  Provides appropriation to compensate estate for injuries & damages sustained by Mr. LaGatta as result of negligence of DOT; provides limitation on compensation & payment of attorney fees.\r\n    \r\n        CLAIM WITH APPROPRIATION:\r\n        $2,200,000"
+      "abstract": "Relief/Estate of Mark LaGatta/Department of Transportation;  Provides appropriation to compensate estate for injuries & damages sustained by Mr. LaGatta as result of negligence of DOT; provides limitation on compensation & payment of attorney fees.\r\n    \r\n        CLAIM WITH APPROPRIATION:\r\n        $1,200,000"
     }
   ],
   "other_titles": [],
@@ -88,9 +88,85 @@
       "_processing": {
         "log_file_created": "2026-01-15T12:29:13Z"
       }
+    },
+    {
+      "description": "Added to Civil Justice & Claims Subcommittee agenda",
+      "date": "2026-02-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "Favorable with CS by Civil Justice & Claims Subcommittee",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "Reported out of Civil Justice & Claims Subcommittee",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 1)",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Civil Justice & Claims Subcommittee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Civil Justice & Claims Subcommittee\"}"
+    },
     {
       "name": "Grow",
       "classification": "primary",
@@ -112,9 +188,43 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 6509 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/6509/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Civil Justice & Claims Subcommittee (Post-Meeting) (2/11/2026 5:24 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/6509/Analyses/h6509a.CIV.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "124259 - Amendment to H 6509 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/6509/Amendment/124259/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -130,6 +240,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-15T12:29:13Z"
+    "logs_latest_update": "2026-02-13T12:39:39Z"
   }
 }

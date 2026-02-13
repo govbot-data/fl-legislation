@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Extracurricular Activities;  Revising eligibility requirements for a student to participate in an interscholastic or intrascholastic extracurricular activity; deleting requirements for the Florida High School Athletic Association to facilitate a program for private school students to participate in an interscholastic or intrascholastic sport; authorizing a public school to assess an activity fee for certain students; providing indemnity for a school and district school board under specified circumstances, etc."
+      "abstract": "Extracurricular Activities;  Authorizing district school boards to adopt policies for the use of certain funds to provide funding to athletic coaches or activity sponsors of extracurricular activities; revising eligibility requirements for a student to participate in an interscholastic or intrascholastic extracurricular activity; deleting requirements for the Florida High School Athletic Association (FHSAA) to facilitate a program for private school students to participate in an interscholastic or intrascholastic sport; authorizing a public school to assess an activity fee for certain students, etc."
     }
   ],
   "other_titles": [],
@@ -163,9 +163,47 @@
       "_processing": {
         "log_file_created": "2026-02-07T12:30:43Z"
       }
+    },
+    {
+      "description": "CS/CS/CS by- Rules; YEAS 23 NAYS 0",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "Pending reference review -under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "CS/CS/CS by Rules read 1st time",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Rules",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Rules\"}"
+    },
     {
       "name": "Judiciary",
       "classification": "primary",
@@ -237,6 +275,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 538 c3",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/538/BillText/c3/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/538/BillText/c3/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -285,6 +338,28 @@
       "classification": ""
     },
     {
+      "note": "Bill Analysis -- Rules (Pre-Meeting) (2/9/2026 7:44 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/538/Analyses/2026s00538.pre.rc.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Rules (Post-Meeting) (2/11/2026 9:37 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/538/Analyses/2026s00538.rc.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "733444 - Amendment (Delete All) to S 538 Filed",
       "links": [
         {
@@ -303,6 +378,14 @@
   "citations": [
     {
       "publication": "Florida Statues",
+      "citation": "1001.43",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/1001.43"
+    },
+    {
+      "publication": "Florida Statues",
       "citation": "1002.31",
       "citation_type": "proposed",
       "effective": null,
@@ -316,14 +399,6 @@
       "effective": null,
       "expires": null,
       "url": "https://flsenate.gov/laws/statutes/2025/1002.33"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "1003.455",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/1003.455"
     },
     {
       "publication": "Florida Statues",
@@ -351,11 +426,11 @@
     },
     {
       "publication": "Florida Statues",
-      "citation": "1012.22",
+      "citation": "1012.01",
       "citation_type": "proposed",
       "effective": null,
       "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/1012.22"
+      "url": "https://flsenate.gov/laws/statutes/2025/1012.01"
     }
   ],
   "sources": [
@@ -372,6 +447,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-07T12:30:43Z"
+    "logs_latest_update": "2026-02-13T12:39:39Z"
   }
 }

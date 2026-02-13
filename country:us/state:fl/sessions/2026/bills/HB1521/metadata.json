@@ -1,19 +1,19 @@
 {
   "legislative_session": "2026",
   "identifier": "HB 1521",
-  "title": "Handling of Animals",
+  "title": "Domestic Animals",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
   "subject": [
-    "industry",
-    "subject index"
+    "crimes",
+    "industry"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Handling of Animals;  Requires DACS to develop best management practices for dog breeding & to investigate certain claims; requires Board of Veterinary Medicine to verify that rules for such practices meet certain goals; preempts regulatory & operational oversight of local animal shelters to DACS; revises requirements for pet dealers & retail stores; removes certain limit on veterinary costs; provides that violations are unfair method of competition or unfair or deceptive act or practice & subject to penalties; provides for private causes of action; requires dog breeders to apply to DBPR for certificate of registration; authorizes DBPR to establish whistleblower program; provides penalties; requires certain individuals, dog breeders, & dog breeding facilities to be placed on public animal abuser database; provides requirements for best management practices; requires DACS to use requirements to develop rules."
+      "abstract": "Domestic Animals;  Requires DACS to post list of voluntary best management practices for entities breeding dogs in this state; requires DACS to establish voluntary Dog Awareness & Welfare Guidelines (DAWG) Breeding Program & adopt rules; provides requirements for participation in program; provides for issuance, suspension, revocation, & use of program certificates; extends period of time after sale of animal that consumer may return or exchange animal & receive refund or receive reimbursement for certain costs; requires that pet sale financing agreement be terminated without penalty; removes limit on veterinary costs under certain provisions; requires that all financial terms be disclosed to consumer before sale of animal; removes certain provisions relating to consumer's waiver relinquishing his or her rights to return animal; requires pet dealer to provide copies of specified medical records to consumer; revises requirements for & text of required notice to consumer; requires pet dealer to retain copy of certain records for specified period."
     }
   ],
   "other_titles": [],
@@ -111,15 +111,111 @@
       "_processing": {
         "log_file_created": "2026-02-07T12:30:43Z"
       }
+    },
+    {
+      "description": "Reported out of Industries & Professional Activities Subcommittee",
+      "date": "2026-02-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 1)",
+      "date": "2026-02-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "Referred to Budget Committee",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "Referred to Commerce Committee",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "Now in Budget Committee",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Industries & Professional Activities Subcommittee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Industries & Professional Activities Subcommittee\"}"
+    },
     {
       "name": "Weinberger",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Weinberger\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Boyles",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Boyles\"}",
       "organization_id": null
     },
     {
@@ -151,10 +247,42 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 1521 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1521/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
-  "citations": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Industries & Professional Activities Subcommittee (Post-Meeting) (2/9/2026 3:11 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1521/Analyses/h1521.IPA.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [
+    {
+      "publication": "Florida Statues",
+      "citation": "828.29",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/828.29"
+    }
+  ],
   "sources": [
     {
       "url": "https://flsenate.gov/Session/Bill/2026/1521/ByCategory",
@@ -169,6 +297,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-07T12:30:43Z"
+    "logs_latest_update": "2026-02-13T12:39:39Z"
   }
 }

@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "On Committee agenda-- Commerce and Tourism, 02/11/26, 9:00 am, 110 Senate Building",
+    "date": "2026-02-10",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB 1562"
+}

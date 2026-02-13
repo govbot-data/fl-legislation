@@ -8,12 +8,12 @@
   ],
   "subject": [
     "public lands and property",
-    "subject index"
+    "taxation and finance"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Areas of Critical State Concern;  Revising criteria for certain portions of property used to provide affordable housing to be eligible for an ad valorem tax exemption; providing an exemption from specified payment and performance bond requirements for specified entities under specified conditions; extending the time period specific Florida Forever appropriations must be spent on land acquisition in the Florida Keys Area of Critical State Concern, etc."
+      "abstract": "Areas of Critical State Concern;  Providing an exemption from specified payment and performance bond requirements for specified entities under specified conditions; extending the time period specific Florida Forever appropriations must be spent on land acquisition in the Florida Keys Area of Critical State Concern, etc."
     }
   ],
   "other_titles": [],
@@ -64,9 +64,37 @@
       "_processing": {
         "log_file_created": "2026-02-07T12:30:43Z"
       }
+    },
+    {
+      "description": "CS by Community Affairs; YEAS 8 NAYS 0",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Community Affairs",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Community Affairs\"}"
+    },
     {
       "name": "Rodriguez",
       "classification": "primary",
@@ -92,18 +120,63 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 934 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/934/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/934/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
-  "citations": [
+  "documents": [
     {
-      "publication": "Florida Statues",
-      "citation": "196.1978",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/196.1978"
+      "note": "Bill Analysis -- Community Affairs (Pre-Meeting) (2/9/2026 3:00 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/934/Analyses/2026s00934.pre.ca.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     },
+    {
+      "note": "Bill Analysis -- Community Affairs (Post-Meeting) (2/11/2026 1:20 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/934/Analyses/2026s00934.ca.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "678604 - Amendment to S 934 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/934/Amendment/678604/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/934/Amendment/678604/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [
     {
       "publication": "Florida Statues",
       "citation": "255.05",
@@ -135,6 +208,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-07T12:30:43Z"
+    "logs_latest_update": "2026-02-13T12:39:39Z"
   }
 }

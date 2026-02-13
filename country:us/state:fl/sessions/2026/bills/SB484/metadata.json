@@ -7,10 +7,10 @@
     "bill"
   ],
   "subject": [
-    "public officers, employees, and records",
     "railroads and other regulated utilities",
     "reclamation, and use",
-    "relations"
+    "relations",
+    "subject index"
   ],
   "abstracts": [
     {
@@ -127,6 +127,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "CS by Community Affairs read 1st time",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
       }
     }
   ],
@@ -265,6 +275,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-07T12:30:43Z"
+    "logs_latest_update": "2026-02-13T12:39:39Z"
   }
 }

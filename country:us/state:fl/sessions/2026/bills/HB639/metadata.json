@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "HB 639",
-  "title": "Specialty License Plates/Fraternal Order of Police License Plates",
+  "title": "Specialty License Plates",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Specialty License Plates/Fraternal Order of Police License Plates;  Revises provisions relating to issuance & fee distribution for Fraternal Order of Police license plates."
+      "abstract": "Specialty License Plates;  Requires certain organizations that have approved specialty license plate to submit within specified timeframe certain financial information to DHSMV; provides for deauthorization of certain specialty license plates if organization receiving annual use fees does not submit required financial information to DHSMV within specified timeframe; requires DHSMV to submit annual report to Governor & Legislature by specified date; prohibits specialty license plate annual use fees or interest earned from such fees from being distributed to certain entities; revises provisions relating to issuance & fee distribution for Fraternal Order of Police license plates."
     }
   ],
   "other_titles": [],
@@ -76,9 +76,85 @@
       "_processing": {
         "log_file_created": "2026-01-15T12:29:13Z"
       }
+    },
+    {
+      "description": "PCS added to Government Operations Subcommittee agenda",
+      "date": "2026-02-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "Favorable with CS by Government Operations Subcommittee",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "Reported out of Government Operations Subcommittee",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 1)",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Government Operations Subcommittee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Government Operations Subcommittee\"}"
+    },
     {
       "name": "Brannan",
       "classification": "primary",
@@ -100,10 +176,49 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 639 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/639/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Government Operations Subcommittee (Post-Meeting) (2/11/2026 7:40 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/639/Analyses/h0639.GOS.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [
+    {
+      "publication": "Florida Statues",
+      "citation": "320.08053",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/320.08053"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "320.08056",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/320.08056"
+    },
     {
       "publication": "Florida Statues",
       "citation": "320.08058",
@@ -111,6 +226,14 @@
       "effective": null,
       "expires": null,
       "url": "https://flsenate.gov/laws/statutes/2025/320.08058"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "320.08062",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/320.08062"
     }
   ],
   "sources": [
@@ -127,6 +250,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-15T12:29:13Z"
+    "logs_latest_update": "2026-02-13T12:39:39Z"
   }
 }

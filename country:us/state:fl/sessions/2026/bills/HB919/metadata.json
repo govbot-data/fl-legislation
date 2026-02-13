@@ -254,6 +254,16 @@
       "_processing": {
         "log_file_created": "2026-02-07T12:30:43Z"
       }
+    },
+    {
+      "description": "Bill added to Special Order Calendar (2/17/2026)",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
     }
   ],
   "sponsorships": [
@@ -306,6 +316,14 @@
       "organization_id": null
     },
     {
+      "name": "Basabe",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Basabe\"}",
+      "organization_id": null
+    },
+    {
       "name": "Benarroch",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -351,6 +369,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Gossett-Seidman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Greco",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Greco\"}",
       "organization_id": null
     },
     {
@@ -415,6 +441,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Redondo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rizo",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rizo\"}",
       "organization_id": null
     },
     {
@@ -519,6 +553,28 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "724111 - Amendment to H 919 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/919/Amendment/724111/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "110835 - Amendment to H 919 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/919/Amendment/110835/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [
@@ -545,6 +601,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-07T12:30:43Z"
+    "logs_latest_update": "2026-02-13T12:39:39Z"
   }
 }

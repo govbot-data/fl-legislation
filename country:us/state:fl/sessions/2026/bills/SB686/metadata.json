@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Agricultural Enclaves;  Authorizing owners of certain parcels to apply to the governing body of the local government for certification of such parcels as agricultural enclaves; requiring the local government to provide to the applicant a certain report within a specified timeframe; prohibiting a local government from enacting or enforcing certain laws or regulations, etc."
+      "abstract": "Agricultural Enclaves;  Authorizing owners of certain parcels to apply to the governing body of the local government for certification of such parcels as agricultural enclaves; requiring the local government to hold a public hearing within a specified timeframe to approve or deny such certification; authorizing the owner of a parcel certified as an agricultural enclave to submit certain development plans; authorizing the development of certain certified agricultural enclaves for commercial, industrial, or single-family residential purposes under certain circumstances, etc."
     }
   ],
   "other_titles": [],
@@ -113,9 +113,47 @@
       "_processing": {
         "log_file_created": "2026-02-07T12:30:43Z"
       }
+    },
+    {
+      "description": "CS/CS by Judiciary; YEAS 11 NAYS 0",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "CS/CS by Judiciary read 1st time",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Judiciary",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Judiciary\"}",
+      "organization_id": null
+    },
     {
       "name": "Community Affairs",
       "classification": "primary",
@@ -164,6 +202,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 686 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/686/BillText/c2/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/686/BillText/c2/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -183,6 +236,28 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/686/Analyses/2026s00686.ca.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Judiciary (Pre-Meeting) (2/9/2026 3:34 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/686/Analyses/2026s00686.pre.ju.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Judiciary (Post-Meeting) (2/11/2026 11:35 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/686/Analyses/2026s00686.ju.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -237,6 +312,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-07T12:30:43Z"
+    "logs_latest_update": "2026-02-13T12:39:39Z"
   }
 }

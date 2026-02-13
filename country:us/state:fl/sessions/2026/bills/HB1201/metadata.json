@@ -190,6 +190,48 @@
       "_processing": {
         "log_file_created": "2026-02-04T12:39:55Z"
       }
+    },
+    {
+      "description": "Added to Health Professions & Programs Subcommittee agenda",
+      "date": "2026-02-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "Favorable by Health Professions & Programs Subcommittee",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "Reported out of Health Professions & Programs Subcommittee",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "Now in Education & Employment Committee",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
     }
   ],
   "sponsorships": [
@@ -215,6 +257,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Blanco\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gerwig",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Gerwig\"}",
       "organization_id": null
     },
     {
@@ -257,6 +307,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/1201/Analyses/h1201a.SAS.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Health Professions & Programs Subcommittee (Post-Meeting) (2/11/2026 12:07 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1201/Analyses/h1201c.HPP.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -307,6 +368,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-04T12:39:55Z"
+    "logs_latest_update": "2026-02-13T12:39:39Z"
   }
 }

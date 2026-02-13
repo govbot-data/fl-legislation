@@ -7,14 +7,16 @@
     "bill"
   ],
   "subject": [
+    "and solicitations",
     "business organizations",
     "crimes",
     "industry",
+    "motor vehicles",
     "municipalities",
     "public business",
-    "public health",
     "public lands and property",
     "reclamation, and use",
+    "regulation of professions and occupations",
     "relations",
     "subject index"
   ],
@@ -181,6 +183,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-02-07T12:30:43Z"
+      }
+    },
+    {
+      "description": "CS/CS/CS by- Rules; YEAS 24 NAYS 0",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
       }
     }
   ],
@@ -375,6 +387,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-07T12:30:43Z"
+    "logs_latest_update": "2026-02-13T12:39:39Z"
   }
 }

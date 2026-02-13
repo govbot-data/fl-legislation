@@ -7,12 +7,13 @@
     "bill"
   ],
   "subject": [
-    "real and personal property"
+    "real and personal property",
+    "regulation of professions and occupations"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Community Association Management;  Requires certain community associations to contract with community association management firm; requires community association firm to possess all applicable licenses; provides that association board members, officers, & directors have duty to ensure such community association firm or community association manager is properly licensed."
+      "abstract": "Community Association Management;  Requires community association managers & community association firms to obtain specified amount of insurance; provides for revocation of community association manager's license; barring community association manager from being licensed; requires certain community associations to contract with community association management firm; requires community association firm to possess all applicable licenses; provides that association board members, officers, & directors have duty to ensure such community association firm or community association manager is properly licensed; provides that timeshare management firms & licensed individuals employed by timeshare management firms are only subject to certain licensing & disciplinary requirements; provides that timeshare management firms & licensed individuals employed by timeshare management firms are only subject to certain licensing & disciplinary requirements unless certain provisions expressly apply; provides that certain other accommodations managed by timeshare management firm or licensed individual are governed under specified provisions of law; provides for priority of application in case of conflict."
     }
   ],
   "other_titles": [],
@@ -128,9 +129,75 @@
       "_processing": {
         "log_file_created": "2026-02-08T12:31:05Z"
       }
+    },
+    {
+      "description": "Favorable with CS by Commerce Committee",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "Reported out of Commerce Committee",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 1)",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Commerce Committee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Commerce Committee\"}"
+    },
     {
       "name": "Nix",
       "classification": "primary",
@@ -145,6 +212,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Basabe\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Daniels",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Daniels\"}",
       "organization_id": null
     },
     {
@@ -176,6 +251,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 465 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/465/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -191,10 +277,21 @@
       "classification": ""
     },
     {
-      "note": "Bill Analysis -- Commerce Committee (Post-Meeting) (2/6/2026 4:57 PM)",
+      "note": "Bill Analysis -- Commerce Committee (Post-Meeting) (2/11/2026 2:52 PM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/465/Analyses/h0465b.COM.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/465/Analyses/h0465c.COM.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "829213 - Amendment to H 465 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/465/Amendment/829213/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -211,9 +308,36 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "438865 - Strike All Amendment to H 465 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/465/Amendment/438865/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [
+    {
+      "publication": "Florida Statues",
+      "citation": "468.432",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/468.432"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "468.436",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/468.436"
+    },
     {
       "publication": "Florida Statues",
       "citation": "718.111",
@@ -245,6 +369,30 @@
       "effective": null,
       "expires": null,
       "url": "https://flsenate.gov/laws/statutes/2025/720.303"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "721.03",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/721.03"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "721.13",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/721.13"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "721.14",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/721.14"
     }
   ],
   "sources": [
@@ -261,6 +409,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-08T12:31:05Z"
+    "logs_latest_update": "2026-02-13T12:39:39Z"
   }
 }

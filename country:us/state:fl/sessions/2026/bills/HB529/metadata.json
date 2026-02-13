@@ -7,7 +7,7 @@
     "bill"
   ],
   "subject": [
-    "social welfare"
+    "(adopted)"
   ],
   "abstracts": [
     {
@@ -190,6 +190,16 @@
       "_processing": {
         "log_file_created": "2026-02-08T12:31:04Z"
       }
+    },
+    {
+      "description": "Added to Human Services Subcommittee agenda",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
     }
   ],
   "sponsorships": [
@@ -246,6 +256,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Human Services Subcommittee (Post-Meeting) (2/11/2026 9:36 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/529/Analyses/h0529a.HSS.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [
@@ -272,6 +293,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-08T12:31:04Z"
+    "logs_latest_update": "2026-02-13T12:39:39Z"
   }
 }

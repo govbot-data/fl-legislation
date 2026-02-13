@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Laid on Table, refer to HB 6515",
+    "date": "2026-02-11",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "deferral"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 24"
+}

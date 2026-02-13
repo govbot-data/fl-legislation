@@ -7,7 +7,7 @@
     "bill"
   ],
   "subject": [
-    "social welfare"
+    "subject index"
   ],
   "abstracts": [
     {
@@ -166,6 +166,28 @@
       "_processing": {
         "log_file_created": "2026-02-08T12:31:04Z"
       }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 1)",
+      "date": "2026-02-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "Added to Health Care Budget Subcommittee agenda",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
     }
   ],
   "sponsorships": [
@@ -224,6 +246,17 @@
       "classification": ""
     },
     {
+      "note": "Bill Analysis -- Health Care Budget Subcommittee (Post-Meeting) (2/11/2026 8:11 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1295/Analyses/h1295b.HCB.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "075067 - Strike All Amendment to H 1295 Filed",
       "links": [
         {
@@ -267,6 +300,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-08T12:31:04Z"
+    "logs_latest_update": "2026-02-13T12:39:39Z"
   }
 }

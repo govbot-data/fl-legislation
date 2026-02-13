@@ -117,6 +117,16 @@
       "_processing": {
         "log_file_created": "2026-01-31T12:29:57Z"
       }
+    },
+    {
+      "description": "On Committee agenda-- Fiscal Policy, 02/12/26, 9:00 am, 110 Senate Building",
+      "date": "2026-02-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
     }
   ],
   "sponsorships": [
@@ -201,6 +211,32 @@
       "classification": ""
     },
     {
+      "note": "Bill Analysis -- Fiscal Policy (Pre-Meeting) (2/11/2026 8:33 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/246/Analyses/2026s00246.pre.fp.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "134440 - Amendment to S 246 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/246/Amendment/134440/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/246/Amendment/134440/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "353194 - Amendment to S 246 Filed",
       "links": [
         {
@@ -209,6 +245,21 @@
         },
         {
           "url": "https://flsenate.gov/Session/Bill/2026/246/Amendment/353194/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "322646 - Amendment (Delete All) to S 246 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/246/Amendment/322646/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/246/Amendment/322646/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -240,6 +291,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-31T12:29:57Z"
+    "logs_latest_update": "2026-02-13T12:39:39Z"
   }
 }

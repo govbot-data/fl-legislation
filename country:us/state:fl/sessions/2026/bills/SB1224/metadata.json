@@ -114,6 +114,16 @@
       "_processing": {
         "log_file_created": "2026-02-08T12:31:05Z"
       }
+    },
+    {
+      "description": "CS/CS by Criminal Justice; YEAS 8 NAYS 0",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
     }
   ],
   "sponsorships": [
@@ -191,6 +201,17 @@
       "classification": ""
     },
     {
+      "note": "Bill Analysis -- Criminal Justice (Pre-Meeting) (2/10/2026 3:14 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1224/Analyses/2026s01224.pre.cj.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "809630 - Amendment (Delete All) to S 1224 Filed",
       "links": [
         {
@@ -230,6 +251,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-08T12:31:05Z"
+    "logs_latest_update": "2026-02-13T12:39:39Z"
   }
 }

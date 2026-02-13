@@ -83,6 +83,26 @@
       "_processing": {
         "log_file_created": "2026-02-08T12:31:04Z"
       }
+    },
+    {
+      "description": "Now in Appropriations Committee on Agriculture, Environment, and General Government",
+      "date": "2026-02-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "CS by Banking and Insurance read 1st time",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
     }
   ],
   "sponsorships": [
@@ -149,7 +169,7 @@
       "classification": ""
     },
     {
-      "note": "Bill Analysis -- Banking and Insurance (Post-Meeting) (2/6/2026 5:21 PM)",
+      "note": "Bill Analysis -- Banking and Insurance (Post-Meeting) (2/9/2026 9:10 AM)",
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/158/Analyses/2026s00158.bi.PDF",
@@ -199,6 +219,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-08T12:31:04Z"
+    "logs_latest_update": "2026-02-13T12:39:39Z"
   }
 }

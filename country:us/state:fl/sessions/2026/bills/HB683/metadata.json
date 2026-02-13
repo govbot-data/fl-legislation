@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Performance of Physician Assistants and Advanced Practice Registered Nurses;  Removes requirement that supervising physician notify DOH in writing of any delegation of prescribing authority to physician assistant; removes requirement that supervising physician's name be included in prescription issued by physician assistant; revises requirements for drug formulary for physician assistants; authorizes certain physician assistants to render medical services without physician supervision during declared state of emergency in counties covered by declaration; provides applicability; requires that such services rendered otherwise comply with laws & rules applicable to physician assistants; revises drug formulary requirements for advanced practice registered nurses authorized to prescribe medications; authorizes certain advanced practice registered nurses to render medical services without physician supervision during declared state of emergency in counties covered by declaration; provides applicability; requires that such services rendered otherwise comply with laws & rules applicable to advanced practice registered nurses."
+      "abstract": "Performance of Physician Assistants and Advanced Practice Registered Nurses;  Removes requirement that supervising physician notify DOH in writing of any delegation of prescribing authority to physician assistant; removes requirement that supervising physician's name be included in prescription issued by physician assistant; revises requirements for drug formulary for physician assistants; revises drug formulary requirements for advanced practice registered nurses authorized to prescribe medications; provides exception for psychiatric nurses."
     }
   ],
   "other_titles": [],
@@ -76,15 +76,107 @@
       "_processing": {
         "log_file_created": "2026-01-15T12:29:12Z"
       }
+    },
+    {
+      "description": "Added to Health Professions & Programs Subcommittee agenda",
+      "date": "2026-02-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "Favorable with CS by Health Professions & Programs Subcommittee",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "Reported out of Health Professions & Programs Subcommittee",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 1)",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Health Professions & Programs Subcommittee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Health Professions & Programs Subcommittee\"}"
+    },
     {
       "name": "Partington",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Partington\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rizo",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rizo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Salzman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Salzman\"}",
       "organization_id": null
     }
   ],
@@ -100,9 +192,43 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 683 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/683/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Health Professions & Programs Subcommittee (Post-Meeting) (2/11/2026 4:18 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/683/Analyses/h0683a.HPP.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "065573 - Amendment to H 683 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/683/Amendment/065573/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [
     {
       "publication": "Florida Statues",
@@ -143,6 +269,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-15T12:29:12Z"
+    "logs_latest_update": "2026-02-13T12:39:39Z"
   }
 }

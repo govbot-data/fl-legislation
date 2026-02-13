@@ -13,7 +13,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Transportation;  Requires licensing, rather than registration, of motor carriers & fuel tax decals, rather than identifying devices, for motor carriers; requires copy of license to be carried in each qualified motor vehicle or made available electronically; specifies how fuel tax decals are to be displayed on qualified motor vehicles; requires DHSMV or its authorized agent to issue licenses & fuel tax decals; requires fuel tax decal renewal orders & motor fuel tax returns to be submitted electronically beginning on specified dates; revises required contents of temporary fuel-use permits; revises reporting periods & due dates for such tax returns; revising requirements for calculation of interest due for delinquent tax; provides penalties for any person who counterfeits, alters, manufactures, or sells fuel tax licenses, fuel tax decals, or temporary fuel-use permits except under certain circumstances; requires motor carriers to destroy fuel tax decals under certain circumstances & notify DHSMV; revises apparent amount of property damage that requires driver of vehicle involved in crash to notify law enforcement of crash; provides exemption from certain vehicle registration requirements for certain active duty military members; requires applicants to provide proof of address; revises requirements for documenting applicant's address & proof of legal presence; authorizes DHSMV to use e-mail as method of notification; requires e-mail address to be included on ID card application & request for replacement driver license or instruction permit, respectively; authorizes orders of cancellation, suspension, revocation, or disqualification to be provided by e-mail notification."
+      "abstract": "Transportation;  Requires licensing, rather than registration, of motor carriers; requires fuel tax decals, rather than identifying devices, for motor carriers; requires copy of license to be carried in each qualified motor vehicle or made available electronically; specifies how fuel tax decals are to be displayed on qualified motor vehicles; requires DHSMV or its authorized agent to issue licenses & fuel tax decals; requires fuel tax decal renewal orders to be submitted electronically beginning on specified date; revises required contents of temporary fuel-use permits; removes provisions relating to driveaway permits; revises reporting periods & due dates for motor fuel use tax returns; requires such tax returns to be submitted electronically beginning on specified date; revises requirements for calculation of interest due for delinquent tax; provides penalties for person who counterfeits, alters, manufactures, or sells fuel tax licenses, fuel tax decals, or temporary fuel-use permits except under certain circumstances; requires motor carriers to destroy fuel tax decals under certain circumstances & notify DHSMV; revises apparent amount of property damage that requires driver of vehicle involved in crash to notify law enforcement of crash; provides exemption from certain vehicle registration requirements for certain active duty military members; requires applicants to provide proof of address; revises requirements for documenting applicant's address & proof of legal presence; removes certain requirements for business applicants; specifies how license plate legibility, angular visibility, or detectability are to be maintained; authorizes DHSMV to use e-mail as method of notification; requires e-mail address to be included on ID card application & request for replacement driver license or instruction permit, respectively; authorizes orders of cancellation, suspension, revocation, or disqualification to be provided by e-mail notification."
     }
   ],
   "other_titles": [],
@@ -153,9 +153,97 @@
       "_processing": {
         "log_file_created": "2026-02-08T12:31:05Z"
       }
+    },
+    {
+      "description": "Favorable with CS by Ways & Means Committee",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "Reported out of Ways & Means Committee",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "Referred to State Affairs Committee",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "Now in State Affairs Committee",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 1)",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Ways & Means Committee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Ways & Means Committee\"}"
+    },
     {
       "name": "Yarkosky",
       "classification": "primary",
@@ -177,6 +265,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 937 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/937/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -192,10 +291,21 @@
       "classification": ""
     },
     {
-      "note": "Bill Analysis -- Ways & Means Committee (Post-Meeting) (2/6/2026 5:02 PM)",
+      "note": "Bill Analysis -- Ways & Means Committee (Post-Meeting) (2/10/2026 7:30 PM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/937/Analyses/h0937b.WMC.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/937/Analyses/h0937c.WMC.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "593909 - Amendment to H 937 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/937/Amendment/593909/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -382,6 +492,14 @@
     },
     {
       "publication": "Florida Statues",
+      "citation": "320.061",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/320.061"
+    },
+    {
+      "publication": "Florida Statues",
       "citation": "320.95",
       "citation_type": "proposed",
       "effective": null,
@@ -531,6 +649,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-08T12:31:05Z"
+    "logs_latest_update": "2026-02-13T12:39:39Z"
   }
 }

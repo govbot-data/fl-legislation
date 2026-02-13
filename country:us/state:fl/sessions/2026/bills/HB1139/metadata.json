@@ -13,7 +13,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Impact Fees;  Provides requirements for coordination mechanisms that are required for certain agreements required as part of intergovernmental coordination element of comprehensive plan; requires that certain interlocal agreements use plan-based methodology; requires that demonstrated-need study use plan-based methodology; requires that certain capacity standards be specified in certain impact fee study; prohibits local governments, school districts, & special districts from including certain deductions in certain impact fee increases & from increasing impact fee rates beyond certain phase-in limitations by more than specified percentage; provides that prevailing petitioner is entitled to impact fee overpayment refund, with interest."
+      "abstract": "Impact Fees;  Provides requirements for coordination mechanisms that are required for certain agreements required as part of intergovernmental coordination element of comprehensive plan; requires that plan-based methodology used for certain interlocal agreements be consistent with certain comprehensive plan requirements; requires that demonstrated-need study use plan-based methodology; prohibits local governments, school districts, & special districts from including certain deductions in certain impact fee increases & from increasing impact fee rates beyond certain phase-in limitations by more than specified percentage; provides that prevailing petitioner is entitled to impact fee overpayment refund, with interest; provides that certain prevailing petitioners are entitled to reasonable attorney fees & costs."
     }
   ],
   "other_titles": [],
@@ -243,9 +243,95 @@
       "_processing": {
         "log_file_created": "2026-02-08T12:31:05Z"
       }
+    },
+    {
+      "description": "Favorable with CS by State Affairs Committee",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "Reported out of State Affairs Committee",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 2)",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "Bill referred to House Calendar",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "Added to Second Reading Calendar",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "State Affairs Committee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"State Affairs Committee\"}"
+    },
     {
       "name": "Intergovernmental Affairs Subcommittee",
       "classification": "primary",
@@ -294,6 +380,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 1139 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1139/BillText/c2/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -320,10 +417,10 @@
       "classification": ""
     },
     {
-      "note": "Bill Analysis -- State Affairs Committee (Post-Meeting) (2/6/2026 6:17 PM)",
+      "note": "Bill Analysis -- State Affairs Committee (Post-Meeting) (2/10/2026 2:59 PM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/1139/Analyses/h1139d.SAC.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/1139/Analyses/h1139e.SAC.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -398,6 +495,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-08T12:31:05Z"
+    "logs_latest_update": "2026-02-13T12:39:39Z"
   }
 }

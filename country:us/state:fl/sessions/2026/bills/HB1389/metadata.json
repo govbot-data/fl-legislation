@@ -9,7 +9,7 @@
   "subject": [
     "municipalities",
     "relations",
-    "subject index"
+    "taxation and finance"
   ],
   "abstracts": [
     {
@@ -90,6 +90,28 @@
       "_processing": {
         "log_file_created": "2026-01-17T12:25:13Z"
       }
+    },
+    {
+      "description": "Added to Housing, Agriculture & Tourism Subcommittee agenda",
+      "date": "2026-02-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "Favorable with CS by Housing, Agriculture & Tourism Subcommittee",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
     }
   ],
   "sponsorships": [
@@ -116,7 +138,30 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Housing, Agriculture & Tourism Subcommittee (Post-Meeting) (2/9/2026 4:36 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1389/Analyses/h1389.HAT.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "208403 - Strike All Amendment to H 1389 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1389/Amendment/208403/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [
     {
       "publication": "Florida Statues",
@@ -157,6 +202,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-17T12:25:13Z"
+    "logs_latest_update": "2026-02-13T12:39:39Z"
   }
 }

@@ -13,7 +13,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Administration of Medications by Pharmacists;  Authorizes pharmacists, at direction of certain licensed physicians, to administer medications; provides recordkeeping requirements; requires Board of Pharmacy to adopt rules; requires facilities to maintain documentation relating to pharmacist qualifications."
+      "abstract": "Administration of Medications by Pharmacists ;  Authorizes pharmacists, at direction of certain licensed physicians, to administer medications; provides recordkeeping requirements; requires Board of Pharmacy to adopt rules; requires facilities to maintain documentation relating to pharmacist qualifications."
     }
   ],
   "other_titles": [],
@@ -177,9 +177,75 @@
       "_processing": {
         "log_file_created": "2026-02-08T12:31:05Z"
       }
+    },
+    {
+      "description": "Favorable with CS by Health & Human Services Committee",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "Reported out of Health & Human Services Committee",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 2)",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Health & Human Services Committee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Health & Human Services Committee\"}"
+    },
     {
       "name": "Health Professions & Programs Subcommittee",
       "classification": "primary",
@@ -228,6 +294,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 1021 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1021/BillText/c2/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -236,6 +313,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/1021/Analyses/h1021a.HPP.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Health & Human Services Committee (Post-Meeting) (2/11/2026 11:57 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1021/Analyses/h1021c.HHS.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -278,6 +366,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-08T12:31:05Z"
+    "logs_latest_update": "2026-02-13T12:39:39Z"
   }
 }

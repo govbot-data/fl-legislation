@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Specific Medical Diagnoses in Child Protective Investigations ;  Provides exception to requirement that DCF immediately forward certain allegations to law enforcement agency; requires such allegations to be immediately forwarded to law enforcement agency upon completion of department's investigation; requires child protective investigator to inform subject of investigation of certain duty; conforms cross-reference; requires Child Protection Teams to consult with licensed physician or advanced practice registered nurse with pediatric experience when evaluating certain reports; authorizes parent or legal custodian of child who is subject of protective investigation or shelter order to request specified examinations of child within specified timeframe; requires that certain examinations be paid for by parent or legal custodian making request or as otherwise covered by insurance; requires physician or advanced practice registered nurse who performed certain medical examinations to submit written report to department & certain persons within specified timeframe; requires department to immediately convene case staffing with specified persons."
+      "abstract": "Specific Medical Diagnoses in Child Protective Investigations ;  Provides exception to requirement that DCF immediately forward certain allegations to law enforcement agency; requires such allegations to be immediately forwarded to law enforcement agency upon completion of department's investigation; requires child protective investigator to inform subject of investigation of certain duty; requires Child Protection Teams to consult with licensed physician or advanced practice registered nurse with pediatric experience when evaluating certain reports; provides for medical evaluation of abused, abandoned, or neglected children; authorizes parent or legal custodian of child who is subject of protective investigation or shelter order to request specified evaluations or examinations of child within specified timeframe; requires that certain evaluations or examinations be paid for by parent or legal custodian making request or as otherwise covered by insurance; requires physician or advanced practice registered nurse who performed certain medical evaluations or examinations to submit written report to department & certain persons within specified timeframe; requires department to immediately convene case staffing with specified persons; requires certain records be provided to department within specified timeframe."
     }
   ],
   "other_titles": [],
@@ -242,9 +242,75 @@
       "_processing": {
         "log_file_created": "2026-02-08T12:31:04Z"
       }
+    },
+    {
+      "description": "Favorable with CS by Health & Human Services Committee",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "Reported out of Health & Human Services Committee",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 2)",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Health & Human Services Committee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Health & Human Services Committee\"}"
+    },
     {
       "name": "Human Services Subcommittee",
       "classification": "primary",
@@ -316,6 +382,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"Trabulsy\"}",
       "organization_id": null
+    },
+    {
+      "name": "Woodson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Woodson\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -341,6 +415,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 47 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/47/BillText/c2/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -360,6 +445,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/47/Analyses/h0047c.JDC.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Health & Human Services Committee (Post-Meeting) (2/11/2026 4:58 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/47/Analyses/h0047e.HHS.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -402,6 +498,14 @@
       "effective": null,
       "expires": null,
       "url": "https://flsenate.gov/laws/statutes/2025/39.304"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "456.057",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/456.057"
     }
   ],
   "sources": [
@@ -418,6 +522,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-08T12:31:04Z"
+    "logs_latest_update": "2026-02-13T12:39:39Z"
   }
 }

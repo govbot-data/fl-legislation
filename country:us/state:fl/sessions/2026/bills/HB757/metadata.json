@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "School Safety;  Authorizes public postsecondary educational institutions to participate in school guardian program; requires sheriffs to assist such institutions in implementing guardian programs under certain provisions of law; requires such institutions to provide specified notice to sheriff; creates offense of discharging weapon or firearm within 1,000 feet of school; provides exception; provides that person arrested for certain offenses must be held in custody until brought before court for admittance to bail; ranks offense created by act on offense severity ranking chart; requires that postsecondary institutions be made aware of mobile suspicious activity reporting tool in specified manner; requires public postsecondary educational institutions to promote use of such tool; requires transfer of specified educational records for certain students; requires State Board of Education & Board of Governors to adopt rules & regulations; requires certain trainings to include specified information relating to school safety; defines \"public postsecondary educational institution\"; authorizes such institutions to participate in certain programs & appoint certified school guardians; authorizes specified persons to serve as school guardians; requires such institutions to adopt specified emergency response plans, provide specified training, post specified information, & adopt threat management processes; authorizes State Board of Education & Board of Governors to adopt rules & regulations."
+      "abstract": "School Safety;  Authorizes public postsecondary educational institutions to participate in school guardian program; requires sheriffs to assist in implementing programs; authorizes law enforcement agency to provide training; requires institutions provide specified notice to sheriff; creates offense of discharging weapon or firearm within 1,000 feet of school; provides exception; requires person arrested for certain offenses be held in custody until brought before court bail; ranks offense on offense severity ranking chart; requires postsecondary institutions be made aware of mobile suspicious activity reporting tool in specified manner; requires public postsecondary educational institutions promote use of such tool; authorizes funds for Catholic schools for specified purposes; prioritizes use of funds; requires transfer of specified student records; requires State Board of Education & Board of Governors to adopt rules & regulations; requires certain trainings include specified information; authorizes public postsecondary educational institutions to participate in certain programs & appoint certified school guardians; removes requirement that only sheriffs may provide school guardian training; authorizes specified persons to serve as school guardians; requires institutions adopt emergency response plans, provide training, post specified information, & adopt threat management processes; requires institutions develop certain policies; authorizes State Board of Education & Board of Governors to adopt rules & regulations."
     }
   ],
   "other_titles": [],
@@ -242,9 +242,75 @@
       "_processing": {
         "log_file_created": "2026-02-08T12:31:04Z"
       }
+    },
+    {
+      "description": "Favorable with CS by Budget Committee",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "Reported out of Budget Committee",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 2)",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Budget Committee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Budget Committee\"}"
+    },
     {
       "name": "Judiciary Committee",
       "classification": "primary",
@@ -285,6 +351,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 757 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/757/BillText/c2/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -304,6 +381,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/757/Analyses/h0757b.EEC.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Budget Committee (Post-Meeting) (2/11/2026 5:39 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/757/Analyses/h0757d.BUC.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -378,6 +466,14 @@
     },
     {
       "publication": "Florida Statues",
+      "citation": "1001.2921",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/1001.2921"
+    },
+    {
+      "publication": "Florida Statues",
       "citation": "1003.25",
       "citation_type": "proposed",
       "effective": null,
@@ -415,6 +511,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-08T12:31:04Z"
+    "logs_latest_update": "2026-02-13T12:39:39Z"
   }
 }

@@ -7,7 +7,7 @@
     "bill"
   ],
   "subject": [
-    "public officers, employees, and records"
+    "subject index"
   ],
   "abstracts": [
     {
@@ -130,6 +130,28 @@
       "_processing": {
         "log_file_created": "2026-01-31T12:29:56Z"
       }
+    },
+    {
+      "description": "Added to Government Operations Subcommittee agenda",
+      "date": "2026-02-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "Favorable with CS by Government Operations Subcommittee",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
     }
   ],
   "sponsorships": [
@@ -156,6 +178,22 @@
       "primary": false,
       "person_id": "~{\"name\": \"Alvarez, J.\"}",
       "organization_id": null
+    },
+    {
+      "name": "Holcomb",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Holcomb\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Plasencia",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Plasencia\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -178,6 +216,28 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/1283/Analyses/h1283a.CRM.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Government Operations Subcommittee (Post-Meeting) (2/9/2026 5:26 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1283/Analyses/h1283b.GOS.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "065307 - Strike All Amendment to H 1283 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1283/Amendment/065307/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -217,6 +277,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-31T12:29:56Z"
+    "logs_latest_update": "2026-02-13T12:39:39Z"
   }
 }

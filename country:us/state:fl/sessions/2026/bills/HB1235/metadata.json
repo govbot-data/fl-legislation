@@ -7,7 +7,8 @@
     "bill"
   ],
   "subject": [
-    "subject index"
+    "subject index",
+    "torts"
   ],
   "abstracts": [
     {
@@ -130,6 +131,16 @@
       "_processing": {
         "log_file_created": "2026-02-07T12:30:43Z"
       }
+    },
+    {
+      "description": "Added to Health Care Budget Subcommittee agenda",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
     }
   ],
   "sponsorships": [
@@ -162,6 +173,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/1235/Analyses/h1235a.HPP.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Health Care Budget Subcommittee (Post-Meeting) (2/11/2026 8:11 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1235/Analyses/h1235b.HCB.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -217,6 +239,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-07T12:30:43Z"
+    "logs_latest_update": "2026-02-13T12:39:39Z"
   }
 }

@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "HB 1265",
-  "title": "Public Records/Insurer Information Provided to the Office of Insurance Regulation",
+  "title": "Pub. Rec./Office of Insurance Regulation",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Public Records/Insurer Information Provided to the Office of Insurance Regulation;  Provides exemption from public records requirements for certain proprietary business information provided to OIR by insurer; revises provisions relating to entities to which OIR may disclose such information; provides for future legislative review & repeal of exemption; provides statement of public necessity."
+      "abstract": "Pub. Rec./Office of Insurance Regulation;  Creates privilege for documents, materials, & other information obtained by Commissioner of Insurance Regulation or National Association of Insurance Commissioners in course of examination or analysis; prohibits commissioner & certain persons from testifying in certain private civil actions; authorizes commissioner to share certain information under certain circumstances; provides for reciprocity; provides exemption from public records requirements for certain proprietary business information provided to OIR by insurer & certain biographical statements, biographical affidavits, & supplementary materials related thereto provided to or obtained by OIR; provides for future legislative review & repeal of privilege & exemptions; provides statements of public necessity."
     }
   ],
   "other_titles": [],
@@ -88,9 +88,85 @@
       "_processing": {
         "log_file_created": "2026-01-17T12:25:12Z"
       }
+    },
+    {
+      "description": "PCS added to Insurance & Banking Subcommittee agenda",
+      "date": "2026-02-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "Favorable with CS by Insurance & Banking Subcommittee",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "Reported out of Insurance & Banking Subcommittee",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 1)",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Insurance & Banking Subcommittee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Insurance & Banking Subcommittee\"}"
+    },
     {
       "name": "Chaney",
       "classification": "primary",
@@ -112,19 +188,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 1265 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1265/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
-  "citations": [
-    {
-      "publication": "Florida Statues",
-      "citation": "624.4212",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/624.4212"
-    }
-  ],
+  "citations": [],
   "sources": [
     {
       "url": "https://flsenate.gov/Session/Bill/2026/1265/ByCategory",
@@ -139,6 +217,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-17T12:25:12Z"
+    "logs_latest_update": "2026-02-13T12:39:39Z"
   }
 }

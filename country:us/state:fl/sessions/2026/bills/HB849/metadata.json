@@ -7,13 +7,12 @@
     "bill"
   ],
   "subject": [
-    "public health",
     "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Department of Law Enforcement;  Authorizes FDLE to adopt rules relating to Florida Medal of Valor & Florida Blue/Red Heart Medal programs; specifies that appointments & reappointments of members to Medical Examiners Commission are considered in force until certain conditions are met; requires commission to appoint district medical examiners for medical examiner districts; provides that physician members of commission are eligible to serve as district medical examiners upon approval by commission; requires Criminal Justice Professionalism Program to provide staff support to Criminal Justice Standards & Training Commission within department; requires commission to act independently of any criminal justice agency; provides manners of administrative complaint service by commission to law enforcement, correctional, & correctional probation officers; requires commission to establish online continued employment training components relating to diabetic emergencies, online initial training & continuing education courses relating to medical use of marijuana, continued employment training components relating to autism spectrum disorder, & online continued employment training components relating to Alzheimer's disease & related forms of dementia."
+      "abstract": "Department of Law Enforcement;  Authorizes FDLE to adopt rules relating to Florida Medal of Valor & Florida Blue/Red Heart Medal programs; requires commission to appoint district medical examiners by majority vote to fill vacancies; provides that physician members of commission are eligible to serve as district medical examiners upon approval by commission,; authorizes organ procurement organization, eye bank, & tissue bank to view & copy specified autopsy records; authorizes Criminal Justice Information Program to collect, process, store, maintain, & disseminate records containing immigration detainer information; requires law enforcement agencies to capture & submit fingerprints of specified offenders to department; authorizes applications for administrative expunction of specified records; provides manners of administrative complaint service by Criminal Justice Standards & Training Commission to law enforcement, correctional, & correctional probation officers."
     }
   ],
   "other_titles": [],
@@ -243,9 +242,95 @@
       "_processing": {
         "log_file_created": "2026-02-08T12:31:05Z"
       }
+    },
+    {
+      "description": "Favorable with CS by Judiciary Committee",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "Reported out of Judiciary Committee",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "Bill referred to House Calendar",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 2)",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "Added to Second Reading Calendar",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Judiciary Committee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Judiciary Committee\"}"
+    },
     {
       "name": "Criminal Justice Subcommittee",
       "classification": "primary",
@@ -294,6 +379,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 849 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/849/BillText/c2/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -320,10 +416,32 @@
       "classification": ""
     },
     {
-      "note": "Bill Analysis -- Judiciary Committee (Post-Meeting) (2/6/2026 5:02 PM)",
+      "note": "Bill Analysis -- Judiciary Committee (Post-Meeting) (2/10/2026 9:55 PM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/849/Analyses/h0849c.JDC.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/849/Analyses/h0849d.JDC.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "303537 - Amendment to H 849 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/849/Amendment/303537/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "956867 - Amendment to H 849 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/849/Amendment/956867/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -358,51 +476,11 @@
     },
     {
       "publication": "Florida Statues",
-      "citation": "943.11",
+      "citation": "406.135",
       "citation_type": "proposed",
       "effective": null,
       "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/943.11"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "943.1395",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/943.1395"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "943.1726",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/943.1726"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "943.17261",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/943.17261"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "943.1727",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/943.1727"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "943.17299",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/943.17299"
+      "url": "https://flsenate.gov/laws/statutes/2025/406.135"
     }
   ],
   "sources": [
@@ -419,6 +497,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-08T12:31:05Z"
+    "logs_latest_update": "2026-02-13T12:39:39Z"
   }
 }

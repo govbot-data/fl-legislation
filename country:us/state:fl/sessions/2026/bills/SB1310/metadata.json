@@ -1,18 +1,18 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 1310",
-  "title": "Railroad Safety",
+  "title": "Railroad Crossing Safety",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
   ],
   "subject": [
-    "subject index"
+    "railroads and other regulated utilities"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Railroad Safety;  Requiring certain governmental entities to install and maintain specified detection and monitoring systems at public railroad-highway grade crossings by a specified date; authorizing installation and maintenance of such systems to be funded through certain sources; requiring the Department of Transportation to compile such reports and submit a summary report to the Legislature by a specified date and biennially thereafter, etc."
+      "abstract": "Railroad Crossing Safety;  Requiring the Department of Transportation to conduct a statewide study on the use of advanced detection and monitoring systems at public railroad-highway grade crossings; authorizing the department to consult with certain persons and entities in conducting the study, etc."
     }
   ],
   "other_titles": [],
@@ -63,9 +63,47 @@
       "_processing": {
         "log_file_created": "2026-02-07T12:30:43Z"
       }
+    },
+    {
+      "description": "CS by Transportation; YEAS 8 NAYS 0",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "CS by Transportation read 1st time",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Transportation",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Transportation\"}"
+    },
     {
       "name": "Rodriguez",
       "classification": "primary",
@@ -91,19 +129,63 @@
       ],
       "date": "",
       "classification": ""
-    }
-  ],
-  "documents": [],
-  "citations": [
+    },
     {
-      "publication": "Florida Statues",
-      "citation": "351.03",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/351.03"
+      "note": "S 1310 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1310/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1310/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Transportation (Pre-Meeting) (2/9/2026 11:59 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1310/Analyses/2026s01310.pre.tr.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Transportation (Post-Meeting) (2/10/2026 5:27 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1310/Analyses/2026s01310.tr.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "745812 - Amendment (Delete All) to S 1310 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1310/Amendment/745812/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1310/Amendment/745812/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
   "sources": [
     {
       "url": "https://flsenate.gov/Session/Bill/2026/1310/ByCategory",
@@ -118,6 +200,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-07T12:30:43Z"
+    "logs_latest_update": "2026-02-13T12:39:39Z"
   }
 }

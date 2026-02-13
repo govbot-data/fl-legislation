@@ -13,7 +13,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Systems of Law and Terrorist Organizations;  Prohibits application of certain law in adjudicatory proceedings in manner that violates constitutional right; provides person who knowingly provides or attempts or conspires to provide material support or resources to domestic terrorist organization commits specified crime; provides that person who willfully becomes member of domestic terrorist organization & serves under direction or control of such organization with specified intent commits specified crime; provides powers and duties of Chief of Domestic Security; authorizes designated organization to seek judicial review; prohibits state agencies, political subdivisions, & public school districts from expending certain public funds to support organization designated domestic terrorist organization or foreign terrorist organization; requires FDLE to adopt rules; revises eligibility & obligations of private schools that participate in state school choice scholarship program; prohibits certain institutions from expending public funds to promote, support, or maintain programs or campus activities that advocate for domestic terrorist organizations or foreign terrorist organizations; requires that certain students of Florida College System institutions & state universities be immediately expelled & assessed out-of-state fees; provides that certain students of school districts & Florida College System institutions are ineligible for specified fee waivers; prohibits students who promote domestic terrorist organization or foreign terrorist organizations from being awarded certain public institution funds."
+      "abstract": "Systems of Law and Terrorist Organizations;  Provides person who knowingly provides or attempts or conspires to provide material support or resources to domestic terrorist organization commits specified crime; provides that person who willfully becomes member of domestic terrorist organization & serves under direction or control of such organization with specified intent commits specified crime; authorizes Chief of Domestic Security to designate organization domestic terrorist organization or foreign terrorist organization; authorizes designated organization to seek judicial review; prohibits state agencies, political subdivisions, & public school districts from expending certain public funds to support organization designated domestic terrorist organization or foreign terrorist organization; prohibits certain institutions from expending public funds to promote, support, or maintain programs or campus activities that advocate for domestic terrorist organizations or foreign terrorist organizations."
     }
   ],
   "other_titles": [],
@@ -141,9 +141,97 @@
       "_processing": {
         "log_file_created": "2026-02-08T12:31:05Z"
       }
+    },
+    {
+      "description": "Favorable with CS by Education & Employment Committee",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "Reported out of Education & Employment Committee",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 1)",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "Referred to Judiciary Committee",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "Now in Judiciary Committee",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Education & Employment Committee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Education & Employment Committee\"}"
+    },
     {
       "name": "Cassel",
       "classification": "primary",
@@ -209,6 +297,14 @@
       "organization_id": null
     },
     {
+      "name": "Esposito",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Esposito\"}",
+      "organization_id": null
+    },
+    {
       "name": "Griffitts",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -257,11 +353,27 @@
       "organization_id": null
     },
     {
+      "name": "Persons-Mulicka",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Persons-Mulicka\"}",
+      "organization_id": null
+    },
+    {
       "name": "Salzman",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Salzman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Yarkosky",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Yarkosky\"}",
       "organization_id": null
     }
   ],
@@ -272,6 +384,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/1471/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "H 1471 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1471/BillText/c1/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -292,10 +415,21 @@
       "classification": ""
     },
     {
-      "note": "Bill Analysis -- Education & Employment Committee (Post-Meeting) (2/6/2026 6:42 PM)",
+      "note": "Bill Analysis -- Education & Employment Committee (Post-Meeting) (2/10/2026 6:05 PM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/1471/Analyses/h1471b.EEC.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/1471/Analyses/h1471c.EEC.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "018733 - Amendment to H 1471 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1471/Amendment/018733/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -318,6 +452,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-08T12:31:05Z"
+    "logs_latest_update": "2026-02-13T12:39:39Z"
   }
 }

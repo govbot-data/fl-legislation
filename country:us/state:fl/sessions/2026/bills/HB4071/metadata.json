@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Palm Beach County;  Provides that municipal service taxing unit whose primary purpose is to provide fire protection, rescue, & emergency medical services to residents in unincorporated areas of county remains service provider for specified length of time to real properties that is annexed into municipality; provides that geographical boundaries of municipal service taxing unit shall contract following annexation; prohibits Palm Beach County from levying ad valorem taxes through municipal service taxing unit on annexed real properties following annexation; requires annexing municipality to pay county annual service price for specified length of time; provides that county remains authority having jurisdiction & may continue to collect certain fees from annexed real properties; provides for transfer of services to annexing municipality & cessation of county jurisdiction to collect fees; requires pre-annexation good faith discussions & negotiations between annexing municipality & county regarding expenditure of assets for capital & operational purposes in areas proposed to be annexed; authorizes annexing municipality & county to enter into agreement on length of time for provision of county services, retention of county jurisdiction regarding fees, & annual service price payments."
+      "abstract": "Palm Beach County;  Provides that municipal service taxing unit whose primary purpose is to provide fire rescue & emergency medical services to residents in unincorporated areas of county remains service provider for specified length of time to real properties that are annexed into municipality; provides that geographical boundaries of municipal service taxing unit shall contract following annexation; prohibits Palm Beach County from levying ad valorem taxes through municipal service taxing unit on annexed real properties following annexation; requires annexing municipality to pay county annual service price for up to specified length of time; provides that county, through municipal service taxing unit, remains authority having jurisdiction & may continue to collect certain fees from annexed real properties; provides for transfer of services to annexing municipality & cessation of county jurisdiction to collect fees; provides circumstances under which such transfer & cessation may not occur; requires good faith discussions & negotiations between annexing municipality & county regarding transition of services & expenditure of assets for capital & operational purposes in areas proposed to be annexed; authorizes annexing municipality & county to enter into agreement on length of time for provision of county services, retention of county jurisdiction regarding fees, & annual service price payments; provides conflict resolution procedure in event annexing municipality & county do not enter interlocal agreement."
     }
   ],
   "other_titles": [],
@@ -182,9 +182,95 @@
       "_processing": {
         "log_file_created": "2026-02-08T12:31:04Z"
       }
+    },
+    {
+      "description": "Favorable with CS by State Affairs Committee",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "Reported out of State Affairs Committee",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 1)",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "Bill referred to House Calendar",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "Added to Second Reading Calendar",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "State Affairs Committee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"State Affairs Committee\"}"
+    },
     {
       "name": "Snyder",
       "classification": "primary",
@@ -201,6 +287,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/4071/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "H 4071 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/4071/BillText/c1/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -232,10 +329,32 @@
       "classification": ""
     },
     {
-      "note": "Bill Analysis -- State Affairs Committee (Post-Meeting) (2/6/2026 6:52 PM)",
+      "note": "Bill Analysis -- State Affairs Committee (Post-Meeting) (2/10/2026 5:39 PM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/4071/Analyses/h4071d.SAC.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/4071/Analyses/h4071e.SAC.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "499033 - Strike All Amendment to H 4071 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/4071/Amendment/499033/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "549505 - Strike All Amendment to H 4071 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/4071/Amendment/549505/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -258,6 +377,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-08T12:31:04Z"
+    "logs_latest_update": "2026-02-13T12:39:39Z"
   }
 }

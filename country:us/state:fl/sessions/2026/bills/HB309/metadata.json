@@ -190,6 +190,16 @@
       "_processing": {
         "log_file_created": "2026-01-22T12:31:40Z"
       }
+    },
+    {
+      "description": "PCS added to Justice Budget Subcommittee agenda",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
     }
   ],
   "sponsorships": [
@@ -215,6 +225,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Plakon\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Grow",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Grow\"}",
       "organization_id": null
     }
   ],
@@ -315,6 +333,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-22T12:31:40Z"
+    "logs_latest_update": "2026-02-13T12:39:39Z"
   }
 }

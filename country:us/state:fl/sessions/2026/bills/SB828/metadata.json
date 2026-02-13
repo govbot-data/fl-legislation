@@ -7,12 +7,12 @@
     "bill"
   ],
   "subject": [
-    "subject index"
+    "torts"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Sovereign Immunity for Public Transit Contractors;  Providing that contractors operating public transit services and their employees, agents, or subcontractors are deemed agents of the state, agency, or subdivision for which they provide public transit services for purposes of sovereign immunity, etc."
+      "abstract": "Sovereign Immunity for Public Transit Contractors;  Providing that contractors providing public transit services and their employees or agents are deemed agents of the state for purposes of sovereign immunity, etc."
     }
   ],
   "other_titles": [],
@@ -63,9 +63,47 @@
       "_processing": {
         "log_file_created": "2026-02-07T12:30:43Z"
       }
+    },
+    {
+      "description": "CS by Transportation; YEAS 6 NAYS 2",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "CS by Transportation read 1st time",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Transportation",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Transportation\"}"
+    },
     {
       "name": "Leek",
       "classification": "primary",
@@ -91,9 +129,62 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 828 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/828/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/828/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Transportation (Pre-Meeting) (2/9/2026 12:00 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/828/Analyses/2026s00828.pre.tr.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Transportation (Post-Meeting) (2/11/2026 10:27 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/828/Analyses/2026s00828.tr.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "208238 - Amendment to S 828 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/828/Amendment/208238/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/828/Amendment/208238/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [
     {
       "publication": "Florida Statues",
@@ -126,6 +217,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-07T12:30:43Z"
+    "logs_latest_update": "2026-02-13T12:39:39Z"
   }
 }

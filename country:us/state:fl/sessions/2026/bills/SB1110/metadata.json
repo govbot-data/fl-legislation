@@ -7,8 +7,8 @@
     "bill"
   ],
   "subject": [
-    "insurance",
-    "social welfare"
+    "(adopted)",
+    "insurance"
   ],
   "abstracts": [
     {
@@ -64,6 +64,16 @@
       "_processing": {
         "log_file_created": "2026-02-08T12:31:05Z"
       }
+    },
+    {
+      "description": "CS by Banking and Insurance; YEAS 9 NAYS 0",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
     }
   ],
   "sponsorships": [
@@ -102,7 +112,34 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Banking and Insurance (Pre-Meeting) (2/10/2026 8:52 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1110/Analyses/2026s01110.pre.bi.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "277724 - Amendment (Delete All) to S 1110 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1110/Amendment/277724/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1110/Amendment/277724/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [
     {
       "publication": "Florida Statues",
@@ -127,6 +164,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-08T12:31:05Z"
+    "logs_latest_update": "2026-02-13T12:39:39Z"
   }
 }

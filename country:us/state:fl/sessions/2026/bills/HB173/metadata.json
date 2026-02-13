@@ -140,6 +140,38 @@
       "_processing": {
         "log_file_created": "2026-02-08T12:31:05Z"
       }
+    },
+    {
+      "description": "Favorable by Judiciary Committee",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "Reported out of Judiciary Committee",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "Now in Education & Employment Committee",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
     }
   ],
   "sponsorships": [
@@ -174,6 +206,22 @@
       "primary": false,
       "person_id": "~{\"name\": \"Miller\"}",
       "organization_id": null
+    },
+    {
+      "name": "Partington",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Partington\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Steele",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Steele\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -203,10 +251,10 @@
       "classification": ""
     },
     {
-      "note": "Bill Analysis -- Judiciary Committee (Post-Meeting) (2/6/2026 5:02 PM)",
+      "note": "Bill Analysis -- Judiciary Committee (Post-Meeting) (2/10/2026 4:14 PM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/173/Analyses/h0173b.JDC.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/173/Analyses/h0173c.JDC.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -334,6 +382,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-08T12:31:05Z"
+    "logs_latest_update": "2026-02-13T12:39:39Z"
   }
 }

@@ -103,6 +103,16 @@
       "_processing": {
         "log_file_created": "2026-01-19T12:32:00Z"
       }
+    },
+    {
+      "description": "On Committee agenda-- Appropriations Committee on Transportation, Tourism, and Economic Development, 02/12/26, 2:30 pm, 110 Senate Building",
+      "date": "2026-02-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
     }
   ],
   "sponsorships": [
@@ -180,6 +190,17 @@
       "classification": ""
     },
     {
+      "note": "Bill Analysis -- Appropriations Committee on Transportation, Tourism, and Economic Development (Pre-Meeting) (2/11/2026 2:40 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/354/Analyses/2026s00354.pre.atd.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "922876 - Amendment to S 354 Filed",
       "links": [
         {
@@ -225,6 +246,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-19T12:32:00Z"
+    "logs_latest_update": "2026-02-13T12:39:39Z"
   }
 }

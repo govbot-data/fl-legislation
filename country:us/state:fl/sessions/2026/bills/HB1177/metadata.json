@@ -1,19 +1,20 @@
 {
   "legislative_session": "2026",
   "identifier": "HB 1177",
-  "title": "Space Florida",
+  "title": "Spaceport Operations and Space Florida",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
   "subject": [
     "aviation",
+    "real and personal property",
     "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Space Florida;  Provides that lease or rental of certain property is not taxable lease or use; provides exemption from sales & use tax for defense or aerospace machinery & equipment; requires exemption certificates; provides liability under certain conditions; requires DOR to adopt rules; provides that Space Florida is not agency & not subject to certain bidding & contract procedures when using nonappropriated state funds."
+      "abstract": "Spaceport Operations and Space Florida;  Provides exemption from sales & use tax for defense or aerospace machinery & equipment; requires affidavit; provides penalties; provides liability under certain conditions; authorizes DOR to adopt rules; provides that Space Florida is not agency & is not subject to certain bidding & contract procedures under certain conditions;  requires Space Florida to enhance & promote development & use of quintimodal transportation hubs in this state; provides powers & duties of spaceport operators."
     }
   ],
   "other_titles": [],
@@ -99,9 +100,75 @@
       "_processing": {
         "log_file_created": "2026-02-08T12:31:05Z"
       }
+    },
+    {
+      "description": "Favorable with CS by Ways & Means Committee",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "Reported out of Ways & Means Committee",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 1)",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Ways & Means Committee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Ways & Means Committee\"}"
+    },
     {
       "name": "Sirois",
       "classification": "primary",
@@ -123,9 +190,32 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 1177 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1177/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Ways & Means Committee (Post-Meeting) (2/11/2026 9:46 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1177/Analyses/h1177.WMC.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [
     {
       "publication": "Florida Statues",
@@ -137,14 +227,6 @@
     },
     {
       "publication": "Florida Statues",
-      "citation": "212.06",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/212.06"
-    },
-    {
-      "publication": "Florida Statues",
       "citation": "212.08",
       "citation_type": "proposed",
       "effective": null,
@@ -153,11 +235,35 @@
     },
     {
       "publication": "Florida Statues",
+      "citation": "330.41",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/330.41"
+    },
+    {
+      "publication": "Florida Statues",
       "citation": "331.302",
       "citation_type": "proposed",
       "effective": null,
       "expires": null,
       "url": "https://flsenate.gov/laws/statutes/2025/331.302"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "331.303",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/331.303"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "331.3051",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/331.3051"
     }
   ],
   "sources": [
@@ -174,6 +280,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-08T12:31:05Z"
+    "logs_latest_update": "2026-02-13T12:39:39Z"
   }
 }

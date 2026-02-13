@@ -1,18 +1,18 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 1004",
-  "title": "Sale of Dogs and Cats",
+  "title": "Domestic Animals",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
   ],
   "subject": [
-    "subject index"
+    "crimes"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Sale of Dogs and Cats;  Requiring that if a pet sale is terminated for certain reasons, the financing agreement must be terminated without certain costs; requiring that all financial terms be disclosed to the consumer before the sale of the animal; requiring a pet dealer to provide copies of specified medical records to a consumer; providing that violations constitute an unfair method of competition or an unfair or deceptive act or practice in violation of specified provisions and subject to penalties, etc."
+      "abstract": "Domestic Animals;  Requiring the Department of Law Enforcement to post on its website specified information relating to each individual convicted of specified animal cruelty offenses; extending the timeframe for which a consumer may pursue remedies for the sale of an animal certifiably unfit for purchase; requiring a pet dealer to provide copies of specified medical records to a consumer; requiring the Department of Agriculture and Consumer Services to develop a list of best management practices for adoption and implementation, etc."
     }
   ],
   "other_titles": [],
@@ -127,9 +127,47 @@
       "_processing": {
         "log_file_created": "2026-02-07T12:30:43Z"
       }
+    },
+    {
+      "description": "CS by- Rules; YEAS 24 NAYS 0",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "Pending reference review -under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "CS by Rules read 1st time",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Rules",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Rules\"}"
+    },
     {
       "name": "Gaetz",
       "classification": "primary",
@@ -158,6 +196,21 @@
         },
         {
           "url": "https://flsenate.gov/Session/Bill/2026/1004/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S 1004 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1004/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1004/BillText/c1/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -209,9 +262,69 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Rules (Pre-Meeting) (2/9/2026 7:44 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1004/Analyses/2026s01004.pre.rc.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Rules (Post-Meeting) (2/10/2026 3:48 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1004/Analyses/2026s01004.rc.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "651132 - Amendment (Delete All) to S 1004 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1004/Amendment/651132/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1004/Amendment/651132/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "726924 - Amendment to Amendment (651132) to S 1004 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1004/Amendment/726924/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1004/Amendment/726924/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [
+    {
+      "publication": "Florida Statues",
+      "citation": "828.12",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/828.12"
+    },
     {
       "publication": "Florida Statues",
       "citation": "828.29",
@@ -235,6 +348,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-07T12:30:43Z"
+    "logs_latest_update": "2026-02-13T12:39:39Z"
   }
 }

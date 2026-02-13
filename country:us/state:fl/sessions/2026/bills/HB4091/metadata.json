@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Sarasota and Manatee Counties;  Creates University Town Center Improvement District, independent special taxing district, in Sarasota & Manatee Counties; provides purposes of district; establishes jurisdictional boundaries of district; provides powers of district; creates Board of Supervisors; provides for organization, powers, duties, terms of office, & compensation of board; provides for landowners' meetings & election of supervisors; provides ad valorem & non-ad valorem assessments; provides for issuance of bonds; provides minimum charter requirements; provides boundaries changes; provides severability."
+      "abstract": "Sarasota and Manatee Counties;  Creates University Town Center Improvement District, independent special taxing district, in Sarasota & Manatee Counties; provides purposes of district; establishes boundaries of district; provides powers of district; creates Board of Supervisors; provides for organization, powers, duties, terms of office, & compensation of board; provides for landowners' meetings & election of supervisors; provides ad valorem & non-ad valorem assessments; provides for issuance of bonds; provides minimum charter requirements; provides boundary changes."
     }
   ],
   "other_titles": [],
@@ -140,9 +140,97 @@
       "_processing": {
         "log_file_created": "2026-02-08T12:31:04Z"
       }
+    },
+    {
+      "description": "Favorable with CS by Ways & Means Committee",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "Reported out of Ways & Means Committee",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 1)",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "Referred to State Affairs Committee",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "Now in State Affairs Committee",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Ways & Means Committee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Ways & Means Committee\"}"
+    },
     {
       "name": "Conerly",
       "classification": "primary",
@@ -164,6 +252,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 4091 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/4091/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -179,10 +278,32 @@
       "classification": ""
     },
     {
-      "note": "Bill Analysis -- Ways & Means Committee (Post-Meeting) (2/6/2026 4:42 PM)",
+      "note": "Bill Analysis -- Ways & Means Committee (Post-Meeting) (2/10/2026 8:00 PM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/4091/Analyses/h4091b.WMC.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/4091/Analyses/h4091c.WMC.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "518919 - Amendment to H 4091 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/4091/Amendment/518919/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "769933 - Amendment to H 4091 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/4091/Amendment/769933/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -214,6 +335,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-08T12:31:04Z"
+    "logs_latest_update": "2026-02-13T12:39:39Z"
   }
 }

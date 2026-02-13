@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Favorable by Judiciary; YEAS 8 NAYS 3",
+    "date": "2026-02-10",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 1106"
+}

@@ -13,7 +13,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Bail Bonds;  Revises requirements for approval & certification as approved limited surety agent & professional bail bond agent prelicensing school; prohibits solicitation of certain persons; authorizes bail bond agents & agencies to accept certain fees or charges; prohibits virtual offices; revises provisions relating to pretrial release and detention; revises criteria court must consider in making specified determinations; revises duties and responsibilities of clerk of court relating to bonds and forfeiture of bonds; removes and revises certain provisions relating to sureties and ownership of property, justification of suretyship, provision of information, access to jails, and liability; revises provisions relating to deposit of bail money; revises provisions relating to bond forfeiture and discharge of forfeiture; requires state to enter defendant's information in National Crime Information Center database for each felony warrant for failure to appear; specifies circumstances under which clerk does not have standing to object to motions; revises provisions relating to remission of forfeiture; revises provisions relating to bond cancellation; specifies limits on effect of original appearance bond; removes provisions relating to guaranteed arrest bond certificates as cash bail; authorizes pretrial detention of certain defendants arrested for certain dangerous crimes."
+      "abstract": "Bail Bonds;  Revises requirements for approval & certification as approved limited surety agent & professional bail bond agent prelicensing school; authorizes bail bond agents & agencies to accept certain fees or charges; prohibits virtual offices; revises provisions relating to pretrial release and detention; revises criteria court must consider in making specified determinations; revises duties and responsibilities of clerk of court relating to bonds and forfeiture of bonds; removes and revises certain provisions relating to sureties and ownership of property, justification of suretyship, provision of information, access to jails, and liability; revises provisions relating to deposit of bail money; revises provisions relating to bond forfeiture and discharge of forfeiture; requires sheriff to enter defendant's information in National Crime Information Center database for each felony warrant for failure to appear; revises provisions relating to remission of forfeiture; revises provisions relating to bond cancellation; specifies limits on effect of original appearance bond; specifies that the clerk of court does not have standing to object to reinstatement of bond; removes provisions relating to guaranteed arrest bond certificates as cash bail; authorizes pretrial detention of certain defendants arrested for certain dangerous crimes."
     }
   ],
   "other_titles": [],
@@ -177,9 +177,95 @@
       "_processing": {
         "log_file_created": "2026-02-08T12:31:04Z"
       }
+    },
+    {
+      "description": "Favorable with CS by Judiciary Committee",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "Reported out of Judiciary Committee",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 2)",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "Bill referred to House Calendar",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "Added to Second Reading Calendar",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Judiciary Committee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Judiciary Committee\"}"
+    },
     {
       "name": "Criminal Justice Subcommittee",
       "classification": "primary",
@@ -220,6 +306,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 1017 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1017/BillText/c2/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -228,6 +325,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/1017/Analyses/h1017a.CRM.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Judiciary Committee (Post-Meeting) (2/10/2026 6:05 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1017/Analyses/h1017c.JDC.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -278,14 +386,6 @@
       "effective": null,
       "expires": null,
       "url": "https://flsenate.gov/laws/statutes/2025/648.44"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "648.45",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/648.45"
     },
     {
       "publication": "Florida Statues",
@@ -454,6 +554,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-08T12:31:04Z"
+    "logs_latest_update": "2026-02-13T12:39:39Z"
   }
 }

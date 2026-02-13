@@ -85,6 +85,16 @@
       "_processing": {
         "log_file_created": "2026-01-21T12:32:32Z"
       }
+    },
+    {
+      "description": "On Committee agenda-- Appropriations Committee on Health and Human Services, 02/12/26, 2:30 pm, 412 Knott Building",
+      "date": "2026-02-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
     }
   ],
   "sponsorships": [
@@ -137,6 +147,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Appropriations Committee on Health and Human Services (Pre-Meeting) (2/11/2026 3:18 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/778/Analyses/2026s00778.pre.ahs.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [
@@ -171,6 +192,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-21T12:32:32Z"
+    "logs_latest_update": "2026-02-13T12:39:39Z"
   }
 }

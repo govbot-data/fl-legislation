@@ -7,14 +7,15 @@
     "bill"
   ],
   "subject": [
-    "electors and elections",
+    "public business",
     "public transportation",
-    "subject index"
+    "subject index",
+    "veterans"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Ethics for Public Officers and Employees;  Revising the definition of the term \u201crelative\u201d to include foster parents and foster children, etc."
+      "abstract": "Ethics for Public Officers and Employees;  Revising the definition of the term \u201crelative\u201d to include foster parents and foster children; providing that specified provisions do not prohibit a board, council, commission, or collegial body from appointing, employing, promoting, or advancing elected public officials who are related to a leadership position on the same board, council, commission, or collegial body, etc."
     }
   ],
   "other_titles": [],
@@ -169,6 +170,82 @@
       "_processing": {
         "log_file_created": "2026-02-07T12:30:43Z"
       }
+    },
+    {
+      "description": "Placed on Special Order Calendar, 02/11/26",
+      "date": "2026-02-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "Read 2nd time",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "Amendment(s) adopted (807008)",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "Read 3rd time",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "CS passed as amended; YEAS 38 NAYS 0",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "Immediately certified",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "In Messages",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
     }
   ],
   "sponsorships": [
@@ -215,6 +292,21 @@
         },
         {
           "url": "https://flsenate.gov/Session/Bill/2026/572/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S 572 e1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/572/BillText/e1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/572/BillText/e1/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -303,9 +395,32 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "807008 - Amendment to S 572 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/572/Amendment/807008/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/572/Amendment/807008/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [
+    {
+      "publication": "Florida Statues",
+      "citation": "28.35",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/28.35"
+    },
     {
       "publication": "Florida Statues",
       "citation": "106.07",
@@ -332,6 +447,46 @@
     },
     {
       "publication": "Florida Statues",
+      "citation": "112.3135",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/112.3135"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "288.012",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/288.012"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "288.8014",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/288.8014"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "288.9604",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/288.9604"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "295.21",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/295.21"
+    },
+    {
+      "publication": "Florida Statues",
       "citation": "348.0305",
       "citation_type": "proposed",
       "effective": null,
@@ -340,11 +495,43 @@
     },
     {
       "publication": "Florida Statues",
+      "citation": "627.311",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/627.311"
+    },
+    {
+      "publication": "Florida Statues",
       "citation": "1001.421",
       "citation_type": "proposed",
       "effective": null,
       "expires": null,
       "url": "https://flsenate.gov/laws/statutes/2025/1001.421"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "1002.33",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/1002.33"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "1002.83",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/1002.83"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "1012.23",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/1012.23"
     }
   ],
   "sources": [
@@ -361,6 +548,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-07T12:30:43Z"
+    "logs_latest_update": "2026-02-13T12:39:39Z"
   }
 }

@@ -7,6 +7,7 @@
     "bill"
   ],
   "subject": [
+    "regulation of professions and occupations",
     "subject index"
   ],
   "abstracts": [
@@ -63,6 +64,16 @@
       "_processing": {
         "log_file_created": "2026-02-08T12:31:04Z"
       }
+    },
+    {
+      "description": "CS by Health Policy; YEAS 10 NAYS 0",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
     }
   ],
   "sponsorships": [
@@ -95,6 +106,17 @@
   ],
   "documents": [
     {
+      "note": "Bill Analysis -- Health Policy (Pre-Meeting) (2/10/2026 12:27 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1414/Analyses/2026s01414.pre.hp.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "202186 - Amendment to S 1414 Filed",
       "links": [
         {
@@ -125,6 +147,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-08T12:31:04Z"
+    "logs_latest_update": "2026-02-13T12:39:39Z"
   }
 }

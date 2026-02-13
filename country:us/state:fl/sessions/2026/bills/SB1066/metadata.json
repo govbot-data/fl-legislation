@@ -143,6 +143,26 @@
       "_processing": {
         "log_file_created": "2026-02-08T12:31:04Z"
       }
+    },
+    {
+      "description": "On Committee agenda-- Appropriations, 02/12/26, 9:00 am, 412 Knott Building",
+      "date": "2026-02-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "CS/CS by Appropriations Committee on Agriculture, Environment, and General Government read 1st time",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
     }
   ],
   "sponsorships": [
@@ -265,6 +285,17 @@
       "classification": ""
     },
     {
+      "note": "Bill Analysis -- Appropriations (Pre-Meeting) (2/11/2026 9:04 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1066/Analyses/2026s01066.pre.ap.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "493514 - Amendment to S 1066 Filed",
       "links": [
         {
@@ -295,6 +326,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-08T12:31:04Z"
+    "logs_latest_update": "2026-02-13T12:39:39Z"
   }
 }

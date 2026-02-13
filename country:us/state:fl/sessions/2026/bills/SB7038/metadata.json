@@ -7,7 +7,7 @@
     "bill"
   ],
   "subject": [
-    "k",
+    "(adopted)",
     "military affairs and related matters",
     "subject index"
   ],
@@ -60,6 +60,30 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-02-08T12:31:05Z"
+      }
+    },
+    {
+      "description": "Referred to Appropriations Committee on Pre-K - 12 Education; Rules",
+      "date": "2026-02-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "Introduced",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
       }
     }
   ],
@@ -154,6 +178,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-08T12:31:05Z"
+    "logs_latest_update": "2026-02-13T12:39:39Z"
   }
 }

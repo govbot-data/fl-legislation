@@ -7,9 +7,9 @@
     "bill"
   ],
   "subject": [
+    "and solicitations",
     "public business",
-    "public lands and property",
-    "subject index"
+    "public lands and property"
   ],
   "abstracts": [
     {
@@ -332,6 +332,26 @@
       "_processing": {
         "log_file_created": "2026-02-07T12:30:43Z"
       }
+    },
+    {
+      "description": "Added to Second Reading Calendar",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "Temporarily postponed, on 2nd Reading",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
     }
   ],
   "sponsorships": [
@@ -459,6 +479,39 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "633289 - Amendment to H 405 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/405/Amendment/633289/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "834215 - Strike All Amendment to H 405 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/405/Amendment/834215/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "643271 - Substitute Amendment (834215) to H 405 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/405/Amendment/643271/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [],
@@ -476,6 +529,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-07T12:30:43Z"
+    "logs_latest_update": "2026-02-13T12:39:39Z"
   }
 }

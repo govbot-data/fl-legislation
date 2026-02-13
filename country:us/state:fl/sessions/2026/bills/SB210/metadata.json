@@ -117,6 +117,16 @@
       "_processing": {
         "log_file_created": "2026-01-22T12:31:40Z"
       }
+    },
+    {
+      "description": "On Committee agenda-- Fiscal Policy, 02/12/26, 9:00 am, 110 Senate Building",
+      "date": "2026-02-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
     }
   ],
   "sponsorships": [
@@ -150,6 +160,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Bernard\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jones",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jones\"}",
       "organization_id": null
     }
   ],
@@ -215,6 +233,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Fiscal Policy (Pre-Meeting) (2/11/2026 8:33 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/210/Analyses/2026s00210.pre.fp.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [
@@ -241,6 +270,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-22T12:31:40Z"
+    "logs_latest_update": "2026-02-13T12:39:39Z"
   }
 }

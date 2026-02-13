@@ -1,18 +1,18 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 1562",
-  "title": "Motor Vehicle Dealers",
+  "title": "Motor Vehicle Manufacturers, Importers, and Distributors and Franchised Motor Vehicle Dealers",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
   ],
   "subject": [
-    "subject index"
+    "motor vehicles"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Motor Vehicle Dealers;  Prohibiting applicants and licensees from selling more than a specified number of motor vehicles at wholesale to motor vehicle dealers in a certain period under certain circumstances, etc."
+      "abstract": "Motor Vehicle Manufacturers, Importers, and Distributors and Franchised Motor Vehicle Dealers;  Authorizing licensees to reject the succession to interest in a franchise agreement of a motor vehicle dealer under certain circumstances; prohibiting a licensee from distributing more than a specified percentage of a specified number of motor vehicles of a particular line-make during a certain period to one motor vehicle dealer or dealers that share common ownership or control; authorizing a licensee to reject a sale, transfer, alienation, or other disposition of a franchise agreement or an equity interest in a motor vehicle dealer under certain circumstances, etc."
     }
   ],
   "other_titles": [],
@@ -65,19 +65,67 @@
       }
     },
     {
-      "description": "On Committee agenda-- Commerce and Tourism, 02/11/26, 9:00 am, 110 Senate Building --If Received",
-      "date": "2026-02-06",
+      "description": "Favorable by Transportation; YEAS 7 NAYS 0",
+      "date": "2026-02-10",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
-        "enrolled"
+        "committee-passage-favorable"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-02-08T12:31:05Z"
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "Now in Commerce and Tourism",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "On Committee agenda-- Commerce and Tourism, 02/11/26, 9:00 am, 110 Senate Building",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "CS by Commerce and Tourism; YEAS 9 NAYS 1",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
       }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Commerce and Tourism",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Commerce and Tourism\"}"
+    },
     {
       "name": "Trumbull",
       "classification": "primary",
@@ -103,9 +151,84 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 1562 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1562/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1562/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Transportation (Pre-Meeting) (2/9/2026 11:59 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1562/Analyses/2026s01562.pre.tr.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Transportation (Post-Meeting) (2/10/2026 1:00 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1562/Analyses/2026s01562.tr.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Commerce and Tourism (Pre-Meeting) (2/10/2026 9:14 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1562/Analyses/2026s01562.pre.cm.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Commerce and Tourism (Post-Meeting) (2/11/2026 4:57 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1562/Analyses/2026s01562.cm.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "287160 - Amendment (Delete All) to S 1562 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1562/Amendment/287160/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1562/Amendment/287160/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [
     {
       "publication": "Florida Statues",
@@ -114,6 +237,14 @@
       "effective": null,
       "expires": null,
       "url": "https://flsenate.gov/laws/statutes/2025/320.64"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "320.643",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/320.643"
     }
   ],
   "sources": [
@@ -130,6 +261,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-08T12:31:05Z"
+    "logs_latest_update": "2026-02-13T12:39:39Z"
   }
 }

@@ -7,6 +7,7 @@
     "bill"
   ],
   "subject": [
+    "motor vehicles",
     "subject index"
   ],
   "abstracts": [
@@ -170,6 +171,16 @@
       "_processing": {
         "log_file_created": "2026-01-31T12:29:57Z"
       }
+    },
+    {
+      "description": "Bill added to Special Order Calendar (2/19/2026)",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
     }
   ],
   "sponsorships": [
@@ -276,6 +287,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-31T12:29:57Z"
+    "logs_latest_update": "2026-02-13T12:39:39Z"
   }
 }

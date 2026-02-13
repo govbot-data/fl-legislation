@@ -7,13 +7,12 @@
     "bill"
   ],
   "subject": [
-    "(adopted)",
     "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Water Safety Requirements for the Rental of Residential and Vacation Properties;  (THIS BILL COMBINES SB's 658 & 608) Requiring a landlord to equip certain rental properties with specified water safety features; providing criminal penalties; requiring a public lodging establishment licensed as a vacation rental to equip certain rental units with specified water safety features; providing criminal penalties; providing an exception, etc."
+      "abstract": "Water Safety Requirements for the Rental of Residential and Vacation Properties;  (THIS BILL COMBINES SB's 658 & 608) Requiring a landlord to equip certain rental properties with specified water safety features; providing criminal penalties; requiring a public lodging establishment licensed as a vacation rental to equip certain rental units with specified water safety features; providing an exception; requiring certain public lodging establishments to file a certificate of compliance upon licensure and renewal, etc."
     }
   ],
   "other_titles": [],
@@ -124,9 +123,37 @@
       "_processing": {
         "log_file_created": "2026-02-07T12:30:43Z"
       }
+    },
+    {
+      "description": "CS/CS by Community Affairs; YEAS 8 NAYS 0",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Community Affairs",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Community Affairs\"}"
+    },
     {
       "name": "Regulated Industries",
       "classification": "primary",
@@ -183,6 +210,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 658 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/658/BillText/c2/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/658/BillText/c2/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -213,6 +255,58 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/658/Analyses/2026s00658.ri.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Community Affairs (Pre-Meeting) (2/9/2026 3:00 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/658/Analyses/2026s00658.pre.ca.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Community Affairs (Post-Meeting) (2/11/2026 3:00 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/658/Analyses/2026s00658.ca.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "372408 - Amendment to S 658 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/658/Amendment/372408/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/658/Amendment/372408/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "455636 - Amendment to S 658 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/658/Amendment/455636/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/658/Amendment/455636/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -252,6 +346,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-07T12:30:43Z"
+    "logs_latest_update": "2026-02-13T12:39:39Z"
   }
 }

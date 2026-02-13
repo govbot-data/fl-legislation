@@ -170,6 +170,16 @@
       "_processing": {
         "log_file_created": "2026-01-15T12:29:12Z"
       }
+    },
+    {
+      "description": "Bill added to Special Order Calendar (2/17/2026)",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
     }
   ],
   "sponsorships": [
@@ -218,6 +228,72 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "636441 - Amendment to H 191 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/191/Amendment/636441/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "989243 - Amendment to H 191 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/191/Amendment/989243/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "932503 - Amendment to H 191 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/191/Amendment/932503/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "451923 - Amendment to H 191 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/191/Amendment/451923/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "333303 - Amendment to H 191 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/191/Amendment/333303/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "621513 - Amendment to H 191 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/191/Amendment/621513/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [
@@ -244,6 +320,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-15T12:29:12Z"
+    "logs_latest_update": "2026-02-13T12:39:39Z"
   }
 }

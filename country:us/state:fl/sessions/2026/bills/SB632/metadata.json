@@ -73,6 +73,28 @@
       "_processing": {
         "log_file_created": "2026-02-08T12:31:05Z"
       }
+    },
+    {
+      "description": "Favorable by Banking and Insurance; YEAS 6 NAYS 3",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "Now in Transportation",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
     }
   ],
   "sponsorships": [
@@ -105,10 +127,21 @@
   ],
   "documents": [
     {
-      "note": "Bill Analysis -- Banking and Insurance (Pre-Meeting) (1/12/2026 3:55 PM)",
+      "note": "Bill Analysis -- Banking and Insurance (Pre-Meeting) (2/10/2026 8:51 AM)",
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/632/Analyses/2026s00632.pre.bi.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Banking and Insurance (Post-Meeting) (2/11/2026 12:29 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/632/Analyses/2026s00632.bi.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -140,6 +173,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-08T12:31:05Z"
+    "logs_latest_update": "2026-02-13T12:39:39Z"
   }
 }

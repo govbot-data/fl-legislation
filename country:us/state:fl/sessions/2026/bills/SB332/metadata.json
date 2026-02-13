@@ -7,7 +7,6 @@
     "bill"
   ],
   "subject": [
-    "public business",
     "subject index"
   ],
   "abstracts": [
@@ -114,6 +113,16 @@
       "_processing": {
         "log_file_created": "2026-02-08T12:31:05Z"
       }
+    },
+    {
+      "description": "CS/CS by Governmental Oversight and Accountability; YEAS 8 NAYS 0",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
     }
   ],
   "sponsorships": [
@@ -191,6 +200,17 @@
       "classification": ""
     },
     {
+      "note": "Bill Analysis -- Governmental Oversight and Accountability (Pre-Meeting) (2/10/2026 1:01 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/332/Analyses/2026s00332.pre.go.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "865486 - Amendment (Delete All) to S 332 Filed",
       "links": [
         {
@@ -221,6 +241,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-08T12:31:05Z"
+    "logs_latest_update": "2026-02-13T12:39:39Z"
   }
 }

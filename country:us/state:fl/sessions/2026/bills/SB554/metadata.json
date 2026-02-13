@@ -10,7 +10,6 @@
     "business organizations",
     "insurance",
     "real and personal property",
-    "social welfare",
     "subject index",
     "torts",
     "veterans"
@@ -101,6 +100,28 @@
       "_processing": {
         "log_file_created": "2026-02-07T12:30:43Z"
       }
+    },
+    {
+      "description": "Favorable by Judiciary; YEAS 11 NAYS 0",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "Now in Fiscal Policy",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
     }
   ],
   "sponsorships": [
@@ -148,6 +169,28 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/554/Analyses/2026s00554.cm.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Judiciary (Pre-Meeting) (2/9/2026 11:40 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/554/Analyses/2026s00554.pre.ju.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Judiciary (Post-Meeting) (2/11/2026 8:48 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/554/Analyses/2026s00554.ju.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -323,6 +366,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-07T12:30:43Z"
+    "logs_latest_update": "2026-02-13T12:39:39Z"
   }
 }

@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "HB 251",
-  "title": "Pub. Rec./Emergency Physicians",
+  "title": "Pub. Rec./Emergency Department Physicians",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Pub. Rec./Emergency Physicians;  Provides exemption from public records requirements for personal identifying & location information of current & former emergency physicians & spouses & children of such emergency physicians; provides for retroactive application; provides for future legislative review & repeal of exemption; provides statement of public necessity."
+      "abstract": "Pub. Rec./Emergency Department Physicians;  Provides exemption from public records requirements for personal identifying & location information of current emergency department physicians & spouses & certain  children of such emergency department physicians; provides for retroactive application; requires certain agencies that are custodians of exempt information to maintain exempt status of such information under certain circumstances; specifies procedures for requesting agency to maintain exempt status of such information until exemption no longer applies to individual; provides for future legislative review & repeal of exemption; provides statement of public necessity."
     }
   ],
   "other_titles": [],
@@ -88,9 +88,85 @@
       "_processing": {
         "log_file_created": "2026-01-15T12:29:13Z"
       }
+    },
+    {
+      "description": "Added to Health Professions & Programs Subcommittee agenda",
+      "date": "2026-02-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "Favorable with CS by Health Professions & Programs Subcommittee",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "Reported out of Health Professions & Programs Subcommittee",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 1)",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Health Professions & Programs Subcommittee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Health Professions & Programs Subcommittee\"}"
+    },
     {
       "name": "Esposito",
       "classification": "primary",
@@ -112,9 +188,43 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 251 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/251/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Health Professions & Programs Subcommittee (Post-Meeting) (2/11/2026 2:52 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/251/Analyses/h0251a.HPP.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "870625 - Strike All Amendment to H 251 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/251/Amendment/870625/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [
     {
       "publication": "Florida Statues",
@@ -139,6 +249,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-15T12:29:13Z"
+    "logs_latest_update": "2026-02-13T12:39:39Z"
   }
 }

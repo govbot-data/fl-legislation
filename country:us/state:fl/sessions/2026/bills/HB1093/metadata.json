@@ -9,7 +9,7 @@
   "subject": [
     "aviation",
     "public lands and property",
-    "subject index"
+    "taxation and finance"
   ],
   "abstracts": [
     {
@@ -318,6 +318,16 @@
       "_processing": {
         "log_file_created": "2026-02-07T12:30:43Z"
       }
+    },
+    {
+      "description": "Added to Transportation & Economic Development Budget Subcommittee agenda",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
     }
   ],
   "sponsorships": [
@@ -422,6 +432,17 @@
       "classification": ""
     },
     {
+      "note": "Bill Analysis -- Transportation & Economic Development Budget Subcommittee (Post-Meeting) (2/11/2026 9:41 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1093/Analyses/h1093d.TED.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "242847 - Amendment to H 1093 Filed",
       "links": [
         {
@@ -457,6 +478,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-07T12:30:43Z"
+    "logs_latest_update": "2026-02-13T12:39:39Z"
   }
 }

@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Residential Property Insurance;  Requires that certain rate filings with OIR from residential property insurers include rate transparency reports; provides for office to accept such reports or to request that insurer make modifications; requires insurers to provide such reports to consumers; requires that report indicate that it is preliminary & subject to modification by insurer at direction of office under specified circumstance; requires office to define terms used in such reports; requires office to establish & maintain comprehensive resource center on its website; prohibits insurer from including value of land when establishing homeowner's policy coverage amount or adjusting certain claims."
+      "abstract": "Residential Property Insurance;  Requires OIR to establish & maintain comprehensive resource center on its website; provides requirements for resource center; specifies that certain information is not trade secret & is not subject to certain public records exemptions; requires residential property insurers to provide notice of comprehensive resource center on office's website with any offer of coverage & policy renewal; prohibits insurer from including value of certain land when establishing homeowner's policy coverage amount or adjusting certain claims; provides construction; provides that notice of premium discounts for hurricane loss mitigation must include information about whether insurer offers enhanced discounts for roof systems that use secondary water resistance."
     }
   ],
   "other_titles": [],
@@ -182,9 +182,75 @@
       "_processing": {
         "log_file_created": "2026-02-08T12:31:05Z"
       }
+    },
+    {
+      "description": "Favorable with CS by Commerce Committee",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "Reported out of Commerce Committee",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 1)",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Commerce Committee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Commerce Committee\"}"
+    },
     {
       "name": "Benarroch",
       "classification": "primary",
@@ -200,6 +266,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"Blanco\"}",
       "organization_id": null
+    },
+    {
+      "name": "Gossett-Seidman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Gossett-Seidman\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -209,6 +283,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/767/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "H 767 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/767/BillText/c1/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -240,10 +325,21 @@
       "classification": ""
     },
     {
-      "note": "Bill Analysis -- Commerce Committee (Post-Meeting) (2/6/2026 4:57 PM)",
+      "note": "Bill Analysis -- Commerce Committee (Post-Meeting) (2/11/2026 2:52 PM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/767/Analyses/h0767d.COM.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/767/Analyses/h0767e.COM.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "388655 - Strike All Amendment to H 767 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/767/Amendment/388655/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -270,6 +366,14 @@
     },
     {
       "publication": "Florida Statues",
+      "citation": "627.711",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/627.711"
+    },
+    {
+      "publication": "Florida Statues",
       "citation": "627.7142",
       "citation_type": "proposed",
       "effective": null,
@@ -291,6 +395,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-08T12:31:05Z"
+    "logs_latest_update": "2026-02-13T12:39:39Z"
   }
 }

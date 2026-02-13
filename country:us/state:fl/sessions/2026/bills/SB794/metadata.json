@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Agency for Persons with Disabilities;  Requiring level 2 employment screening for all employees of residential facilities and adult day training programs; deleting a provision requiring an organization to implement a certain mentoring program to be qualified for purposes of providing support coordination services to iBudget clients, etc."
+      "abstract": "Agency for Persons with Disabilities;  Requiring level 2 employment screening for all employees of residential facilities and adult day training programs; requiring the agency to contract with a state university to develop and administer certain surveys for a specified purpose; requiring the state university to submit a final report to the agency by a specified date; requiring the agency to use certain information to identify certain core competencies and performance metrics and make recommendations for standardizing assessments, etc."
     }
   ],
   "other_titles": [],
@@ -63,9 +63,47 @@
       "_processing": {
         "log_file_created": "2026-02-07T12:30:43Z"
       }
+    },
+    {
+      "description": "CS by Children, Families, and Elder Affairs; YEAS 6 NAYS 0",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "CS by Children, Families, and Elder Affairs read 1st time",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Children, Families, and Elder Affairs",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Children, Families, and Elder Affairs\"}"
+    },
     {
       "name": "Jones",
       "classification": "primary",
@@ -91,9 +129,62 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 794 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/794/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/794/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Children, Families, and Elder Affairs (Pre-Meeting) (2/9/2026 11:58 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/794/Analyses/2026s00794.pre.cf.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Children, Families, and Elder Affairs (Post-Meeting) (2/11/2026 10:18 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/794/Analyses/2026s00794.cf.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "660070 - Amendment to S 794 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/794/Amendment/660070/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/794/Amendment/660070/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [
     {
       "publication": "Florida Statues",
@@ -102,22 +193,6 @@
       "effective": null,
       "expires": null,
       "url": "https://flsenate.gov/laws/statutes/2025/393.0655"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "393.0663",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/393.0663"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "393.0673",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/393.0673"
     }
   ],
   "sources": [
@@ -134,6 +209,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-07T12:30:43Z"
+    "logs_latest_update": "2026-02-13T12:39:39Z"
   }
 }

@@ -7,12 +7,12 @@
     "bill"
   ],
   "subject": [
-    "k"
+    "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Education;  Revises provisions relating to K-12 expenditures, school districts, charter schools, lab schools, epinephrine use in public & private schools, school attendance, VPK program, school readiness program, early learning coalitions, Gold Seal Quality Program, required instruction, high school equivalency diplomas, comprehensive mathematics instruction, parental consent to opt out of specified instruction, certain education funding, instructional materials, educator certifications, & State Requirements for Educational Facilities."
+      "abstract": "Education;  Revises provisions relating to K-12 expenditures, school districts, charter schools, lab schools, epinephrine use in public & private schools, school attendance, VPK program, school readiness program, early learning coalitions, Gold Seal Quality Program, required instruction,  comprehensive mathematics instruction, parental consent to opt out of specified instruction, certain education funding, instructional materials, educator certifications, & State Requirements for Educational Facilities."
     }
   ],
   "other_titles": [],
@@ -290,9 +290,75 @@
       "_processing": {
         "log_file_created": "2026-02-08T12:31:05Z"
       }
+    },
+    {
+      "description": "Favorable with CS by Education & Employment Committee",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "Reported out of Education & Employment Committee",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 3)",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Education & Employment Committee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Education & Employment Committee\"}"
+    },
     {
       "name": "PreK-12 Budget Subcommittee",
       "classification": "primary",
@@ -352,6 +418,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 1071 c3",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1071/BillText/c3/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -378,10 +455,10 @@
       "classification": ""
     },
     {
-      "note": "Bill Analysis -- Education & Employment Committee (Post-Meeting) (2/6/2026 7:12 PM)",
+      "note": "Bill Analysis -- Education & Employment Committee (Post-Meeting) (2/11/2026 8:41 AM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/1071/Analyses/h1071d.EEC.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/1071/Analyses/h1071e.EEC.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -492,6 +569,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-08T12:31:05Z"
+    "logs_latest_update": "2026-02-13T12:39:39Z"
   }
 }

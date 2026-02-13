@@ -8,7 +8,7 @@
   ],
   "subject": [
     "banks and banking",
-    "subject index",
+    "motor vehicles",
     "t"
   ],
   "abstracts": [
@@ -286,6 +286,16 @@
       "_processing": {
         "log_file_created": "2026-02-07T12:30:43Z"
       }
+    },
+    {
+      "description": "Bill added to Special Order Calendar (2/17/2026)",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:39:39Z"
+      }
     }
   ],
   "sponsorships": [
@@ -322,6 +332,14 @@
       "organization_id": null
     },
     {
+      "name": "Cross",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Cross\"}",
+      "organization_id": null
+    },
+    {
       "name": "Eskamani",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -335,6 +353,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Gossett-Seidman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hunschofsky",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Hunschofsky\"}",
       "organization_id": null
     },
     {
@@ -420,6 +446,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "268047 - Amendment to H 243 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/243/Amendment/268047/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [
@@ -446,6 +483,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-07T12:30:43Z"
+    "logs_latest_update": "2026-02-13T12:39:39Z"
   }
 }
