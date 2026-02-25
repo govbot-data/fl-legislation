@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Charitable Giving;  Prohibiting a charitable organization that accepts a contribution pursuant to a written donor-imposed restriction from violating the terms of that restriction without potential penalty; requiring a charitable organization to notify a donor, or a donor\u2019s legal representative, if it cannot fulfill a term in the endowment agreement and offer the donor, or the donor\u2019s legal representative, an alternative solution that closely matches the initial term in such endowment agreement; prohibiting a state agency or a state official from imposing any annual filing or reporting requirements on certain organizations regulated or exempted from regulation under ch. 496, F.S., which are more burdensome than the requirements authorized by state law, etc."
+      "abstract": "Charitable Giving;  Prohibiting a charitable organization that accepts a contribution pursuant to a written donor-imposed restriction from violating the terms of that restriction; requiring a charitable organization to notify a donor, or a donor\u2019s legal representative, if it cannot fulfill a term in the endowment agreement and offer the donor, or the donor\u2019s legal representative, an alternative solution that closely matches the initial term in such endowment agreement; prohibiting a state agency or a state official from imposing any annual filing or reporting requirements on certain organizations regulated or exempted from regulation under ch. 496, F.S., which are more burdensome than the requirements authorized by state law, etc."
     }
   ],
   "other_titles": [],
@@ -117,9 +117,67 @@
       "_processing": {
         "log_file_created": "2026-02-13T12:39:39Z"
       }
+    },
+    {
+      "description": "On Committee agenda-- Rules, 02/17/26, 12:00 pm, 412 Knott Building",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "CS by- Rules; YEAS 24 NAYS 0",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Pending reference review -under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Placed on Calendar, on 2nd reading",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "CS by Rules read 1st time",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Rules",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Rules\"}"
+    },
     {
       "name": "Burton",
       "classification": "primary",
@@ -140,6 +198,21 @@
         },
         {
           "url": "https://flsenate.gov/Session/Bill/2026/1338/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S 1338 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1338/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1338/BillText/c1/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -191,6 +264,43 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Rules (Pre-Meeting) (2/16/2026 8:33 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1338/Analyses/2026s01338.pre.rc.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Rules (Post-Meeting) (2/18/2026 12:35 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1338/Analyses/2026s01338.rc.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "370588 - Amendment (Delete All) to S 1338 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1338/Amendment/370588/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1338/Amendment/370588/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [],
@@ -208,6 +318,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-13T12:39:39Z"
+    "logs_latest_update": "2026-02-25T12:43:58Z"
   }
 }

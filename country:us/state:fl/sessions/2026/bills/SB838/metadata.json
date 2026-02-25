@@ -7,12 +7,12 @@
     "bill"
   ],
   "subject": [
-    "subject index"
+    "and solicitations"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Electronic Payments of Retail Installment Contracts;  Defining the term \u201celectronic payment\u201d; authorizing a holder of a retail installment contract, or its agent, to collect a fee for processing a retail buyer\u2019s electronic payment only if certain conditions are met, etc."
+      "abstract": "Electronic Payments of Retail Installment Contracts;  Defining the terms \u201cACH payment\u201d and \u201celectronic payment\u201d; authorizing holders of retail installment contracts and their agents to collect fees for processing electronic payments made by motor vehicle retail buyers under certain circumstances, etc."
     }
   ],
   "other_titles": [],
@@ -135,6 +135,114 @@
       "_processing": {
         "log_file_created": "2026-02-07T12:30:43Z"
       }
+    },
+    {
+      "description": "On Committee agenda-- Rules, 02/17/26, 12:00 pm, 412 Knott Building",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Favorable by- Rules; YEAS 24 NAYS 0",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Placed on Calendar, on 2nd reading",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Placed on Special Order Calendar, 02/19/26",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Read 2nd time",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Amendment(s) adopted (794450)",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Read 3rd time",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "CS passed as amended; YEAS 38 NAYS 0",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Immediately certified",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "In Messages",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
     }
   ],
   "sponsorships": [
@@ -181,6 +289,21 @@
         },
         {
           "url": "https://flsenate.gov/Session/Bill/2026/838/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S 838 e1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/838/BillText/e1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/838/BillText/e1/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -234,6 +357,28 @@
       "classification": ""
     },
     {
+      "note": "Bill Analysis -- Rules (Pre-Meeting) (2/16/2026 8:32 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/838/Analyses/2026s00838.pre.rc.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Rules (Post-Meeting) (2/17/2026 10:52 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/838/Analyses/2026s00838.rc.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "254968 - Amendment to S 838 Filed",
       "links": [
         {
@@ -242,6 +387,36 @@
         },
         {
           "url": "https://flsenate.gov/Session/Bill/2026/838/Amendment/254968/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "296936 - Amendment (Delete All) to S 838 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/838/Amendment/296936/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/838/Amendment/296936/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "794450 - Substitute Amendment (Delete All) (296936) to S 838 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/838/Amendment/794450/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/838/Amendment/794450/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -264,6 +439,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-07T12:30:43Z"
+    "logs_latest_update": "2026-02-25T12:43:57Z"
   }
 }

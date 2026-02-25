@@ -7,12 +7,13 @@
     "bill"
   ],
   "subject": [
-    "subject index"
+    "public lands and property",
+    "reclamation, and use"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Cattle Grazing on State Land;  Requires land managing entities to consider feasibility of leasing portions of land to private entities for cattle-grazing when land management plans are being developed or updated; provides requirements for land management plan; requires land managing entities to allow such lands to be leased for such purpose under certain conditions."
+      "abstract": "Cattle Grazing on State Land;  Requires land managing entities to identify existing grazable lands and consider whether leasing portions of such land to private entities for cattle grazing is appropriate based on certain goals; requires land managing entities to consider certain information when determining such appropriateness; provides requirements for land management plan if such lands are determined to be appropriate for cattle grazing; requires land managing entities to allow such lands to be leased for such purpose under certain conditions; provides cattle grazing leases shall not allow conversion of native wildlife habitat to improved pasture; provides requirement for land management plan if no portions of such land are appropriate for cattle grazing; revises requirements for FWCC program to control invasive plants; provides applicability."
     }
   ],
   "other_titles": [],
@@ -118,9 +119,105 @@
       "_processing": {
         "log_file_created": "2026-01-31T12:29:57Z"
       }
+    },
+    {
+      "description": "Added to State Affairs Committee agenda",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Favorable with CS by State Affairs Committee",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Reported out of State Affairs Committee",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 1)",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Bill referred to House Calendar",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Added to Second Reading Calendar",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "State Affairs Committee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"State Affairs Committee\"}"
+    },
     {
       "name": "Albert",
       "classification": "primary",
@@ -136,6 +233,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"Black\"}",
       "organization_id": null
+    },
+    {
+      "name": "Johnson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Johnson\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -145,6 +250,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/1421/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "H 1421 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1421/BillText/c1/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -163,6 +279,28 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- State Affairs Committee (Post-Meeting) (2/17/2026 6:14 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1421/Analyses/h1421c.SAC.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "758055 - Amendment to H 1421 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1421/Amendment/758055/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [
@@ -173,6 +311,14 @@
       "effective": null,
       "expires": null,
       "url": "https://flsenate.gov/laws/statutes/2025/253.034"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "369.252",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/369.252"
     }
   ],
   "sources": [
@@ -189,6 +335,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-31T12:29:57Z"
+    "logs_latest_update": "2026-02-25T12:43:57Z"
   }
 }

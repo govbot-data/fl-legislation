@@ -8,8 +8,8 @@
   ],
   "subject": [
     "crimes",
-    "motor vehicles",
-    "subject index"
+    "criminal procedure and corrections",
+    "motor vehicles"
   ],
   "abstracts": [
     {
@@ -87,6 +87,38 @@
       "_processing": {
         "log_file_created": "2026-01-31T12:29:57Z"
       }
+    },
+    {
+      "description": "On Committee agenda-- Appropriations Committee on Criminal and Civil Justice, 02/18/26, 10:30 am, 37 Senate Building",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Favorable by Appropriations Committee on Criminal and Civil Justice; YEAS 8 NAYS 0",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Now in Fiscal Policy",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
     }
   ],
   "sponsorships": [
@@ -134,6 +166,28 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/1332/Analyses/2026s01332.cj.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Appropriations Committee on Criminal and Civil Justice (Pre-Meeting) (2/17/2026 8:53 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1332/Analyses/2026s01332.pre.acj.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Appropriations Committee on Criminal and Civil Justice (Post-Meeting) (2/18/2026 2:51 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1332/Analyses/2026s01332.acj.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -189,6 +243,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-31T12:29:57Z"
+    "logs_latest_update": "2026-02-25T12:43:57Z"
   }
 }

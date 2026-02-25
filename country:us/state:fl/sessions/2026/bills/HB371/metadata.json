@@ -166,6 +166,58 @@
       "_processing": {
         "log_file_created": "2026-02-08T12:31:05Z"
       }
+    },
+    {
+      "description": "Added to Education & Employment Committee agenda",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Favorable by Education & Employment Committee",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Reported out of Education & Employment Committee",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Bill released to House Calendar",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Added to Second Reading Calendar",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
     }
   ],
   "sponsorships": [
@@ -191,6 +243,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Shoaf\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Barnaby",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Barnaby\"}",
       "organization_id": null
     }
   ],
@@ -230,6 +290,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Education & Employment Committee (Post-Meeting) (2/17/2026 12:32 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/371/Analyses/h0371b.EEC.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [
@@ -256,6 +327,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-08T12:31:05Z"
+    "logs_latest_update": "2026-02-25T12:43:58Z"
   }
 }

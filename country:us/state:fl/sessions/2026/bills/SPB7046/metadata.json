@@ -1,0 +1,86 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SPB 7046",
+  "title": "Taxation",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Taxation;  (PRELIMINARY DRAFT) providing legislative intent, etc."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Submitted for consideration by Finance and Tax",
+      "date": "2026-02-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "On Committee agenda-- Finance and Tax, 02/25/26, 1:30 pm, 301 Senate Building",
+      "date": "2026-02-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Finance and Tax",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Finance and Tax\"}"
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "S 7046 pb",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/7046/BillText/pb/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/7046/BillText/pb/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://flsenate.gov/Session/Bill/2026/7046/ByCategory",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:fl/government",
+    "name": "Florida",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:fl"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-02-25T12:43:57Z"
+  }
+}

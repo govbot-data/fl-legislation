@@ -14,12 +14,11 @@
     "homestead and exemptions",
     "insurance",
     "judicial branch",
-    "k",
     "limitations",
     "public health",
     "regulation of professions and occupations",
     "social welfare",
-    "torts"
+    "subject index"
   ],
   "abstracts": [
     {
@@ -244,6 +243,16 @@
       "_processing": {
         "log_file_created": "2026-02-07T12:30:43Z"
       }
+    },
+    {
+      "description": "Added to Health & Human Services Committee agenda",
+      "date": "2026-02-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
     }
   ],
   "sponsorships": [
@@ -311,6 +320,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Health & Human Services Committee (Post-Meeting) (2/23/2026 9:52 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1207/Analyses/h1207c.HHS.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [
@@ -337,6 +357,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-07T12:30:43Z"
+    "logs_latest_update": "2026-02-25T12:43:57Z"
   }
 }

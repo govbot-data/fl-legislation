@@ -10,9 +10,8 @@
     "aviation",
     "business organizations",
     "municipalities",
+    "public business",
     "public transportation",
-    "reclamation, and use",
-    "regulation of professions and occupations",
     "relations",
     "subject index"
   ],
@@ -287,6 +286,86 @@
       "_processing": {
         "log_file_created": "2026-02-13T12:39:39Z"
       }
+    },
+    {
+      "description": "Read 2nd time",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Added to Third Reading Calendar",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Read 3rd time",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "CS passed; YEAS 82, NAYS 26",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "In Messages",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Referred to Appropriations",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Received",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "enrolled"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
     }
   ],
   "sponsorships": [
@@ -320,6 +399,22 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Benarroch\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Cobb",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Cobb\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Fabricio",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Fabricio\"}",
       "organization_id": null
     },
     {
@@ -735,6 +830,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-13T12:39:39Z"
+    "logs_latest_update": "2026-02-25T12:43:58Z"
   }
 }

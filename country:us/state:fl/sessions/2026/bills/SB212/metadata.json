@@ -13,7 +13,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Sexual Offenders and Sexual Predators;  Defining the terms \u201cpublic bathing place\u201d and \u201cpublic swimming pool\u201d; prohibiting persons convicted of certain sexual offenses from visiting or otherwise being within 200 feet of specified locations; requiring a sexual offender or sexual predator to notify a school or child care facility of his or her status in certain circumstances; authorizing the warrantless arrest of a person if a law enforcement officer has probable cause to believe the person visited or was within 200 feet of specified prohibited locations after he or she was previously convicted of committing specified sexual offenses against a victim younger than 16 years of age, etc."
+      "abstract": "Sexual Offenders and Sexual Predators;  Revising residency restrictions for persons convicted of certain sexual offenses occurring on or after a specified date; revising the prohibition of specified offenders from coming within a specified distance of a place where children congregate; requiring a person who has been convicted of specified offenses to provide notice to a school or child care facility under certain circumstances; authorizing the warrantless arrest of a person if a law enforcement officer has probable cause to believe the person committed specified offenses, etc."
     }
   ],
   "other_titles": [],
@@ -124,9 +124,115 @@
       "_processing": {
         "log_file_created": "2026-02-13T12:39:39Z"
       }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Now in Rules",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "On Committee agenda-- Rules, 02/17/26, 12:00 pm, 412 Knott Building",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "CS/CS/CS by- Rules; YEAS 19 NAYS 5",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "CS/CS by Judiciary read 1st time",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Pending reference review -under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Placed on Calendar, on 2nd reading",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "CS/CS/CS by Rules read 1st time",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Placed on Special Order Calendar, 02/26/26",
+      "date": "2026-02-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Rules",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Rules\"}"
+    },
+    {
+      "name": "Judiciary",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Judiciary\"}",
+      "organization_id": null
+    },
     {
       "name": "Criminal Justice",
       "classification": "primary",
@@ -175,6 +281,36 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 212 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/212/BillText/c2/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/212/BillText/c2/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S 212 c3",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/212/BillText/c3/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/212/BillText/c3/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -212,6 +348,39 @@
       "classification": ""
     },
     {
+      "note": "Bill Analysis -- Judiciary (Post-Meeting) (2/12/2026 2:52 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/212/Analyses/2026s00212.ju.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Rules (Pre-Meeting) (2/16/2026 8:23 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/212/Analyses/2026s00212.pre.rc.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Rules (Post-Meeting) (2/18/2026 7:00 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/212/Analyses/2026s00212.rc.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "261670 - Amendment (Delete All) to S 212 Filed",
       "links": [
         {
@@ -235,6 +404,46 @@
       "effective": null,
       "expires": null,
       "url": "https://flsenate.gov/laws/statutes/2025/775.215"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "856.022",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/856.022"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "901.15",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/901.15"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "943.04351",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/943.04351"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "947.1405",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/947.1405"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "948.30",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/948.30"
     }
   ],
   "sources": [
@@ -251,6 +460,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-13T12:39:39Z"
+    "logs_latest_update": "2026-02-25T12:43:58Z"
   }
 }

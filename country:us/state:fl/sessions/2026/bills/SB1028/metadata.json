@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Citizens Property Insurance Corporation;  Prohibiting the corporation from issuing or renewing coverage for commercial residential and commercial nonresidential risks under certain circumstances; requiring the corporation to establish a personal lines clearinghouse for specified purposes; authorizing approved surplus lines clearinghouse insurers to participate in the commercial lines clearinghouse; specifying the circumstances under which policyholders of the corporation are not eligible for new commercial lines residential coverage from the corporation, etc."
+      "abstract": "Citizens Property Insurance Corporation;  Prohibiting the corporation from issuing or renewing coverage for commercial residential and commercial nonresidential risks under certain circumstances; requiring the corporation to establish a personal lines clearinghouse for specified purposes; authorizing the corporation to share risk exposure and policy information with the commercial lines clearinghouse administrator; specifying that applicants for new commercial lines residential coverage are not eligible for coverage from the corporation under certain circumstances; providing applicability; revising the rights and authorizations for certain independent insurance agents, etc."
     }
   ],
   "other_titles": [],
@@ -145,9 +145,67 @@
       "_processing": {
         "log_file_created": "2026-02-13T12:39:39Z"
       }
+    },
+    {
+      "description": "CS/CS by- Fiscal Policy; YEAS 18 NAYS 0",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Pending reference review -under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-02-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Placed on Calendar, on 2nd reading",
+      "date": "2026-02-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "CS/CS by Fiscal Policy read 1st time",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Placed on Special Order Calendar, 02/25/26",
+      "date": "2026-02-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Fiscal Policy",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Fiscal Policy\"}"
+    },
     {
       "name": "Banking and Insurance",
       "classification": "primary",
@@ -191,6 +249,21 @@
         },
         {
           "url": "https://flsenate.gov/Session/Bill/2026/1028/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S 1028 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1028/BillText/c2/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1028/BillText/c2/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -244,10 +317,21 @@
       "classification": ""
     },
     {
-      "note": "Bill Analysis -- Fiscal Policy (Pre-Meeting) (2/11/2026 8:34 AM)",
+      "note": "Bill Analysis -- Fiscal Policy (Pre-Meeting) (2/16/2026 12:24 PM)",
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/1028/Analyses/2026s01028.pre.fp.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Fiscal Policy (Post-Meeting) (2/16/2026 12:28 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1028/Analyses/2026s01028.fp.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -302,6 +386,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-13T12:39:39Z"
+    "logs_latest_update": "2026-02-25T12:43:58Z"
   }
 }

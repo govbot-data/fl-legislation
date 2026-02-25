@@ -8,13 +8,12 @@
   ],
   "subject": [
     "electors and elections",
-    "motor vehicles",
     "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Elections;  Revising the information the statewide voter registration application is designed to elicit from an applicant to include a certain acknowledgment; requiring that the online voter registration system transmit specified information to the supervisor of elections under specified circumstances; requiring that if the records of the Department of Highway Safety and Motor Vehicles indicate that an applicant is not a United States citizen or has not submitted evidence of citizenship, the online voter registration system must notify the supervisor of the applicant\u2019s legal status and transmit the application to the supervisor; requiring the Department of State to identify certain voters by comparing or receiving information from specified sources; requiring the supervisor to adhere to specified procedures to remove the voter\u2019s name from the statewide voter registration system, etc."
+      "abstract": "Elections;  Defining the term \u201cdocument acceptable as evidence of United States citizenship\u201d; revising the information the uniform statewide voter registration application is designed to elicit from an applicant to include a certain acknowledgment; requiring that an agreement between the Department of Highway Safety and Motor Vehicles and the Department of State match information regarding the legal status as a United States citizen of applicants applying to vote; requiring supervisors to verify the current eligibility of certain applicants within a specified timeframe by reviewing specified information provided by governmental entities to make a determination under specified conditions; prohibiting a person from qualifying for nomination as a candidate of a political party if the person has not been a registered member of such party for a specified timeframe; requiring that all voting be done by official ballot using certain pens, etc."
     }
   ],
   "other_titles": [],
@@ -105,9 +104,67 @@
       "_processing": {
         "log_file_created": "2026-02-13T12:39:39Z"
       }
+    },
+    {
+      "description": "On Committee agenda-- Appropriations Committee on Transportation, Tourism, and Economic Development, 02/18/26, 8:30 am, 110 Senate Building",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "CS/CS by Appropriations Committee on Transportation, Tourism, and Economic Development; YEAS 9 NAYS 5",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-02-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Original reference(s) removed: Rules",
+      "date": "2026-02-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Placed on Calendar, on 2nd reading",
+      "date": "2026-02-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Appropriations Committee on Transportation, Tourism, and Economic Development",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Appropriations Committee on Transportation, Tourism, and Economic Development\"}"
+    },
     {
       "name": "Ethics and Elections",
       "classification": "primary",
@@ -156,6 +213,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 1334 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1334/BillText/c2/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1334/BillText/c2/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -175,6 +247,28 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/1334/Analyses/2026s01334.ee.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Appropriations Committee on Transportation, Tourism, and Economic Development (Pre-Meeting) (2/17/2026 8:45 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1334/Analyses/2026s01334.pre.atd.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Appropriations Committee on Transportation, Tourism, and Economic Development (Post-Meeting) (2/20/2026 4:23 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1334/Analyses/2026s01334.atd.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -396,6 +490,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-13T12:39:39Z"
+    "logs_latest_update": "2026-02-25T12:43:58Z"
   }
 }

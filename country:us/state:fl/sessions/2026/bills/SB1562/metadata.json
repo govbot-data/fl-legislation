@@ -7,7 +7,7 @@
     "bill"
   ],
   "subject": [
-    "motor vehicles"
+    "subject index"
   ],
   "abstracts": [
     {
@@ -115,6 +115,26 @@
       "_processing": {
         "log_file_created": "2026-02-13T12:39:39Z"
       }
+    },
+    {
+      "description": "Now in Rules",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "CS by Commerce and Tourism read 1st time",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
     }
   ],
   "sponsorships": [
@@ -203,7 +223,7 @@
       "classification": ""
     },
     {
-      "note": "Bill Analysis -- Commerce and Tourism (Post-Meeting) (2/11/2026 4:57 PM)",
+      "note": "Bill Analysis -- Commerce and Tourism (Post-Meeting) (2/12/2026 8:27 AM)",
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/1562/Analyses/2026s01562.cm.PDF",
@@ -261,6 +281,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-13T12:39:39Z"
+    "logs_latest_update": "2026-02-25T12:43:58Z"
   }
 }

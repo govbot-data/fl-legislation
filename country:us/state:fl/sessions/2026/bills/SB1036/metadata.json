@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "School Counselors;  Providing that school counselors are exempt from specified certification requirements, unless required for employment by a school district, etc."
+      "abstract": "School Counselors;  Requiring that evaluation criteria for certified school counselors be based on specified standards; providing that persons seeking employment as school counselors are exempt from specified educator certification requirements, etc."
     }
   ],
   "other_titles": [],
@@ -135,9 +135,67 @@
       "_processing": {
         "log_file_created": "2026-02-07T12:30:43Z"
       }
+    },
+    {
+      "description": "On Committee agenda-- Rules, 02/17/26, 12:00 pm, 412 Knott Building",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "CS/CS by- Rules; YEAS 24 NAYS 0",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Pending reference review -under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Placed on Calendar, on 2nd reading",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "CS/CS by Rules read 1st time",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Rules",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Rules\"}"
+    },
     {
       "name": "Education Pre-K - 12",
       "classification": "primary",
@@ -181,6 +239,21 @@
         },
         {
           "url": "https://flsenate.gov/Session/Bill/2026/1036/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S 1036 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1036/BillText/c2/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1036/BillText/c2/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -234,6 +307,28 @@
       "classification": ""
     },
     {
+      "note": "Bill Analysis -- Rules (Pre-Meeting) (2/16/2026 8:32 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1036/Analyses/2026s01036.pre.rc.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Rules (Post-Meeting) (2/18/2026 7:19 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1036/Analyses/2026s01036.rc.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "630296 - Amendment to S 1036 Filed",
       "links": [
         {
@@ -250,6 +345,14 @@
     }
   ],
   "citations": [
+    {
+      "publication": "Florida Statues",
+      "citation": "1012.34",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/1012.34"
+    },
     {
       "publication": "Florida Statues",
       "citation": "1012.55",
@@ -273,6 +376,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-07T12:30:43Z"
+    "logs_latest_update": "2026-02-25T12:43:58Z"
   }
 }

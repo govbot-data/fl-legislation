@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Complaints Against Law Enforcement and Correctional Officers;  Requires copy of complaint, signed by complainant under oath, to be provided to law enforcement officers & correctional officers who are under investigation; provides exception; prohibits certain personnel action from being taken against law enforcement officer or correctional officer unless such officer receives copy of complaint signed by complainant under oath; prohibits existence of certain investigations from affecting officer's ability to receive promotion, raise, or other commendation; requires complaint against law enforcement officer or correctional officer to be in writing & signed under oath by person filing complaint; provides penalties for making false complaint."
+      "abstract": "Complaints Against Law Enforcement and Correctional Officers;  Requires copy of complaint, signed by complainant under oath, to be provided to law enforcement officers & correctional officers who are under investigation before any interrogation begins; provides exception if complaint is accompanied by corroborating evidence; prohibits certain personnel actions from being taken against law enforcement officer or correctional officer unless such officer receives copy of complaint signed by complainant under oath unless certain exception applies; requires certain investigative files to be included in officer's personnel file; prohibits investigation that does not result in imposition of disciplinary action from affecting officer's ability to receive promotion, raise, or any other commendation; requires complaint against law enforcement officer or correctional officer to be in writing & signed under oath by person filing complaint unless certain exception applies; provides penalties for making false complaint."
     }
   ],
   "other_titles": [],
@@ -152,9 +152,95 @@
       "_processing": {
         "log_file_created": "2026-02-13T12:39:39Z"
       }
+    },
+    {
+      "description": "Reported out of Government Operations Subcommittee",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Referred to Judiciary Committee",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Now in Judiciary Committee",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 1)",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Added to Judiciary Committee agenda",
+      "date": "2026-02-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Government Operations Subcommittee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Government Operations Subcommittee\"}"
+    },
     {
       "name": "Fabricio",
       "classification": "primary",
@@ -208,6 +294,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 1283 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1283/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -223,10 +320,21 @@
       "classification": ""
     },
     {
-      "note": "Bill Analysis -- Government Operations Subcommittee (Post-Meeting) (2/9/2026 5:26 PM)",
+      "note": "Bill Analysis -- Government Operations Subcommittee (Post-Meeting) (2/12/2026 4:58 PM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/1283/Analyses/h1283b.GOS.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/1283/Analyses/h1283c.GOS.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Judiciary Committee (Post-Meeting) (2/20/2026 4:44 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1283/Analyses/h1283d.JDC.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -277,6 +385,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-13T12:39:39Z"
+    "logs_latest_update": "2026-02-25T12:43:58Z"
   }
 }

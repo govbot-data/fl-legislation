@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "My Safe Florida Condominium Pilot Program;  Revising eligibility requirements for participation in the My Safe Florida Condominium Pilot Program; requiring the Department of Financial Services to adopt rules to verify household income; specifying that condominium property with mixed-income occupancies is eligible to participate in the pilot program under certain circumstances; limiting the award of grant funds, etc."
+      "abstract": "My Safe Florida Condominium Pilot Program;  Revising eligibility requirements for participation in the My Safe Florida Condominium Pilot Program; requiring the Department of Financial Services to adopt rules to verify household income; specifying that condominium property with mixed-income occupancies is eligible to participate in the pilot program under certain circumstances; authorizing financial grants to be used by associations for a specified purpose; limiting the award of grant funds, etc."
     }
   ],
   "other_titles": [],
@@ -117,9 +117,57 @@
       "_processing": {
         "log_file_created": "2026-02-13T12:39:39Z"
       }
+    },
+    {
+      "description": "On Committee agenda-- Appropriations, 02/18/26, 1:30 pm, 412 Knott Building",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "CS by- Appropriations; YEAS 17 NAYS 0",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Pending reference review -under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-02-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Placed on Calendar, on 2nd reading",
+      "date": "2026-02-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Appropriations",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Appropriations\"}"
+    },
     {
       "name": "Pizzo",
       "classification": "primary",
@@ -140,6 +188,21 @@
         },
         {
           "url": "https://flsenate.gov/Session/Bill/2026/1706/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S 1706 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1706/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1706/BillText/c1/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -191,6 +254,43 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Appropriations (Pre-Meeting) (2/17/2026 9:34 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1706/Analyses/2026s01706.pre.ap.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Appropriations (Post-Meeting) (2/20/2026 3:03 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1706/Analyses/2026s01706.ap.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "808108 - Amendment to S 1706 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1706/Amendment/808108/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1706/Amendment/808108/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [
@@ -217,6 +317,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-13T12:39:39Z"
+    "logs_latest_update": "2026-02-25T12:43:57Z"
   }
 }

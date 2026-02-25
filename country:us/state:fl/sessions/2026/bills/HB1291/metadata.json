@@ -8,12 +8,12 @@
   ],
   "subject": [
     "(adopted)",
-    "torts"
+    "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Florida Birth-Related Neurological Injury Compensation Association;  Requires agency to recover full amount of medical assistance from neurological injury compensation association; provides and revising definitions; revises exclusiveness of remedy under Florida Birth-Related Neurological Injury Compensation Plan; revises provisions relating to filing claims; revises items that are eligible for award providing compensation; requires compensation to be provided for certain actual expenses; requires compensation for costs of major medical health coverage; requires plan reimburse for certain payments made for services provided; exempts expenses for professional custodial care in certain circumstances; requires that, upon entry of final order for compensation; parents or legal guardians obtain private health insurance or submit application for Medicare program;  requires director to maintain plan of operation; requires certain assessments to be paid into Florida Birth-Related Neurological Injury Compensation Association at certain times for certain purposes; requires plan of operation include provision for fraud; removes obsolete provisions; revises provisions relating to actuarial valuation of plan; requires that association submit quarterly estimates; requires associations to state whether plan if actuarially sound; authoring transfer of funds to association from Insurance Regulatory Trust Fund if plan is not actuarially sound; requires association to require each entity to issue casualty insurance & pay annual assessment."
+      "abstract": "Florida Birth-Related Neurological Injury Compensation Association;  Requires agency to recover full amount of medical assistance from neurological injury compensation association; provides and revising definitions; revises exclusiveness of remedy under Florida Birth-Related Neurological Injury Compensation Plan; revises provisions relating to filing claims; conforms cross-reference; revises items that are eligible for award providing compensation; requires compensation to be provided for certain actual expenses; requires compensation for costs of major medical health coverage; requires plan to reimburse certain payments made for services provided; exempts expenses for professional custodial care in certain circumstances; requires that, upon entry of final order for compensation, parents or legal guardians obtain private health insurance or submit application for Medicare program; requires directors to maintain plan of operation; requires certain assessments to be paid into Florida Birth-Related Neurological Injury Compensation Association at certain times for certain purposes; requires plan of operation to include provision for fraud."
     }
   ],
   "other_titles": [],
@@ -141,9 +141,97 @@
       "_processing": {
         "log_file_created": "2026-02-13T12:39:39Z"
       }
+    },
+    {
+      "description": "Favorable with CS by State Administration Budget Subcommittee",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Reported out of State Administration Budget Subcommittee",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 1)",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Referred to Commerce Committee",
+      "date": "2026-02-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Now in Commerce Committee",
+      "date": "2026-02-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "State Administration Budget Subcommittee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"State Administration Budget Subcommittee\"}"
+    },
     {
       "name": "Anderson",
       "classification": "primary",
@@ -165,6 +253,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 1291 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1291/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -180,10 +279,10 @@
       "classification": ""
     },
     {
-      "note": "Bill Analysis -- State Administration Budget Subcommittee (Post-Meeting) (2/10/2026 4:44 PM)",
+      "note": "Bill Analysis -- State Administration Budget Subcommittee (Post-Meeting) (2/13/2026 11:35 AM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/1291/Analyses/h1291b.SAB.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/1291/Analyses/h1291c.SAB.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -282,6 +381,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-13T12:39:39Z"
+    "logs_latest_update": "2026-02-25T12:43:57Z"
   }
 }

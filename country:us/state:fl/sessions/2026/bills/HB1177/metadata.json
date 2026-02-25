@@ -8,13 +8,12 @@
   ],
   "subject": [
     "aviation",
-    "real and personal property",
     "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Spaceport Operations and Space Florida;  Provides exemption from sales & use tax for defense or aerospace machinery & equipment; requires affidavit; provides penalties; provides liability under certain conditions; authorizes DOR to adopt rules; provides that Space Florida is not agency & is not subject to certain bidding & contract procedures under certain conditions;  requires Space Florida to enhance & promote development & use of quintimodal transportation hubs in this state; provides powers & duties of spaceport operators."
+      "abstract": "Spaceport Operations and Space Florida;  Provides that Space Florida is not agency & is not subject to certain bidding & contract procedures under certain conditions; requires Space Florida to enhance & promote development & use of quintimodal transportation hubs in this state; provides powers & duties of spaceport operators."
     }
   ],
   "other_titles": [],
@@ -158,9 +157,151 @@
       "_processing": {
         "log_file_created": "2026-02-13T12:39:39Z"
       }
+    },
+    {
+      "description": "Referred to Transportation & Economic Development Budget Subcommittee",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Referred to Commerce Committee",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Now in Transportation & Economic Development Budget Subcommittee",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Added to Transportation & Economic Development Budget Subcommittee agenda",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Favorable with CS by Transportation & Economic Development Budget Subcommittee",
+      "date": "2026-02-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Reported out of Transportation & Economic Development Budget Subcommittee",
+      "date": "2026-02-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 2)",
+      "date": "2026-02-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Referred to Commerce Committee",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Now in Commerce Committee",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Added to Commerce Committee agenda",
+      "date": "2026-02-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Transportation & Economic Development Budget Subcommittee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Transportation & Economic Development Budget Subcommittee\"}"
+    },
     {
       "name": "Ways & Means Committee",
       "classification": "primary",
@@ -201,6 +342,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 1177 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1177/BillText/c2/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -214,25 +366,42 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Transportation & Economic Development Budget Subcommittee (Post-Meeting) (2/16/2026 6:26 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1177/Analyses/h1177b.TED.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Commerce Committee (Post-Meeting) (2/20/2026 4:34 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1177/Analyses/h1177c.COM.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "503927 - Amendment to H 1177 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1177/Amendment/503927/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [
-    {
-      "publication": "Florida Statues",
-      "citation": "196.012",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/196.012"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "212.08",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/212.08"
-    },
     {
       "publication": "Florida Statues",
       "citation": "330.41",
@@ -280,6 +449,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-13T12:39:39Z"
+    "logs_latest_update": "2026-02-25T12:43:57Z"
   }
 }

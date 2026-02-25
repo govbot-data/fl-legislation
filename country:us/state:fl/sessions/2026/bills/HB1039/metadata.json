@@ -7,12 +7,13 @@
     "bill"
   ],
   "subject": [
-    "executive branch"
+    "subject index",
+    "taxation and finance"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Establishment and Administration of a State Cryptocurrency Reserve;  Establishes Florida Strategic Cryptocurrency Reserve as special fund outside State Treasury; provides sources of reserve; provides for administration & management of reserve; authorizes CFO to pay certain costs using cryptocurrency in reserve or net proceed from sale of cryptocurrency in reserve; provides for investment of money in reserve; authorizes transfer of reserve money to State Treasury under certain circumstances; provides requirements for cryptocurrency to be purchased for reserve; authorizes contracts with third parties for administration & management of reserve; authorizes CFO to use derivatives under certain circumstances; authorizes contracts with certified public accountants for independent audits; authorizes temporary transfers of money from reserve for specified purposes; establishes Florida Strategic Cryptocurrency Reserve Advisory Committee within Department of Financial Affairs."
+      "abstract": "Establishment and Administration of a State Cryptocurrency Reserve;  Establishes Florida Strategic Cryptocurrency Reserve as special fund assigned to SBA; provides for custody, administration, & management of reserve; provides sources of reserve; authorizes Legislature to appropriate funds for deposit to credit of reserve for specified purposes; authorizes executive director of SBA to pay certain costs using cryptocurrency in reserve or net proceed from sale of cryptocurrency in reserve; provides for investment of money in reserve; authorizes transfer of reserve money to State Treasury; provides requirements for cryptocurrency to be purchased for reserve; authorizes contracts with third parties for administration or management of reserve; authorizes executive director to use derivatives; authorizes contracts with certified public accountants for independent audits; establishes Florida Strategic Cryptocurrency Reserve Advisory Committee within SBA."
     }
   ],
   "other_titles": [],
@@ -122,15 +123,117 @@
       "_processing": {
         "log_file_created": "2026-02-13T12:39:39Z"
       }
+    },
+    {
+      "description": "Reported out of Insurance & Banking Subcommittee",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Referred to Commerce Committee",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Now in Commerce Committee",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 1)",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Added to Commerce Committee agenda",
+      "date": "2026-02-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Insurance & Banking Subcommittee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Insurance & Banking Subcommittee\"}"
+    },
     {
       "name": "Snyder",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Snyder\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Weinberger",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Weinberger\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Barnaby",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Barnaby\"}",
       "organization_id": null
     }
   ],
@@ -146,14 +249,36 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 1039 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1039/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
     {
-      "note": "Bill Analysis -- Insurance & Banking Subcommittee (Post-Meeting) (2/9/2026 7:06 PM)",
+      "note": "Bill Analysis -- Insurance & Banking Subcommittee (Post-Meeting) (2/13/2026 8:39 AM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/1039/Analyses/h1039.IBS.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/1039/Analyses/h1039a.IBS.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Commerce Committee (Post-Meeting) (2/20/2026 4:29 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1039/Analyses/h1039b.COM.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -187,6 +312,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-13T12:39:39Z"
+    "logs_latest_update": "2026-02-25T12:43:57Z"
   }
 }

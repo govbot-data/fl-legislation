@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Medical Marijuana;  Increasing the number of supply limits of marijuana which a qualified physician may issue in a single physician certification for the medical use of marijuana; revising the frequency with which qualified physicians must evaluate existing qualified patients for a physician certification for the medical use of marijuana; revising the frequency with which qualified patient and caregiver identification cards must be renewed, from annually to biennially, etc."
+      "abstract": "Medical Marijuana;  Increasing the number of supply limits of marijuana which a qualified physician may issue in a single physician certification for the medical use of marijuana; revising the frequency with which qualified physicians must evaluate existing qualified patients for a physician certification for the medical use of marijuana; providing that the fee associated with identification cards for certain veterans of the United States Armed Forces may not exceed a specified amount, etc."
     }
   ],
   "other_titles": [],
@@ -73,9 +73,47 @@
       "_processing": {
         "log_file_created": "2026-02-13T12:39:39Z"
       }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Now in Appropriations Committee on Health and Human Services",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "CS by Health Policy read 1st time",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Health Policy",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Health Policy\"}"
+    },
     {
       "name": "Calatayud",
       "classification": "primary",
@@ -101,6 +139,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 1032 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1032/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1032/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -109,6 +162,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/1032/Analyses/2026s01032.pre.hp.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Health Policy (Post-Meeting) (2/12/2026 1:21 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1032/Analyses/2026s01032.hp.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -155,6 +219,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-13T12:39:39Z"
+    "logs_latest_update": "2026-02-25T12:43:57Z"
   }
 }

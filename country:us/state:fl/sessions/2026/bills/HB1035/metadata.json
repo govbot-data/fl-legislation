@@ -7,12 +7,13 @@
     "bill"
   ],
   "subject": [
-    "subject index"
+    "public business",
+    "public lands and property"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Nature-based Coastal Resiliency;  Authorizes certain dredging & filling of submerged lands & placement of certain shorelines & seawalls within Biscayne Bay Aquatic Preserve; authorizes erection of specified structures within aquatic preserves; requires DEP to develop by specified date guidelines & standards for nature-based methods to address coastal resiliency & rules for statewide permitting process for such coastal resiliency; requires DEP & local governments to promote nature-based solutions for coastal resiliency."
+      "abstract": "Nature-based Coastal Resiliency;  Authorizes certain dredging & filling of submerged lands & placement of certain shorelines & seawalls within Biscayne Bay Aquatic Preserve; authorizes erection of specified structures within aquatic preserves; requires DEP to develop by specified date guidelines & standards for nature-based methods to address coastal resiliency; requires DEP & local governments to promote nature-based solutions for coastal resiliency."
     }
   ],
   "other_titles": [],
@@ -118,15 +119,143 @@
       "_processing": {
         "log_file_created": "2026-01-31T12:29:57Z"
       }
+    },
+    {
+      "description": "Added to State Affairs Committee agenda",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Favorable with CS by State Affairs Committee",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Reported out of State Affairs Committee",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 1)",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Bill referred to House Calendar",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Added to Second Reading Calendar",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "State Affairs Committee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"State Affairs Committee\"}"
+    },
     {
       "name": "Mooney",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Mooney\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Basabe",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Basabe\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Cross",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Cross\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Eskamani",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Eskamani\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Porras",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Porras\"}",
       "organization_id": null
     }
   ],
@@ -142,6 +271,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 1035 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1035/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -150,6 +290,28 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/1035/Analyses/h1035a.NRD.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- State Affairs Committee (Post-Meeting) (2/17/2026 5:44 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1035/Analyses/h1035c.SAC.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "239619 - Amendment to H 1035 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1035/Amendment/239619/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -189,6 +351,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-31T12:29:57Z"
+    "logs_latest_update": "2026-02-25T12:43:58Z"
   }
 }

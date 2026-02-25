@@ -8,17 +8,16 @@
   ],
   "subject": [
     "and solicitations",
-    "insurance",
     "labor",
     "public business",
     "real and personal property",
     "subject index",
-    "torts"
+    "taxation and finance"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Department of Financial Services;  Revises provisions related to DFS including firefighter employment, CFO rulemaking, My Safe Florida Home Program, coordinating council, purchase of insurance, licensing & examination, public adjusters, bail bonds, & abandoned & unclaimed property."
+      "abstract": "Department of Financial Services;  Revises provisions related to DFS including financial subsystems, warrants, firefighter employment, CFO rulemaking, My Safe Florida Home Program, payments, coordinating council, purchase of insurance, licensing & examination, public adjusters, bail bonds, & abandoned & unclaimed property."
     }
   ],
   "other_titles": [],
@@ -206,9 +205,97 @@
       "_processing": {
         "log_file_created": "2026-02-13T12:39:39Z"
       }
+    },
+    {
+      "description": "Favorable with CS by State Administration Budget Subcommittee",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Reported out of State Administration Budget Subcommittee",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 2)",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Referred to Commerce Committee",
+      "date": "2026-02-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Now in Commerce Committee",
+      "date": "2026-02-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "State Administration Budget Subcommittee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"State Administration Budget Subcommittee\"}"
+    },
     {
       "name": "Insurance & Banking Subcommittee",
       "classification": "primary",
@@ -249,6 +336,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 1221 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1221/BillText/c2/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -264,10 +362,10 @@
       "classification": ""
     },
     {
-      "note": "Bill Analysis -- State Administration Budget Subcommittee (Post-Meeting) (2/10/2026 4:39 PM)",
+      "note": "Bill Analysis -- State Administration Budget Subcommittee (Post-Meeting) (2/13/2026 11:45 AM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/1221/Analyses/h1221b.SAB.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/1221/Analyses/h1221c.SAB.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -311,6 +409,30 @@
   "citations": [
     {
       "publication": "Florida Statues",
+      "citation": "17.11",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/17.11"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "17.13",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/17.13"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "110.113",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/110.113"
+    },
+    {
+      "publication": "Florida Statues",
       "citation": "112.3135",
       "citation_type": "proposed",
       "effective": null,
@@ -343,11 +465,59 @@
     },
     {
       "publication": "Florida Statues",
+      "citation": "215.89",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/215.89"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "215.93",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/215.93"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "215.94",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/215.94"
+    },
+    {
+      "publication": "Florida Statues",
       "citation": "215.96",
       "citation_type": "proposed",
       "effective": null,
       "expires": null,
       "url": "https://flsenate.gov/laws/statutes/2025/215.96"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "215.985",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/215.985"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "216.102",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/216.102"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "216.141",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/216.141"
     },
     {
       "publication": "Florida Statues",
@@ -388,6 +558,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-13T12:39:39Z"
+    "logs_latest_update": "2026-02-25T12:43:57Z"
   }
 }

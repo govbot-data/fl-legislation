@@ -9,7 +9,7 @@
   "subject": [
     "municipalities",
     "relations",
-    "t"
+    "subject index"
   ],
   "abstracts": [
     {
@@ -282,6 +282,16 @@
       "_processing": {
         "log_file_created": "2026-02-08T12:31:05Z"
       }
+    },
+    {
+      "description": "Added to State Affairs Committee agenda",
+      "date": "2026-02-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
     }
   ],
   "sponsorships": [
@@ -370,6 +380,17 @@
       "classification": ""
     },
     {
+      "note": "Bill Analysis -- State Affairs Committee (Post-Meeting) (2/20/2026 5:04 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/399/Analyses/h0399c.SAC.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "791203 - Amendment to H 399 c1",
       "links": [
         {
@@ -429,6 +450,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-08T12:31:05Z"
+    "logs_latest_update": "2026-02-25T12:43:58Z"
   }
 }

@@ -1,19 +1,19 @@
 {
   "legislative_session": "2026",
   "identifier": "HB 669",
-  "title": "Public Waters",
+  "title": "Public Mooring Fields",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
   "subject": [
-    "(adopted)",
-    "reclamation, and use"
+    "public business",
+    "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Public Waters;  Prohibits local governments & special districts from applying for permit to establish or maintain public mooring field; requires DOH to adopt & enforce certain rules; provides minimum requirements for such rules; requires counties, municipalities, special districts, & state to issue within specified timeframe health advisories; removes preemption to state of certain health advisories; requires counties, municipalities, special districts, & state to provide DEP & local affiliates of national television networks certain notification within specified timeframe; requires counties, municipalities, special districts, & state to close certain beach waters & public bathing places; requires closure to remain in effect for specified amount of time; requires counties, municipalities, special districts, & certain owners to provide specified entities certain notification; requires DOH, in coordination with DEP & FWCC, to adopt by rule health advisory sign for specified purpose; provides requirements for such sign; requires counties, municipalities, special districts, & DEP to post & maintain health advisory signs; specifies where health advisory signs must be posted & for how long."
+      "abstract": "Public Mooring Fields;  Prohibits local governments & special districts from applying for permit to establish or maintain public mooring field."
     }
   ],
   "other_titles": [],
@@ -111,9 +111,97 @@
       "_processing": {
         "log_file_created": "2026-02-13T12:39:39Z"
       }
+    },
+    {
+      "description": "Favorable with CS by Natural Resources & Disasters Subcommittee",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Reported out of Natural Resources & Disasters Subcommittee",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 1)",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Referred to State Affairs Committee",
+      "date": "2026-02-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Now in State Affairs Committee",
+      "date": "2026-02-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Natural Resources & Disasters Subcommittee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Natural Resources & Disasters Subcommittee\"}"
+    },
     {
       "name": "Gossett-Seidman",
       "classification": "primary",
@@ -135,9 +223,32 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 669 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/669/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Natural Resources & Disasters Subcommittee (Post-Meeting) (2/13/2026 9:49 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/669/Analyses/h0669.NRD.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [
     {
       "publication": "Florida Statues",
@@ -146,14 +257,6 @@
       "effective": null,
       "expires": null,
       "url": "https://flsenate.gov/laws/statutes/2025/373.118"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "514.023",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/514.023"
     }
   ],
   "sources": [
@@ -170,6 +273,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-13T12:39:39Z"
+    "logs_latest_update": "2026-02-25T12:43:57Z"
   }
 }

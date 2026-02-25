@@ -15,7 +15,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Building Permits and Inspections;  Providing for expiration of certain building permits issued by a county; requiring the Florida Building Commission to modify the Florida Building Code to exempt from building permit requirements the installation of certain walls or barriers; providing for expiration of certain building permits issued by a local government; revising definitions and defining terms; requiring certain services to be subject to an agreement, rather than a written contract, etc."
+      "abstract": "Building Permits and Inspections;  Providing for expiration of certain building permits issued by a county after a specified timeframe; providing construction; requiring the Florida Building Commission to modify the Florida Building Code to exempt from building permit requirements the installation of certain walls or barriers; providing for expiration of certain building permits issued by a local government after a specified timeframe; requiring certain services to be subject to an agreement, rather than a written contract; requiring the Department of Business and Professional Regulation to maintain a statewide registry of licensed persons and business organizations qualified to act as private providers, etc."
     }
   ],
   "other_titles": [],
@@ -108,9 +108,57 @@
       "_processing": {
         "log_file_created": "2026-02-13T12:39:39Z"
       }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Now in Rules",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "CS by Regulated Industries read 1st time",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "On Committee agenda-- Rules, 02/24/26, 12:00 pm, 412 Knott Building",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Regulated Industries",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Regulated Industries\"}"
+    },
     {
       "name": "DiCeglie",
       "classification": "primary",
@@ -131,6 +179,21 @@
         },
         {
           "url": "https://flsenate.gov/Session/Bill/2026/1234/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S 1234 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1234/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1234/BillText/c1/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -173,10 +236,21 @@
       "classification": ""
     },
     {
-      "note": "Bill Analysis -- Regulated Industries (Post-Meeting) (2/11/2026 10:30 AM)",
+      "note": "Bill Analysis -- Regulated Industries (Post-Meeting) (2/12/2026 9:37 AM)",
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/1234/Analyses/2026s01234.ri.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Rules (Pre-Meeting) (2/23/2026 10:29 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1234/Analyses/2026s01234.pre.rc.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -286,6 +360,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-13T12:39:39Z"
+    "logs_latest_update": "2026-02-25T12:43:58Z"
   }
 }

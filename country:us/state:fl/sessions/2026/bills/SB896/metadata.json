@@ -7,12 +7,13 @@
     "bill"
   ],
   "subject": [
+    "judicial branch",
     "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "School Safety;  Authorizing public postsecondary educational institutions to participate in the school guardian program; authorizing certain college or university employees, faculty members, and students to openly carry a handgun or carry a concealed weapon or concealed firearm into a college or university facility; creating the offense of discharging a weapon or firearm within 1,000 feet of a school, etc."
+      "abstract": "School Safety;  Requiring sheriffs to assist public postsecondary educational institutions in implementing guardian programs under certain provisions; authorizing public postsecondary educational institutions to participate in the school guardian program; creating the offense of discharging a weapon or firearm within 1,000 feet of a school, etc."
     }
   ],
   "other_titles": [],
@@ -73,9 +74,77 @@
       "_processing": {
         "log_file_created": "2026-02-13T12:39:39Z"
       }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Original reference(s) removed: Appropriations Committee on Higher Education; Rules",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Remaining references corrected to Appropriations",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Now in Appropriations",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "CS by Criminal Justice read 1st time",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "On Committee agenda-- Appropriations, 02/24/26, 9:00 am, 110 Senate Building",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Criminal Justice",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Criminal Justice\"}"
+    },
     {
       "name": "Gaetz",
       "classification": "primary",
@@ -101,6 +170,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 896 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/896/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/896/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -109,6 +193,28 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/896/Analyses/2026s00896.pre.cj.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Criminal Justice (Post-Meeting) (2/13/2026 11:14 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/896/Analyses/2026s00896.cj.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Appropriations (Pre-Meeting) (2/23/2026 11:04 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/896/Analyses/2026s00896.pre.ap.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -162,22 +268,6 @@
       "effective": null,
       "expires": null,
       "url": "https://flsenate.gov/laws/statutes/2025/402.305"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "790.013",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/790.013"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "790.06",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/790.06"
     },
     {
       "publication": "Florida Statues",
@@ -266,6 +356,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-13T12:39:39Z"
+    "logs_latest_update": "2026-02-25T12:43:57Z"
   }
 }

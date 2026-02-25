@@ -7,14 +7,12 @@
     "bill"
   ],
   "subject": [
-    "(adopted)",
     "and solicitations",
-    "civil rights",
+    "civil practice and procedure",
+    "criminal procedure and corrections",
     "industry",
     "insurance",
     "judicial branch",
-    "k",
-    "limitations",
     "military affairs and related matters",
     "motor vehicles",
     "planning and development",
@@ -27,8 +25,9 @@
     "reclamation, and use",
     "regulation of professions and occupations",
     "relations",
+    "social welfare",
     "subject index",
-    "torts"
+    "taxation and finance"
   ],
   "abstracts": [
     {
@@ -116,6 +115,28 @@
       "_processing": {
         "log_file_created": "2026-02-13T12:39:39Z"
       }
+    },
+    {
+      "description": "Favorable by Appropriations; YEAS 16 NAYS 2",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Now in Rules",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
     }
   ],
   "sponsorships": [
@@ -182,6 +203,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/1366/Analyses/2026s01366.pre.ap.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Appropriations (Post-Meeting) (2/12/2026 7:34 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1366/Analyses/2026s01366.ap.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -725,6 +757,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-13T12:39:39Z"
+    "logs_latest_update": "2026-02-25T12:43:57Z"
   }
 }

@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "City of Punta Gorda, Charlotte County;  Provides boundaries of Punta Gorda Utility District; authorizes Charlotte County to assume responsibility for utility functions in lands outside district; authorizes City of Punta Gorda to continue to own & maintain assets outside district; requires city & county to enter into interlocal agreements for specified purposes; provides reporting requirements; requires city to continue to provide potable water & wastewater utility service to certain customers & to maintain potable water & wastewater utility service infrastructure under certain circumstances; requires continuation of powers, duties, & obligations of district & city until transfer."
+      "abstract": "City of Punta Gorda, Charlotte County;  Provides boundaries of Punta Gorda Utility District; authorizes Charlotte County to assume responsibility for utility functions in lands outside district; authorizes City of Punta Gorda to continue to own & maintain assets outside district; requires city & county to enter into interlocal agreements for specified purposes; provides reporting requirements; requires city to continue to provide potable water & wastewater utility service to certain customers & to maintain potable water & wastewater utility service infrastructure; requires continuation of powers, duties, & obligations of district & city until transfer."
     }
   ],
   "other_titles": [],
@@ -76,9 +76,107 @@
       "_processing": {
         "log_file_created": "2026-01-15T12:29:13Z"
       }
+    },
+    {
+      "description": "Added to Intergovernmental Affairs Subcommittee agenda",
+      "date": "2026-02-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Favorable with CS by Intergovernmental Affairs Subcommittee",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Reported out of Intergovernmental Affairs Subcommittee",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 1)",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Referred to State Affairs Committee",
+      "date": "2026-02-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Now in State Affairs Committee",
+      "date": "2026-02-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Intergovernmental Affairs Subcommittee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Intergovernmental Affairs Subcommittee\"}"
+    },
     {
       "name": "Oliver",
       "classification": "primary",
@@ -100,9 +198,43 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 4077 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/4077/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Intergovernmental Affairs Subcommittee (Post-Meeting) (2/18/2026 7:13 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/4077/Analyses/h4077a.IAS.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "108035 - Amendment to H 4077 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/4077/Amendment/108035/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -118,6 +250,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-15T12:29:13Z"
+    "logs_latest_update": "2026-02-25T12:43:58Z"
   }
 }

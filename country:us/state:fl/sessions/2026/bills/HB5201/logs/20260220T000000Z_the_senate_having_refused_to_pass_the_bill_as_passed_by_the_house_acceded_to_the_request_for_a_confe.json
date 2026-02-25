@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "The Senate having refused to pass the bill as passed by the House, acceded to the request for a conference",
+    "date": "2026-02-20",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 5201"
+}

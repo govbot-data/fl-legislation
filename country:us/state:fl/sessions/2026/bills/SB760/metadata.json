@@ -113,6 +113,70 @@
       "_processing": {
         "log_file_created": "2026-02-13T12:39:39Z"
       }
+    },
+    {
+      "description": "Favorable by Appropriations Committee on Criminal and Civil Justice; YEAS 5 NAYS 0",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Now in Fiscal Policy",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "On Committee agenda-- Fiscal Policy, 02/18/26, 1:30 pm, 110 Senate Building",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Favorable by- Fiscal Policy; YEAS 19 NAYS 0",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Placed on Calendar, on 2nd reading",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Placed on Special Order Calendar, 02/26/26",
+      "date": "2026-02-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
     }
   ],
   "sponsorships": [
@@ -201,6 +265,39 @@
       "classification": ""
     },
     {
+      "note": "Bill Analysis -- Appropriations Committee on Criminal and Civil Justice (Post-Meeting) (2/12/2026 6:22 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/760/Analyses/2026s00760.acj.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Fiscal Policy (Pre-Meeting) (2/17/2026 1:18 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/760/Analyses/2026s00760.pre.fp.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Fiscal Policy (Post-Meeting) (2/18/2026 3:46 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/760/Analyses/2026s00760.fp.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "574620 - Amendment (Delete All) to S 760 Filed",
       "links": [
         {
@@ -240,6 +337,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-13T12:39:39Z"
+    "logs_latest_update": "2026-02-25T12:43:57Z"
   }
 }

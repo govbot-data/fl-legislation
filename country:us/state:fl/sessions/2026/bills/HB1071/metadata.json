@@ -348,6 +348,36 @@
       "_processing": {
         "log_file_created": "2026-02-13T12:39:39Z"
       }
+    },
+    {
+      "description": "Bill referred to House Calendar",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Added to Second Reading Calendar",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Bill added to Special Order Calendar (2/25/2026)",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
     }
   ],
   "sponsorships": [
@@ -552,6 +582,160 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "190461 - Amendment to H 1071 c3",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1071/Amendment/190461/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "558803 - Amendment to H 1071 c3",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1071/Amendment/558803/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "818803 - Amendment to H 1071 c3",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1071/Amendment/818803/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "473897 - Amendment to H 1071 c3",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1071/Amendment/473897/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "514487 - Amendment to H 1071 c3",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1071/Amendment/514487/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "340635 - Amendment to H 1071 c3",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1071/Amendment/340635/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "656553 - Amendment to H 1071 c3",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1071/Amendment/656553/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "243621 - Amendment to H 1071 c3",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1071/Amendment/243621/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "369401 - Amendment to H 1071 c3",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1071/Amendment/369401/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "759139 - Amendment to H 1071 c3",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1071/Amendment/759139/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "298571 - Amendment to H 1071 c3",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1071/Amendment/298571/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "406043 - Amendment to H 1071 c3",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1071/Amendment/406043/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "497431 - Amendment to H 1071 c3",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1071/Amendment/497431/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "126073 - Amendment to H 1071 c3",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1071/Amendment/126073/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [],
@@ -569,6 +753,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-13T12:39:39Z"
+    "logs_latest_update": "2026-02-25T12:43:58Z"
   }
 }

@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Coordinated Access Model Pilot Program ;  Requires DCF to contract with entity to establish Coordinated Access Model Pilot Program in Clay, Duval, & St. Johns Counties; provides requirements for contracted entity; requires contracted entity to subcontract with certain state universities for certain purposes; requires department & contracted entity to create coordinated access model; provides model requirements; requires department to provide specified reports to Governor & Legislature within specified timeframes; authorizes department to adopt rules."
+      "abstract": "Coordinated Access Model Pilot Program;  Requires DCF to contract with entity to establish Coordinated Access Model Pilot Program in Clay, Duval, & St. Johns Counties; requires department to award contract by certain date; requires certain contractual provisions; provides requirements for contracted entity; requires contracted entity to subcontract with certain state university for certain purposes; requires department & contracted entity to create coordinated access model; provides model requirements; requires department to provide specified reports to Governor & Legislature within specified timeframes; authorizes department & contracted entity to apply for & use certain funds to support or expand Coordinated Access Models; authorizes department to adopt rules."
     }
   ],
   "other_titles": [],
@@ -200,9 +200,107 @@
       "_processing": {
         "log_file_created": "2026-02-13T12:39:39Z"
       }
+    },
+    {
+      "description": "Favorable with CS by Information Technology Budget & Policy Subcommittee",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Reported out of Information Technology Budget & Policy Subcommittee",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 2)",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Referred to Health & Human Services Committee",
+      "date": "2026-02-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Now in Health & Human Services Committee",
+      "date": "2026-02-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Added to Health & Human Services Committee agenda",
+      "date": "2026-02-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Information Technology Budget & Policy Subcommittee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Information Technology Budget & Policy Subcommittee\"}"
+    },
     {
       "name": "Human Services Subcommittee",
       "classification": "primary",
@@ -251,6 +349,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 783 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/783/BillText/c2/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -266,10 +375,21 @@
       "classification": ""
     },
     {
-      "note": "Bill Analysis -- Information Technology Budget & Policy Subcommittee (Post-Meeting) (2/11/2026 10:07 AM)",
+      "note": "Bill Analysis -- Health & Human Services Committee (Post-Meeting) (2/23/2026 9:32 AM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/783/Analyses/h0783b.ITP.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/783/Analyses/h0783d.HHS.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Information Technology Budget & Policy Subcommittee (Post-Meeting) (2/13/2026 4:26 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/783/Analyses/h0783c.ITP.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -303,6 +423,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-13T12:39:39Z"
+    "logs_latest_update": "2026-02-25T12:43:58Z"
   }
 }

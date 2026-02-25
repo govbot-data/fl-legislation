@@ -9,12 +9,12 @@
   "subject": [
     "municipalities",
     "public business",
-    "relations"
+    "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Official Actions of Local Governments;  Prohibits counties & municipalities, respectively, from funding or promoting or taking official action as it relates to diversity, equity, & inclusion; prohibits counties & municipalities from expending funds for diversity, equity, & inclusion offices or for diversity, equity, & inclusion officers; provides that county commissioner, member of governing body of municipality, or any other county or municipal official acting in official capacity who violates certain provisions commits misfeasance or malfeasance in office; authorizes cause of action against counties & municipalities; authorizes court to enter judgment awarding certain relief, damages, & costs; requires potential recipients of county or municipal contracts or grants to make certain certification to county or municipality before being awarded such contract or grant."
+      "abstract": "Official Actions of Local Governments;  Prohibits counties & municipalities, respectively, from funding or promoting or taking official action relating to diversity, equity, & inclusion; prohibits counties & municipalities, respectively, from expending funds for diversity, equity, & inclusion offices or for diversity, equity, & inclusion officers; provides that county commissioner, member of governing body of municipality, or any other county or municipal official who, while exercising his or her official authority, willfully violates certain provisions commits misfeasance or malfeasance in office; requires potential recipients of county or municipal contracts or grants to make certain certification to county or municipality before being awarded such contract or grant."
     }
   ],
   "other_titles": [],
@@ -154,9 +154,85 @@
       "_processing": {
         "log_file_created": "2026-02-13T12:39:39Z"
       }
+    },
+    {
+      "description": "Reported out of Civil Justice & Claims Subcommittee",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Referred to Commerce Committee",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Now in Commerce Committee",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 1)",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Civil Justice & Claims Subcommittee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Civil Justice & Claims Subcommittee\"}"
+    },
     {
       "name": "Black",
       "classification": "primary",
@@ -202,6 +278,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 1001 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1001/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -217,10 +304,10 @@
       "classification": ""
     },
     {
-      "note": "Bill Analysis -- Civil Justice & Claims Subcommittee (Post-Meeting) (2/9/2026 8:52 PM)",
+      "note": "Bill Analysis -- Civil Justice & Claims Subcommittee (Post-Meeting) (2/12/2026 12:01 PM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/1001/Analyses/h1001b.CIV.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/1001/Analyses/h1001c.CIV.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -254,6 +341,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-13T12:39:39Z"
+    "logs_latest_update": "2026-02-25T12:43:58Z"
   }
 }

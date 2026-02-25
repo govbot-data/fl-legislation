@@ -7,15 +7,12 @@
     "bill"
   ],
   "subject": [
-    "crimes",
-    "executive branch",
-    "subject index",
-    "torts"
+    "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Gambling;  Revises provisions related to gambling including the Florida Gaming Control Commission, gaming machines, pari-mutuel permits & permitholders, betting on certain athletic contests, criminal penalties, Internet gambling, Internet sports wagering, manipulation of card games, fantasy sports contests, games of chance, slot machines, & illegal gambling; preempts regulation of certain gaming activities."
+      "abstract": "Gambling ;  Revises provisions related to gambling including the Florida Gaming Control Commission, gaming machines, pari-mutuel permits & permitholders, betting on certain athletic contests, criminal penalties, Internet gambling, Internet sports wagering, manipulation of card games, fantasy sports contests, games of chance, slot machines, & illegal gambling; regulation of certain gaming activities."
     }
   ],
   "other_titles": [],
@@ -305,9 +302,83 @@
       "_processing": {
         "log_file_created": "2026-02-13T12:39:39Z"
       }
+    },
+    {
+      "description": "Reported out of Commerce Committee",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Bill referred to House Calendar",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 3)",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Added to Second Reading Calendar",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Commerce Committee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Commerce Committee\"}"
+    },
     {
       "name": "Criminal Justice Subcommittee",
       "classification": "primary",
@@ -375,6 +446,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 189 c3",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/189/BillText/c3/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -401,10 +483,10 @@
       "classification": ""
     },
     {
-      "note": "Bill Analysis -- Commerce Committee (Post-Meeting) (2/6/2026 4:52 PM)",
+      "note": "Bill Analysis -- Commerce Committee (Post-Meeting) (2/17/2026 8:57 AM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/189/Analyses/h0189c.COM.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/189/Analyses/h0189e.COM.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -421,9 +503,28 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "302875 - Amendment to H 189 c3",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/189/Amendment/302875/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [
+    {
+      "publication": "Florida Statues",
+      "citation": "16.71",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/16.71"
+    },
     {
       "publication": "Florida Statues",
       "citation": "16.712",
@@ -447,6 +548,14 @@
       "effective": null,
       "expires": null,
       "url": "https://flsenate.gov/laws/statutes/2025/16.715"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "20.055",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/20.055"
     },
     {
       "publication": "Florida Statues",
@@ -519,30 +628,6 @@
       "effective": null,
       "expires": null,
       "url": "https://flsenate.gov/laws/statutes/2025/849.02"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "849.03",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/849.03"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "849.08",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/849.08"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "849.086",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/849.086"
     }
   ],
   "sources": [
@@ -559,6 +644,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-13T12:39:39Z"
+    "logs_latest_update": "2026-02-25T12:43:57Z"
   }
 }

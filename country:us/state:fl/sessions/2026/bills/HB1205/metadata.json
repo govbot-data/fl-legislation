@@ -7,14 +7,14 @@
     "bill"
   ],
   "subject": [
-    "appropriations",
+    "alcoholic beverages and tobacco",
     "relations",
     "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Kratom;  Provides certain requirements for sale of kratom products at specified establishments, stores, & bars; requires kratom product processors to hold specified permit; provides kratom product processors must meet specified requirements; requires kratom product processors to submit to DACS specified certificate of analysis from laboratory; requires DACS to revoke permit held by processor in certain circumstances; requires processors to submit to DACS adverse event report in certain circumstances; authorizes DACS to require independent third-party test of kratom products in certain circumstances; provides specified penalties; requires DACS to issue stop-sale or stop-use order in certain circumstances.\r\n    \r\n        APPROPRIATION:\r\n        $3,711,749"
+      "abstract": "Kratom;  Requires DACS to certify laboratories that meet certain qualifications; requires DACS to adopt certain rules for certification & DOH to assist DACS in developing such rules; provides that licensed laboratories agree to certain audits & inspections by DACS; requires certain criteria to be met for distribution & sale of kratom products; prohibits retail sale & delivery of kratom products; prohibits kratom products from being sold, given, bartered, furnished, or delivered to certain consumers; provides that it is unlawful to sell, give, barter, furnish, or deliver kratom products to persons under certain age; provides that kratom products sold, offered for sale, delivered, or distributed in violation of specified provisions are contraband, are subject to seizure & forfeiture, & must be disposed of in specified manner; prohibits person from ingesting kratom products in, on, or within specified distance from school property during certain time period; authorizes specified businesses to sell kratom products."
     }
   ],
   "other_titles": [],
@@ -110,9 +110,109 @@
       "_processing": {
         "log_file_created": "2026-02-13T12:39:39Z"
       }
+    },
+    {
+      "description": "Favorable with CS by Industries & Professional Activities Subcommittee",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Reported out of Industries & Professional Activities Subcommittee",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Referred to Budget Committee",
+      "date": "2026-02-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Referred to Commerce Committee",
+      "date": "2026-02-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Now in Budget Committee",
+      "date": "2026-02-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 1)",
+      "date": "2026-02-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Industries & Professional Activities Subcommittee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Industries & Professional Activities Subcommittee\"}"
+    },
     {
       "name": "Black",
       "classification": "primary",
@@ -134,14 +234,25 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 1205 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1205/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
     {
-      "note": "Bill Analysis -- Industries & Professional Activities Subcommittee (Post-Meeting) (2/3/2026 5:08 PM)",
+      "note": "Bill Analysis -- Industries & Professional Activities Subcommittee (Post-Meeting) (2/15/2026 5:39 PM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/1205/Analyses/h1205.IPA.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/1205/Analyses/h1205a.IPA.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -184,6 +295,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-13T12:39:39Z"
+    "logs_latest_update": "2026-02-25T12:43:58Z"
   }
 }

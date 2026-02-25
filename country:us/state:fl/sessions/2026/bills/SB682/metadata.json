@@ -1,19 +1,21 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 682",
-  "title": "Violent Criminal Offenses",
+  "title": "Domestic Violence and Protective Injunctions",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
   ],
   "subject": [
+    "criminal procedure and corrections",
+    "domestic relations",
     "railroads and other regulated utilities",
     "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Violent Criminal Offenses;  Citing this act as the \u201cDomestic Emergency and Batterers Reform and Accountability Act\u201d; requiring the emergency communications state plan to include a system or process to flag specified addresses; requiring that such system correspond between all emergency services; authorizing the enhancement of criminal penalties for certain acts of domestic violence under certain circumstances; authorizing, and in certain circumstances requiring, a court to order electronic monitoring supervision in domestic violence cases; reclassifying a subsequent violation of an injunction for protection against domestic violence as a third degree felony offense, regardless of whether the violation is against the same victim; revising the information contained in a petition for injunction for protection against repeat violence, sexual violence, or dating violence, etc."
+      "abstract": "Domestic Violence and Protective Injunctions;  Providing enhanced penalties for committing a domestic violence offense if a person has a prior conviction for domestic violence; authorizing, and in certain circumstances requiring, a court to order electronic monitoring in domestic violence cases; revising the information contained in a petition for injunction for protection against domestic violence; increasing the maximum payment amounts for relocation assistance for victims of domestic violence, etc."
     }
   ],
   "other_titles": [],
@@ -104,9 +106,57 @@
       "_processing": {
         "log_file_created": "2026-01-31T12:29:57Z"
       }
+    },
+    {
+      "description": "On Committee agenda-- Appropriations Committee on Criminal and Civil Justice, 02/18/26, 10:30 am, 37 Senate Building",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "CS/CS by Appropriations Committee on Criminal and Civil Justice; YEAS 7 NAYS 0",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-02-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Now in Fiscal Policy",
+      "date": "2026-02-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Appropriations Committee on Criminal and Civil Justice",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Appropriations Committee on Criminal and Civil Justice\"}"
+    },
     {
       "name": "Criminal Justice",
       "classification": "primary",
@@ -163,6 +213,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 682 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/682/BillText/c2/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/682/BillText/c2/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -189,6 +254,28 @@
       "classification": ""
     },
     {
+      "note": "Bill Analysis -- Appropriations Committee on Criminal and Civil Justice (Pre-Meeting) (2/17/2026 8:53 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/682/Analyses/2026s00682.pre.acj.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Appropriations Committee on Criminal and Civil Justice (Post-Meeting) (2/20/2026 4:10 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/682/Analyses/2026s00682.acj.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "559226 - Amendment (Delete All) to S 682 Filed",
       "links": [
         {
@@ -205,30 +292,6 @@
     }
   ],
   "citations": [
-    {
-      "publication": "Florida Statues",
-      "citation": "365.171",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/365.171"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "401.27",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/401.27"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "633.408",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/633.408"
-    },
     {
       "publication": "Florida Statues",
       "citation": "741.28",
@@ -252,6 +315,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-31T12:29:57Z"
+    "logs_latest_update": "2026-02-25T12:43:58Z"
   }
 }

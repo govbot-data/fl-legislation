@@ -7,10 +7,10 @@
     "bill"
   ],
   "subject": [
-    "(adopted)",
+    "criminal procedure and corrections",
     "insurance",
     "judicial branch",
-    "subject index"
+    "social welfare"
   ],
   "abstracts": [
     {
@@ -95,6 +95,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "Now in Appropriations Committee on Health and Human Services",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
       }
     }
   ],
@@ -227,6 +237,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-13T12:39:39Z"
+    "logs_latest_update": "2026-02-25T12:43:58Z"
   }
 }

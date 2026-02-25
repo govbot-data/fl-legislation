@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "HB 731",
-  "title": "Interscholastic or Intrascholastic Extracurricular Activities",
+  "title": "Extracurricular Activities",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Interscholastic or Intrascholastic Extracurricular Activities;  Revises provisions relating to extracurricular activities & student athletics; & revises provisions relating to coaches salaries."
+      "abstract": "Extracurricular Activities;  Revises provisions relating to extracurricular activities & student athletics; revises provisions relating to classification of K-12 administrative personnel."
     }
   ],
   "other_titles": [],
@@ -172,9 +172,105 @@
       "_processing": {
         "log_file_created": "2026-01-21T12:32:32Z"
       }
+    },
+    {
+      "description": "PCS added to Education & Employment Committee agenda",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Favorable with CS by Education & Employment Committee",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Reported out of Education & Employment Committee",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 1)",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Bill referred to House Calendar",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Added to Second Reading Calendar",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Education & Employment Committee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Education & Employment Committee\"}"
+    },
     {
       "name": "Abbott",
       "classification": "primary",
@@ -200,11 +296,51 @@
       "organization_id": null
     },
     {
+      "name": "Daniels",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Daniels\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gerwig",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Gerwig\"}",
+      "organization_id": null
+    },
+    {
       "name": "Grow",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Grow\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rizo",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rizo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Vald\u00e9s",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Vald\\u00e9s\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Yeager",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Yeager\"}",
       "organization_id": null
     }
   ],
@@ -215,6 +351,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/731/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "H 731 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/731/BillText/c1/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -244,6 +391,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Education & Employment Committee (Post-Meeting) (2/17/2026 4:14 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/731/Analyses/h0731d.EEC.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [
@@ -257,11 +415,43 @@
     },
     {
       "publication": "Florida Statues",
+      "citation": "1002.31",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/1002.31"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "1002.33",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/1002.33"
+    },
+    {
+      "publication": "Florida Statues",
       "citation": "1006.15",
       "citation_type": "proposed",
       "effective": null,
       "expires": null,
       "url": "https://flsenate.gov/laws/statutes/2025/1006.15"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "1006.195",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/1006.195"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "1006.20",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/1006.20"
     },
     {
       "publication": "Florida Statues",
@@ -286,6 +476,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-21T12:32:32Z"
+    "logs_latest_update": "2026-02-25T12:43:58Z"
   }
 }

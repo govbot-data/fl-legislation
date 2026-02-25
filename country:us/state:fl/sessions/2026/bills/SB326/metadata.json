@@ -136,6 +136,16 @@
       "_processing": {
         "log_file_created": "2026-02-13T12:39:39Z"
       }
+    },
+    {
+      "description": "On Committee agenda-- Rules, 02/24/26, 12:00 pm, 412 Knott Building",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
     }
   ],
   "sponsorships": [
@@ -235,6 +245,17 @@
       "classification": ""
     },
     {
+      "note": "Bill Analysis -- Rules (Pre-Meeting) (2/23/2026 10:20 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/326/Analyses/2026s00326.pre.rc.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "908348 - Amendment to S 326 Filed",
       "links": [
         {
@@ -282,6 +303,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-13T12:39:39Z"
+    "logs_latest_update": "2026-02-25T12:43:57Z"
   }
 }

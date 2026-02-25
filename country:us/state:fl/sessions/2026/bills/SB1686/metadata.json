@@ -73,9 +73,89 @@
       "_processing": {
         "log_file_created": "2026-02-13T12:39:39Z"
       }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Now in Appropriations Committee on Health and Human Services",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "On Committee agenda-- Appropriations Committee on Health and Human Services, 02/18/26, 8:30 am, 412 Knott Building",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Favorable by Appropriations Committee on Health and Human Services; YEAS 9 NAYS 0",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Now in Fiscal Policy",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "CS by Health Policy read 1st time",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "On Committee agenda-- Fiscal Policy, 02/24/26, 9:00 am, 412 Knott Building",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Health Policy",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Health Policy\"}"
+    },
     {
       "name": "Calatayud",
       "classification": "primary",
@@ -101,6 +181,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 1686 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1686/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1686/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -109,6 +204,50 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/1686/Analyses/2026s01686.pre.hp.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Health Policy (Post-Meeting) (2/12/2026 10:58 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1686/Analyses/2026s01686.hp.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Appropriations Committee on Health and Human Services (Pre-Meeting) (2/17/2026 10:43 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1686/Analyses/2026s01686.pre.ahs.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Appropriations Committee on Health and Human Services (Post-Meeting) (2/18/2026 11:13 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1686/Analyses/2026s01686.ahs.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Fiscal Policy (Pre-Meeting) (2/23/2026 9:00 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1686/Analyses/2026s01686.pre.fp.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -155,6 +294,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-13T12:39:39Z"
+    "logs_latest_update": "2026-02-25T12:43:58Z"
   }
 }

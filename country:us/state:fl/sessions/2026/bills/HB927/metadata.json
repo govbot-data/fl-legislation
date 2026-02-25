@@ -8,12 +8,12 @@
   ],
   "subject": [
     "municipalities",
-    "relations"
+    "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Local Land Planning and Development;  Requires governing body of local government to create program that authorizes applicant to use qualified contractor to conduct preapplication review of application; authorizes local governments, school districts, or independent special districts to use qualified contractors for preapplication review for certain projects; authorizes applicants to bring civil actions; provides for award of attorney fees, costs, & damages; requires governing body of certain local governments & counties to create program to expedite process for building permits for planned unit developments or phases of community or subdivision; requires governing body to create two-step application process; authorizes applicant to use qualified contractor for land use approvals; authorizes applicant to retain private provider or qualified contractor to process, review, & expedite application for preliminary plat or related plans; requires applicant to replace qualified contractor or private provider if conflict of interest is discovered; requires applicant to be responsible for certain fees & costs; revises circumstances under which applicant has vested right in preliminary plat."
+      "abstract": "Local Land Planning and Development;  Requires governing body of local government, by specified date, to create program that authorizes applicant to use qualified contractor to conduct preapplication review of application; requires development services office of local government to establish registry of specified number of qualified contractors to conduct preapplication reviews; authorizes development services office of local government to register more or less than specified number of qualified contractors; specifies requirements for payment to qualified contractor; requires local government to reduce any application fee by certain amount if applicant uses qualified contractor for preapplication review; requires local government to conduct preapplication review within specified timeframes; prohibits qualified contractor from conducting preapplication review; requires qualified contractor to determine if application is in compliance with specified regulations; provides duties of qualified contractors and development services office; provides that inconsistent local provisions are preempted, void, & unenforceable; provides disciplinary guidelines; authorizes local government to audit work of qualified contractors; prohibits award of attorney fees, costs, or damages; prohibits local governments from creating, establishing, or applying specified additional regulations for approval of final plat; provides requirements for local governments and governing body of certain local governments & counties; authorizes local government to waive certain bonding requirements."
     }
   ],
   "other_titles": [],
@@ -191,9 +191,117 @@
       "_processing": {
         "log_file_created": "2026-02-13T12:39:39Z"
       }
+    },
+    {
+      "description": "Added to Commerce Committee agenda",
+      "date": "2026-02-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Favorable with CS by Commerce Committee",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Reported out of Commerce Committee",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 2)",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Referred to State Affairs Committee",
+      "date": "2026-02-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Now in State Affairs Committee",
+      "date": "2026-02-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Added to State Affairs Committee agenda",
+      "date": "2026-02-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Commerce Committee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Commerce Committee\"}"
+    },
     {
       "name": "Intergovernmental Affairs Subcommittee",
       "classification": "primary",
@@ -234,6 +342,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 927 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/927/BillText/c2/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -242,6 +361,39 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/927/Analyses/h0927.IAS.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Commerce Committee (Post-Meeting) (2/19/2026 12:39 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/927/Analyses/h0927b.COM.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- State Affairs Committee (Post-Meeting) (2/21/2026 2:45 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/927/Analyses/h0927c.SAC.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "491751 - Strike All Amendment to H 927 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/927/Amendment/491751/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -264,6 +416,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-13T12:39:39Z"
+    "logs_latest_update": "2026-02-25T12:43:57Z"
   }
 }

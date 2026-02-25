@@ -1,18 +1,20 @@
 {
   "legislative_session": "2026",
   "identifier": "HB 475",
-  "title": "Medical Placement for High-acuity Children",
+  "title": "Out-of-home Place Providers and Treatment Facilities",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
   "subject": [
+    "judicial branch",
+    "social welfare",
     "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Medical Placement for High-acuity Children;  Requires specific needs of high-acuity child to be considered when determining child's best interest; revises role of & services provided by Child Protection Teams & multidisciplinary teams; requires multidisciplinary team staffing for placement decisions of high-acuity child; provides process for if multidisciplinary team cannot reach consensus on plan for placement of high-acuity child; requires licensed health care professional to perform medical screening; requires judge to place high-acuity child in medical placement after child is evaluated; requires court to set emergency evidentiary hearing under certain circumstances; provides for certain types of medical beds; provides requirements for medical placement; requires certain consent & authorization be obtained & documented; requires court to conduct periodic reviews during duration of medical placement; requires high-acuity child's case plan be updated within specified timeframe; prohibits medical placement from exceeding specified number of days except; provides that high-acuity child maintains certain rights; requires department to collect certain data; requires department to submit to Legislature specified annual report; provides that high-acuity child is eligible for Children's Medical Services program & Children's Medical Services Safety Net program; requires that high-acuity child be placed in category 1 for priority purposes of Medicaid waiver services."
+      "abstract": "Out-of-home Place Providers and Treatment Facilities;  Requires DCF, DOH, APD, & AHCA to provide certain data to community-based care lead agencies on specified schedule; requires OPPAGA to conduct analysis of this state's capacity to care for high acuity children in out-of-home placements & treatment facilities; specifies requirements for analysis; requires office to submit to Legislature, by specified dates, initial & final reports of its findings & recommendations."
     }
   ],
   "other_titles": [],
@@ -110,9 +112,149 @@
       "_processing": {
         "log_file_created": "2026-02-13T12:39:39Z"
       }
+    },
+    {
+      "description": "Favorable with CS by Human Services Subcommittee",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Reported out of Human Services Subcommittee",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Referred to Health & Human Services Committee",
+      "date": "2026-02-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Now in Health & Human Services Committee",
+      "date": "2026-02-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Added to Health & Human Services Committee agenda",
+      "date": "2026-02-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 1)",
+      "date": "2026-02-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Favorable by Health & Human Services Committee",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Reported out of Health & Human Services Committee",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Bill released to House Calendar",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Added to Second Reading Calendar",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Human Services Subcommittee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Human Services Subcommittee\"}"
+    },
     {
       "name": "Salzman",
       "classification": "primary",
@@ -134,65 +276,51 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 475 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/475/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Human Services Subcommittee (Post-Meeting) (2/13/2026 5:21 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/475/Analyses/h0475.HSS.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Health & Human Services Committee (Post-Meeting) (2/18/2026 11:06 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/475/Analyses/h0475b.HHS.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [
     {
       "publication": "Florida Statues",
-      "citation": "39.01",
+      "citation": "39.523",
       "citation_type": "proposed",
       "effective": null,
       "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/39.01"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "39.01375",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/39.01375"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "39.302",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/39.302"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "39.303",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/39.303"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "39.4021",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/39.4021"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "39.4022",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/39.4022"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "39.407",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/39.407"
+      "url": "https://flsenate.gov/laws/statutes/2025/39.523"
     }
   ],
   "sources": [
@@ -209,6 +337,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-13T12:39:39Z"
+    "logs_latest_update": "2026-02-25T12:43:58Z"
   }
 }

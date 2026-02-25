@@ -7,8 +7,8 @@
     "bill"
   ],
   "subject": [
-    "crimes",
-    "insurance",
+    "criminal procedure and corrections",
+    "domestic relations",
     "railroads and other regulated utilities",
     "subject index"
   ],
@@ -205,6 +205,48 @@
       "_processing": {
         "log_file_created": "2026-01-31T12:29:57Z"
       }
+    },
+    {
+      "description": "Added to Justice Budget Subcommittee agenda",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Favorable by Justice Budget Subcommittee",
+      "date": "2026-02-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Reported out of Justice Budget Subcommittee",
+      "date": "2026-02-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Now in Judiciary Committee",
+      "date": "2026-02-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
     }
   ],
   "sponsorships": [
@@ -297,6 +339,22 @@
       "organization_id": null
     },
     {
+      "name": "Chambliss",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Chambliss\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Daniels",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Daniels\"}",
+      "organization_id": null
+    },
+    {
       "name": "Driskell",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -321,6 +379,14 @@
       "organization_id": null
     },
     {
+      "name": "Gerwig",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Gerwig\"}",
+      "organization_id": null
+    },
+    {
       "name": "Grow",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -334,6 +400,22 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Hart-Lowman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jacques",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jacques\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Johnson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Johnson\"}",
       "organization_id": null
     },
     {
@@ -358,6 +440,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Owen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Redondo",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Redondo\"}",
       "organization_id": null
     },
     {
@@ -445,6 +535,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Justice Budget Subcommittee (Post-Meeting) (2/16/2026 4:20 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/277/Analyses/h0277b.JUB.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [
@@ -471,6 +572,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-31T12:29:57Z"
+    "logs_latest_update": "2026-02-25T12:43:58Z"
   }
 }

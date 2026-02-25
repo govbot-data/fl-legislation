@@ -7,12 +7,13 @@
     "bill"
   ],
   "subject": [
-    "judicial branch"
+    "judicial branch",
+    "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Specific Medical Diagnoses in Child Protective Investigations;  Providing an exception to the requirement that the Department of Children and Families immediately forward certain allegations to a law enforcement agency; requiring a child protective investigator to inform the subject of an investigation of a certain duty; requiring Child Protection Teams to consult with a licensed physician or advanced practice registered nurse when evaluating certain reports; authorizing, under a certain circumstance, a parent or legal custodian from whom a child was removed to request specified examinations of the child, etc."
+      "abstract": "Specific Medical Diagnoses in Child Protective Investigations;  Providing an exception to the requirement that the Department of Children and Families immediately forward certain allegations to a law enforcement agency; requiring a child protective investigator to inform the subject of an investigation of a certain duty; requiring Child Protection Teams to consult with a licensed physician or advanced practice registered nurse with specified pediatric experience when evaluating certain reports; authorizing a parent or legal custodian of a child who is the subject of certain orders to request specified medical examinations of the child within a specified timeframe, etc."
     }
   ],
   "other_titles": [],
@@ -85,9 +86,57 @@
       "_processing": {
         "log_file_created": "2026-01-15T12:29:12Z"
       }
+    },
+    {
+      "description": "On Committee agenda-- Appropriations Committee on Health and Human Services, 02/18/26, 8:30 am, 412 Knott Building",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "CS by Appropriations Committee on Health and Human Services; YEAS 9 NAYS 0",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-02-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Now in Fiscal Policy",
+      "date": "2026-02-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Appropriations Committee on Health and Human Services",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Appropriations Committee on Health and Human Services\"}"
+    },
     {
       "name": "Sharief",
       "classification": "primary",
@@ -119,6 +168,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"Bernard\"}",
       "organization_id": null
+    },
+    {
+      "name": "Garcia",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Garcia\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -132,6 +189,21 @@
         },
         {
           "url": "https://flsenate.gov/Session/Bill/2026/42/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S 42 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/42/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/42/BillText/c1/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -156,6 +228,43 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/42/Analyses/2026s00042.cf.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Appropriations Committee on Health and Human Services (Pre-Meeting) (2/17/2026 10:22 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/42/Analyses/2026s00042.pre.ahs.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Appropriations Committee on Health and Human Services (Post-Meeting) (2/20/2026 4:38 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/42/Analyses/2026s00042.ahs.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "269364 - Amendment (Delete All) to S 42 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/42/Amendment/269364/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/42/Amendment/269364/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -187,6 +296,14 @@
       "effective": null,
       "expires": null,
       "url": "https://flsenate.gov/laws/statutes/2025/39.304"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "456.057",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/456.057"
     }
   ],
   "sources": [
@@ -203,6 +320,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-15T12:29:12Z"
+    "logs_latest_update": "2026-02-25T12:43:58Z"
   }
 }

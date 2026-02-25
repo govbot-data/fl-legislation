@@ -13,7 +13,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Child Welfare;  Provides that new medical report relating to provision of psychotropic medication to child in legal custody of DCF may be required only; revises requirements for renewal award of postsecondary education services & support; revises outcome measures & other performance measures for purposes of program oversight & accountability; requires physician to provide to pharmacy copy of certain documentation, rather than signed attestation, with certain prescriptions."
+      "abstract": "Child Welfare;  Provides that new medical report relating to provision of psychotropic medication to child in legal custody of DCF may be required only under certain circumstances; requires DCF & each community-based care lead agency to coordinate with certain organizations & meet quarterly; requires DCF & each community-based care lead agency to make certain information available on their respective websites; requires, beginning in specified year, DCF & each community-based care lead agency to publish on their respective websites biannual report containing specified information; requires caregiver to provide weekly cash allowance to each child in his or her care beginning when child attains certain age; requires physician to provide to pharmacy copy of certain documentation, rather than signed attestation, with certain prescriptions."
     }
   ],
   "other_titles": [],
@@ -131,9 +131,73 @@
       "_processing": {
         "log_file_created": "2026-02-07T12:30:43Z"
       }
+    },
+    {
+      "description": "Added to Health Care Budget Subcommittee agenda",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Favorable with CS by Health Care Budget Subcommittee",
+      "date": "2026-02-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Reported out of Health Care Budget Subcommittee",
+      "date": "2026-02-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Health Care Budget Subcommittee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Health Care Budget Subcommittee\"}"
+    },
     {
       "name": "Trabulsy",
       "classification": "primary",
@@ -167,6 +231,14 @@
       "organization_id": null
     },
     {
+      "name": "Franklin",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Franklin\"}",
+      "organization_id": null
+    },
+    {
       "name": "Rosenwald",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -195,6 +267,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 763 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/763/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -203,6 +286,28 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/763/Analyses/h0763a.HSS.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Health Care Budget Subcommittee (Post-Meeting) (2/20/2026 9:42 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/763/Analyses/h0763b.HCB.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "093171 - Amendment to H 763 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/763/Amendment/093171/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -221,11 +326,19 @@
     },
     {
       "publication": "Florida Statues",
-      "citation": "409.1451",
+      "citation": "39.4085",
       "citation_type": "proposed",
       "effective": null,
       "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/409.1451"
+      "url": "https://flsenate.gov/laws/statutes/2025/39.4085"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "409.145",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/409.145"
     },
     {
       "publication": "Florida Statues",
@@ -258,6 +371,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-07T12:30:43Z"
+    "logs_latest_update": "2026-02-25T12:43:58Z"
   }
 }

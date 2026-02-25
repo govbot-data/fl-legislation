@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "HB 1483",
-  "title": "Trust Funds/Creation/Vacancy Relief Trust Fund and Risk Mitigation Trust Fund/Florida Housing Finance Corporation",
+  "title": "Trust Fund/Creation/Vacancy Relief and Risk Mitigation Trust Fund/Florida Housing Finance Corporation",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Trust Funds/Creation/Vacancy Relief Trust Fund and Risk Mitigation Trust Fund/Florida Housing Finance Corporation;  Creates Vacancy Relief Trust Fund & Risk Mitigation Trust Fund within Florida Housing Finance Corporation for specified purpose; authorizes any unexpended balance at specified time to remain in such trust funds for certain purpose; provides for future review & termination or recreation of trust funds."
+      "abstract": "Trust Fund/Creation/Vacancy Relief and Risk Mitigation Trust Fund/Florida Housing Finance Corporation;  Creates Vacancy Relief & Risk Mitigation Trust Fund within Florida Housing Finance Corporation for specified purpose; authorizes any unexpended balance at specified time to revert & be reappropriated for certain purpose; provides for future review & termination or re-creation of trust fund."
     }
   ],
   "other_titles": [],
@@ -152,9 +152,119 @@
       "_processing": {
         "log_file_created": "2026-02-13T12:39:39Z"
       }
+    },
+    {
+      "description": "Favorable with CS by Intergovernmental Affairs Subcommittee",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Reported out of Intergovernmental Affairs Subcommittee",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Referred to Budget Committee",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Referred to Commerce Committee",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Now in Budget Committee",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 1)",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Added to Budget Committee agenda",
+      "date": "2026-02-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Intergovernmental Affairs Subcommittee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Intergovernmental Affairs Subcommittee\"}"
+    },
     {
       "name": "Rosenwald",
       "classification": "primary",
@@ -184,6 +294,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 1483 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1483/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -199,10 +320,21 @@
       "classification": ""
     },
     {
-      "note": "Bill Analysis -- Intergovernmental Affairs Subcommittee (Post-Meeting) (2/10/2026 5:35 PM)",
+      "note": "Bill Analysis -- Intergovernmental Affairs Subcommittee (Post-Meeting) (2/12/2026 6:14 PM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/1483/Analyses/h1483b.IAS.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/1483/Analyses/h1483c.IAS.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Budget Committee (Post-Meeting) (2/20/2026 4:24 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1483/Analyses/h1483d.BUC.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -236,6 +368,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-13T12:39:39Z"
+    "logs_latest_update": "2026-02-25T12:43:57Z"
   }
 }

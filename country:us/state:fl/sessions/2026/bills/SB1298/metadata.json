@@ -7,13 +7,12 @@
     "bill"
   ],
   "subject": [
-    "labor",
     "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Public Records/Public Employees Relations Commission;  Providing an exemption from public records requirements for the chair, commissioners, and hearing officers of the Public Employees Relations Commission; revising the exemption from public records requirements for draft orders and related written communications or the issuance of any order by the commission or its designees; providing an exemption from public records requirements for a showing of interest signed by the employees or group of employees who no longer desire to be represented by a certified bargaining agent; providing for future legislative review and repeal of the exemption; providing statements of public necessity, etc."
+      "abstract": "Public Records/Public Employees Relations Commission;  Providing an exemption from public records requirements for a showing of interest signed by the employees or the group of employees who no longer desire to be represented by a certified bargaining agent; providing for future legislative review and repeal of the exemption; providing for the reversion of specified statutory text under certain conditions; providing statements of public necessity, etc."
     }
   ],
   "other_titles": [],
@@ -84,9 +83,67 @@
       "_processing": {
         "log_file_created": "2026-02-13T12:39:39Z"
       }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Original reference(s) removed: Appropriations Committee on Agriculture, Environment, and General Government",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Remaining references corrected to Fiscal Policy",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Now in Fiscal Policy",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "CS by Governmental Oversight and Accountability read 1st time",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Governmental Oversight and Accountability",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Governmental Oversight and Accountability\"}"
+    },
     {
       "name": "Martin",
       "classification": "primary",
@@ -107,6 +164,21 @@
         },
         {
           "url": "https://flsenate.gov/Session/Bill/2026/1298/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S 1298 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1298/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1298/BillText/c1/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -136,25 +208,20 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Governmental Oversight and Accountability (Post-Meeting) (2/12/2026 4:35 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1298/Analyses/2026s01298.go.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [
-    {
-      "publication": "Florida Statues",
-      "citation": "119.071",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/119.071"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "447.205",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/447.205"
-    },
     {
       "publication": "Florida Statues",
       "citation": "447.308",
@@ -178,6 +245,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-13T12:39:39Z"
+    "logs_latest_update": "2026-02-25T12:43:58Z"
   }
 }

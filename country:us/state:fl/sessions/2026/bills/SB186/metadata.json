@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Student Health and Safety;  Revising Department of Health responsibilities for educational programs concerning epilepsy; revising the definition of the term \u201cschool\u201d; revising requirements for a student\u2019s individualized seizure action plan; revising the list of which employees must complete training in the care of students with epilepsy and seizure disorders, etc."
+      "abstract": "Student Health and Safety;  Revising Department of Health responsibilities for educational programs concerning epilepsy; revising the definition of the term \u201cschool\u201d; revising requirements for a student\u2019s individualized seizure action plan; revising the list of which employees must complete training in the care of students with epilepsy and seizure disorders; requiring the Department of Education to identify for a specified purpose posters that meet certain requirements, etc."
     }
   ],
   "other_titles": [],
@@ -73,15 +73,91 @@
       "_processing": {
         "log_file_created": "2026-02-13T12:39:39Z"
       }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Original reference(s) removed: Education Pre-K - 12",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Remaining references corrected to Rules",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Now in Rules",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "CS by Health Policy read 1st time",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "On Committee agenda-- Rules, 02/24/26, 12:00 pm, 412 Knott Building",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Health Policy",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Health Policy\"}"
+    },
     {
       "name": "Garcia",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Garcia\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jones",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jones\"}",
       "organization_id": null
     }
   ],
@@ -101,6 +177,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 186 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/186/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/186/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -109,6 +200,28 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/186/Analyses/2026s00186.pre.hp.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Health Policy (Post-Meeting) (2/12/2026 10:58 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/186/Analyses/2026s00186.hp.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Rules (Pre-Meeting) (2/23/2026 10:20 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/186/Analyses/2026s00186.pre.rc.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -163,6 +276,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-13T12:39:39Z"
+    "logs_latest_update": "2026-02-25T12:43:57Z"
   }
 }

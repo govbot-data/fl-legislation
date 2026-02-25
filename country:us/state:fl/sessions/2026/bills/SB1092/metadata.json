@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Podiatric Medicine;  Requiring certain podiatric physicians, instead of all podiatric physicians, to complete specified continuing education; authorizing podiatric physicians to perform stem cell therapy not approved by the United States Food and Drug Administration under certain circumstances; requiring podiatric physicians who perform such therapies to use stem cell therapy products obtained from facilities that adhere to applicable current good manufacturing practices, etc."
+      "abstract": "Podiatric Medicine;  Requiring certain podiatric physicians, instead of all podiatric physicians, to complete specified continuing education; authorizing podiatric physicians to perform procedures using cellular or tissue-based products not approved by the United States Food and Drug Administration under certain circumstances; specifying requirements for the cellular or tissue-based products that may be used by such podiatric physicians; requiring podiatric physicians to obtain a signed consent form from the patient or his or her representative before performing procedures using cellular or tissue-based products, etc."
     }
   ],
   "other_titles": [],
@@ -73,9 +73,127 @@
       "_processing": {
         "log_file_created": "2026-02-13T12:39:39Z"
       }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Now in Appropriations Committee on Health and Human Services",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "On Committee agenda-- Appropriations Committee on Health and Human Services, 02/18/26, 8:30 am, 412 Knott Building",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "CS/CS by Appropriations Committee on Health and Human Services; YEAS 9 NAYS 0",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "CS by Health Policy read 1st time",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Now in Rules",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "On Committee agenda-- Rules, 02/24/26, 12:00 pm, 412 Knott Building",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "CS/CS by Appropriations Committee on Health and Human Services read 1st time",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Placed on Special Order Calendar, 02/26/26  --If Received",
+      "date": "2026-02-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "enrolled"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Appropriations Committee on Health and Human Services",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Appropriations Committee on Health and Human Services\"}"
+    },
+    {
+      "name": "Health Policy",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Health Policy\"}"
+    },
     {
       "name": "Massullo",
       "classification": "primary",
@@ -101,6 +219,36 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 1092 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1092/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1092/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S 1092 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1092/BillText/c2/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1092/BillText/c2/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -109,6 +257,50 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/1092/Analyses/2026s01092.pre.hp.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Health Policy (Post-Meeting) (2/12/2026 1:21 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1092/Analyses/2026s01092.hp.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Appropriations Committee on Health and Human Services (Pre-Meeting) (2/17/2026 10:34 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1092/Analyses/2026s01092.pre.ahs.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Appropriations Committee on Health and Human Services (Post-Meeting) (2/20/2026 4:43 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1092/Analyses/2026s01092.ahs.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Rules (Pre-Meeting) (2/23/2026 10:29 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1092/Analyses/2026s01092.pre.rc.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -155,6 +347,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-13T12:39:39Z"
+    "logs_latest_update": "2026-02-25T12:43:58Z"
   }
 }

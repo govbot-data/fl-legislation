@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "The Senate requests that the House pass the bill as passed by the Senate or agree to include the bill in the Budget Conference",
+    "date": "2026-02-20",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB 2516"
+}

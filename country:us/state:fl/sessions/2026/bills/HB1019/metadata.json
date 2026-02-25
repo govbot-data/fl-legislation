@@ -7,13 +7,13 @@
     "bill"
   ],
   "subject": [
-    "reclamation, and use",
+    "public business",
     "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Perfluoroalkyl and Polyfluoroalkyl Substances;  Prohibits, beginning on specified date, certain use & sale, purchase, or distribution of aqueous film-forming foam; requires, beginning on specified date, certain entities to submit aqueous film-forming foam inventories & disposal plans to DEP; prohibits, beginning on specified date, possession & use of aqueous film-forming foam; authorizes DEP to administer certain grants or cost share programs; provides penalties & injunctive relief; requires certain public entities disposing of domestic wastewater biosolids and treated effluent to quarterly conduct specified samplings & submit results to DEP."
+      "abstract": "Perfluoroalkyl and Polyfluoroalkyl Substances;  Prohibits, beginning on specified date, certain use & sale, purchase, or distribution of aqueous film-forming foam; requires, beginning on specified date, certain entities to submit aqueous film-forming foam inventories & disposal plans to DEP; prohibits, beginning on specified date, possession & use of aqueous film-forming foam; authorizes DEP to administer certain grants or cost share programs; provides penalties & injunctive relief; requires certain public entities disposing of domestic wastewater biosolids and treated effluent to quarterly conduct specified samplings & submit results to DEP; limits purpose such samplings until specified standards are established by EPA & adopted by DEP."
     }
   ],
   "other_titles": [],
@@ -233,9 +233,115 @@
       "_processing": {
         "log_file_created": "2026-02-07T12:30:43Z"
       }
+    },
+    {
+      "description": "Added to State Affairs Committee agenda",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Favorable with CS by State Affairs Committee",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Reported out of State Affairs Committee",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 2)",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Bill referred to House Calendar",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Added to Second Reading Calendar",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Bill added to Special Order Calendar (2/25/2026)",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "State Affairs Committee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"State Affairs Committee\"}"
+    },
     {
       "name": "Natural Resources & Disasters Subcommittee",
       "classification": "primary",
@@ -266,6 +372,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Cross\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Eskamani",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Eskamani\"}",
       "organization_id": null
     },
     {
@@ -300,6 +414,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 1019 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1019/BillText/c2/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -319,6 +444,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/1019/Analyses/h1019c.ANR.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- State Affairs Committee (Post-Meeting) (2/17/2026 6:34 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1019/Analyses/h1019e.SAC.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -363,6 +499,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-07T12:30:43Z"
+    "logs_latest_update": "2026-02-25T12:43:57Z"
   }
 }

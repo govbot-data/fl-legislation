@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Controlled Substances;  Adds to list of Schedule I controlled substances 7-Hydroxymitragynine concentrated at above 400 parts per million on dry-weight basis; excepts from list of Schedule I controlled substances certain xylazine animal drug products approved by USDA & used for certain purposes; provides criminal penalties & requires mandatory minimum term of imprisonment if person sells, manufactures, or delivers or possesses with intent to sell, manufacture, or deliver xylazine; creates offense of trafficking in xylazine; provides criminal penalties & requires mandatory minimum terms of imprisonment & mandatory fines for specified offenses involving xylazine."
+      "abstract": "Controlled Substances;  Excepts from list of Schedule I controlled substances certain xylazine animal drug products approved by United States Food & Drug Administration & used for certain purposes; provides criminal penalties & requires mandatory minimum term of imprisonment if person sells, manufactures, or delivers or possesses with intent to sell, manufacture, or deliver xylazine; creates offense of trafficking in xylazine; provides criminal penalties & requires mandatory minimum term of imprisonment & fines based on quantity of controlled substance involved in offense."
     }
   ],
   "other_titles": [],
@@ -200,9 +200,107 @@
       "_processing": {
         "log_file_created": "2026-02-13T12:39:39Z"
       }
+    },
+    {
+      "description": "Favorable with CS by Justice Budget Subcommittee",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Reported out of Justice Budget Subcommittee",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Referred to Judiciary Committee",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Now in Judiciary Committee",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 2)",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Added to Judiciary Committee agenda",
+      "date": "2026-02-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Justice Budget Subcommittee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Justice Budget Subcommittee\"}"
+    },
     {
       "name": "Criminal Justice Subcommittee",
       "classification": "primary",
@@ -259,6 +357,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 309 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/309/BillText/c2/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -267,6 +376,28 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/309/Analyses/h0309a.CRM.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Justice Budget Subcommittee (Post-Meeting) (2/12/2026 10:21 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/309/Analyses/h0309b.JUB.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Judiciary Committee (Post-Meeting) (2/20/2026 4:49 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/309/Analyses/h0309c.JDC.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -304,14 +435,6 @@
     },
     {
       "publication": "Florida Statues",
-      "citation": "893.131",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/893.131"
-    },
-    {
-      "publication": "Florida Statues",
       "citation": "893.135",
       "citation_type": "proposed",
       "effective": null,
@@ -333,6 +456,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-13T12:39:39Z"
+    "logs_latest_update": "2026-02-25T12:43:57Z"
   }
 }

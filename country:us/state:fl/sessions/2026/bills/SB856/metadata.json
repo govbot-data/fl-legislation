@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Disclosure of Estimated Ad Valorem Taxes;  Defining the terms \u201clisting platform\u201d and \u201cproperty\u201d; requiring that certain property listings include estimated ad valorem taxes; requiring the Department of Revenue to maintain on its website a table of links to each county\u2019s property appraiser\u2019s homepage and tax estimator; requiring the department to develop a formula that may be used by listing platforms to calculate the estimated ad valorem taxes, etc."
+      "abstract": "Disclosure of Estimated Ad Valorem Taxes;  Defining the terms \u201clisting platform\u201d and \u201cproperty\u201d; requiring that certain property listings include estimated ad valorem taxes; requiring the Department of Revenue to maintain on its website a table of links to each county\u2019s property appraiser\u2019s homepage and tax estimator; requiring the department to develop a formula that may be used by listing platforms to calculate the estimated ad valorem taxes; requiring the department to annually develop a countywide aggregate average millage rate for each county for use by listing platforms, etc."
     }
   ],
   "other_titles": [],
@@ -117,9 +117,77 @@
       "_processing": {
         "log_file_created": "2026-02-07T12:30:43Z"
       }
+    },
+    {
+      "description": "On Committee agenda-- Rules, 02/17/26, 12:00 pm, 412 Knott Building",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "CS by- Rules; YEAS 24 NAYS 0",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Pending reference review -under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Placed on Calendar, on 2nd reading",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "CS by Rules read 1st time",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Placed on Special Order Calendar, 02/26/26",
+      "date": "2026-02-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Rules",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Rules\"}"
+    },
     {
       "name": "DiCeglie",
       "classification": "primary",
@@ -193,6 +261,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 856 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/856/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/856/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -239,6 +322,43 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Rules (Pre-Meeting) (2/16/2026 8:32 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/856/Analyses/2026s00856.pre.rc.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Rules (Post-Meeting) (2/18/2026 6:39 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/856/Analyses/2026s00856.rc.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "158618 - Amendment to S 856 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/856/Amendment/158618/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/856/Amendment/158618/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [
@@ -265,6 +385,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-07T12:30:43Z"
+    "logs_latest_update": "2026-02-25T12:43:57Z"
   }
 }

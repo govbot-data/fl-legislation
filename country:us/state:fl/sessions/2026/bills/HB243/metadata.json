@@ -8,7 +8,7 @@
   ],
   "subject": [
     "banks and banking",
-    "motor vehicles",
+    "subject index",
     "t"
   ],
   "abstracts": [
@@ -296,6 +296,26 @@
       "_processing": {
         "log_file_created": "2026-02-13T12:39:39Z"
       }
+    },
+    {
+      "description": "Temporarily postponed, on 2nd Reading",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Added to Second Reading Calendar",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
     }
   ],
   "sponsorships": [
@@ -340,6 +360,14 @@
       "organization_id": null
     },
     {
+      "name": "Daley",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Daley\"}",
+      "organization_id": null
+    },
+    {
       "name": "Eskamani",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -353,6 +381,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Gossett-Seidman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Harris",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Harris\"}",
       "organization_id": null
     },
     {
@@ -483,6 +519,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-13T12:39:39Z"
+    "logs_latest_update": "2026-02-25T12:43:57Z"
   }
 }

@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Inmate Services;  Requires funds from Contractor-Operated Institutions Inmate Welfare Trust Fund to be used for specified purposes; revises compensation for provision of inmate medical services by certain providers; requires Medicaid health care provider to provide inmate patients with reasonable access to medical services; revises compensation for provision of inmate emergency medical transportation services."
+      "abstract": "Inmate Services;  Requires maintenance & repair deduction fees from contractor-operated correctional facilities to be deposited in Contractor-Operated Institutions Inmate Welfare Trust Fund; requires funds from Contractor-Operated Institutions Inmate Welfare Trust Fund to be used for specified purposes; revises compensation for provision of inmate medical services by certain providers; provides exemption; prohibits compensation to hospital for provision of emergency medical services & care provided to inmates from exceeding certain percentage of Medicare allowable rate."
     }
   ],
   "other_titles": [],
@@ -190,9 +190,107 @@
       "_processing": {
         "log_file_created": "2026-01-31T12:29:57Z"
       }
+    },
+    {
+      "description": "Added to Justice Budget Subcommittee agenda",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Favorable with CS by Justice Budget Subcommittee(Amended)",
+      "date": "2026-02-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Reported out of Justice Budget Subcommittee",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 2)",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Referred to Health & Human Services Committee",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Now in Health & Human Services Committee",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Justice Budget Subcommittee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Justice Budget Subcommittee\"}"
+    },
     {
       "name": "Criminal Justice Subcommittee",
       "classification": "primary",
@@ -233,6 +331,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 913 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/913/BillText/c2/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -241,6 +350,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/913/Analyses/h0913a.CRM.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Justice Budget Subcommittee (Post-Meeting) (2/17/2026 9:37 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/913/Analyses/h0913c.JUB.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -299,6 +419,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-31T12:29:57Z"
+    "logs_latest_update": "2026-02-25T12:43:57Z"
   }
 }

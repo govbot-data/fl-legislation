@@ -14,7 +14,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Assessments Levied on Recreational Vehicle Parks;  Prohibiting counties, municipalities, and special districts, respectively, from levying certain special assessments against more than a specified square footage amount per recreational vehicle parking space or campsite; requiring counties, municipalities, and special districts, respectively, to consider a recreational vehicle park\u2019s occupancy rates for a certain purpose, etc."
+      "abstract": "Assessments Levied on Recreational Vehicle Parks;  Prohibiting counties, municipalities, and special districts, respectively, from levying certain special assessments against more than a specified square footage amount per recreational vehicle parking space or campsite, etc."
     }
   ],
   "other_titles": [],
@@ -115,9 +115,79 @@
       "_processing": {
         "log_file_created": "2026-02-13T12:39:39Z"
       }
+    },
+    {
+      "description": "CS/CS by Finance and Tax; YEAS 6 NAYS 0",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-02-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Now in Appropriations",
+      "date": "2026-02-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "CS/CS by Finance and Tax read 1st time",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "On Committee agenda-- Appropriations, 02/24/26, 9:00 am, 110 Senate Building",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Placed on Special Order Calendar, 02/26/26  --If Received",
+      "date": "2026-02-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "enrolled"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Finance and Tax",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Finance and Tax\"}"
+    },
     {
       "name": "Community Affairs",
       "classification": "primary",
@@ -166,6 +236,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 118 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/118/BillText/c2/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/118/BillText/c2/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -196,6 +281,28 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/118/Analyses/2026s00118.pre.ft.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Finance and Tax (Post-Meeting) (2/16/2026 9:14 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/118/Analyses/2026s00118.ft.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Appropriations (Pre-Meeting) (2/23/2026 9:19 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/118/Analyses/2026s00118.pre.ap.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -258,6 +365,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-13T12:39:39Z"
+    "logs_latest_update": "2026-02-25T12:43:57Z"
   }
 }

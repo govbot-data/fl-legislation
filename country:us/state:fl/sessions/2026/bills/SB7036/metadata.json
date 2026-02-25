@@ -13,7 +13,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Education;  Removing certain schools from specified contract restrictions; providing additional criteria for award of a 15-year charter; authorizing a private school to purchase a supply of FDA-approved epinephrine delivery devices, rather than epinephrine auto-injectors; requiring the Department of Children and Families to make a specified determination for child care providers; providing requirements for mathematics pathways established by a certain workgroup; requiring the Department of Education to develop applied algebra courses, etc."
+      "abstract": "Education;  Removing certain schools from specified contract restrictions; providing additional criteria for award of a 15-year charter; authorizing a private school to purchase a supply of FDA-approved epinephrine delivery devices, rather than epinephrine auto-injectors; requiring the Department of Children and Families to make a specified determination for child care providers; providing requirements for mathematics pathways established by a certain workgroup; requiring the Department of Education to develop applied algebra courses; revising the GATE Startup Grant Program, etc."
     }
   ],
   "other_titles": [],
@@ -94,9 +94,67 @@
       "_processing": {
         "log_file_created": "2026-02-13T12:39:39Z"
       }
+    },
+    {
+      "description": "CS by Appropriations Committee on Pre-K - 12 Education; YEAS 10 NAYS 0",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-02-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Now in Rules",
+      "date": "2026-02-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "CS by Appropriations Committee on Pre-K - 12 Education read 1st time",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "On Committee agenda-- Rules, 02/24/26, 12:00 pm, 412 Knott Building",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Appropriations Committee on Pre-K - 12 Education",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Appropriations Committee on Pre-K - 12 Education\"}"
+    },
     {
       "name": "Education Pre-K - 12",
       "classification": "primary",
@@ -137,6 +195,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 7036 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/7036/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/7036/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -167,6 +240,28 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/7036/Analyses/2026s07036.pre.aed.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Appropriations Committee on Pre-K - 12 Education (Post-Meeting) (2/20/2026 8:53 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/7036/Analyses/2026s07036.aed.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Rules (Pre-Meeting) (2/23/2026 10:39 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/7036/Analyses/2026s07036.pre.rc.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -269,6 +364,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-13T12:39:39Z"
+    "logs_latest_update": "2026-02-25T12:43:57Z"
   }
 }

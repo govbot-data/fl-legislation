@@ -7,7 +7,7 @@
     "bill"
   ],
   "subject": [
-    "crimes",
+    "electors and elections",
     "public business",
     "real and personal property",
     "subject index"
@@ -15,7 +15,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Foreign Influence;  Requires agents of foreign countries of concern & foreign-supported political organizations to register with Division of Elections; provides registration & form requirements; prohibits specified persons from soliciting or accepting anything of value from certain organizations & countries; authorizes tax collector or local governing authority to revoke or refuse to renew certain receipts & to request specified affidavits; provides criminal penalties; prohibits governmental entity from entering into certain contracts with foreign sources of concern; prohibits certain activities encouraging affiliations with foreign countries of concern; requires Department of Commerce to publish & update certain information on its website; revises list of, exemption for, & authority of linkage institutes; requires certain agreements be terminated by specified date; prohibits certain entities from entering into certain contracts with foreign sources of concern; requires certain entities to register with Department of Commerce by specified date; provides requirements for registration forms; provides civil & criminal penalties; requires certain entities to provide specified affidavit to department; prohibits information technology from foreign source of concern from being used in critical infrastructure facilities; provides for reclassification of criminal penalties; prohibits enforcement of certain laws of foreign government."
+      "abstract": "Foreign Influence;  Requires agents of foreign countries of concern, foreign-supported political organizations, & certain entities to register with Division of Elections & Department of Commerce; provides registration & form requirements; prohibits specified persons from soliciting or accepting anything of value from certain organizations & countries; authorizes certain persons to revoke or refuse to renew certain receipts & to request specified affidavits; prohibits certain entities from entering into certain contracts with foreign sources of concern; provides exception; prohibits certain activities encouraging affiliations with foreign countries of concern; requires Department of Commerce to publish & update certain information on its website; revises certain information relating to linkage institutes; authorizes & provides requirements for Governor to suspend certain laws & rules relating to Cuba; requires certain agreements to be terminated by specified date; requires certain entities to provide specified affidavit to Department of Commerce; prohibits information technology from foreign source of concern from being used in critical infrastructure facilities; prohibits enforcement of certain laws of foreign government; provides civil & criminal penalties; provides for reclassification of criminal penalties."
     }
   ],
   "other_titles": [],
@@ -307,9 +307,105 @@
       "_processing": {
         "log_file_created": "2026-02-07T12:30:43Z"
       }
+    },
+    {
+      "description": "Added to State Affairs Committee agenda",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Favorable with CS by State Affairs Committee",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Reported out of State Affairs Committee",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 3)",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Bill referred to House Calendar",
+      "date": "2026-02-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Added to Second Reading Calendar",
+      "date": "2026-02-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "State Affairs Committee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"State Affairs Committee\"}"
+    },
     {
       "name": "Judiciary Committee",
       "classification": "primary",
@@ -359,11 +455,27 @@
       "organization_id": null
     },
     {
+      "name": "Holcomb",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Holcomb\"}",
+      "organization_id": null
+    },
+    {
       "name": "Owen",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Owen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Redondo",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Redondo\"}",
       "organization_id": null
     },
     {
@@ -409,6 +521,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 905 c3",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/905/BillText/c3/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -428,6 +551,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/905/Analyses/h0905c.JDC.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- State Affairs Committee (Post-Meeting) (2/19/2026 5:21 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/905/Analyses/h0905e.SAC.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -461,6 +595,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-07T12:30:43Z"
+    "logs_latest_update": "2026-02-25T12:43:58Z"
   }
 }

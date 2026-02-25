@@ -13,7 +13,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Education on Congenital Cytomegalovirus;  Requiring the Department of Health, in consultation with medical experts identified by the department, to develop educational materials on congenital cytomegalovirus for distribution to expectant and new parents or caregivers; requiring certain hospitals, birth centers, and obstetrics and gynecology physician practices to provide the educational materials to such parents and caregivers; requiring the licensing boards of certain health care practitioners, beginning on a specified date, to require such practitioners to complete a board-approved course on congenital cytomegalovirus as a part of initial licensure and every other licensure renewal, etc."
+      "abstract": "Education on Congenital Cytomegalovirus;  Requiring the Department of Health, in consultation with medical experts identified by the department, to develop educational materials on congenital cytomegalovirus for distribution to expectant and new parents or caregivers; requiring certain hospitals, birth centers, and obstetrics and gynecology physician practices to provide the educational materials to such parents and caregivers, etc."
     }
   ],
   "other_titles": [],
@@ -74,15 +74,93 @@
       "_processing": {
         "log_file_created": "2026-02-13T12:39:39Z"
       }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Now in Appropriations Committee on Health and Human Services",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "On Committee agenda-- Appropriations Committee on Health and Human Services, 02/18/26, 8:30 am, 412 Knott Building",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Favorable by Appropriations Committee on Health and Human Services; YEAS 9 NAYS 0",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Now in Fiscal Policy",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "CS by Health Policy read 1st time",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Health Policy",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Health Policy\"}"
+    },
     {
       "name": "Polsky",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Polsky\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Davis",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Davis\"}",
       "organization_id": null
     }
   ],
@@ -102,6 +180,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 1414 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1414/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1414/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -110,6 +203,39 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/1414/Analyses/2026s01414.pre.hp.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Health Policy (Post-Meeting) (2/12/2026 1:21 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1414/Analyses/2026s01414.hp.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Appropriations Committee on Health and Human Services (Pre-Meeting) (2/17/2026 10:40 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1414/Analyses/2026s01414.pre.ahs.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Appropriations Committee on Health and Human Services (Post-Meeting) (2/18/2026 11:12 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1414/Analyses/2026s01414.ahs.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -147,6 +273,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-13T12:39:39Z"
+    "logs_latest_update": "2026-02-25T12:43:58Z"
   }
 }

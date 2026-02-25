@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Persons Disqualified from Being Appointed as a Guardian ;  Authorizes court to appoint person who has been convicted of felony to be guardian of ward or proposed ward."
+      "abstract": "Persons Disqualified from Being Appointed as a Guardian;  Authorizes court to appoint person who has been convicted of felony to be guardian of proposed ward; requires court to consider imposing additional requirements on certain guardians to safeguard proposed ward & his or her property; authorizes court to deny appointment as guardian if it determines appointment would place proposed ward, or his or her property, at risk."
     }
   ],
   "other_titles": [],
@@ -220,9 +220,115 @@
       "_processing": {
         "log_file_created": "2026-02-08T12:31:05Z"
       }
+    },
+    {
+      "description": "Added to Judiciary Committee agenda",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Favorable with CS by Judiciary Committee",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Reported out of Judiciary Committee",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 2)",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Bill referred to House Calendar",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Added to Second Reading Calendar",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Bill added to Special Order Calendar (2/25/2026)",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Judiciary Committee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Judiciary Committee\"}"
+    },
     {
       "name": "Human Services Subcommittee",
       "classification": "primary",
@@ -237,6 +343,22 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Botana\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gottlieb",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Gottlieb\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rizo",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rizo\"}",
       "organization_id": null
     }
   ],
@@ -263,6 +385,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 737 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/737/BillText/c2/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -282,6 +415,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/737/Analyses/h0737c.HSS.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Judiciary Committee (Post-Meeting) (2/17/2026 4:09 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/737/Analyses/h0737e.JDC.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -332,6 +476,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-08T12:31:05Z"
+    "logs_latest_update": "2026-02-25T12:43:58Z"
   }
 }

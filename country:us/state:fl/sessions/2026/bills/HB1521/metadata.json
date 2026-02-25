@@ -7,13 +7,13 @@
     "bill"
   ],
   "subject": [
-    "crimes",
-    "industry"
+    "industry",
+    "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Domestic Animals;  Requires DACS to post list of voluntary best management practices for entities breeding dogs in this state; requires DACS to establish voluntary Dog Awareness & Welfare Guidelines (DAWG) Breeding Program & adopt rules; provides requirements for participation in program; provides for issuance, suspension, revocation, & use of program certificates; extends period of time after sale of animal that consumer may return or exchange animal & receive refund or receive reimbursement for certain costs; requires that pet sale financing agreement be terminated without penalty; removes limit on veterinary costs under certain provisions; requires that all financial terms be disclosed to consumer before sale of animal; removes certain provisions relating to consumer's waiver relinquishing his or her rights to return animal; requires pet dealer to provide copies of specified medical records to consumer; revises requirements for & text of required notice to consumer; requires pet dealer to retain copy of certain records for specified period."
+      "abstract": "Domestic Animals;  Requires FDLE to post on its website specified information for individuals convicted of specified animal cruelty offenses;  Requires DACS to post list of voluntary best management practices for entities breeding dogs in this state; requires DBPR to establish voluntary Dog Awareness & Welfare Guidelines (DAWG) Breeding Program & adopt rules; provides requirements for participation in program; provides for issuance, suspension, revocation, & use of program certificates; provides for deposit of fees; extends period of time after sale of animal that consumer may return or exchange animal & receive refund or receive reimbursement for certain costs; requires that pet sale financing agreement be terminated without penalty; removes limit on veterinary costs under certain provisions; requires that all financial terms be disclosed to consumer before sale of animal; removes certain provisions relating to consumer's waiver relinquishing his or her rights to return animal; requires pet dealer to provide copies of specified medical records to consumer; revises requirements for & text of required notice to consumer; requires pet dealer to retain copy of certain records for specified period."
     }
   ],
   "other_titles": [],
@@ -191,9 +191,117 @@
       "_processing": {
         "log_file_created": "2026-02-13T12:39:39Z"
       }
+    },
+    {
+      "description": "Added to Budget Committee agenda",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Favorable with CS by Budget Committee",
+      "date": "2026-02-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Reported out of Budget Committee",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 2)",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Referred to Commerce Committee",
+      "date": "2026-02-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Now in Commerce Committee",
+      "date": "2026-02-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Added to Commerce Committee agenda",
+      "date": "2026-02-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Budget Committee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Budget Committee\"}"
+    },
     {
       "name": "Industries & Professional Activities Subcommittee",
       "classification": "primary",
@@ -233,6 +341,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"Long\"}",
       "organization_id": null
+    },
+    {
+      "name": "Vald\u00e9s",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Vald\\u00e9s\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -258,6 +374,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 1521 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1521/BillText/c2/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -271,9 +398,61 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Budget Committee (Post-Meeting) (2/18/2026 3:02 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1521/Analyses/h1521b.BUC.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Commerce Committee (Post-Meeting) (2/20/2026 4:44 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1521/Analyses/h1521c.COM.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "001549 - Strike All Amendment to H 1521 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1521/Amendment/001549/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "208769 - Strike All Amendment to H 1521 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1521/Amendment/208769/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [
+    {
+      "publication": "Florida Statues",
+      "citation": "828.12",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/828.12"
+    },
     {
       "publication": "Florida Statues",
       "citation": "828.29",
@@ -297,6 +476,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-13T12:39:39Z"
+    "logs_latest_update": "2026-02-25T12:43:57Z"
   }
 }

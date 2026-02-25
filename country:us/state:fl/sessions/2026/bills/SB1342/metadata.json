@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Transportation Infrastructure Land Development Regulations;  Creating the \u201cTransit-Oriented Development Act\u201d for a specified purpose; requiring the governing body of a county or municipality to adopt an ordinance, and the governing body of a special district to adopt a resolution, establishing specified transit-oriented development (TOD) zones by a certain date; prohibiting a local government from imposing certain regulations in specified TOD zones; providing a private cause of action for certain property owners and housing organizations; encouraging public transit providers and public agencies to develop land within specified TOD zones, etc."
+      "abstract": "Transportation Infrastructure Land Development Regulations;  Creating the \u201cTransit-Oriented Development Act\u201d for a specified purpose; requiring the governing body of a county or municipality to adopt an ordinance, and the governing body of a special district to adopt a resolution, establishing specified transit-oriented development (TOD) zones by a certain date; prohibiting a local government from imposing certain regulations in specified TOD zones; encouraging public transit providers and public agencies to develop land within specified TOD zones, etc."
     }
   ],
   "other_titles": [],
@@ -123,9 +123,57 @@
       "_processing": {
         "log_file_created": "2026-02-13T12:39:39Z"
       }
+    },
+    {
+      "description": "On Committee agenda-- Appropriations Committee on Transportation, Tourism, and Economic Development, 02/18/26, 8:30 am, 110 Senate Building",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "CS/CS by Appropriations Committee on Transportation, Tourism, and Economic Development; YEAS 14 NAYS 0",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-02-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Now in Rules",
+      "date": "2026-02-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Appropriations Committee on Transportation, Tourism, and Economic Development",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Appropriations Committee on Transportation, Tourism, and Economic Development\"}"
+    },
     {
       "name": "Community Affairs",
       "classification": "primary",
@@ -174,6 +222,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 1342 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1342/BillText/c2/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1342/BillText/c2/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -193,6 +256,28 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/1342/Analyses/2026s01342.ca.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Appropriations Committee on Transportation, Tourism, and Economic Development (Pre-Meeting) (2/17/2026 8:45 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1342/Analyses/2026s01342.pre.atd.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Appropriations Committee on Transportation, Tourism, and Economic Development (Post-Meeting) (2/20/2026 4:22 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1342/Analyses/2026s01342.atd.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -254,6 +339,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-13T12:39:39Z"
+    "logs_latest_update": "2026-02-25T12:43:57Z"
   }
 }

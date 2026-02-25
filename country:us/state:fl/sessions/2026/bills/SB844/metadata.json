@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Sickle Cell Disease Care Management and Treatment Continuing Education;  Revising requirements for a continuing education course on prescribing controlled substances which health care practitioners are required to complete; requiring the applicable licensing boards for specified health care professions to require a 2-hour continuing education course on sickle cell disease care management as part of the first licensure or certification renewal; specifying requirements for the course; authorizing the applicable boards to approve additional equivalent courses to satisfy the requirement, etc."
+      "abstract": "Sickle Cell Disease Care Management and Treatment Continuing Education;  Revising requirements for a continuing education course on prescribing controlled substances which health care practitioners are required to complete, etc."
     }
   ],
   "other_titles": [],
@@ -95,9 +95,99 @@
       "_processing": {
         "log_file_created": "2026-02-13T12:39:39Z"
       }
+    },
+    {
+      "description": "CS by Appropriations Committee on Health and Human Services; YEAS 9 NAYS 0",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Now in Fiscal Policy",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "On Committee agenda-- Fiscal Policy, 02/18/26, 1:30 pm, 110 Senate Building",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Favorable by- Fiscal Policy; YEAS 19 NAYS 0",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Placed on Calendar, on 2nd reading",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "CS by Appropriations Committee on Health and Human Services read 1st time",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Placed on Special Order Calendar, 02/25/26",
+      "date": "2026-02-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Appropriations Committee on Health and Human Services",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Appropriations Committee on Health and Human Services\"}"
+    },
     {
       "name": "Jones",
       "classification": "primary",
@@ -118,6 +208,21 @@
         },
         {
           "url": "https://flsenate.gov/Session/Bill/2026/844/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S 844 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/844/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/844/BillText/c1/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -153,6 +258,39 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/844/Analyses/2026s00844.pre.ahs.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Appropriations Committee on Health and Human Services (Post-Meeting) (2/13/2026 5:13 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/844/Analyses/2026s00844.ahs.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Fiscal Policy (Pre-Meeting) (2/17/2026 1:18 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/844/Analyses/2026s00844.pre.fp.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Fiscal Policy (Post-Meeting) (2/18/2026 3:46 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/844/Analyses/2026s00844.fp.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -199,6 +337,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-13T12:39:39Z"
+    "logs_latest_update": "2026-02-25T12:43:58Z"
   }
 }

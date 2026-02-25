@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 302",
-  "title": "Nature-based Coastal Resiliency",
+  "title": "Coastal Resiliency",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -13,7 +13,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Nature-based Coastal Resiliency;  Authorizing certain dredging and filling of submerged lands and placement of certain shorelines and seawalls within the Biscayne Bay Aquatic Preserve; authorizing the erection of certain structures within aquatic preserves; requiring the Department of Environmental Protection, by a specified date, to develop guidelines and standards for nature-based methods to address coastal resiliency and to adopt rules, subject to legislative ratification, for a statewide permitting process for such coastal resiliency, etc."
+      "abstract": "Coastal Resiliency;  Prohibiting the Board of Trustees of the Internal Improvement Trust Fund from approving the dredging or filling of the submerged lands of the Terra Ceia Aquatic Preserve unless such dredging and filling occurs for certain reasons; authorizing certain dredging and filling of submerged lands and placement of certain shorelines and seawalls within the Biscayne Bay Aquatic Preserve; authorizing the erection of certain structures within aquatic preserves; requiring the Department of Environmental Protection, by a specified date, to develop guidelines and standards for nature-based methods to address coastal resiliency and to adopt rules, subject to legislative ratification, for a statewide permitting process for such coastal resiliency, etc."
     }
   ],
   "other_titles": [],
@@ -164,6 +164,104 @@
       "_processing": {
         "log_file_created": "2026-02-13T12:39:39Z"
       }
+    },
+    {
+      "description": "Favorable by- Fiscal Policy; YEAS 19 NAYS 0",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Placed on Calendar, on 2nd reading",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Placed on Special Order Calendar, 02/19/26",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Read 2nd time",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Amendment(s) adopted (117522)",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Read 3rd time",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "CS passed as amended; YEAS 38 NAYS 0",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Immediately certified",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "In Messages",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
     }
   ],
   "sponsorships": [
@@ -189,6 +287,22 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Garcia\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Avila",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Avila\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sharief",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sharief\"}",
       "organization_id": null
     }
   ],
@@ -233,6 +347,21 @@
         },
         {
           "url": "https://flsenate.gov/Session/Bill/2026/302/BillText/c2/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S 302 e1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/302/BillText/e1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/302/BillText/e1/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -297,6 +426,17 @@
       "classification": ""
     },
     {
+      "note": "Bill Analysis -- Fiscal Policy (Post-Meeting) (2/12/2026 1:25 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/302/Analyses/2026s00302.fp.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "329416 - Amendment to S 302 Filed",
       "links": [
         {
@@ -310,9 +450,32 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "117522 - Amendment to S 302 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/302/Amendment/117522/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/302/Amendment/117522/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [
+    {
+      "publication": "Florida Statues",
+      "citation": "258.393",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/258.393"
+    },
     {
       "publication": "Florida Statues",
       "citation": "258.397",
@@ -344,6 +507,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-13T12:39:39Z"
+    "logs_latest_update": "2026-02-25T12:43:57Z"
   }
 }

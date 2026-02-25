@@ -7,19 +7,19 @@
     "bill"
   ],
   "subject": [
-    "(adopted)",
     "insurance",
     "judicial branch",
-    "k",
     "municipalities",
     "public health",
     "relations",
-    "subject index"
+    "social welfare",
+    "subject index",
+    "taxation and finance"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Child Care and Early Learning Services;  Revises and providing definitions; revises minimum standards for child care facility licensing; removes provisions requiring family day care homes & large family child care homes, respectively, to provide specified information to parents; changes term \"family day care\" to \"family child care\"; provides legislative intent relating to large family child care homes; defines \"large family child care home\"; prohibits residential property insurance policies from providing coverage for liability for claims arising out of, or in connection with, operations of large family child care homes; provides that insurers are under no obligation to defend against lawsuits covering such claims; provides exceptions; prohibits insurers from denying, cancelling, and refusing to renew policy for residential property insurance on basis that policyholders or applicants operate large family child care homes; provides exceptions; reenacting and revising definition of term \"DOE direct-support organization\"; creates Brighter Futures Program within DOE direct-support organization."
+      "abstract": "Child Care and Early Learning Services;  Prohibits residential property insurance policies from providing coverage for liability for claims arising out of, or in connection with, operations of large family child care homes; provides that insurers are under no obligation to defend against lawsuits covering such claims; prohibits insurers from denying, cancelling, & refusing to renew policy for residential property insurance on basis that policyholders or applicants operate large family child care homes; creates Brighter Futures Program; requires DOE direct-support organization to administer program; requires program funds to be deposited into Early Learning Fund; requires that funds from state sources & interest earnings be accounted separately; provides for establishment & administration of Center for Early Childhood Professional Recognition."
     }
   ],
   "other_titles": [],
@@ -323,9 +323,117 @@
       "_processing": {
         "log_file_created": "2026-02-13T12:39:39Z"
       }
+    },
+    {
+      "description": "Added to Budget Committee agenda",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Favorable with CS by Budget Committee",
+      "date": "2026-02-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Reported out of Budget Committee",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 3)",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Referred to Health & Human Services Committee",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Now in Health & Human Services Committee",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Added to Health & Human Services Committee agenda",
+      "date": "2026-02-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Budget Committee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Budget Committee\"}"
+    },
     {
       "name": "Student Academic Success Subcommittee",
       "classification": "primary",
@@ -359,6 +467,14 @@
       "organization_id": null
     },
     {
+      "name": "Eskamani",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Eskamani\"}",
+      "organization_id": null
+    },
+    {
       "name": "L\u00f3pez, J.",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -372,6 +488,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Rizo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Vald\u00e9s",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Vald\\u00e9s\"}",
       "organization_id": null
     }
   ],
@@ -409,6 +533,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 765 c3",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/765/BillText/c3/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -428,6 +563,28 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/765/Analyses/h0765c.SAS.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Budget Committee (Post-Meeting) (2/17/2026 4:59 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/765/Analyses/h0765e.BUC.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Health & Human Services Committee (Post-Meeting) (2/23/2026 11:12 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/765/Analyses/h0765f.HHS.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -654,6 +811,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-13T12:39:39Z"
+    "logs_latest_update": "2026-02-25T12:43:57Z"
   }
 }

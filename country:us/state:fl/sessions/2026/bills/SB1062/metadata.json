@@ -8,12 +8,13 @@
   ],
   "subject": [
     "commercial relations",
+    "public lands and property",
     "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Speech and Debate Education;  Citing this act as the \"Florida Speech and Debate Education Act\"; creating the Florida Speech and Debate Hall of Fame; requiring the Department of Management Services to set aside an area on a specified level in the Capitol Building; designating Florida Speech and Debate Week annually in February; designating the Florida Debate Initiative, Inc., (FDI) as the official statewide speech and debate organization; requiring the Florida Virtual School to establish the Institute for Speech and Debate Innovation; providing duties of the institute, etc.\r\n    \r\n        APPROPRIATION:\r\n        $13,340,000"
+      "abstract": "Speech and Debate Education;  Designating Florida Speech and Debate Week annually in February; establishing the Florida Debate Initiative, Inc., (FDI) as a statewide speech and debate organization that performs certain functions in support of the Florida Civics and Debate Initiative (FCDI) in the Department of Education; providing the duties of FDI; specifying activities for FDI and FCDI, etc.\r\n    \r\n        APPROPRIATION:\r\n        $2,400,000"
     }
   ],
   "other_titles": [],
@@ -104,9 +105,87 @@
       "_processing": {
         "log_file_created": "2026-01-31T12:29:57Z"
       }
+    },
+    {
+      "description": "On Committee agenda-- Appropriations Committee on Pre-K - 12 Education, 02/18/26, 8:30 am, 37 Senate Building",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "CS/CS by Appropriations Committee on Pre-K - 12 Education; YEAS 9 NAYS 0",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Now in Fiscal Policy",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "On Committee agenda-- Fiscal Policy, 02/24/26, 9:00 am, 412 Knott Building",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "CS/CS by Appropriations Committee on Pre-K - 12 Education read 1st time",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Appropriations Committee on Pre-K - 12 Education",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Appropriations Committee on Pre-K - 12 Education\"}"
+    },
     {
       "name": "Education Pre-K - 12",
       "classification": "primary",
@@ -137,6 +216,22 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Gaetz\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Osgood",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Osgood\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Massullo",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Massullo\"}",
       "organization_id": null
     }
   ],
@@ -171,6 +266,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 1062 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1062/BillText/c2/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1062/BillText/c2/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -190,6 +300,39 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/1062/Analyses/2026s01062.ed.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Appropriations Committee on Pre-K - 12 Education (Pre-Meeting) (2/20/2026 2:00 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1062/Analyses/2026s01062.pre.aed.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Appropriations Committee on Pre-K - 12 Education (Post-Meeting) (2/20/2026 6:08 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1062/Analyses/2026s01062.aed.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Fiscal Policy (Pre-Meeting) (2/23/2026 8:59 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1062/Analyses/2026s01062.pre.fp.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -227,6 +370,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-31T12:29:57Z"
+    "logs_latest_update": "2026-02-25T12:43:57Z"
   }
 }

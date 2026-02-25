@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Boating-restricted Areas;  Revises authority of municipalities & counties to establish ordinances for specified boating-restricted areas; requires boundaries of such areas to be clearly marked with specified markers; removes provisions requiring such ordinances to be reviewed & approved by FWCC."
+      "abstract": "Boating-restricted Areas;  Authorizes municipalities & counties to adopt ordinances to extend boating-restricted areas under certain conditions; requires boundaries of such areas to be clearly marked with specified markers."
     }
   ],
   "other_titles": [],
@@ -98,9 +98,97 @@
       "_processing": {
         "log_file_created": "2026-02-13T12:39:39Z"
       }
+    },
+    {
+      "description": "Favorable with CS by Natural Resources & Disasters Subcommittee",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Reported out of Natural Resources & Disasters Subcommittee",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Referred to State Affairs Committee",
+      "date": "2026-02-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Now in State Affairs Committee",
+      "date": "2026-02-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 1)",
+      "date": "2026-02-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Natural Resources & Disasters Subcommittee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Natural Resources & Disasters Subcommittee\"}"
+    },
     {
       "name": "Sirois",
       "classification": "primary",
@@ -122,14 +210,25 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 1173 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1173/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
     {
-      "note": "Bill Analysis -- Natural Resources & Disasters Subcommittee (Post-Meeting) (2/10/2026 7:05 PM)",
+      "note": "Bill Analysis -- Natural Resources & Disasters Subcommittee (Post-Meeting) (2/13/2026 6:21 PM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/1173/Analyses/h1173.NRD.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/1173/Analyses/h1173a.NRD.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -172,6 +271,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-13T12:39:39Z"
+    "logs_latest_update": "2026-02-25T12:43:58Z"
   }
 }

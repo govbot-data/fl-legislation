@@ -7,14 +7,14 @@
     "bill"
   ],
   "subject": [
+    "municipalities",
     "real and personal property",
-    "relations",
     "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Removal, Storage, and Cleanup of Electric Vehicles;  Requiring counties to establish a daily administration fee for the proper storage of certain electric vehicles; providing a maximum amount for such fees; providing applicability; defining the terms \u201cdaily administration fee\u201d and \u201cproper storage\u201d; providing that motor vehicle insurers are not required to pay certain costs, etc."
+      "abstract": "Removal, Storage, and Cleanup of Electric Vehicles;  Requiring counties to establish a daily administration storage fee for the proper storage of certain electric vehicles; providing a maximum amount for such fees; defining the terms \u201cdaily administration storage fee\u201d and \u201cproper storage\u201d; requiring any wrecker service or towing-storage wrecker or operator to collect and submit specific data to the Division of State Fire Marshal relating to stored damaged or submerged electric vehicles by a specified date; providing that motor vehicle insurers are not required to pay certain costs, etc."
     }
   ],
   "other_titles": [],
@@ -125,9 +125,105 @@
       "_processing": {
         "log_file_created": "2026-02-13T12:39:39Z"
       }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Now in Rules",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "On Committee agenda-- Rules, 02/17/26, 12:00 pm, 412 Knott Building",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "CS/CS/CS by- Rules; YEAS 24 NAYS 0",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "CS/CS by Community Affairs read 1st time",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Pending reference review -under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Placed on Calendar, on 2nd reading",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "CS/CS/CS by Rules read 1st time",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Rules",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Rules\"}"
+    },
+    {
+      "name": "Community Affairs",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Community Affairs\"}"
+    },
     {
       "name": "Transportation",
       "classification": "primary",
@@ -176,6 +272,36 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 260 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/260/BillText/c2/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/260/BillText/c2/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S 260 c3",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/260/BillText/c3/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/260/BillText/c3/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -206,6 +332,39 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/260/Analyses/2026s00260.pre.ca.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Community Affairs (Post-Meeting) (2/12/2026 2:06 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/260/Analyses/2026s00260.ca.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Rules (Pre-Meeting) (2/16/2026 8:23 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/260/Analyses/2026s00260.pre.rc.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Rules (Post-Meeting) (2/19/2026 8:21 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/260/Analyses/2026s00260.rc.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -260,6 +419,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-13T12:39:39Z"
+    "logs_latest_update": "2026-02-25T12:43:57Z"
   }
 }

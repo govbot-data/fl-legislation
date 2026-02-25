@@ -172,6 +172,16 @@
       "_processing": {
         "log_file_created": "2026-01-15T12:29:13Z"
       }
+    },
+    {
+      "description": "Added to Education & Employment Committee agenda",
+      "date": "2026-02-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
     }
   ],
   "sponsorships": [
@@ -244,6 +254,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Education & Employment Committee (Post-Meeting) (2/20/2026 5:44 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/129/Analyses/h0129d.EEC.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [
@@ -270,6 +291,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-15T12:29:13Z"
+    "logs_latest_update": "2026-02-25T12:43:57Z"
   }
 }

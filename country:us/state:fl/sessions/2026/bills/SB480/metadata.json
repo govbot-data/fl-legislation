@@ -7,7 +7,7 @@
     "bill"
   ],
   "subject": [
-    "labor",
+    "electors and elections",
     "public business",
     "subject index"
   ],
@@ -115,9 +115,57 @@
       "_processing": {
         "log_file_created": "2026-02-13T12:39:39Z"
       }
+    },
+    {
+      "description": "CS/CS by- Appropriations; YEAS 18 NAYS 0",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Pending reference review -under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-02-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Placed on Calendar, on 2nd reading",
+      "date": "2026-02-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "CS/CS by Appropriations read 1st time",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Appropriations",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Appropriations\"}"
+    },
     {
       "name": "Appropriations Committee on Agriculture, Environment, and General Government",
       "classification": "primary",
@@ -166,6 +214,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 480 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/480/BillText/c2/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/480/BillText/c2/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -192,10 +255,21 @@
       "classification": ""
     },
     {
-      "note": "Bill Analysis -- Appropriations (Pre-Meeting) (2/11/2026 9:05 AM)",
+      "note": "Bill Analysis -- Appropriations (Pre-Meeting) (2/16/2026 5:18 PM)",
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/480/Analyses/2026s00480.pre.ap.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Appropriations (Post-Meeting) (2/16/2026 5:20 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/480/Analyses/2026s00480.ap.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -233,6 +307,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-13T12:39:39Z"
+    "logs_latest_update": "2026-02-25T12:43:58Z"
   }
 }

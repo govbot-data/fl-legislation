@@ -7,13 +7,14 @@
     "bill"
   ],
   "subject": [
+    "(adopted)",
     "banks and banking",
     "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Unauthorized Aliens;  Prohibits unauthorized aliens from receiving certain licensing or certification, financial assistance, & claim reimbursement; requires certain procedures, instruction, & testing to be conducted in English; prohibits alternate language accommodations; requires employers & licensees to verify employment eligibility & citizenship status, respectively, before taking certain actions; provides civil cause of action; provides penalties; authorizes certain complains; requires Office of Financial Regulation to conduct random audits; creates rebuttable presumption against unauthorized out-of-state drivers; provides exemptions & standard of proof; provides requirements for law enforcement officers, DHSMV, insurers, & OIR; provides administrative penalties; authorizes private cause of action; prohibits certain financial institutions from accepting certain forms of personal identification."
+      "abstract": "Unauthorized Aliens;  Prohibits unauthorized aliens from receiving certain licensing or certification, financial assistance, & claim reimbursement; requires certain procedures, instruction, & testing to be conducted in English; prohibits alternate language accommodations; requires employers & licensees to verify employment eligibility & citizenship status, respectively, before taking certain actions; provides civil cause of action & criminal penalty; provides penalties; authorizes certain complaints; requires Office of Financial Regulation to conduct random audits; creates rebuttable presumption against unauthorized out-of-state drivers; provides exemptions & standard of proof; provides requirements for law enforcement officers, DHSMV, insurers, & OIR; provides administrative penalties; authorizes private cause of action; prohibits certain financial institutions from accepting certain forms of personal identification."
     }
   ],
   "other_titles": [],
@@ -111,9 +112,97 @@
       "_processing": {
         "log_file_created": "2026-02-13T12:39:39Z"
       }
+    },
+    {
+      "description": "Reported out of Commerce Committee",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Referred to State Affairs Committee",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Referred to Judiciary Committee",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Now in State Affairs Committee",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 1)",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Commerce Committee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Commerce Committee\"}"
+    },
     {
       "name": "Jacques",
       "classification": "primary",
@@ -151,14 +240,25 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 1307 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1307/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
     {
-      "note": "Bill Analysis -- Commerce Committee (Post-Meeting) (2/7/2026 6:58 PM)",
+      "note": "Bill Analysis -- Commerce Committee (Post-Meeting) (2/12/2026 11:06 AM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/1307/Analyses/h1307.COM.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/1307/Analyses/h1307a.COM.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -192,6 +292,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-13T12:39:39Z"
+    "logs_latest_update": "2026-02-25T12:43:58Z"
   }
 }

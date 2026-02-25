@@ -7,9 +7,9 @@
     "bill"
   ],
   "subject": [
-    "(adopted)",
     "public health",
-    "torts"
+    "social welfare",
+    "subject index"
   ],
   "abstracts": [
     {
@@ -87,6 +87,38 @@
       "_processing": {
         "log_file_created": "2026-02-13T12:39:39Z"
       }
+    },
+    {
+      "description": "On Committee agenda-- Rules, 02/17/26, 12:00 pm, 412 Knott Building",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Unfavorable by Rules; YEAS 11 NAYS 13",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Laid on Table",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
     }
   ],
   "sponsorships": [
@@ -134,6 +166,58 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/1506/Analyses/2026s01506.ju.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Rules (Pre-Meeting) (2/16/2026 8:33 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1506/Analyses/2026s01506.pre.rc.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Rules (Post-Meeting) (2/19/2026 8:49 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1506/Analyses/2026s01506.rc.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "567718 - Amendment to S 1506 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1506/Amendment/567718/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1506/Amendment/567718/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "674920 - Substitute Amendment (567718) to S 1506 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1506/Amendment/674920/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1506/Amendment/674920/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -197,6 +281,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-13T12:39:39Z"
+    "logs_latest_update": "2026-02-25T12:43:57Z"
   }
 }

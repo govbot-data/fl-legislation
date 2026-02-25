@@ -8,13 +8,14 @@
   ],
   "subject": [
     "domestic relations",
+    "judicial branch",
     "regulation of professions and occupations",
     "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Juvenile Justice;  Authorizing the Governor to award a Medal of Heroism to juvenile detention and juvenile probation officers; authorizing certain entities to establish an award program to award a Medal of Valor to a juvenile detention officer or probation officer in certain circumstances; revising the definition of the term \u201cofficer\u201d to include juvenile detention and juvenile probation officers; providing that a child subject to proceedings under ch. 984, F.S., may only be placed in a shelter in certain circumstances, etc."
+      "abstract": "Juvenile Justice;  Authorizing the Governor to award a Medal of Heroism to juvenile detention and juvenile probation officers; authorizing certain entities to establish an award program to award a Medal of Valor to a juvenile detention officer or probation officer in certain circumstances; revising the definition of the term \u201cofficer\u201d to include juvenile detention and juvenile probation officers; requiring the Department of Juvenile Justice to review county juvenile detention payments for a certain purpose, etc."
     }
   ],
   "other_titles": [],
@@ -129,9 +130,57 @@
       "_processing": {
         "log_file_created": "2026-02-13T12:39:39Z"
       }
+    },
+    {
+      "description": "CS by- Fiscal Policy; YEAS 19 NAYS 0",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Pending reference review -under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Placed on Calendar, on 2nd reading",
+      "date": "2026-02-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "CS by Fiscal Policy read 1st time",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Fiscal Policy",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Fiscal Policy\"}"
+    },
     {
       "name": "Martin",
       "classification": "primary",
@@ -152,6 +201,21 @@
         },
         {
           "url": "https://flsenate.gov/Session/Bill/2026/1734/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S 1734 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1734/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1734/BillText/c1/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -209,6 +273,32 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/1734/Analyses/2026s01734.pre.fp.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Fiscal Policy (Post-Meeting) (2/13/2026 12:46 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1734/Analyses/2026s01734.fp.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "734952 - Amendment to S 1734 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1734/Amendment/734952/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1734/Amendment/734952/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -416,6 +506,14 @@
       "effective": null,
       "expires": null,
       "url": "https://flsenate.gov/laws/statutes/2025/985.03"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "985.6865",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/985.6865"
     }
   ],
   "sources": [
@@ -432,6 +530,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-13T12:39:39Z"
+    "logs_latest_update": "2026-02-25T12:43:57Z"
   }
 }

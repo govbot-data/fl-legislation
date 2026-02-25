@@ -7,13 +7,13 @@
     "bill"
   ],
   "subject": [
-    "insurance",
-    "subject index"
+    "criminal procedure and corrections",
+    "insurance"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Bail Bonds;  Decreasing the duration of in-person classroom-instruction basic certification courses required to be considered for approval and certification as an approved limited surety agent and professional bail bond agent prelicensing school; prohibiting bail bond agents and agencies from soliciting certain persons; requiring, rather than authorizing, that any monetary or cash component of any form of pretrial release be met by specified means; requiring that, upon a court\u2019s entry of an order to revoke pretrial release and order pretrial detention in certain circumstances, the clerk of the court discharge any bond previously posted as a condition of pretrial release without further order of the court, etc."
+      "abstract": "Bail Bonds;  Decreasing the duration of in-person classroom-instruction basic certification courses required to be considered for approval and certification as an approved limited surety agent and professional bail bond agent prelicensing school; requiring, rather than authorizing, that any monetary or cash component of any form of pretrial release be met by specified means; requiring the clerk of the court, upon the court\u2019s entry of an order to revoke pretrial release and order pretrial detention in certain circumstances, to discharge any bond previously posted as a condition of pretrial release without further order of the court; requiring that a signed certification containing certain information must accompany or be included on a specified notice, etc."
     }
   ],
   "other_titles": [],
@@ -124,9 +124,89 @@
       "_processing": {
         "log_file_created": "2026-02-13T12:39:39Z"
       }
+    },
+    {
+      "description": "On Committee agenda-- Appropriations Committee on Criminal and Civil Justice, 02/18/26, 10:30 am, 37 Senate Building",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "CS/CS by Appropriations Committee on Criminal and Civil Justice; YEAS 8 NAYS 0",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Now in Rules",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "On Committee agenda-- Rules, 02/24/26, 12:00 pm, 412 Knott Building",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "CS/CS by Appropriations Committee on Criminal and Civil Justice read 1st time",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Placed on Special Order Calendar, 02/26/26  --If Received",
+      "date": "2026-02-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "enrolled"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Appropriations Committee on Criminal and Civil Justice",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Appropriations Committee on Criminal and Civil Justice\"}"
+    },
     {
       "name": "Criminal Justice",
       "classification": "primary",
@@ -175,6 +255,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 600 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/600/BillText/c2/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/600/BillText/c2/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -194,6 +289,39 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/600/Analyses/2026s00600.cj.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Appropriations Committee on Criminal and Civil Justice (Pre-Meeting) (2/16/2026 3:16 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/600/Analyses/2026s00600.pre.acj.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Appropriations Committee on Criminal and Civil Justice (Post-Meeting) (2/20/2026 5:05 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/600/Analyses/2026s00600.acj.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Rules (Pre-Meeting) (2/23/2026 10:21 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/600/Analyses/2026s00600.pre.rc.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -248,14 +376,6 @@
       "effective": null,
       "expires": null,
       "url": "https://flsenate.gov/laws/statutes/2025/648.44"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "648.45",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/648.45"
     },
     {
       "publication": "Florida Statues",
@@ -424,6 +544,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-13T12:39:39Z"
+    "logs_latest_update": "2026-02-25T12:43:58Z"
   }
 }

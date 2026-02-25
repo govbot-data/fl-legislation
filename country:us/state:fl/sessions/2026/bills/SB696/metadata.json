@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Registration of Trademarks;  Removing provisions relating to the classification of goods and services for trademark purposes; requiring the Department of State to adopt a federal system of classification each year; requiring publication of the classification as part of the trademark registration application; requiring the department to establish and maintain a secure Internet website that allows submission of an online trademark registration application and renewal application, etc."
+      "abstract": "Registration of Trademarks;  Requiring the Department of State to use the international schedule of classes of goods and services for trademarks; deleting provisions relating to the classification of goods and services for trademark purposes; providing online application requirements; requiring the department to establish and maintain a secure Internet website that allows submission of an online trademark registration application and renewal application, etc."
     }
   ],
   "other_titles": [],
@@ -117,9 +117,67 @@
       "_processing": {
         "log_file_created": "2026-01-31T12:29:57Z"
       }
+    },
+    {
+      "description": "On Committee agenda-- Rules, 02/17/26, 12:00 pm, 412 Knott Building",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "CS by- Rules; YEAS 23 NAYS 0",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Pending reference review -under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Placed on Calendar, on 2nd reading",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "CS by Rules read 1st time",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Rules",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Rules\"}"
+    },
     {
       "name": "Martin",
       "classification": "primary",
@@ -140,6 +198,21 @@
         },
         {
           "url": "https://flsenate.gov/Session/Bill/2026/696/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S 696 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/696/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/696/BillText/c1/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -191,6 +264,43 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Rules (Pre-Meeting) (2/16/2026 8:28 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/696/Analyses/2026s00696.pre.rc.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Rules (Post-Meeting) (2/18/2026 4:54 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/696/Analyses/2026s00696.rc.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "462224 - Amendment (Delete All) to S 696 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/696/Amendment/462224/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/696/Amendment/462224/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [
@@ -217,6 +327,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-31T12:29:57Z"
+    "logs_latest_update": "2026-02-25T12:43:57Z"
   }
 }

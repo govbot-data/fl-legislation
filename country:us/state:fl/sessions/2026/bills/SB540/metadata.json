@@ -8,12 +8,13 @@
   ],
   "subject": [
     "banks and banking",
+    "social welfare",
     "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Office of Financial Regulation;  Requiring loan originators, mortgage brokers, and mortgage lenders to develop, implement, and maintain comprehensive written information security programs for the protection of information systems and nonpublic personal information; providing requirements for such programs; providing additional acts that constitute a ground for specified disciplinary actions against loan originators and mortgage brokers; requiring money services businesses to develop, implement, and maintain comprehensive written information security programs for the protection of information systems and nonpublic personal information; requiring financial institutions to take measures to protect and secure certain data that contain personal information; providing requirements for notices of security breaches to the office, the Department of Legal Affairs, certain individuals, and certain credit reporting agencies, etc."
+      "abstract": "Office of Financial Regulation;  Requiring the Department of Children and Families to cooperate with and seek cooperation from the Office of Financial Regulation concerning certain protective investigations of suspected financial exploitation of specified adults; requiring loan originators, mortgage brokers, and mortgage lenders to develop, implement, and maintain comprehensive written information security programs for the protection of information systems and nonpublic personal information; providing additional acts that constitute a ground for specified disciplinary actions against loan originators and mortgage brokers; authorizing the office to make investigations and examinations to aid the Department of Children and Families with certain protective investigations; requiring money services businesses to develop, implement, and maintain comprehensive written information security programs for the protection of information systems and nonpublic personal information, etc."
     }
   ],
   "other_titles": [],
@@ -114,9 +115,79 @@
       "_processing": {
         "log_file_created": "2026-02-13T12:39:39Z"
       }
+    },
+    {
+      "description": "CS/CS by Appropriations Committee on Agriculture, Environment, and General Government; YEAS 10 NAYS 0",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-02-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Now in Rules",
+      "date": "2026-02-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "CS/CS by Appropriations Committee on Agriculture, Environment, and General Government read 1st time",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "On Committee agenda-- Rules, 02/24/26, 12:00 pm, 412 Knott Building",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Placed on Special Order Calendar, 02/25/26  --If Received",
+      "date": "2026-02-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "enrolled"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Appropriations Committee on Agriculture, Environment, and General Government",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Appropriations Committee on Agriculture, Environment, and General Government\"}"
+    },
     {
       "name": "Banking and Insurance",
       "classification": "primary",
@@ -165,6 +236,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 540 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/540/BillText/c2/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/540/BillText/c2/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -195,6 +281,28 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/540/Analyses/2026s00540.pre.aeg.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Appropriations Committee on Agriculture, Environment, and General Government (Post-Meeting) (2/16/2026 3:20 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/540/Analyses/2026s00540.aeg.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Rules (Pre-Meeting) (2/23/2026 10:21 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/540/Analyses/2026s00540.pre.rc.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -262,7 +370,24 @@
       "classification": ""
     }
   ],
-  "citations": [],
+  "citations": [
+    {
+      "publication": "Florida Statues",
+      "citation": "415.106",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/415.106"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "415.107",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/415.107"
+    }
+  ],
   "sources": [
     {
       "url": "https://flsenate.gov/Session/Bill/2026/540/ByCategory",
@@ -277,6 +402,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-13T12:39:39Z"
+    "logs_latest_update": "2026-02-25T12:43:57Z"
   }
 }

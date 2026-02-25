@@ -7,12 +7,12 @@
     "bill"
   ],
   "subject": [
-    "subject index"
+    "municipalities"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Provision of Municipal Utility Service to Owners Outside the Municipal Limits;  Prohibiting a municipal utility from declining to extend service to properties outside its corporate limits under certain circumstances; requiring a municipal utility to expand its service to an owner who makes such a request under certain circumstances; requiring the municipal utility to make a determination within a specified timeframe and provide such determination to the owner in writing; requiring the municipal utility to provide the owner with specified information and to connect properties in a timely manner; authorizing a municipal utility to establish minimum application filing requirements, etc."
+      "abstract": "Provision of Municipal Utility Service to Owners Outside the Municipal Limits;  Prohibiting a municipal utility from declining to extend service to properties outside its corporate limits under certain circumstances; requiring a municipal utility to expand its service to an owner who makes such a request under certain circumstances, subject to the utility\u2019s service requirements; requiring the municipal utility to make a determination within a specified timeframe and provide such determination to the owner in writing; requiring the municipal utility to provide the owner with specified information and to connect properties in a timely manner; authorizing a municipal utility to establish minimum application filing requirements, etc."
     }
   ],
   "other_titles": [],
@@ -133,9 +133,97 @@
       "_processing": {
         "log_file_created": "2026-02-13T12:39:39Z"
       }
+    },
+    {
+      "description": "Now in Rules",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "On Committee agenda-- Rules, 02/17/26, 12:00 pm, 412 Knott Building",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "CS/CS/CS by- Rules; YEAS 24 NAYS 0",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "CS/CS by Community Affairs read 1st time",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Pending reference review -under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Placed on Calendar, on 2nd reading",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "CS/CS/CS by Rules read 1st time",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Placed on Special Order Calendar, 02/25/26",
+      "date": "2026-02-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Rules",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Rules\"}"
+    },
     {
       "name": "Community Affairs",
       "classification": "primary",
@@ -207,6 +295,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 1014 c3",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1014/BillText/c3/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1014/BillText/c3/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -248,6 +351,28 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/1014/Analyses/2026s01014.ca.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Rules (Pre-Meeting) (2/16/2026 8:32 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1014/Analyses/2026s01014.pre.rc.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Rules (Post-Meeting) (2/18/2026 5:09 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1014/Analyses/2026s01014.rc.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -309,6 +434,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-13T12:39:39Z"
+    "logs_latest_update": "2026-02-25T12:43:57Z"
   }
 }

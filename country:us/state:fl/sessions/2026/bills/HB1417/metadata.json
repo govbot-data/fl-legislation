@@ -7,17 +7,16 @@
     "bill"
   ],
   "subject": [
-    "executive branch",
     "industry",
+    "public health",
     "public lands and property",
-    "reclamation, and use",
     "relations",
     "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Department of Environmental Protection;  epeals, revises, & creates various provisions relating to Environmental Regulation Commission; Acquisition & Restoration Council; central sewer system connections; wastewater treatment systems; aerobic treatment units; basin management action plans; type 2 transfer of Florida Communities Trust from DEP to Acquisition & Restoration Council; onsite sewage treatment & disposal system reports & permits; air pollution permits & license fees; small community sewer construction grants; wastewater services; & fertilizer inspection fees."
+      "abstract": "Department of Environmental Protection;  Repeals, revises, & creates various provisions relating to Environmental Regulation Commission; central sewer system connections; wastewater treatment systems; aerobic treatment units; basin management action plans; onsite sewage treatment & disposal system reports & permits; air pollution permits & license fees; small community sewer construction grants; wastewater services; & fertilizer inspection fees."
     }
   ],
   "other_titles": [],
@@ -205,9 +204,97 @@
       "_processing": {
         "log_file_created": "2026-02-13T12:39:39Z"
       }
+    },
+    {
+      "description": "Favorable with CS by Agriculture & Natural Resources Budget Subcommittee",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Reported out of Agriculture & Natural Resources Budget Subcommittee",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 2)",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Referred to State Affairs Committee",
+      "date": "2026-02-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Now in State Affairs Committee",
+      "date": "2026-02-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Agriculture & Natural Resources Budget Subcommittee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Agriculture & Natural Resources Budget Subcommittee\"}"
+    },
     {
       "name": "Natural Resources & Disasters Subcommittee",
       "classification": "primary",
@@ -256,6 +343,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 1417 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1417/BillText/c2/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -271,10 +369,10 @@
       "classification": ""
     },
     {
-      "note": "Bill Analysis -- Agriculture & Natural Resources Budget Subcommittee (Post-Meeting) (2/10/2026 4:19 PM)",
+      "note": "Bill Analysis -- Agriculture & Natural Resources Budget Subcommittee (Post-Meeting) (2/13/2026 9:55 AM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/1417/Analyses/h1417b.ANR.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/1417/Analyses/h1417c.ANR.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -339,22 +437,6 @@
     },
     {
       "publication": "Florida Statues",
-      "citation": "259.035",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/259.035"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "259.105",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/259.105"
-    },
-    {
-      "publication": "Florida Statues",
       "citation": "373.421",
       "citation_type": "proposed",
       "effective": null,
@@ -416,6 +498,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-13T12:39:39Z"
+    "logs_latest_update": "2026-02-25T12:43:57Z"
   }
 }

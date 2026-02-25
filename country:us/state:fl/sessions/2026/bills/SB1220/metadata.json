@@ -9,16 +9,15 @@
   "subject": [
     "aviation",
     "ports and harbors",
+    "public business",
     "public lands and property",
-    "public transportation",
     "railroads and other regulated utilities",
-    "reclamation, and use",
     "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Transportation;  Providing requirements for an infrastructure development and improvement component included in a port\u2019s strategic plan;  requiring the Department of Transportation to coordinate with the Department of Commerce, specified ports, and the Federal Government for a certain purpose; authorizing certain rental trucks to elect a permanent registration period; revising duties of the Department of Transportation relating to airport systems in this state; providing that the department serves as the primary point of contact for statewide topographic aerial LiDAR procurement and certain cost sharing, etc.\r\n    \r\n        APPROPRIATION:\r\n        $300,000"
+      "abstract": "Transportation;  Providing requirements for an infrastructure development and improvement component included in a port\u2019s strategic plan; requiring the Department of Transportation to coordinate with the Department of Commerce, specified ports, and the Federal Government for a certain purpose; prohibiting counties and municipalities from enacting, imposing, levying, collecting, or enforcing certain operating fees and advertising regulations; authorizing certain rental trucks to elect a permanent registration period; revising duties of the Department of Transportation relating to airport systems in this state, etc.\r\n    \r\n        APPROPRIATION:\r\n        $300,000"
     }
   ],
   "other_titles": [],
@@ -119,9 +118,67 @@
       "_processing": {
         "log_file_created": "2026-02-13T12:39:39Z"
       }
+    },
+    {
+      "description": "CS/CS by Appropriations Committee on Transportation, Tourism, and Economic Development; YEAS 12 NAYS 0",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-02-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Now in Appropriations",
+      "date": "2026-02-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "CS/CS by Appropriations Committee on Transportation, Tourism, and Economic Development read 1st time",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "On Committee agenda-- Appropriations, 02/24/26, 9:00 am, 110 Senate Building",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Appropriations Committee on Transportation, Tourism, and Economic Development",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Appropriations Committee on Transportation, Tourism, and Economic Development\"}"
+    },
     {
       "name": "Transportation",
       "classification": "primary",
@@ -170,6 +227,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 1220 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1220/BillText/c2/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1220/BillText/c2/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -200,6 +272,28 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/1220/Analyses/2026s01220.pre.atd.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Appropriations Committee on Transportation, Tourism, and Economic Development (Post-Meeting) (2/16/2026 3:23 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1220/Analyses/2026s01220.atd.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Appropriations (Pre-Meeting) (2/23/2026 9:19 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1220/Analyses/2026s01220.pre.ap.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -262,6 +356,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-13T12:39:39Z"
+    "logs_latest_update": "2026-02-25T12:43:57Z"
   }
 }

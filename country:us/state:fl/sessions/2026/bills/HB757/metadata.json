@@ -7,6 +7,7 @@
     "bill"
   ],
   "subject": [
+    "judicial branch",
     "subject index"
   ],
   "abstracts": [
@@ -300,6 +301,36 @@
       "_processing": {
         "log_file_created": "2026-02-13T12:39:39Z"
       }
+    },
+    {
+      "description": "Bill referred to House Calendar",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Added to Second Reading Calendar",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Bill added to Special Order Calendar (2/25/2026)",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
     }
   ],
   "sponsorships": [
@@ -392,6 +423,116 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/757/Analyses/h0757d.BUC.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "055721 - Amendment to H 757 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/757/Amendment/055721/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "429727 - Amendment to H 757 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/757/Amendment/429727/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "714819 - Amendment to H 757 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/757/Amendment/714819/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "872267 - Amendment to H 757 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/757/Amendment/872267/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "052441 - Amendment to H 757 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/757/Amendment/052441/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "330695 - Amendment to H 757 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/757/Amendment/330695/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "347527 - Amendment to H 757 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/757/Amendment/347527/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "938253 - Amendment to H 757 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/757/Amendment/938253/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "407641 - Amendment to H 757 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/757/Amendment/407641/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "020155 - Amendment to H 757 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/757/Amendment/020155/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -511,6 +652,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-13T12:39:39Z"
+    "logs_latest_update": "2026-02-25T12:43:58Z"
   }
 }

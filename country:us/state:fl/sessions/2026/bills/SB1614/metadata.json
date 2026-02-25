@@ -1,18 +1,18 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 1614",
-  "title": "Florida Building Code",
+  "title": "Local Government Funding",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
   ],
   "subject": [
-    "and solicitations"
+    "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Florida Building Code;  Revising how a local government is required to spend excess funds; providing that a local government is not eligible to receive state funds through a local funding initiative request if it has been subject to a legislative committee\u2019s audit within a specified timeframe or if it fails to submit a certain affirmation to its legislative delegation, etc."
+      "abstract": "Local Government Funding;  Providing that a local governmental entity is not eligible to receive state funds through a local funding initiative request if the local governmental entity was subject to an audit directed by the Legislative Auditing Committee within a specified timeframe; providing an exception; requiring the Legislative Auditing Committee to notify the chairs of each legislative appropriations committee upon voting to direct an audit of a local governmental entity; revising the manner in which a local government is required to spend excess funds, etc."
     }
   ],
   "other_titles": [],
@@ -103,9 +103,57 @@
       "_processing": {
         "log_file_created": "2026-02-13T12:39:39Z"
       }
+    },
+    {
+      "description": "On Committee agenda-- Appropriations Committee on Agriculture, Environment, and General Government, 02/18/26, 10:30 am, 412 Knott Building",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "CS/CS by Appropriations Committee on Agriculture, Environment, and General Government; YEAS 11 NAYS 0",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-02-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Now in Appropriations",
+      "date": "2026-02-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Appropriations Committee on Agriculture, Environment, and General Government",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Appropriations Committee on Agriculture, Environment, and General Government\"}"
+    },
     {
       "name": "Community Affairs",
       "classification": "primary",
@@ -154,6 +202,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 1614 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1614/BillText/c2/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1614/BillText/c2/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -180,6 +243,28 @@
       "classification": ""
     },
     {
+      "note": "Bill Analysis -- Appropriations Committee on Agriculture, Environment, and General Government (Pre-Meeting) (2/17/2026 11:24 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1614/Analyses/2026s01614.pre.aeg.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Appropriations Committee on Agriculture, Environment, and General Government (Post-Meeting) (2/20/2026 3:40 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1614/Analyses/2026s01614.aeg.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "709702 - Amendment to S 1614 Filed",
       "links": [
         {
@@ -196,6 +281,14 @@
     }
   ],
   "citations": [
+    {
+      "publication": "Florida Statues",
+      "citation": "11.40",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/11.40"
+    },
     {
       "publication": "Florida Statues",
       "citation": "553.80",
@@ -219,6 +312,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-13T12:39:39Z"
+    "logs_latest_update": "2026-02-25T12:43:57Z"
   }
 }

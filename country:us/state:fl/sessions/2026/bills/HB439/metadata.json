@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Practice of Chiropractic Medicine;  Revises definition of term \"practice of chiropractic medicine\"; authorizes chiropractic physicians to order, store, possess, prescribe, & administer, only by means of injection at chiropractic physician\u2019s office, sterile substances, including vitamins, minerals, & nutritional supplements; authorizes chiropractic physicians to possess, for emergency purposes only at chiropractic physician's office or place of business, prescription medical oxygen; prohibits chiropractic physicians from administering certain sterile substances by means of injection unless he or she has been certified by board; prohibits chiropractic physicians from administering certain any substance through intravenous therapy; requires chiropractic physician to be certified before administering sterile substances in specified manner; requires Board of Chiropractic Medicine to establish minimum standards of practice for administration of certain sterile substances by means of injection by chiropractic physicians; provides requirements for such standards; requires board to issue chiropractic physician letter certifying that he or she is authorized to administer specified sterile substances by means of injection under certain conditions."
+      "abstract": "Practice of Chiropractic Medicine ;  Revises definition of term \"practice of chiropractic medicine\"; authorizes chiropractic physicians to possess, for emergency purposes only at chiropractic physician's office or place of business, prescription medical oxygen; authorizes chiropractic physicians to order, store, possess, prescribe, & administer, only by means of injection at chiropractic physician\u2019s office, sterile substances, including vitamins, minerals, & nutritional supplements;  prohibits chiropractic physicians from administering certain sterile substances by means of injection unless he or she has been certified by board; prohibits chiropractic physicians from administering certain any substance through intravenous therapy; requires chiropractic physician to be certified before administering sterile substances in specified manner; requires Board of Chiropractic Medicine to establish minimum standards of practice for administration of certain sterile substances by means of injection by chiropractic physicians; provides requirements for such standards; requires board to issue chiropractic physician letter certifying that he or she is authorized to administer specified sterile substances by means of injection under certain conditions."
     }
   ],
   "other_titles": [],
@@ -188,9 +188,93 @@
       "_processing": {
         "log_file_created": "2026-02-13T12:39:39Z"
       }
+    },
+    {
+      "description": "Reported out of Health & Human Services Committee",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Bill referred to House Calendar",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 2)",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Added to Second Reading Calendar",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Bill added to Special Order Calendar (2/25/2026)",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Health & Human Services Committee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Health & Human Services Committee\"}"
+    },
     {
       "name": "Health Professions & Programs Subcommittee",
       "classification": "primary",
@@ -231,6 +315,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 439 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/439/BillText/c2/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -246,10 +341,10 @@
       "classification": ""
     },
     {
-      "note": "Bill Analysis -- Health & Human Services Committee (Post-Meeting) (2/9/2026 9:55 AM)",
+      "note": "Bill Analysis -- Health & Human Services Committee (Post-Meeting) (2/12/2026 9:10 AM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/439/Analyses/h0439b.HHS.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/439/Analyses/h0439c.HHS.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -303,6 +398,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-13T12:39:39Z"
+    "logs_latest_update": "2026-02-25T12:43:58Z"
   }
 }

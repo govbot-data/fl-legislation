@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 1362",
-  "title": "Advanced Air Mobility",
+  "title": "Vertiports",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -9,12 +9,12 @@
   "subject": [
     "aviation",
     "public lands and property",
-    "taxation and finance"
+    "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Advanced Air Mobility;  Citing this act as the \"Advanced Air Mobility Competitiveness and Infrastructure Act\"; providing that certain vertiport operators are considered an agency or subdivision of this state for certain purposes and are entitled to sovereign immunity to a specified extent; authorizing the department to fund up to specified percentages of vertiport project costs; requiring the department to expeditiously approve certain vertiports; preempting the regulation of vertiport design, aeronautical operations, and aviation safety to the state, etc."
+      "abstract": "Vertiports;  Revising the definition of the term \u201cairport infrastructure\u201d; authorizing the Department of Transportation to fund up to specified percentages of public vertiport project costs, etc."
     }
   ],
   "other_titles": [],
@@ -125,9 +125,57 @@
       "_processing": {
         "log_file_created": "2026-02-13T12:39:39Z"
       }
+    },
+    {
+      "description": "On Committee agenda-- Appropriations Committee on Transportation, Tourism, and Economic Development, 02/18/26, 8:30 am, 110 Senate Building",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "CS/CS by Appropriations Committee on Transportation, Tourism, and Economic Development; YEAS 14 NAYS 0",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-02-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Now in Appropriations",
+      "date": "2026-02-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Appropriations Committee on Transportation, Tourism, and Economic Development",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Appropriations Committee on Transportation, Tourism, and Economic Development\"}"
+    },
     {
       "name": "Transportation",
       "classification": "primary",
@@ -176,6 +224,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 1362 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1362/BillText/c2/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1362/BillText/c2/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -195,6 +258,28 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/1362/Analyses/2026s01362.tr.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Appropriations Committee on Transportation, Tourism, and Economic Development (Pre-Meeting) (2/17/2026 8:46 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1362/Analyses/2026s01362.pre.atd.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Appropriations Committee on Transportation, Tourism, and Economic Development (Post-Meeting) (2/20/2026 4:23 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1362/Analyses/2026s01362.atd.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -240,6 +325,14 @@
       "effective": null,
       "expires": null,
       "url": "https://flsenate.gov/laws/statutes/2025/255.065"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "332.007",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/332.007"
     }
   ],
   "sources": [
@@ -256,6 +349,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-13T12:39:39Z"
+    "logs_latest_update": "2026-02-25T12:43:58Z"
   }
 }

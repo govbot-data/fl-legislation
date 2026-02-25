@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Favorable by Appropriations Committee on Transportation, Tourism, and Economic Development; YEAS 9 NAYS 5",
+    "date": "2026-02-18",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 174"
+}

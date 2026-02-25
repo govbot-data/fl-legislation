@@ -7,15 +7,15 @@
     "bill"
   ],
   "subject": [
+    "and solicitations",
     "real and personal property",
     "regulation of professions and occupations",
-    "relations",
-    "subject index"
+    "relations"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Building Permits and Inspection;  Provides for expiration of certain building permits issued by county & local government; provides that under certain circumstances certain persons are not subject to discipline for performing job without applicable permits & inspections; prohibits local governments from requiring building permit for installation of certain walls or barriers; revises provisions relating to building code inspection services provided by private provider & private provider firms, including permit & administrative fees, responsibilities of private providers, permitting & inspection documents & reports, timeframes for issuing permits & notices, authority of local building official, notices of incomplete forms, authority of private providers acting as local building official, emergency inspection services, creation of uniform forms, audits, immunity, civil causes of action, posting of permits on specified websites, & adoption of specified registration system; requires Florida Building Commission to develop uniform commercial & residential building permit applications; prohibits association or certain committees from requiring building permit as prerequisite for certain review."
+      "abstract": "Building Permits and Inspection;  Provides for expiration of certain building permits issued by county & local government; prohibits DBPR from denying building permit for certain residential manufactured buildings; provides that under certain circumstances certain persons are not subject to discipline for performing job without applicable permits & inspections; prohibits local governments from requiring building permit for installation of certain walls or barriers; revises provisions relating to building code inspection services provided by private provider & private provider firms, including permit & administrative fees, responsibilities of private providers, permitting & inspection documents & reports, timeframes for issuing permits & notices, authority of local building official, notices of incomplete forms, authority of private providers acting as local building official, emergency inspection services, creation of uniform forms, audits, immunity, civil causes of action, posting of permits on specified websites, & adoption of specified registration system; requires Florida Building Commission to develop uniform commercial & residential building permit applications; provides permit requirements for backup power systems & distributed energy generation systems; prohibits association or certain committees from requiring building permit as prerequisite for certain review."
     }
   ],
   "other_titles": [],
@@ -235,9 +235,105 @@
       "_processing": {
         "log_file_created": "2026-02-07T12:30:43Z"
       }
+    },
+    {
+      "description": "Added to Commerce Committee agenda",
+      "date": "2026-02-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Favorable with CS by Commerce Committee",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Reported out of Commerce Committee",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Bill referred to House Calendar",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Bill added to Special Order Calendar (2/25/2026)",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 2)",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Commerce Committee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Commerce Committee\"}"
+    },
     {
       "name": "Industries & Professional Activities Subcommittee",
       "classification": "primary",
@@ -268,6 +364,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"L\\u00f3pez, J.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Plasencia",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Plasencia\"}",
       "organization_id": null
     },
     {
@@ -302,6 +406,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 803 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/803/BillText/c2/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -328,10 +443,43 @@
       "classification": ""
     },
     {
+      "note": "Bill Analysis -- Commerce Committee (Post-Meeting) (2/19/2026 7:06 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/803/Analyses/h0803e.COM.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "982191 - Strike All Amendment to H 803 Filed",
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/803/Amendment/982191/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "725319 - Amendment to H 803 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/803/Amendment/725319/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "862779 - Amendment to Amendment (725319) to H 803 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/803/Amendment/862779/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -355,6 +503,14 @@
       "effective": null,
       "expires": null,
       "url": "https://flsenate.gov/laws/statutes/2025/489.129"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "553.382",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/553.382"
     },
     {
       "publication": "Florida Statues",
@@ -387,14 +543,6 @@
       "effective": null,
       "expires": null,
       "url": "https://flsenate.gov/laws/statutes/2025/553.792"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "720.3035",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/720.3035"
     }
   ],
   "sources": [
@@ -411,6 +559,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-07T12:30:43Z"
+    "logs_latest_update": "2026-02-25T12:43:57Z"
   }
 }

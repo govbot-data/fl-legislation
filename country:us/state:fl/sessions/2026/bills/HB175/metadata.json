@@ -1,18 +1,19 @@
 {
   "legislative_session": "2026",
   "identifier": "HB 175",
-  "title": "Issuers of Digital Assets",
+  "title": "Payment Stablecoin",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
   "subject": [
+    "banks and banking",
     "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Issuers of Digital Assets;  Provides that recognized payment stablecoin issuers are not required to obtain specified separate licenses or registration for certain purposes; provides requirements to qualify as recognized payment stablecoin issuers."
+      "abstract": "Payment Stablecoin;  Revises definition of term \"money services business\" to include qualified payment stablecoin issuer; prohibits persons from engaging in activity of qualified payment stablecoin issuer without registering & receiving specified notification; provides that certain money services businesses are exempt from registration requirements; specifies that certain payment stablecoins are not security & are not subject to certain requirements; specifies that certain transactions are not regulated under certain provisions; requires qualified payment stablecoin issuers with consolidated total outstanding payment stablecoin issuance that reaches specified threshold to comply with certain requirements; specifies that OFR remains solely responsible for supervising qualified payment stablecoin issuers or is jointly responsible with Office of Comptroller of Currency for such supervision; specifies that qualified payment stablecoin issuers may engage only in certain activities."
     }
   ],
   "other_titles": [],
@@ -98,9 +99,95 @@
       "_processing": {
         "log_file_created": "2026-02-13T12:39:39Z"
       }
+    },
+    {
+      "description": "Reported out of Insurance & Banking Subcommittee",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 1)",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Referred to Commerce Committee",
+      "date": "2026-02-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Now in Commerce Committee",
+      "date": "2026-02-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Added to Commerce Committee agenda",
+      "date": "2026-02-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Insurance & Banking Subcommittee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Insurance & Banking Subcommittee\"}"
+    },
     {
       "name": "Barnaby",
       "classification": "primary",
@@ -138,9 +225,54 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 175 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/175/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Insurance & Banking Subcommittee (Post-Meeting) (2/13/2026 11:20 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/175/Analyses/h0175.IBS.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Commerce Committee (Post-Meeting) (2/20/2026 4:24 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/175/Analyses/h0175a.COM.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "337249 - Strike All Amendment to H 175 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/175/Amendment/337249/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [
     {
       "publication": "Florida Statues",
@@ -149,6 +281,30 @@
       "effective": null,
       "expires": null,
       "url": "https://flsenate.gov/laws/statutes/2025/560.103"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "560.114",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/560.114"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "560.123",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/560.123"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "560.125",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/560.125"
     }
   ],
   "sources": [
@@ -165,6 +321,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-13T12:39:39Z"
+    "logs_latest_update": "2026-02-25T12:43:58Z"
   }
 }

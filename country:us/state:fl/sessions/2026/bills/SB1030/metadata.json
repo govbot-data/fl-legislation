@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 1030",
-  "title": "Substance Abuse Services",
+  "title": "Recovery Residences",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Substance Abuse Services;  Revising the definition of the term \u201ctransfer\u201d; requiring the Department of Children and Families to issue a regular license to substance abuse service providers after the department receives a complete application from certain existing licensed service providers that are seeking to add licensed services or one or more additional levels of care at an existing licensed location or at one or more new locations within a specified timeframe, if certain requirements are met; prohibiting a credentialing entity from requesting or obtaining certain records when determining whether to suspend or revoke a licensed service provider\u2019s certificate to serve as a recovery residence, etc."
+      "abstract": "Recovery Residences;  Requiring the Department of Children and Families to require only a level 2 background screening for certain individuals under certain circumstances; prohibiting the department from requiring certain existing licensed service providers to admit individuals for services during the probationary licensing period if certain requirements and conditions are met, etc."
     }
   ],
   "other_titles": [],
@@ -113,9 +113,79 @@
       "_processing": {
         "log_file_created": "2026-02-13T12:39:39Z"
       }
+    },
+    {
+      "description": "CS/CS by Appropriations Committee on Health and Human Services; YEAS 9 NAYS 0",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-02-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Now in Rules",
+      "date": "2026-02-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "CS/CS by Appropriations Committee on Health and Human Services read 1st time",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "On Committee agenda-- Rules, 02/24/26, 12:00 pm, 412 Knott Building",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Placed on Special Order Calendar, 02/26/26  --If Received",
+      "date": "2026-02-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "enrolled"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Appropriations Committee on Health and Human Services",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Appropriations Committee on Health and Human Services\"}"
+    },
     {
       "name": "Children, Families, and Elder Affairs",
       "classification": "primary",
@@ -172,6 +242,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 1030 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1030/BillText/c2/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1030/BillText/c2/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -202,6 +287,28 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/1030/Analyses/2026s01030.pre.ahs.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Appropriations Committee on Health and Human Services (Post-Meeting) (2/16/2026 3:29 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1030/Analyses/2026s01030.ahs.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Rules (Pre-Meeting) (2/23/2026 10:29 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1030/Analyses/2026s01030.pre.rc.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -247,14 +354,6 @@
       "effective": null,
       "expires": null,
       "url": "https://flsenate.gov/laws/statutes/2025/397.407"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "397.487",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/397.487"
     }
   ],
   "sources": [
@@ -271,6 +370,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-13T12:39:39Z"
+    "logs_latest_update": "2026-02-25T12:43:58Z"
   }
 }

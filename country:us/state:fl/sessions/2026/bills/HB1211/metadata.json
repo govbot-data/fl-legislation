@@ -13,7 +13,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Military Affairs;  Revises authorization to be granted leave of absence for military service to include Coast Guard; clarifies provision relating to leaves of absence for all state officers & employees for reserve or guard training; specifies that authorization for leave of absence for public officials & state employees to perform active military service for specified timeframe is based on single order; revises eligibility for Soldiers & Airmen Assistance Program to include traditional drilling guardsmen on state active duty or specified federal duty & their eligible beneficiaries demonstrating valid financial need; requires requests for assistance to be reviewed, processed, & approved by Florida National Guard Foundation's board of directors; requires requests for assistance to be reviewed & evaluated based on specified criteria; requires annual external audit of program; requires board to annually review bylaws that govern program; requires board to provide report to DMA to be approved by Adjutant General."
+      "abstract": "Military Affairs;  Revises provisions relating to leave of absence for military service; revises military positions required to participate in SMS of FRS; revises eligibility for Soldiers & Airmen Assistance Program & provides requirements relating to such program."
     }
   ],
   "other_titles": [],
@@ -201,9 +201,107 @@
       "_processing": {
         "log_file_created": "2026-02-13T12:39:39Z"
       }
+    },
+    {
+      "description": "Favorable with CS by Transportation & Economic Development Budget Subcommittee(Amended)",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Reported out of Transportation & Economic Development Budget Subcommittee",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 2)",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Referred to State Affairs Committee",
+      "date": "2026-02-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Now in State Affairs Committee",
+      "date": "2026-02-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Added to State Affairs Committee agenda",
+      "date": "2026-02-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Transportation & Economic Development Budget Subcommittee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Transportation & Economic Development Budget Subcommittee\"}"
+    },
     {
       "name": "Intergovernmental Affairs Subcommittee",
       "classification": "primary",
@@ -218,6 +316,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Albert\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Booth",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Booth\"}",
       "organization_id": null
     },
     {
@@ -252,6 +358,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 1211 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1211/BillText/c2/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -267,10 +384,21 @@
       "classification": ""
     },
     {
-      "note": "Bill Analysis -- Transportation & Economic Development Budget Subcommittee (Post-Meeting) (2/11/2026 9:42 AM)",
+      "note": "Bill Analysis -- Transportation & Economic Development Budget Subcommittee (Post-Meeting) (2/13/2026 9:34 AM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/1211/Analyses/h1211b.TED.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/1211/Analyses/h1211c.TED.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- State Affairs Committee (Post-Meeting) (2/20/2026 4:59 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1211/Analyses/h1211d.SAC.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -351,6 +479,14 @@
     },
     {
       "publication": "Florida Statues",
+      "citation": "121.055",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/121.055"
+    },
+    {
+      "publication": "Florida Statues",
       "citation": "250.10",
       "citation_type": "proposed",
       "effective": null,
@@ -380,6 +516,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-13T12:39:39Z"
+    "logs_latest_update": "2026-02-25T12:43:58Z"
   }
 }

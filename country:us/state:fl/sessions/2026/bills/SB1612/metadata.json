@@ -1,18 +1,18 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 1612",
-  "title": "Electronic Payments to Local Governments",
+  "title": "Electronic Payments Made to Units of Local Governments",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
   ],
   "subject": [
-    "subject index"
+    "taxation and finance"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Electronic Payments to Local Governments;  Revising legislative intent; requiring each unit of local government to accept electronic payment online for payments received by and financial obligations owed to the unit of local government, etc."
+      "abstract": "Electronic Payments Made to Units of Local Governments;  Requiring units of local government to accept certain forms of payments; providing an exception; requiring such local governments to accept payments online, etc."
     }
   ],
   "other_titles": [],
@@ -105,9 +105,57 @@
       "_processing": {
         "log_file_created": "2026-02-13T12:39:39Z"
       }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Now in Rules",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "CS by Governmental Oversight and Accountability read 1st time",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "On Committee agenda-- Rules, 02/24/26, 12:00 pm, 412 Knott Building",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Governmental Oversight and Accountability",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Governmental Oversight and Accountability\"}"
+    },
     {
       "name": "DiCeglie",
       "classification": "primary",
@@ -128,6 +176,21 @@
         },
         {
           "url": "https://flsenate.gov/Session/Bill/2026/1612/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S 1612 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1612/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1612/BillText/c1/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -163,6 +226,28 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/1612/Analyses/2026s01612.pre.go.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Governmental Oversight and Accountability (Post-Meeting) (2/12/2026 2:41 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1612/Analyses/2026s01612.go.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Rules (Pre-Meeting) (2/23/2026 10:38 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1612/Analyses/2026s01612.pre.rc.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -209,6 +294,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-13T12:39:39Z"
+    "logs_latest_update": "2026-02-25T12:43:57Z"
   }
 }

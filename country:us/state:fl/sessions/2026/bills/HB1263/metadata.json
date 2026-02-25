@@ -1,18 +1,18 @@
 {
   "legislative_session": "2026",
   "identifier": "HB 1263",
-  "title": "Office of Insurance Regulation Background Screening Regulations",
+  "title": "Office of Insurance Regulation",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
   "subject": [
-    "insurance"
+    "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Office of Insurance Regulation Background Screening Regulations;  Requires FDLE to accept fingerprints of certain persons & entities applying to OIR for insurance certificates of authority, certifications, & licenses; revises fingerprint submission procedures; requires such persons & entities to pay for cost of retaining fingerprints in specified system; requires office to inform department of any person whose fingerprints no longer must be retained; removes from department duty to use criminal records for purposes of issuance, denial, suspension, & revocation of insurance certificates & licenses."
+      "abstract": "Office of Insurance Regulation;  Provides that OIR is responsible for all activities concerning entities under its jurisdiction; authorizes DFS & office to issue cease & desist orders for certain activity & provides for enforcement; grants office authority to examine administrators; provides requirements to OIR, FDLE, & FBI relating to fingerprinting & background checks of certain persons; specifies who bears costs of fingerprint processing; provides requirements for projection of private passenger automobile insurance; requires OIR to determine minimum rate differentials for certain windstorm damage mitigation techniques; revises requirements of rate filing with OIR for certain insurers; requires OIR to contract with state university to design, operate, upgrade, & maintain specified database; requires property insurers to file certain policyholder forms in database; provides & revises requirements & exemptions for certain reports & liquidity stress test; requires attorneys in fact of reciprocal insurers to obtain registration; provides requirements for application, renewal, suspension, & revocation of such registration; authorizes office to issue administrative fines in lieu of suspension or revocation."
     }
   ],
   "other_titles": [],
@@ -98,9 +98,85 @@
       "_processing": {
         "log_file_created": "2026-02-13T12:39:39Z"
       }
+    },
+    {
+      "description": "Reported out of Insurance & Banking Subcommittee",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 1)",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Referred to Commerce Committee",
+      "date": "2026-02-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Now in Commerce Committee",
+      "date": "2026-02-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Insurance & Banking Subcommittee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Insurance & Banking Subcommittee\"}"
+    },
     {
       "name": "Chaney",
       "classification": "primary",
@@ -122,17 +198,72 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 1263 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1263/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Insurance & Banking Subcommittee (Post-Meeting) (2/13/2026 9:55 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1263/Analyses/h1263.IBS.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [
     {
       "publication": "Florida Statues",
-      "citation": "624.34",
+      "citation": "20.121",
       "citation_type": "proposed",
       "effective": null,
       "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/624.34"
+      "url": "https://flsenate.gov/laws/statutes/2025/20.121"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "501.171",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/501.171"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "624.310",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/624.310"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "624.316",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/624.316"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "624.3161",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/624.3161"
     }
   ],
   "sources": [
@@ -149,6 +280,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-13T12:39:39Z"
+    "logs_latest_update": "2026-02-25T12:43:58Z"
   }
 }

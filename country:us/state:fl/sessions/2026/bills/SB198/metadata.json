@@ -7,12 +7,12 @@
     "bill"
   ],
   "subject": [
-    "subject index"
+    "(adopted)"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Virtual Currency Kiosks;  Revising the definition of the term \u201cmoney services business\u201d; revising the requirements for certain rules adopted by the Financial Services Commission; prohibiting a virtual currency kiosk business from operating in this state without registering or renewing its registration; specifying that certain money transmitters are exempt from registration as a virtual currency kiosk business but are subject to certain provisions; prohibiting certain entities from performing certain actions without being licensed as a money services business, etc."
+      "abstract": "Virtual Currency Kiosks;  Revising the definition of the term \u201cmoney services business\u201d; revising the requirements for certain rules adopted by the Financial Services Commission; revising the actions by money services businesses, authorized vendors, or affiliated parties which constitute grounds for disciplinary action; prohibiting persons from engaging in certain business unless they are registered or exempt from registration; prohibiting a virtual currency kiosk business from operating in this state without registering or renewing its registration, etc."
     }
   ],
   "other_titles": [],
@@ -155,9 +155,57 @@
       "_processing": {
         "log_file_created": "2026-02-13T12:39:39Z"
       }
+    },
+    {
+      "description": "Pending reference review -under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Placed on Calendar, on 2nd reading",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "CS/CS by Rules read 1st time",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Placed on Special Order Calendar, 02/25/26",
+      "date": "2026-02-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Rules",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Rules\"}"
+    },
     {
       "name": "Banking and Insurance",
       "classification": "primary",
@@ -209,6 +257,21 @@
         },
         {
           "url": "https://flsenate.gov/Session/Bill/2026/198/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S 198 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/198/BillText/c2/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/198/BillText/c2/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -273,6 +336,17 @@
       "classification": ""
     },
     {
+      "note": "Bill Analysis -- Rules (Post-Meeting) (2/12/2026 9:26 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/198/Analyses/2026s00198.rc.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "695850 - Amendment (Delete All) to S 198 Filed",
       "links": [
         {
@@ -319,6 +393,22 @@
       "effective": null,
       "expires": null,
       "url": "https://flsenate.gov/laws/statutes/2025/560.105"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "560.114",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/560.114"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "560.125",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/560.125"
     }
   ],
   "sources": [
@@ -335,6 +425,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-13T12:39:39Z"
+    "logs_latest_update": "2026-02-25T12:43:57Z"
   }
 }

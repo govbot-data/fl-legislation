@@ -7,12 +7,12 @@
     "bill"
   ],
   "subject": [
-    "motor vehicles"
+    "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Hands-free Driving;  Prohibits person from operating motor vehicle while supporting weight of wireless communications device in handheld manner; provides exception; requires that sustained use of wireless communications device by person operating motor vehicle be conducted through hands-free accessory until such use is terminated; revises exceptions to prohibition; provides & revises penalties; provides for distribution & use of certain proceeds; authorizes law enforcement officer to issue warning during specified time period; provides for future repeal."
+      "abstract": "Hands-free Driving;  Prohibits person who violates careless driving provisions from operating vehicle while using wireless communications device in handheld manner; provides additional penalties for person who violates such provisions & operates vehicle while using such device in handheld manner; authorizes first-time offenders to participate in wireless communications device driving safety program in lieu of imposition of additional penalties; provides exceptions to such prohibition; requires law enforcement officer who stops vehicle for violation of such provisions & finds that operator of vehicle is also using such device in handheld manner to inform vehicle operator of his or her right to decline search of his or her wireless communications device; prohibits such officer from taking certain actions without warrant or consent from vehicle operator; provides that user's billing records for such device or testimony of or written statements from certain authorities are admissible as evidence in crashes resulting in death or serious bodily injury for certain purposes; provides additional fine for person who commits careless driving while using such device in handheld manner; requires deposit of such fine into EMS Trust Fund of DOH."
     }
   ],
   "other_titles": [],
@@ -98,9 +98,85 @@
       "_processing": {
         "log_file_created": "2026-02-13T12:39:39Z"
       }
+    },
+    {
+      "description": "Reported out of Government Operations Subcommittee",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Referred to State Affairs Committee",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Now in State Affairs Committee",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 1)",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Government Operations Subcommittee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Government Operations Subcommittee\"}"
+    },
     {
       "name": "Blanco",
       "classification": "primary",
@@ -162,17 +238,64 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 1241 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1241/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Government Operations Subcommittee (Post-Meeting) (2/12/2026 2:37 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1241/Analyses/h1241.GOS.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [
     {
       "publication": "Florida Statues",
-      "citation": "316.305",
+      "citation": "316.1575",
       "citation_type": "proposed",
       "effective": null,
       "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/316.305"
+      "url": "https://flsenate.gov/laws/statutes/2025/316.1575"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "316.1576",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/316.1576"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "316.1923",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/316.1923"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "316.1925",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/316.1925"
     },
     {
       "publication": "Florida Statues",
@@ -181,6 +304,22 @@
       "effective": null,
       "expires": null,
       "url": "https://flsenate.gov/laws/statutes/2025/316.306"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "318.18",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/318.18"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "322.27",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/322.27"
     }
   ],
   "sources": [
@@ -197,6 +336,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-13T12:39:39Z"
+    "logs_latest_update": "2026-02-25T12:43:58Z"
   }
 }

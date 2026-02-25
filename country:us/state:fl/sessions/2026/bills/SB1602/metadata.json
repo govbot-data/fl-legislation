@@ -7,12 +7,12 @@
     "bill"
   ],
   "subject": [
-    "subject index"
+    "civil practice and procedure"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Housing for Veterans;  Creating the \u201cHomes for Veterans Property Management Incentive Pilot Program\u201d; establishing the Homes for Veterans Property Management Incentive Pilot Program in certain counties for a specified purpose; authorizing certain landlords to apply to the corporation to receive funding from the Vacancy Relief Trust Fund and the Risk Mitigation Trust Fund under certain circumstances; providing the purpose of such trust funds; providing a requirement to apply for the Risk Mitigation Trust Fund, etc."
+      "abstract": "Housing for Veterans;  Creating the \u201cHomes for Veterans Property Management Incentive Pilot Program Act\u201d; establishing the Homes for Veterans Property Management Incentive Pilot Program in certain counties, subject to legislative appropriation; authorizing certain landlords to apply to a contracted program administrator to request funding from the Vacancy Relief and Risk Mitigation Trust Fund under certain circumstances; authorizing a landlord to apply for up to a specified dollar amount from the trust fund, etc."
     }
   ],
   "other_titles": [],
@@ -103,9 +103,57 @@
       "_processing": {
         "log_file_created": "2026-01-31T12:29:57Z"
       }
+    },
+    {
+      "description": "On Committee agenda-- Appropriations Committee on Transportation, Tourism, and Economic Development, 02/18/26, 8:30 am, 110 Senate Building",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "CS/CS by Appropriations Committee on Transportation, Tourism, and Economic Development; YEAS 14 NAYS 0",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-02-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Now in Appropriations",
+      "date": "2026-02-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Appropriations Committee on Transportation, Tourism, and Economic Development",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Appropriations Committee on Transportation, Tourism, and Economic Development\"}"
+    },
     {
       "name": "Military and Veterans Affairs, Space, and Domestic Security",
       "classification": "primary",
@@ -154,6 +202,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 1602 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1602/BillText/c2/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1602/BillText/c2/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -173,6 +236,28 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/1602/Analyses/2026s01602.ms.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Appropriations Committee on Transportation, Tourism, and Economic Development (Pre-Meeting) (2/17/2026 8:46 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1602/Analyses/2026s01602.pre.atd.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Appropriations Committee on Transportation, Tourism, and Economic Development (Post-Meeting) (2/20/2026 4:23 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1602/Analyses/2026s01602.atd.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -225,6 +310,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-31T12:29:57Z"
+    "logs_latest_update": "2026-02-25T12:43:58Z"
   }
 }

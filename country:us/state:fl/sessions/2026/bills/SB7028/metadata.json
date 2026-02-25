@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Retirement;  Authorizing an elected officer, except while serving as a legislator, to remain in elective office and receive accumulated Deferred Retirement Option Program (DROP) proceeds after the officer attains a certain age; requiring the Division of Retirement or the State Board of Administration, as appropriate, to take steps to recoup from the elected officer any DROP proceeds distributed in accordance with a specified provision, under specified circumstances; revising the cost-of-living adjustment for eligible Special Risk Class retirees, etc."
+      "abstract": "Retirement;  Authorizing an elected officer, except while serving as a legislator, to remain in elective office and receive accumulated Deferred Retirement Option Program (DROP) proceeds after the officer attains a certain age; requiring the Division of Retirement or the State Board of Administration, as appropriate, to take steps to recoup from the elected officer any DROP proceeds distributed in accordance with a specified provision, under specified circumstances; revising the cost-of-living adjustment for eligible Special Risk Class retirees; revising required allocations from the Contributions Clearing Trust Fund to provide disability coverage to members of the investment plan of the Florida Retirement System, etc."
     }
   ],
   "other_titles": [],
@@ -83,9 +83,111 @@
       "_processing": {
         "log_file_created": "2026-01-31T12:29:56Z"
       }
+    },
+    {
+      "description": "On Committee agenda-- Appropriations, 02/18/26, 1:30 pm, 412 Knott Building",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "CS by- Appropriations; YEAS 18 NAYS 0",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Pending reference review -under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Placed on Calendar, on 2nd reading",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Placed on Special Order Calendar, 02/20/26",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "CS by Appropriations read 1st time",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Read 2nd time",
+      "date": "2026-02-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Substituted HB 5205",
+      "date": "2026-02-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Laid on Table, refer to HB 5205",
+      "date": "2026-02-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Appropriations",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Appropriations\"}"
+    },
     {
       "name": "Governmental Oversight and Accountability",
       "classification": "primary",
@@ -134,6 +236,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 7028 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/7028/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/7028/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -153,6 +270,43 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/7028/Analyses/2026s07028.go.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Appropriations (Pre-Meeting) (2/17/2026 9:34 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/7028/Analyses/2026s07028.pre.ap.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Appropriations (Post-Meeting) (2/20/2026 3:02 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/7028/Analyses/2026s07028.ap.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "448760 - Amendment to S 7028 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/7028/Amendment/448760/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/7028/Amendment/448760/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -192,6 +346,22 @@
       "effective": null,
       "expires": null,
       "url": "https://flsenate.gov/laws/statutes/2025/121.71"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "121.73",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/121.73"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "121.735",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/121.735"
     }
   ],
   "sources": [
@@ -208,6 +378,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-31T12:29:56Z"
+    "logs_latest_update": "2026-02-25T12:43:58Z"
   }
 }

@@ -166,6 +166,16 @@
       "_processing": {
         "log_file_created": "2026-02-08T12:31:05Z"
       }
+    },
+    {
+      "description": "Added to Commerce Committee agenda",
+      "date": "2026-02-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
     }
   ],
   "sponsorships": [
@@ -240,6 +250,17 @@
       "classification": ""
     },
     {
+      "note": "Bill Analysis -- Commerce Committee (Post-Meeting) (2/20/2026 4:29 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/943/Analyses/h0943b.COM.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "005511 - Strike All Amendment to H 943 Filed",
       "links": [
         {
@@ -283,6 +304,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-08T12:31:05Z"
+    "logs_latest_update": "2026-02-25T12:43:57Z"
   }
 }

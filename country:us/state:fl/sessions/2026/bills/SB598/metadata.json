@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Funeral, Cemetery, and Consumer Services;  Prohibiting a licensee of funeral or cemetery services from entering into certain contracts, agreements, or arrangements; limiting the total liability for damages for certain civil actions against a person or company licensed under ch. 497, F.S.; deleting an exception to the educational requirements for an applicant seeking licensure to be a funeral director; authorizing a licensee or a licensed facility to dispose of human remains in a specified manner if the legally authorized person of the decedent fails, neglects, or refuses to direct the disposition, etc."
+      "abstract": "Funeral, Cemetery, and Consumer Services;  Prohibiting a licensee of funeral or cemetery services from entering into certain contracts, agreements, or arrangements; deleting an exception to the educational requirements for an applicant seeking licensure to be a funeral director; authorizing a licensee or a licensed facility to dispose of human remains in a specified manner if the legally authorized person of the decedent fails, neglects, or refuses to direct the disposition, etc."
     }
   ],
   "other_titles": [],
@@ -73,9 +73,57 @@
       "_processing": {
         "log_file_created": "2026-02-13T12:39:39Z"
       }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Now in Appropriations Committee on Agriculture, Environment, and General Government",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "CS by Banking and Insurance read 1st time",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "On Committee agenda-- Appropriations Committee on Agriculture, Environment, and General Government, 02/25/26, 1:30 pm, 412 Knott Building",
+      "date": "2026-02-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Banking and Insurance",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Banking and Insurance\"}"
+    },
     {
       "name": "Truenow",
       "classification": "primary",
@@ -101,6 +149,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 598 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/598/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/598/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -109,6 +172,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/598/Analyses/2026s00598.pre.bi.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Banking and Insurance (Post-Meeting) (2/12/2026 8:49 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/598/Analyses/2026s00598.bi.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -139,14 +213,6 @@
       "effective": null,
       "expires": null,
       "url": "https://flsenate.gov/laws/statutes/2025/497.164"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "497.169",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/497.169"
     },
     {
       "publication": "Florida Statues",
@@ -230,22 +296,6 @@
     },
     {
       "publication": "Florida Statues",
-      "citation": "497.602",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/497.602"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "497.604",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/497.604"
-    },
-    {
-      "publication": "Florida Statues",
       "citation": "497.607",
       "citation_type": "proposed",
       "effective": null,
@@ -275,6 +325,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-13T12:39:39Z"
+    "logs_latest_update": "2026-02-25T12:43:57Z"
   }
 }

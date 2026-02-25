@@ -8,13 +8,14 @@
   ],
   "subject": [
     "domestic relations",
+    "judicial branch",
     "regulation of professions and occupations",
     "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Juvenile Justice;  Authorizes Governor to award Medal of Heroism to juvenile detention & juvenile probation officers; authorizes certain entities to establish award program to award Medal of Valor to juvenile detention officer or probation officer in certain circumstances; clarifies that certain reference to department is reference to DJJ; provides that child subject to proceedings under chapter 984 may only be placed in shelter in certain circumstances."
+      "abstract": "Juvenile Justice;  Authorizes Governor to award Medal of Heroism to juvenile detention & juvenile probation officers; authorizes certain entities to establish award program to award Medal of Valor to juvenile detention officer or probation officer in certain circumstances; clarifies that certain reference to department is reference to DJJ; provides that child subject to proceedings under chapter 984 may only be placed in shelter in certain circumstances; requires DJJ to direct Department of Revenue to deduct specified amounts owed to DJJ upon certain determination; requires Department of Revenue to transfer such funds into certain trust fund; specifies requirements relating to such reductions in amounts distributed to counties."
     }
   ],
   "other_titles": [],
@@ -222,9 +223,105 @@
       "_processing": {
         "log_file_created": "2026-02-13T12:39:39Z"
       }
+    },
+    {
+      "description": "Added to Judiciary Committee agenda",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Favorable with CS by Judiciary Committee",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Reported out of Judiciary Committee",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 2)",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Bill referred to House Calendar",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Added to Second Reading Calendar",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Judiciary Committee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Judiciary Committee\"}"
+    },
     {
       "name": "Justice Budget Subcommittee",
       "classification": "primary",
@@ -247,6 +344,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Bartleman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Daniels",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Daniels\"}",
       "organization_id": null
     },
     {
@@ -281,6 +386,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 1153 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1153/BillText/c2/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -300,6 +416,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/1153/Analyses/h1153c.JUB.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Judiciary Committee (Post-Meeting) (2/17/2026 4:14 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1153/Analyses/h1153e.JDC.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -518,6 +645,14 @@
       "effective": null,
       "expires": null,
       "url": "https://flsenate.gov/laws/statutes/2025/985.03"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "985.6865",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/985.6865"
     }
   ],
   "sources": [
@@ -534,6 +669,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-13T12:39:39Z"
+    "logs_latest_update": "2026-02-25T12:43:57Z"
   }
 }

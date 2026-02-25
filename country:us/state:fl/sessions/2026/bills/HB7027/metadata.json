@@ -8,13 +8,11 @@
   ],
   "subject": [
     "(adopted)",
-    "and solicitations",
     "aviation",
+    "civil practice and procedure",
     "commercial relations",
-    "crimes",
+    "electors and elections",
     "industry",
-    "labor",
-    "motor vehicles",
     "municipalities",
     "public business",
     "public lands and property",
@@ -23,6 +21,7 @@
     "relations",
     "state organization",
     "subject index",
+    "taxation and finance",
     "vessels"
   ],
   "abstracts": [
@@ -87,6 +86,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "Added to Second Reading Calendar",
+      "date": "2026-02-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
       }
     }
   ],
@@ -695,6 +704,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-13T12:39:39Z"
+    "logs_latest_update": "2026-02-25T12:43:57Z"
   }
 }

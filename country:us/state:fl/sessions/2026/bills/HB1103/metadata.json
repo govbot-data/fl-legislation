@@ -13,7 +13,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Local Administration of Vessel Restrictions;  Authorizes counties & municipalities to adopt ordinances to administer, in coordination with FWCC, certain provisions relating to vessels at risk of becoming derelict, enforcement of long-term anchoring permit requirements, & derelict & migrant vessels; provides that certain determinations are for administrative purposes only & are not criminal findings; requires certain designations & actions to be treated as equivalent to specified law enforcement actions."
+      "abstract": "Local Administration of Vessel Restrictions;  Authorizes counties & municipalities to adopt ordinances authorizing code enforcement officers to administer enforcement of certain provisions relating to vessels at risk of becoming derelict & long-term anchoring permit requirements, respectively; provides that such ordinances may not take effect until reviewed & approved by FWCC; requires FWCC to adopt rules; revises exemption from anchoring limitation area requirements for certain vessels; authorizes municipalities & counties to adopt ordinances to extend boating-restricted areas under certain conditions; requires boundaries of such areas to be clearly marked with specified markers."
     }
   ],
   "other_titles": [],
@@ -201,9 +201,107 @@
       "_processing": {
         "log_file_created": "2026-02-13T12:39:39Z"
       }
+    },
+    {
+      "description": "Favorable with CS by Intergovernmental Affairs Subcommittee",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Reported out of Intergovernmental Affairs Subcommittee",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 2)",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Referred to State Affairs Committee",
+      "date": "2026-02-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Now in State Affairs Committee",
+      "date": "2026-02-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Added to State Affairs Committee agenda",
+      "date": "2026-02-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Intergovernmental Affairs Subcommittee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Intergovernmental Affairs Subcommittee\"}"
+    },
     {
       "name": "Natural Resources & Disasters Subcommittee",
       "classification": "primary",
@@ -244,6 +342,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 1103 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1103/BillText/c2/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -259,10 +368,21 @@
       "classification": ""
     },
     {
-      "note": "Bill Analysis -- Intergovernmental Affairs Subcommittee (Post-Meeting) (2/10/2026 5:25 PM)",
+      "note": "Bill Analysis -- Intergovernmental Affairs Subcommittee (Post-Meeting) (2/13/2026 5:21 PM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/1103/Analyses/h1103b.IAS.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/1103/Analyses/h1103c.IAS.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- State Affairs Committee (Post-Meeting) (2/20/2026 7:59 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1103/Analyses/h1103d.SAC.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -292,6 +412,14 @@
     },
     {
       "publication": "Florida Statues",
+      "citation": "327.4108",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/327.4108"
+    },
+    {
+      "publication": "Florida Statues",
       "citation": "327.4111",
       "citation_type": "proposed",
       "effective": null,
@@ -300,11 +428,27 @@
     },
     {
       "publication": "Florida Statues",
-      "citation": "823.11",
+      "citation": "327.46",
       "citation_type": "proposed",
       "effective": null,
       "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/823.11"
+      "url": "https://flsenate.gov/laws/statutes/2025/327.46"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "327.73",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/327.73"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "327.74",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/327.74"
     }
   ],
   "sources": [
@@ -321,6 +465,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-13T12:39:39Z"
+    "logs_latest_update": "2026-02-25T12:43:58Z"
   }
 }

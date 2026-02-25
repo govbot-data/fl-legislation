@@ -7,14 +7,15 @@
     "bill"
   ],
   "subject": [
+    "civil practice and procedure",
     "crimes",
+    "criminal procedure and corrections",
     "domestic relations",
     "judicial branch",
     "motor vehicles",
     "public health",
     "real and personal property",
-    "relations",
-    "subject index"
+    "relations"
   ],
   "abstracts": [
     {
@@ -197,6 +198,58 @@
       "_processing": {
         "log_file_created": "2026-02-08T12:31:04Z"
       }
+    },
+    {
+      "description": "Added to Justice Budget Subcommittee agenda",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Favorable by Justice Budget Subcommittee",
+      "date": "2026-02-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Reported out of Justice Budget Subcommittee",
+      "date": "2026-02-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Now in Judiciary Committee",
+      "date": "2026-02-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Added to Judiciary Committee agenda",
+      "date": "2026-02-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
     }
   ],
   "sponsorships": [
@@ -249,6 +302,14 @@
       "organization_id": null
     },
     {
+      "name": "Robinson, W.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Robinson, W.\"}",
+      "organization_id": null
+    },
+    {
       "name": "Yarkosky",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -288,6 +349,28 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/925/Analyses/h0925a.CIV.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Justice Budget Subcommittee (Post-Meeting) (2/16/2026 4:20 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/925/Analyses/h0925c.JUB.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Judiciary Committee (Post-Meeting) (2/20/2026 4:43 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/925/Analyses/h0925d.JDC.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -442,6 +525,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-08T12:31:04Z"
+    "logs_latest_update": "2026-02-25T12:43:58Z"
   }
 }

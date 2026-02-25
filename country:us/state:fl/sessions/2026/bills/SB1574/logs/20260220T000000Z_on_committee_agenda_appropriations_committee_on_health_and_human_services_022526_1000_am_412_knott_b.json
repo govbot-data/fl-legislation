@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "On Committee agenda-- Appropriations Committee on Health and Human Services, 02/25/26, 10:00 am, 412 Knott Building",
+    "date": "2026-02-20",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB 1574"
+}

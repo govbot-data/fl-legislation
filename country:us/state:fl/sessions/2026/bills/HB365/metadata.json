@@ -7,13 +7,12 @@
     "bill"
   ],
   "subject": [
-    "motor vehicles",
     "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Law Enforcement Officer Interactions with Individuals with Autism Spectrum Disorder;  Requires DHSMV to establish program to improve communication between individuals with autism spectrum disorder & law enforcement officers under certain circumstances; requires DHSMV to develop & make available to such individuals certain envelope by specified date; provides requirements for envelope; authorizes such individuals to request envelope from DHSMV or tax collector's office, beginning on specified date; requires Criminal Justice Standards & Training Commission within FDLE to establish employment training component relating to such individuals; requires that such component be developed jointly by commission & organization that meets certain requirements; provides requirements for training law enforcement officers on interacting with such individuals; requires commission to adopt certain rules requiring such training as part of basic recruit training & as part of required instruction for continued employment & appointment as law enforcement officers."
+      "abstract": "Law Enforcement Officer Interactions with Individuals with Autism Spectrum Disorder;  Requires DHSMV to establish program to improve communication between individuals with autism spectrum disorder & law enforcement officers under certain circumstances & develop & make available to such individuals certain envelope by specified date; provides requirements for envelope; authorizes such individuals to request envelope from DHSMV or tax collector's office beginning on specified date; requires Criminal Justice Standards & Training Commission within FDLE to establish employment training component relating to such individuals; requires training component to be included in specified course by specified date; requires specified law enforcement officers to complete training component by specified date."
     }
   ],
   "other_titles": [],
@@ -111,9 +110,119 @@
       "_processing": {
         "log_file_created": "2026-02-13T12:39:39Z"
       }
+    },
+    {
+      "description": "Favorable with CS by Criminal Justice Subcommittee",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Reported out of Criminal Justice Subcommittee",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Referred to Budget Committee",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Referred to Judiciary Committee",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Now in Budget Committee",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 1)",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Added to Budget Committee agenda",
+      "date": "2026-02-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Criminal Justice Subcommittee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Criminal Justice Subcommittee\"}"
+    },
     {
       "name": "Vald\u00e9s",
       "classification": "primary",
@@ -128,6 +237,22 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Antone\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Barnaby",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Barnaby\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bartleman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bartleman\"}",
       "organization_id": null
     },
     {
@@ -152,6 +277,22 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"L\\u00f3pez, J.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Plakon",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Plakon\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Spencer",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Spencer\"}",
       "organization_id": null
     },
     {
@@ -183,14 +324,36 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 365 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/365/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
     {
-      "note": "Bill Analysis -- Criminal Justice Subcommittee (Post-Meeting) (2/11/2026 9:01 AM)",
+      "note": "Bill Analysis -- Criminal Justice Subcommittee (Post-Meeting) (2/12/2026 12:12 PM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/365/Analyses/h0365a.CRM.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/365/Analyses/h0365b.CRM.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Budget Committee (Post-Meeting) (2/20/2026 4:23 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/365/Analyses/h0365c.BUC.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -224,6 +387,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-13T12:39:39Z"
+    "logs_latest_update": "2026-02-25T12:43:58Z"
   }
 }

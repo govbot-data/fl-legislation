@@ -8,12 +8,12 @@
   ],
   "subject": [
     "municipalities",
-    "relations"
+    "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Local Government Spending;  Citing this act as the \u201cLocal Government Financial Transparency and Accountability Act\u201d; revising the timeframe during which tentative budgets, and the length of time for which final budgets, must be posted on county websites; revising the timeframe during which a public hearing for an amendment to a county budget must be advertised; prohibiting a local government from expending public funds for the purpose of diversity, equity, and inclusion; requiring the Chief Financial Officer to conduct a specified evaluation, etc."
+      "abstract": "Local Government Spending;  Citing this act as the \u201cLocal Government Financial Transparency and Accountability Act\u201d; requiring counties to reinvest utility service revenues back into a utility for specified purposes; revising the timeframe during which tentative budgets, and the length of time for which final budgets, must be posted on county websites; revising the timeframe during which a public hearing for an amendment to a county budget must be advertised; revising the timeframe during which tentative budgets, and the length of time for which final budgets, must be posted on municipal or county websites, as applicable, etc."
     }
   ],
   "other_titles": [],
@@ -74,9 +74,57 @@
       "_processing": {
         "log_file_created": "2026-02-13T12:39:39Z"
       }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Now in Appropriations Committee on Agriculture, Environment, and General Government",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "CS by Community Affairs read 1st time",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "On Committee agenda-- Appropriations Committee on Agriculture, Environment, and General Government, 02/25/26, 1:30 pm, 412 Knott Building",
+      "date": "2026-02-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Community Affairs",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Community Affairs\"}"
+    },
     {
       "name": "DiCeglie",
       "classification": "primary",
@@ -102,6 +150,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 1566 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1566/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1566/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -110,6 +173,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/1566/Analyses/2026s01566.pre.ca.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Community Affairs (Post-Meeting) (2/12/2026 11:08 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1566/Analyses/2026s01566.ca.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -132,24 +206,7 @@
       "classification": ""
     }
   ],
-  "citations": [
-    {
-      "publication": "Florida Statues",
-      "citation": "129.03",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/129.03"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "129.06",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/129.06"
-    }
-  ],
+  "citations": [],
   "sources": [
     {
       "url": "https://flsenate.gov/Session/Bill/2026/1566/ByCategory",
@@ -164,6 +221,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-13T12:39:39Z"
+    "logs_latest_update": "2026-02-25T12:43:57Z"
   }
 }

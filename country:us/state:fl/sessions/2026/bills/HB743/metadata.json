@@ -7,13 +7,12 @@
     "bill"
   ],
   "subject": [
-    "subject index",
-    "torts"
+    "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Prohibited Sex-reassignment Prescriptions and Procedures;  Prohibits health care practitioner from aiding or abetting another in specified violation; authorizes Attorney General to conduct investigation & bring civil action against health care practitioner; provides for damages, injunctive relief, & civil penalties; provides that any damages collected shall accrue to injured minor."
+      "abstract": "Prohibited Sex-reassignment Prescriptions and Procedures;  Prohibits person from knowingly aiding or abetting health care practitioner to participate in specified violation; authorizes Attorney General to conduct investigation & bring civil action against health care practitioner or other person; provides for damages, injunctive relief, & civil penalties; provides that any damages collected shall accrue to injured minor."
     }
   ],
   "other_titles": [],
@@ -233,9 +232,105 @@
       "_processing": {
         "log_file_created": "2026-02-07T12:30:43Z"
       }
+    },
+    {
+      "description": "Added to Judiciary Committee agenda",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Favorable with CS by Judiciary Committee",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Reported out of Judiciary Committee",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 2)",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Bill referred to House Calendar",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Added to Second Reading Calendar",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Judiciary Committee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Judiciary Committee\"}"
+    },
     {
       "name": "Criminal Justice Subcommittee",
       "classification": "primary",
@@ -284,6 +379,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 743 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/743/BillText/c2/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -299,10 +405,21 @@
       "classification": ""
     },
     {
-      "note": "Bill Analysis -- Health Professions & Programs Subcommittee (Post-Meeting) (2/2/2026 9:14 AM)",
+      "note": "Bill Analysis -- Health Professions & Programs Subcommittee (Post-Meeting) (2/12/2026 1:57 PM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/743/Analyses/h0743b.HPP.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/743/Analyses/h0743c.HPP.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Judiciary Committee (Post-Meeting) (2/17/2026 4:09 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/743/Analyses/h0743e.JDC.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -353,6 +470,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-07T12:30:43Z"
+    "logs_latest_update": "2026-02-25T12:43:57Z"
   }
 }

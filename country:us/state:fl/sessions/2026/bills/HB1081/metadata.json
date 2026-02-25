@@ -1,18 +1,18 @@
 {
   "legislative_session": "2026",
   "identifier": "HB 1081",
-  "title": "Cybersecurity Internships",
+  "title": "Cybersecurity Experiential Learning",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
   "subject": [
-    "k"
+    "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Cybersecurity Internships;  Creates Cybersecurity Experiential Internship & Clearance Readiness Program within Department of Commerce, subject to legislative appropriation; provides requirements for program & for expiration of program."
+      "abstract": "Cybersecurity Experiential Learning;  Requires, subject to Legislative appropriation, Florida Center for Cybersecurity (Cyber Florida) to develop Cybersecurity Experiential Learning Program; provides requirements for program; & provides reporting requirements for Cyber Florida related to participation in & improvement of program."
     }
   ],
   "other_titles": [],
@@ -290,9 +290,115 @@
       "_processing": {
         "log_file_created": "2026-02-08T12:31:04Z"
       }
+    },
+    {
+      "description": "PCS added to Education & Employment Committee agenda",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Favorable with CS by Education & Employment Committee",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Reported out of Education & Employment Committee",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 3)",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Bill referred to House Calendar",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Added to Second Reading Calendar",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Bill added to Special Order Calendar (2/25/2026)",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Education & Employment Committee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Education & Employment Committee\"}"
+    },
     {
       "name": "Budget Committee",
       "classification": "primary",
@@ -352,6 +458,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 1081 c3",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1081/BillText/c3/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -378,6 +495,17 @@
       "classification": ""
     },
     {
+      "note": "Bill Analysis -- Education & Employment Committee (Post-Meeting) (2/17/2026 4:19 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1081/Analyses/h1081c.EEC.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "361855 - Amendment to H 1081 c1",
       "links": [
         {
@@ -389,7 +517,16 @@
       "classification": ""
     }
   ],
-  "citations": [],
+  "citations": [
+    {
+      "publication": "Florida Statues",
+      "citation": "1004.444",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/1004.444"
+    }
+  ],
   "sources": [
     {
       "url": "https://flsenate.gov/Session/Bill/2026/1081/ByCategory",
@@ -404,6 +541,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-08T12:31:04Z"
+    "logs_latest_update": "2026-02-25T12:43:58Z"
   }
 }

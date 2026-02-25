@@ -153,6 +153,38 @@
       "_processing": {
         "log_file_created": "2026-02-13T12:39:39Z"
       }
+    },
+    {
+      "description": "On Committee agenda-- Fiscal Policy, 02/18/26, 1:30 pm, 110 Senate Building",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Favorable by- Fiscal Policy; YEAS 19 NAYS 0",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Placed on Calendar, on 2nd reading",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
     }
   ],
   "sponsorships": [
@@ -178,6 +210,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Harrell\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Truenow",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Truenow\"}",
       "organization_id": null
     }
   ],
@@ -275,6 +315,28 @@
       "classification": ""
     },
     {
+      "note": "Bill Analysis -- Fiscal Policy (Pre-Meeting) (2/17/2026 1:19 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1288/Analyses/2026s01288.pre.fp.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Fiscal Policy (Post-Meeting) (2/18/2026 3:46 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1288/Analyses/2026s01288.fp.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "852850 - Amendment to S 1288 Filed",
       "links": [
         {
@@ -305,6 +367,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-13T12:39:39Z"
+    "logs_latest_update": "2026-02-25T12:43:57Z"
   }
 }

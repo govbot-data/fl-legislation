@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Blue Ribbon Projects;  Requires that development project meet certain requirements to qualify as blue ribbon project; requires that blue ribbon project have blue ribbon plan; requires that project receive dollar-for-dollar credits from local government; specifies that project may be located on land with any future land use designation or zoning designation; prohibits required amendment of comprehensive plan or required rezoning for approval of project; authorizes landowner to apply to local government for approval of project; requires applicant to record plan for approved project in public records of county in which project property is located; authorizes applicant to appeal denial of project application to Department of Commerce; authorizes person whose substantial interests are or may be affected by approval of project to file petition with Department of Commerce."
+      "abstract": "Blue Ribbon Projects;  Requires that development project meet certain requirements to qualify as blue ribbon project; provides maximum residential density & nonresidential intensity permitted within development area of blue ribbon project; requires that specified percentage of project's residential units meet certain requirements; requires development area to be developed in phases; requires certain development rights & mitigation of project impacts to be vested for specified period; requires blue ribbon project to have blue ribbon plan; provides that plan is not required to demonstrate certain need; requires project to receive dollar-for-dollar credits from local government; provides that certain easements or property must be granted without charge; provides that project may be located on land with any future land use designation or zoning designation; prohibits required amendment of comprehensive plan or required rezoning for approval of project; requires landowner to apply to local government for approval of project; requires project to meet certain requirements to receive administrative approval; provides local government review requirements; requires local government to record plan for approved project in public records of county in which project property is located; prohibits applicant from amending recorded plan without undergoing specified review; authorizes applicant to hire private company to conduct plan reviews & building inspections; provides appeal procedures for denial of blue ribbon project application; provides environmental review requirements."
     }
   ],
   "other_titles": [],
@@ -190,9 +190,107 @@
       "_processing": {
         "log_file_created": "2026-01-15T12:29:13Z"
       }
+    },
+    {
+      "description": "Added to Commerce Committee agenda",
+      "date": "2026-02-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Favorable with CS by Commerce Committee",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Reported out of Commerce Committee",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 2)",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Referred to State Affairs Committee",
+      "date": "2026-02-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Now in State Affairs Committee",
+      "date": "2026-02-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Commerce Committee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Commerce Committee\"}"
+    },
     {
       "name": "Intergovernmental Affairs Subcommittee",
       "classification": "primary",
@@ -233,6 +331,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 299 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/299/BillText/c2/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -241,6 +350,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/299/Analyses/h0299a.IAS.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Commerce Committee (Post-Meeting) (2/19/2026 7:01 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/299/Analyses/h0299c.COM.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -274,6 +394,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-15T12:29:13Z"
+    "logs_latest_update": "2026-02-25T12:43:58Z"
   }
 }

@@ -7,7 +7,7 @@
     "bill"
   ],
   "subject": [
-    "motor vehicles"
+    "subject index"
   ],
   "abstracts": [
     {
@@ -95,6 +95,28 @@
       "_processing": {
         "log_file_created": "2026-02-13T12:39:39Z"
       }
+    },
+    {
+      "description": "Favorable by Appropriations Committee on Transportation, Tourism, and Economic Development; YEAS 13 NAYS 0",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Now in Fiscal Policy",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
     }
   ],
   "sponsorships": [
@@ -153,6 +175,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/1352/Analyses/2026s01352.pre.atd.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Appropriations Committee on Transportation, Tourism, and Economic Development (Post-Meeting) (2/12/2026 4:54 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1352/Analyses/2026s01352.atd.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -224,6 +257,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-13T12:39:39Z"
+    "logs_latest_update": "2026-02-25T12:43:58Z"
   }
 }

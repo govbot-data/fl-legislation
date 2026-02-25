@@ -7,7 +7,7 @@
     "bill"
   ],
   "subject": [
-    "veterans"
+    "subject index"
   ],
   "abstracts": [
     {
@@ -183,6 +183,28 @@
       "_processing": {
         "log_file_created": "2026-02-13T12:39:39Z"
       }
+    },
+    {
+      "description": "Favorable by- Appropriations; YEAS 17 NAYS 1",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Placed on Calendar, on 2nd reading",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
     }
   ],
   "sponsorships": [
@@ -332,6 +354,17 @@
       "classification": ""
     },
     {
+      "note": "Bill Analysis -- Appropriations (Post-Meeting) (2/12/2026 7:34 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/96/Analyses/2026s00096.ap.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "803306 - Amendment (Delete All) to S 96 Filed",
       "links": [
         {
@@ -371,6 +404,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-13T12:39:39Z"
+    "logs_latest_update": "2026-02-25T12:43:58Z"
   }
 }

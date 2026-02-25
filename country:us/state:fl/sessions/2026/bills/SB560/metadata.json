@@ -7,13 +7,13 @@
     "bill"
   ],
   "subject": [
-    "(adopted)",
-    "judicial branch"
+    "judicial branch",
+    "social welfare"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Child Welfare;  Providing that a new medical report relating to the provision of psychotropic medication to a child in the legal custody of the Department of Children and Families may be required only under certain circumstances; increasing the maximum age of eligibility for certain postsecondary education services and support; revising the requirements for a renewal award of postsecondary education services and support; requiring the inclusion of specific metrics for measuring outcomes and performance of postsecondary education services and support and aftercare services in a certain annual report; requiring a physician to provide to a pharmacy a copy of certain documentation, rather than a signed attestation, with certain prescriptions, etc."
+      "abstract": "Child Welfare;  Providing that a new medical report relating to the provision of psychotropic medication to a child in the legal custody of the Department of Children and Families may be required only under certain circumstances; requiring a physician to provide to a pharmacy a copy of certain documentation, rather than a signed attestation, with certain prescriptions, etc."
     }
   ],
   "other_titles": [],
@@ -134,9 +134,67 @@
       "_processing": {
         "log_file_created": "2026-02-13T12:39:39Z"
       }
+    },
+    {
+      "description": "CS/CS by Appropriations Committee on Health and Human Services; YEAS 9 NAYS 0",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-02-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Now in Rules",
+      "date": "2026-02-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "CS/CS by Appropriations Committee on Health and Human Services read 1st time",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "On Committee agenda-- Rules, 02/24/26, 12:00 pm, 412 Knott Building",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Appropriations Committee on Health and Human Services",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Appropriations Committee on Health and Human Services\"}"
+    },
     {
       "name": "Children, Families, and Elder Affairs",
       "classification": "primary",
@@ -185,6 +243,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 560 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/560/BillText/c2/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/560/BillText/c2/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -215,6 +288,28 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/560/Analyses/2026s00560.pre.ahs.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Appropriations Committee on Health and Human Services (Post-Meeting) (2/16/2026 3:27 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/560/Analyses/2026s00560.ahs.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Rules (Pre-Meeting) (2/23/2026 10:21 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/560/Analyses/2026s00560.pre.rc.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -263,14 +358,6 @@
     },
     {
       "publication": "Florida Statues",
-      "citation": "409.1451",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/409.1451"
-    },
-    {
-      "publication": "Florida Statues",
       "citation": "409.175",
       "citation_type": "proposed",
       "effective": null,
@@ -300,6 +387,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-13T12:39:39Z"
+    "logs_latest_update": "2026-02-25T12:43:58Z"
   }
 }

@@ -10,13 +10,12 @@
     "aviation",
     "ports and harbors",
     "public lands and property",
-    "public transportation",
     "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Transportation;  Requiring the Department of Transportation to increase the minimum perception-reaction time of certain steady yellow signals by a specified amount of time; requiring certain seaports to submit an annual report describing measures taken to support the commercial space launch industry to the chair of the Space Florida board of directors beginning on a specified date; authorizing a private entity to install an automated license plate recognition system for use on certain property for a specified purpose or in connection with controlling or enforcement of access to property; providing that the use of a license plate frame or decorative border device that does not obscure the visibility of certain features is not prohibited; requiring the department to implement a Next-generation Traffic Signal Modernization Grant Program, etc."
+      "abstract": "Transportation;  Requiring the Department of Transportation to increase the minimum perception-reaction time of certain steady yellow signals by a specified amount of time; requiring certain seaports to submit an annual report describing measures taken to support the commercial space launch industry to the chair of the Space Florida board of directors beginning on a specified date; authorizing a private entity to install an automated license plate recognition system for use on certain property for a specified purpose or in connection with controlling or enforcement of access to property; providing that the use of a license plate frame or decorative border device that does not obscure the visibility of certain features is not prohibited; requiring the department to implement a Next-generation Traffic Signal Modernization Grant Program, etc.\r\n    \r\n        APPROPRIATION:\r\n        Indeterminate"
     }
   ],
   "other_titles": [],
@@ -96,6 +95,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-02-13T12:39:39Z"
+      }
+    },
+    {
+      "description": "Now in Appropriations Committee on Transportation, Tourism, and Economic Development",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
       }
     }
   ],
@@ -213,6 +222,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-13T12:39:39Z"
+    "logs_latest_update": "2026-02-25T12:43:58Z"
   }
 }

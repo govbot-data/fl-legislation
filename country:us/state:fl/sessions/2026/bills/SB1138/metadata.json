@@ -7,13 +7,13 @@
     "bill"
   ],
   "subject": [
-    "relations",
+    "municipalities",
     "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Qualified Contractors;  Requiring the governing body of a local government, by a specified date, to create a program that authorizes an applicant to use a qualified contractor to conduct preapplication review of an application; requiring the development services office of a local government to establish a registry of a specified number of qualified contractors to be used to conduct preapplication reviews; prohibiting a local government from enforcing any additional criteria for qualified contractors beyond what is authorized by the act; prohibiting local governments from creating or establishing additional regulations for the approval of a final plat, etc."
+      "abstract": "Qualified Contractors;  Requiring the governing body of a local government, by a specified date, to create a program that authorizes an applicant to use a qualified contractor to conduct a preapplication review of an application; requiring the development services office of a local government to establish a registry of a specified number of qualified contractors to conduct preapplication reviews; authorizing an applicant to use a qualified contractor from the registry, at the expense of the local government, if the local government fails to process the application in the required time under certain conditions, etc."
     }
   ],
   "other_titles": [],
@@ -106,9 +106,57 @@
       "_processing": {
         "log_file_created": "2026-02-13T12:39:39Z"
       }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Now in Rules",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "CS by Judiciary read 1st time",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "On Committee agenda-- Rules, 02/24/26, 12:00 pm, 412 Knott Building",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Judiciary",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Judiciary\"}",
+      "organization_id": null
+    },
     {
       "name": "Massullo",
       "classification": "primary",
@@ -129,6 +177,21 @@
         },
         {
           "url": "https://flsenate.gov/Session/Bill/2026/1138/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S 1138 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1138/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1138/BillText/c1/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -171,6 +234,28 @@
       "classification": ""
     },
     {
+      "note": "Bill Analysis -- Judiciary (Post-Meeting) (2/12/2026 3:39 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1138/Analyses/2026s01138.ju.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Rules (Pre-Meeting) (2/23/2026 10:29 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1138/Analyses/2026s01138.pre.rc.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "292056 - Amendment (Delete All) to S 1138 Filed",
       "links": [
         {
@@ -201,6 +286,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-13T12:39:39Z"
+    "logs_latest_update": "2026-02-25T12:43:58Z"
   }
 }

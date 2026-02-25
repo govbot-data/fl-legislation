@@ -7,14 +7,12 @@
     "bill"
   ],
   "subject": [
-    "labor",
-    "subject index",
-    "veterans"
+    "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Public Employees Relations Commission;  Deleting a provision requiring exceptions to a recommended order to be filed within a specified timeframe; authorizing subpoenas to be served by certified mail, return receipt requested, or by personal service; requiring an employee organization, within a specified timeframe, to revoke the membership of and cease the collection of membership dues from a public employee; revising requirements for the certification and recertification of an employee organization; deleting provisions relating to conflicts between any collective bargaining agreement provision and certain laws, ordinances, rules, or regulations, etc."
+      "abstract": "Public Employees Relations Commission;  Authorizing subpoenas to be served by certified mail, return receipt requested, or by personal service; revising application requirements for employee organization registration and renewal of registration; providing that a petition to clarify the composition of a bargaining unit may be filed with the commission under certain circumstances; providing that implementation of appropriations from the Legislature which are specifically directed to be disbursed as salaries for employees of local governments are considered a financial urgency; authorizing certain public employers, public employees, and employee organizations, or combinations thereof, to file certain charges with the commission, etc."
     }
   ],
   "other_titles": [],
@@ -85,9 +83,67 @@
       "_processing": {
         "log_file_created": "2026-02-13T12:39:39Z"
       }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Original reference(s) removed: Appropriations Committee on Agriculture, Environment, and General Government",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Remaining references corrected to Fiscal Policy",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "Now in Fiscal Policy",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "CS by Governmental Oversight and Accountability read 1st time",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:57Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Governmental Oversight and Accountability",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Governmental Oversight and Accountability\"}"
+    },
     {
       "name": "Martin",
       "classification": "primary",
@@ -113,6 +169,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 1296 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1296/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1296/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -132,6 +203,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/1296/Analyses/2026s01296-pcs655050.go.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Governmental Oversight and Accountability (Post-Meeting) (2/13/2026 11:45 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1296/Analyses/2026s01296.go.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -283,6 +365,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-13T12:39:39Z"
+    "logs_latest_update": "2026-02-25T12:43:57Z"
   }
 }

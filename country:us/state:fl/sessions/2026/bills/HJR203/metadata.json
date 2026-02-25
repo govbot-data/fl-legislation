@@ -1,19 +1,19 @@
 {
   "legislative_session": "2026",
   "identifier": "HJR 203",
-  "title": "Phased Out Elimination of Non-school Property for Homesteads",
+  "title": "Elimination of Non-school Property for Homesteads",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "joint resolution"
   ],
   "subject": [
-    "constitutional amendments",
-    "subject index"
+    "(adopted)",
+    "constitutional amendments"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Phased Out Elimination of Non-school Property for Homesteads;  Proposes amendment to State Constitution to increase exemption for homestead property from all ad valorem taxation other than school district levies annually for 10 years by a certain amount, to make homestead property exempt from all ad valorem taxation other than school district levies beginning in a specified year, to prohibit local governments from reducing total funding for services provided by law enforcement, firefighters, and other first responders, and provide an effective date."
+      "abstract": "Elimination of Non-school Property for Homesteads;  Proposes amendment to State Constitution to make homestead property exempt from all ad valorem taxation other than school district levies beginning in a specified year, to prohibit local governments from reducing total funding for services provided by law enforcement, firefighters, and other first responders, and provide an effective date."
     }
   ],
   "other_titles": [],
@@ -309,6 +309,136 @@
       "_processing": {
         "log_file_created": "2026-01-31T12:29:56Z"
       }
+    },
+    {
+      "description": "Bill added to Special Order Calendar (2/19/2026)",
+      "date": "2026-02-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Read 2nd time",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Amendment 357969 adopted",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Amendment 553395 Failed",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Amendment 913429 Failed",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Amendment 831221 Failed",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Added to Third Reading Calendar",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Read 3rd time",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "CS passed as amended; YEAS 80, NAYS 30",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "In Messages",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Referred to Appropriations",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "Received",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "enrolled"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T12:43:58Z"
+      }
     }
   ],
   "sponsorships": [
@@ -379,6 +509,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 203 e1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/203/BillText/e1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -436,6 +577,149 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "357969 - Amendment to H 203 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/203/Amendment/357969/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "637829 - Amendment to H 203 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/203/Amendment/637829/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "314689 - Amendment to H 203 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/203/Amendment/314689/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "303559 - Amendment to H 203 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/203/Amendment/303559/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "900763 - Amendment to H 203 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/203/Amendment/900763/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "715527 - Amendment to H 203 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/203/Amendment/715527/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "076881 - Amendment to H 203 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/203/Amendment/076881/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "691355 - Amendment to H 203 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/203/Amendment/691355/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "539091 - Amendment to H 203 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/203/Amendment/539091/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "202013 - Amendment to H 203 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/203/Amendment/202013/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "553395 - Amendment to H 203 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/203/Amendment/553395/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "913429 - Amendment to H 203 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/203/Amendment/913429/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "831221 - Strike All Amendment to H 203 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/203/Amendment/831221/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [],
@@ -453,6 +737,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-31T12:29:56Z"
+    "logs_latest_update": "2026-02-25T12:43:58Z"
   }
 }
