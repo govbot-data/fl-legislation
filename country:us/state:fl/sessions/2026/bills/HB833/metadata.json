@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Private School Facilities;  Provides that certain private schools are considered permitted use in certain zoning districts; authorizes certain private schools to operate in facilities that meet specified requirements; requires certain private schools operating in such facilities to meet specified standards under Florida Fire Prevention Code; & requires local fire official to use specified fire safety evaluation systems for existing private school facilities."
+      "abstract": "Private School Facilities;  Provides that certain private schools are considered permitted use in certain zoning districts; authorizes certain private schools to operate in facilities that meet specified requirements; requires certain private schools operating in such facilities to meet specified Florida Fire Prevention Code standards; provides that completion of specified evaluation system with certain ratings by specified persons constitutes evidence of compliance with Florida Fire Prevention Code for such private schools."
     }
   ],
   "other_titles": [],
@@ -188,9 +188,75 @@
       "_processing": {
         "log_file_created": "2026-02-25T12:43:58Z"
       }
+    },
+    {
+      "description": "Favorable with CS by Education & Employment Committee",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-26T12:44:25Z"
+      }
+    },
+    {
+      "description": "Reported out of Education & Employment Committee",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-26T12:44:25Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-26T12:44:25Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-26T12:44:25Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 2)",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-26T12:44:25Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Education & Employment Committee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Education & Employment Committee\"}"
+    },
     {
       "name": "Education Administration Subcommittee",
       "classification": "primary",
@@ -205,6 +271,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Cassel\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rizo",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rizo\"}",
       "organization_id": null
     }
   ],
@@ -231,6 +305,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 833 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/833/BillText/c2/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -239,6 +324,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/833/Analyses/h0833.EAS.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Education & Employment Committee (Post-Meeting) (2/24/2026 2:40 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/833/Analyses/h0833a.EEC.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -270,6 +366,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-25T12:43:58Z"
+    "logs_latest_update": "2026-02-26T12:44:25Z"
   }
 }

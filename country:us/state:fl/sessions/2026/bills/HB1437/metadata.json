@@ -7,12 +7,12 @@
     "bill"
   ],
   "subject": [
-    "subject index"
+    "k"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Conversion Charter Schools;  Provides that specified mediation requirements apply to disputes between district school board & conversion charter school regarding mutual management plans."
+      "abstract": "Conversion Charter Schools;  Provides that specified mediation requirements apply to disputes between district school board & conversion charter school regarding mutual management plans; & authorizes conversion charter schools that meet specified criteria to be eligible for capital outlay funding."
     }
   ],
   "other_titles": [],
@@ -198,9 +198,63 @@
       "_processing": {
         "log_file_created": "2026-02-25T12:43:58Z"
       }
+    },
+    {
+      "description": "Favorable with CS by Education & Employment Committee",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-26T12:44:25Z"
+      }
+    },
+    {
+      "description": "Reported out of Education & Employment Committee",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-26T12:44:25Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-26T12:44:25Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-26T12:44:25Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Education & Employment Committee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Education & Employment Committee\"}"
+    },
     {
       "name": "Education Administration Subcommittee",
       "classification": "primary",
@@ -215,6 +269,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Sapp\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rizo",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rizo\"}",
       "organization_id": null
     }
   ],
@@ -241,6 +303,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 1437 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1437/BillText/c2/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -256,10 +329,10 @@
       "classification": ""
     },
     {
-      "note": "Bill Analysis -- Education & Employment Committee (Post-Meeting) (2/13/2026 5:31 PM)",
+      "note": "Bill Analysis -- Education & Employment Committee (Post-Meeting) (2/24/2026 6:20 PM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/1437/Analyses/h1437a.EEC.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/1437/Analyses/h1437b.EEC.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -286,6 +359,14 @@
       "effective": null,
       "expires": null,
       "url": "https://flsenate.gov/laws/statutes/2025/1002.33"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "1013.62",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/1013.62"
     }
   ],
   "sources": [
@@ -302,6 +383,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-25T12:43:58Z"
+    "logs_latest_update": "2026-02-26T12:44:25Z"
   }
 }

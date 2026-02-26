@@ -13,7 +13,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Community Development Districts;  Providing that specified provisions regarding synthetic turf do not apply to community development districts enforcing deed restrictions; providing that certain members of the governing body of a community development district may be removed by the electors of the community development district; requiring separate petitions for each member sought to be recalled; requiring a specified percentage of electors to sign the petition; providing the grounds for removal of elected members, etc."
+      "abstract": "Community Development Districts;  Providing that specified provisions regarding synthetic turf do not apply to community development districts enforcing deed restrictions; authorizing the removal of certain members of the board of supervisors of a community development district by recall; specifying requirements for a recall referendum; providing that certain board members of community development districts are subject to specified election recall provisions, etc."
     }
   ],
   "other_titles": [],
@@ -158,9 +158,47 @@
       "_processing": {
         "log_file_created": "2026-02-25T12:43:58Z"
       }
+    },
+    {
+      "description": "CS/CS by- Fiscal Policy; YEAS 18 NAYS 0",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-26T12:44:25Z"
+      }
+    },
+    {
+      "description": "Pending reference review -under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-26T12:44:25Z"
+      }
+    },
+    {
+      "description": "CS/CS by Fiscal Policy read 1st time",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-26T12:44:25Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Fiscal Policy",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Fiscal Policy\"}"
+    },
     {
       "name": "Community Affairs",
       "classification": "primary",
@@ -204,6 +242,21 @@
         },
         {
           "url": "https://flsenate.gov/Session/Bill/2026/1180/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S 1180 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1180/BillText/c2/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1180/BillText/c2/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -261,6 +314,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/1180/Analyses/2026s01180.pre.fp.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Fiscal Policy (Post-Meeting) (2/24/2026 5:10 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1180/Analyses/2026s01180.fp.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -338,6 +402,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-25T12:43:58Z"
+    "logs_latest_update": "2026-02-26T12:44:25Z"
   }
 }

@@ -7,6 +7,7 @@
     "bill"
   ],
   "subject": [
+    "k",
     "subject index"
   ],
   "abstracts": [
@@ -176,9 +177,75 @@
       "_processing": {
         "log_file_created": "2026-02-25T12:43:58Z"
       }
+    },
+    {
+      "description": "Favorable with CS by Education & Employment Committee",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-26T12:44:25Z"
+      }
+    },
+    {
+      "description": "Reported out of Education & Employment Committee",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-26T12:44:25Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-26T12:44:25Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-26T12:44:25Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 2)",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-26T12:44:25Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Education & Employment Committee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Education & Employment Committee\"}"
+    },
     {
       "name": "Student Academic Success Subcommittee",
       "classification": "primary",
@@ -251,6 +318,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 1253 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1253/BillText/c2/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -266,10 +344,10 @@
       "classification": ""
     },
     {
-      "note": "Bill Analysis -- Education & Employment Committee (Post-Meeting) (2/20/2026 5:49 PM)",
+      "note": "Bill Analysis -- Education & Employment Committee (Post-Meeting) (2/24/2026 2:45 PM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/1253/Analyses/h1253b.EEC.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/1253/Analyses/h1253c.EEC.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -344,6 +422,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-25T12:43:58Z"
+    "logs_latest_update": "2026-02-26T12:44:25Z"
   }
 }

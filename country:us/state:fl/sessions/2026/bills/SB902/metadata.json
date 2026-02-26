@@ -7,9 +7,9 @@
     "bill"
   ],
   "subject": [
+    "k",
     "public health",
-    "regulation of professions and occupations",
-    "subject index"
+    "regulation of professions and occupations"
   ],
   "abstracts": [
     {
@@ -164,6 +164,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-02-25T12:43:58Z"
+      }
+    },
+    {
+      "description": "CS/CS/CS by- Rules; YEAS 23 NAYS 0",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-26T12:44:25Z"
       }
     }
   ],
@@ -352,6 +362,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-25T12:43:58Z"
+    "logs_latest_update": "2026-02-26T12:44:25Z"
   }
 }

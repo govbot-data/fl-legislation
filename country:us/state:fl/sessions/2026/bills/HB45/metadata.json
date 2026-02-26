@@ -13,7 +13,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Sexual Offenders and Sexual Predators;  Defines \"public bathing place\" & \"public swimming pool\"; revises residency restrictions for persons convicted of certain sexual offenses occurring on or after specified date; provides applicability; revises requirements for search of sexual predator or sexual offender registration information by state agency or governmental subdivision before appointing or employing person to work at specified locations; revises special conditions for certain sexual offenders subject to conditional release supervision for offenses committed on or after specified date; revises conditions of probation or community control for certain sexual offenders for offenses committed on or after specified date."
+      "abstract": "Sexual Offenders and Sexual Predators;  Revises residency restrictions for persons convicted of certain sexual offenses occurring on or after specified date; provides applicability; revises distance required for specified offender to commit specified offense of loitering or prowling; prohibits such offender from knowingly contacting, communicating with, or approaching with intent to contact or communicate with certain children at certain locations; provides exception; requires such offender to provide notice to school or child care facility; authorizes warrantless arrest of person if law enforcement officer has probable cause to believe that such person has committed specified offenses; revises requirements for search of sexual predator or sexual offender registration information by state agency or governmental subdivision before appointing or employing person to work at specified locations; revises special conditions for certain sexual offenders subject to conditional release supervision for offenses committed on or after specified date; revises conditions of probation or community control for certain sexual offenders for offenses committed on or after specified date."
     }
   ],
   "other_titles": [],
@@ -189,9 +189,75 @@
       "_processing": {
         "log_file_created": "2026-02-25T12:43:57Z"
       }
+    },
+    {
+      "description": "Favorable with CS by Judiciary Committee",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-26T12:44:25Z"
+      }
+    },
+    {
+      "description": "Reported out of Judiciary Committee",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-26T12:44:25Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-26T12:44:25Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-26T12:44:25Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 2)",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-26T12:44:25Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Judiciary Committee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Judiciary Committee\"}"
+    },
     {
       "name": "Criminal Justice Subcommittee",
       "classification": "primary",
@@ -264,6 +330,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 45 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/45/BillText/c2/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -272,6 +349,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/45/Analyses/h0045a.CRM.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Judiciary Committee (Post-Meeting) (2/24/2026 2:49 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/45/Analyses/h0045b.JDC.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -312,6 +400,22 @@
     },
     {
       "publication": "Florida Statues",
+      "citation": "856.022",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/856.022"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "901.15",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/901.15"
+    },
+    {
+      "publication": "Florida Statues",
       "citation": "943.04351",
       "citation_type": "proposed",
       "effective": null,
@@ -320,27 +424,11 @@
     },
     {
       "publication": "Florida Statues",
-      "citation": "947.005",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/947.005"
-    },
-    {
-      "publication": "Florida Statues",
       "citation": "947.1405",
       "citation_type": "proposed",
       "effective": null,
       "expires": null,
       "url": "https://flsenate.gov/laws/statutes/2025/947.1405"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "948.001",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/948.001"
     },
     {
       "publication": "Florida Statues",
@@ -365,6 +453,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-25T12:43:57Z"
+    "logs_latest_update": "2026-02-26T12:44:25Z"
   }
 }

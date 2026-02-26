@@ -7,12 +7,13 @@
     "bill"
   ],
   "subject": [
+    "and solicitations",
+    "criminal procedure and corrections",
     "judicial branch",
     "k",
     "labor",
     "public health",
-    "social welfare",
-    "subject index"
+    "social welfare"
   ],
   "abstracts": [
     {
@@ -195,6 +196,16 @@
       "_processing": {
         "log_file_created": "2026-02-08T12:31:05Z"
       }
+    },
+    {
+      "description": "PCS added to Judiciary Committee agenda",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-26T12:44:25Z"
+      }
     }
   ],
   "sponsorships": [
@@ -212,6 +223,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Trabulsy\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hunschofsky",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Hunschofsky\"}",
       "organization_id": null
     }
   ],
@@ -277,6 +296,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-08T12:31:05Z"
+    "logs_latest_update": "2026-02-26T12:44:25Z"
   }
 }

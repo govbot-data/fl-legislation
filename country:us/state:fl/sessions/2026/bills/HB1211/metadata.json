@@ -13,7 +13,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Military Affairs;  Revises provisions relating to leave of absence for military service; revises military positions required to participate in SMS of FRS; revises eligibility for Soldiers & Airmen Assistance Program & provides requirements relating to such program."
+      "abstract": "Military Affairs;  Revises authorization to be granted leave of absence for military service to include Coast Guard; clarifies provision relating to leaves of absence for all state officers & employees for reserve or guard training; authorizes local governments to provide additional leave of absence for officers & employees for reserve or guard training; specifies that authorization for leave of absence for public officials & state employees to perform active military service for specified timeframe is based on single order; removes DMA positions from compulsory participation in SMS Class; provides that participation in such class for all other members employed within DMA is separately governed by specified provision; revises eligibility for Soldiers & Airmen Assistance Program to include traditional drilling guardsmen on state active duty or specified federal duty & their eligible beneficiaries demonstrating valid financial need; requires requests for assistance to be reviewed, processed, & approved by Florida National Guard Foundation's board of directors; requires requests for assistance to be reviewed & evaluated based on specified criteria; requires board to annually review bylaws that govern such program; requires board to provide report to DMA to be approved by Adjutant General."
     }
   ],
   "other_titles": [],
@@ -291,9 +291,63 @@
       "_processing": {
         "log_file_created": "2026-02-25T12:43:58Z"
       }
+    },
+    {
+      "description": "Favorable with CS by State Affairs Committee",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-26T12:44:25Z"
+      }
+    },
+    {
+      "description": "Reported out of State Affairs Committee",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-26T12:44:25Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-26T12:44:25Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-26T12:44:25Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "State Affairs Committee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"State Affairs Committee\"}"
+    },
     {
       "name": "Transportation & Economic Development Budget Subcommittee",
       "classification": "primary",
@@ -369,6 +423,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 1211 c3",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1211/BillText/c3/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -395,10 +460,10 @@
       "classification": ""
     },
     {
-      "note": "Bill Analysis -- State Affairs Committee (Post-Meeting) (2/20/2026 4:59 PM)",
+      "note": "Bill Analysis -- State Affairs Committee (Post-Meeting) (2/24/2026 6:45 PM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/1211/Analyses/h1211d.SAC.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/1211/Analyses/h1211e.SAC.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -516,6 +581,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-25T12:43:58Z"
+    "logs_latest_update": "2026-02-26T12:44:25Z"
   }
 }

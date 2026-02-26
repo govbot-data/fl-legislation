@@ -9,11 +9,11 @@
   "subject": [
     "insurance",
     "judicial branch",
+    "k",
     "municipalities",
     "public health",
     "relations",
     "social welfare",
-    "subject index",
     "taxation and finance"
   ],
   "abstracts": [
@@ -169,6 +169,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-02-25T12:43:57Z"
+      }
+    },
+    {
+      "description": "CS/CS/CS by- Appropriations; YEAS 17 NAYS 0",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-26T12:44:25Z"
       }
     }
   ],
@@ -518,6 +528,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-25T12:43:57Z"
+    "logs_latest_update": "2026-02-26T12:44:25Z"
   }
 }

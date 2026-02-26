@@ -212,6 +212,48 @@
       "_processing": {
         "log_file_created": "2026-02-25T12:43:58Z"
       }
+    },
+    {
+      "description": "Favorable by Budget Committee",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-26T12:44:25Z"
+      }
+    },
+    {
+      "description": "Reported out of Budget Committee",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-26T12:44:25Z"
+      }
+    },
+    {
+      "description": "Now in Judiciary Committee",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-26T12:44:25Z"
+      }
+    },
+    {
+      "description": "Added to Judiciary Committee agenda",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-26T12:44:25Z"
+      }
     }
   ],
   "sponsorships": [
@@ -256,6 +298,14 @@
       "organization_id": null
     },
     {
+      "name": "Franklin",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Franklin\"}",
+      "organization_id": null
+    },
+    {
       "name": "Gottlieb",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -272,11 +322,27 @@
       "organization_id": null
     },
     {
+      "name": "Hart-Lowman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Hart-Lowman\"}",
+      "organization_id": null
+    },
+    {
       "name": "L\u00f3pez, J.",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"L\\u00f3pez, J.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mooney",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mooney\"}",
       "organization_id": null
     },
     {
@@ -350,10 +416,21 @@
       "classification": ""
     },
     {
-      "note": "Bill Analysis -- Budget Committee (Post-Meeting) (2/20/2026 4:23 PM)",
+      "note": "Bill Analysis -- Budget Committee (Post-Meeting) (2/24/2026 2:09 PM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/365/Analyses/h0365c.BUC.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/365/Analyses/h0365d.BUC.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Judiciary Committee (Post-Meeting) (2/24/2026 4:55 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/365/Analyses/h0365e.JDC.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -387,6 +464,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-25T12:43:58Z"
+    "logs_latest_update": "2026-02-26T12:44:25Z"
   }
 }

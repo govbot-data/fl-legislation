@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Biosolids Management;  Prohibits land application of Class AA biosolids fertilizer & compost products from exceeding appropriate agronomic rate; requires land application site operator to maintain records; requires University of Florida's IFAS to publish & make publicly available recommended agronomic rates for bulk Class AA biosolids fertilizer & compost products; authorizes bulk Class AA biosolids or biosolids products to be distributed or marketed as fertilizer & land applied if specified requirements are met; authorizes bulk Class AA biosolids compost products to be distributed or marketed as soil amendments & land applied if specified requirements are met; requires that certain bulk Class AA biosolids compost & fertilizer products be applied at certain land application sites; requires certain bulk Class AA products applied on certain lands meet certain requirements before application."
+      "abstract": "Biosolids Management;  Prohibits land application of Class AA biosolids fertilizer & compost products from exceeding appropriate agronomic rate; requires land application site owners & operators to maintain records; requires DEP to provide certain notice to such owners & operators & to adopt rules; requires University of Florida's IFAS to publish & make publicly available recommended agronomic rates for bulk Class AA biosolids fertilizer & compost products; authorizes bulk Class AA biosolids or biosolids products to be distributed or marketed as fertilizer & land applied if specified requirements are met; authorizes bulk Class AA biosolids compost products to be distributed or marketed as soil amendments & land applied if specified requirements are met; requires that certain bulk Class AA biosolids compost & fertilizer products be applied at certain land application sites; requires certain bulk Class AA products applied on certain lands meet certain requirements before application."
     }
   ],
   "other_titles": [],
@@ -242,9 +242,63 @@
       "_processing": {
         "log_file_created": "2026-02-25T12:43:57Z"
       }
+    },
+    {
+      "description": "Favorable with CS by State Affairs Committee",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-26T12:44:25Z"
+      }
+    },
+    {
+      "description": "Reported out of State Affairs Committee",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-26T12:44:25Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-26T12:44:25Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-26T12:44:25Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "State Affairs Committee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"State Affairs Committee\"}"
+    },
     {
       "name": "Natural Resources & Disasters Subcommittee",
       "classification": "primary",
@@ -280,6 +334,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/1245/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "H 1245 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1245/BillText/c2/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -357,6 +422,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-25T12:43:57Z"
+    "logs_latest_update": "2026-02-26T12:44:25Z"
   }
 }

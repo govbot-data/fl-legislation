@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 1440",
-  "title": "Public Records/Office of Financial Regulation/Cybersecurity Event",
+  "title": "Public Records/Office of Financial Regulation",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -13,7 +13,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Public Records/Office of Financial Regulation/Cybersecurity Event;  Providing an exemption from public records requirements for information received by the Office of Financial Regulation pursuant to certain cybersecurity event provisions relating to information systems and customer information of loan originators, mortgage brokers, and mortgage lenders and for information received by the office as a result of investigations and examinations of such cybersecurity events; providing an exemption from public records requirements for information received by the office pursuant to certain cybersecurity event provisions relating to information systems and customer information of money services businesses and for information received by the office as a result of investigations and examinations of such cybersecurity events; providing for future legislative review and repeal of the exemption; providing a statement of public necessity, etc."
+      "abstract": "Public Records/Office of Financial Regulation;  Providing an exemption from public records requirements for information received by the Office of Financial Regulation pursuant to certain cybersecurity event provisions relating to information systems and customer information of loan originators, mortgage brokers, and mortgage lenders and for information received by the office as a result of investigations and examinations of such cybersecurity events; providing a public records exemption for certain information in reports of financial exploitation; providing an exemption from public records requirements for information received by the office pursuant to certain cybersecurity events, documents relating to information systems, and customer information of money services businesses and for information received by the office as a result of investigations and examinations of such cybersecurity events; providing for future legislative review and repeal of the exemption; providing a statement of public necessity, etc."
     }
   ],
   "other_titles": [],
@@ -148,19 +148,65 @@
       }
     },
     {
-      "description": "Placed on Special Order Calendar, 02/25/26  --If Received",
-      "date": "2026-02-23",
+      "description": "CS/CS by- Rules; YEAS 22 NAYS 1",
+      "date": "2026-02-24",
       "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "enrolled"
-      ],
+      "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-02-25T12:43:57Z"
+        "log_file_created": "2026-02-26T12:44:25Z"
+      }
+    },
+    {
+      "description": "Pending reference review -under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-26T12:44:25Z"
+      }
+    },
+    {
+      "description": "Placed on Calendar, on 2nd reading",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-26T12:44:25Z"
+      }
+    },
+    {
+      "description": "Placed on Special Order Calendar, 02/25/26",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-26T12:44:25Z"
+      }
+    },
+    {
+      "description": "CS/CS by Rules read 1st time",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-26T12:44:25Z"
       }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Rules",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Rules\"}"
+    },
     {
       "name": "Banking and Insurance",
       "classification": "primary",
@@ -204,6 +250,21 @@
         },
         {
           "url": "https://flsenate.gov/Session/Bill/2026/1440/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S 1440 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1440/BillText/c2/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1440/BillText/c2/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -268,6 +329,17 @@
       "classification": ""
     },
     {
+      "note": "Bill Analysis -- Rules (Post-Meeting) (2/25/2026 7:25 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1440/Analyses/2026s01440.rc.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "960882 - Amendment to S 1440 Filed",
       "links": [
         {
@@ -294,6 +366,14 @@
     },
     {
       "publication": "Florida Statues",
+      "citation": "517.2015",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/517.2015"
+    },
+    {
+      "publication": "Florida Statues",
       "citation": "560.129",
       "citation_type": "proposed",
       "effective": null,
@@ -315,6 +395,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-25T12:43:57Z"
+    "logs_latest_update": "2026-02-26T12:44:25Z"
   }
 }

@@ -7,10 +7,10 @@
     "bill"
   ],
   "subject": [
-    "crimes",
+    "civil practice and procedure",
     "evidence",
-    "local bills",
     "planning and development",
+    "ports and harbors",
     "public transportation",
     "relations",
     "subject index"
@@ -226,6 +226,16 @@
       "_processing": {
         "log_file_created": "2026-01-31T12:29:57Z"
       }
+    },
+    {
+      "description": "Added to Judiciary Committee agenda",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-26T12:44:25Z"
+      }
     }
   ],
   "sponsorships": [
@@ -288,6 +298,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/1009/Analyses/h1009c.IAS.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Judiciary Committee (Post-Meeting) (2/24/2026 5:00 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1009/Analyses/h1009d.JDC.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -570,6 +591,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-31T12:29:57Z"
+    "logs_latest_update": "2026-02-26T12:44:25Z"
   }
 }

@@ -1,24 +1,25 @@
 {
   "legislative_session": "2026",
   "identifier": "HB 1007",
-  "title": "Hyperscale Data Centers",
+  "title": "Data Centers",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
   "subject": [
-    "insurance",
     "municipalities",
     "public business",
+    "public health",
     "public transportation",
     "railroads and other regulated utilities",
     "relations",
-    "subject index"
+    "subject index",
+    "taxation and finance"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Hyperscale Data Centers;  Provides that hyperscale data centers are prohibited use on or after date certain for specified land use categories in local in comprehensive plans & agricultural zoning districts within unincorporated areas; prohibits utilities, in fixing rates for hyperscale data centers, from collecting certain impact fees; requires permit applications for consumptive use of water relating to hyperscale data centers to contain specified disclosure; prohibits construction & operation of hyperscale data centers on specified lands & water on or after date certain; provides for hearing requirement before construction & operation of hyperscale data centers; requires governing body of local government that approves construction & operation of hyperscale data center to request, in concurrence with specified board, approval; provides for concurrence hearing requirements; prohibits construction of hyperscale data center if board does not approve concurrence request at such hearing."
+      "abstract": "Data Centers;  Prohibits agency from entering into nondisclosure agreement or other contract that restricts agency from disclosing certain information to public; specifies that local governments maintain authority to exercise power & responsibility over comprehensive planning & land development regulations related to large load customers; prohibits large load customer from being considered electric substation; prohibits local government from issuing construction permit for certain new data center or support facilities in specified areas; provides exception to provision allowing extension of certain confidentiality protections; requires PSC to develop minimum tariff & service requirements for large load customers; prohibits any tariff, contractual provision, service requirement, or other public utility policy from preventing or hindering curtailment or interruption of electric service to large load customer; prohibits public utility from knowingly providing electric service to large load customer that is foreign entity; prohibits governing board of water management district or DEP from issuing permit for consumptive use of water to large-scale data center; requires governing board or DEP to require use of reclaimed water for large-scale data center applicant's allocation."
     }
   ],
   "other_titles": [],
@@ -104,9 +105,107 @@
       "_processing": {
         "log_file_created": "2026-02-25T12:43:58Z"
       }
+    },
+    {
+      "description": "Favorable with CS by State Affairs Committee",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-26T12:44:25Z"
+      }
+    },
+    {
+      "description": "Reported out of State Affairs Committee",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-26T12:44:25Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-26T12:44:25Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-26T12:44:25Z"
+      }
+    },
+    {
+      "description": "Referred to Commerce Committee",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-26T12:44:25Z"
+      }
+    },
+    {
+      "description": "Now in Commerce Committee",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-26T12:44:25Z"
+      }
+    },
+    {
+      "description": "Added to Commerce Committee agenda",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-26T12:44:25Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 1)",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-26T12:44:25Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "State Affairs Committee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"State Affairs Committee\"}"
+    },
     {
       "name": "Griffitts",
       "classification": "primary",
@@ -128,59 +227,44 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 1007 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1007/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
-  "citations": [
+  "documents": [
     {
-      "publication": "Florida Statues",
-      "citation": "125.66",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/125.66"
+      "note": "Bill Analysis -- State Affairs Committee (Post-Meeting) (2/24/2026 1:29 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1007/Analyses/h1007.SAC.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     },
     {
-      "publication": "Florida Statues",
-      "citation": "163.3164",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/163.3164"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "163.3177",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/163.3177"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "163.3184",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/163.3184"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "163.3187",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/163.3187"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "163.3202",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/163.3202"
+      "note": "Bill Analysis -- Commerce Committee (Post-Meeting) (2/24/2026 6:30 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1007/Analyses/h1007a.COM.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
+  "citations": [],
   "sources": [
     {
       "url": "https://flsenate.gov/Session/Bill/2026/1007/ByCategory",
@@ -195,6 +279,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-25T12:43:58Z"
+    "logs_latest_update": "2026-02-26T12:44:25Z"
   }
 }

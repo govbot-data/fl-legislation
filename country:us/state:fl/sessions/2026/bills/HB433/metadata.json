@@ -25,7 +25,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Department of Agriculture and Consumer Services;  Prohibits counties & municipalities from enacting or enforcing any law that restricts or prohibits use of gasoline-powered farm equipment or gasoline-powered landscape equipment or that distinguishes such equipment from any other equipment; requires Acquisition & Restoration Council to determine whether certain surplused lands are suitable for bona fide agricultural purposes; prohibits local governmental entity from transferring future development rights for surplused lands determined to be suitable for bona fide agricultural purposes; requires DEP, in coordination with DACS, to determine whether state-owned conservation lands are suitable for bona fide agricultural purposes; authorizes DEP to surplus specified state-owned lands determined to be suitable for bona fide agricultural purposes; prohibits person from wearing or displaying item that displays words \"concealed weapon permit\" or \"concealed weapon permit holder\" with intent to mislead another to believe that person is authorized to wear or display such item; prohibits possession, manufacture, sale, importation, distribution, or use of signal jamming device."
+      "abstract": "Department of Agriculture and Consumer Services;  Prohibits counties & municipalities from enacting or enforcing any law that restricts or prohibits use of gasoline-powered farm equipment or gasoline-powered landscape equipment or that distinguishes such equipment from any other equipment; requires Acquisition & Restoration Council to determine whether certain surplused lands are suitable for bona fide agricultural purposes; prohibits local governmental entity from transferring future development rights for surplused lands determined to be suitable for bona fide agricultural purposes; requires DEP, in coordination with DACS, to determine whether state-owned conservation lands are suitable for bona fide agricultural purposes; authorizes DEP to surplus specified state-owned lands determined to be suitable for bona fide agricultural purposes; establishes Citrus Research and Field Trial Foundation, Inc., as a DSO of DACS; prohibits person from wearing or displaying item that displays words \"concealed weapon permit\" or \"concealed weapon permit holder\" with intent to mislead another to believe that person is authorized to wear or display such item; prohibits possession, manufacture, sale, importation, distribution, or use of signal jamming device."
     }
   ],
   "other_titles": [],
@@ -267,9 +267,75 @@
       "_processing": {
         "log_file_created": "2026-02-25T12:43:58Z"
       }
+    },
+    {
+      "description": "Favorable with CS by State Affairs Committee",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-26T12:44:25Z"
+      }
+    },
+    {
+      "description": "Reported out of State Affairs Committee",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-26T12:44:25Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-26T12:44:25Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-26T12:44:25Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 2)",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-26T12:44:25Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "State Affairs Committee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"State Affairs Committee\"}"
+    },
     {
       "name": "Commerce Committee",
       "classification": "primary",
@@ -350,6 +416,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 433 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/433/BillText/c2/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -358,6 +435,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/433/Analyses/h0433a.COM.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- State Affairs Committee (Post-Meeting) (2/24/2026 2:00 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/433/Analyses/h0433d.SAC.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -402,6 +490,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-25T12:43:58Z"
+    "logs_latest_update": "2026-02-26T12:44:25Z"
   }
 }
