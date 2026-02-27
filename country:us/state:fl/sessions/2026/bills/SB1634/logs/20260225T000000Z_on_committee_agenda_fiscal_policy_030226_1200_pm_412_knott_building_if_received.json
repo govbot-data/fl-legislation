@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "On Committee agenda-- Fiscal Policy, 03/02/26, 12:00 pm, 412 Knott Building --If Received",
+    "date": "2026-02-25",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "enrolled"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 1634"
+}

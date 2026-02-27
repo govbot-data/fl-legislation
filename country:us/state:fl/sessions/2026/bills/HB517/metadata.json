@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "HB 517",
-  "title": "Medicaid Dental Provider Networks",
+  "title": "Medicaid Provider Networks",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -13,7 +13,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Medicaid Dental Provider Networks ;  Requires AHCA to establish network adequacy standards for prepaid dental plans; provides requirements for such standards; requires Medicaid managed care plan provider network databases to identify whether providers are accepting new patients; requires prepaid dental plans to to provide specified information on online provider database."
+      "abstract": "Medicaid Provider Networks ;  Requires AHCA to establish network adequacy standards for prepaid dental plans; provides requirements for such standards; requires Medicaid managed care plan provider network databases to identify whether providers are accepting new patients; requires prepaid dental plans to to provide specified information on online provider database."
     }
   ],
   "other_titles": [],
@@ -229,6 +229,62 @@
       "_processing": {
         "log_file_created": "2026-02-25T12:43:58Z"
       }
+    },
+    {
+      "description": "Read 2nd time",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:02Z"
+      }
+    },
+    {
+      "description": "Added to Third Reading Calendar",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:02Z"
+      }
+    },
+    {
+      "description": "Read 3rd time",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:02Z"
+      }
+    },
+    {
+      "description": "CS passed; YEAS 115, NAYS 0",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:02Z"
+      }
+    },
+    {
+      "description": "In Messages",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:02Z"
+      }
     }
   ],
   "sponsorships": [
@@ -262,6 +318,62 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Bartleman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Daniels",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Daniels\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Harris",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Harris\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hunschofsky",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Hunschofsky\"}",
+      "organization_id": null
+    },
+    {
+      "name": "L\u00f3pez, J.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"L\\u00f3pez, J.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mooney",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mooney\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Nixon",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Nixon\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Vald\u00e9s",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Vald\\u00e9s\"}",
       "organization_id": null
     }
   ],
@@ -338,6 +450,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-25T12:43:58Z"
+    "logs_latest_update": "2026-02-27T12:39:02Z"
   }
 }

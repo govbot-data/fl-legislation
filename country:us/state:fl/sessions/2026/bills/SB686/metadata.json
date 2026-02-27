@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Agricultural Enclaves;  Authorizing owners of certain parcels to apply to the governing body of the local government for certification of such parcels as agricultural enclaves; requiring the local government to hold a public hearing within a specified timeframe to approve or deny such certification; authorizing the owner of a parcel certified as an agricultural enclave to submit certain development plans; authorizing the development of certain certified agricultural enclaves for commercial, industrial, or single-family residential purposes under certain circumstances, etc."
+      "abstract": "Agricultural Enclaves;  Authorizing certain persons to apply to the governing body of the local government for certification of certain parcels as agricultural enclaves; requiring the local government to hold a public hearing within a specified timeframe to approve or deny such certification; authorizing certain persons to submit certain development plans; authorizing the development of certain parcels for commercial, industrial, or single-family residential purposes under certain circumstances, etc."
     }
   ],
   "other_titles": [],
@@ -165,18 +165,6 @@
       }
     },
     {
-      "description": "Placed on Special Order Calendar, 02/26/26  --If Received",
-      "date": "2026-02-23",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "enrolled"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-02-25T12:43:57Z"
-      }
-    },
-    {
       "description": "CS/CS/CS by- Rules; YEAS 23 NAYS 0",
       "date": "2026-02-24",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -185,9 +173,57 @@
       "_processing": {
         "log_file_created": "2026-02-26T12:44:25Z"
       }
+    },
+    {
+      "description": "Pending reference review -under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:02Z"
+      }
+    },
+    {
+      "description": "Placed on Calendar, on 2nd reading",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:02Z"
+      }
+    },
+    {
+      "description": "Placed on Special Order Calendar, 02/26/26",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:02Z"
+      }
+    },
+    {
+      "description": "CS/CS/CS by Rules read 1st time",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:02Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Rules",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Rules\"}"
+    },
     {
       "name": "Judiciary",
       "classification": "primary",
@@ -259,6 +295,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 686 c3",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/686/BillText/c3/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/686/BillText/c3/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -318,6 +369,17 @@
       "classification": ""
     },
     {
+      "note": "Bill Analysis -- Rules (Post-Meeting) (2/25/2026 11:41 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/686/Analyses/2026s00686.rc.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "184380 - Amendment to S 686 Filed",
       "links": [
         {
@@ -365,6 +427,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-26T12:44:25Z"
+    "logs_latest_update": "2026-02-27T12:39:02Z"
   }
 }

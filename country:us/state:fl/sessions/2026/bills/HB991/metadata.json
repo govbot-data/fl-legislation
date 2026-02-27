@@ -8,12 +8,13 @@
   ],
   "subject": [
     "electors and elections",
+    "motor vehicles",
     "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Election Integrity;  Revises definitions; revises information DOS is required to include in specified report; requires persons to swear or affirm they have reviewed voter registration instructions, are United States citizen, and understand penalties for providing false information; requires voter registration application to elicit documentation required by United States Election Assistance Commission or federal law; requires that applicant's citizenship status be verified by records of DHSMV; provides that applicant will be registered as unverified voter, but may not vote, if his or her legal status as United States citizen cannot be verified through DHSMV; requires online voter registration system to transmit certain information to supervisor of elections and generate certain notices; requires supervisor of elections to verify legal status of certain applicants & provide certain notice; provides that,, online voter registration system may populate applicant's information into printable voter registration application; requires applicant's legal status to be verified for voter registration application to be valid; provides that applicant will be deemed unverified voter if his or her application fails to meet specified requirements."
+      "abstract": "Election Integrity;  Revising definitions; revising the information the Department of State is required to include in a specified report; requiring persons to swear or affirm they have reviewed the voter registration instructions, are a United States citizen, and understand the penalties for providing false information; requiring the voter registration application to elicit documentation required by the United States Election Assistance Commission or federal law; requiring that an applicant's citizenship status be verified by the records of the DHSMV; providing that an applicant will be registered as an unverified voter, and must vote with a provisional ballot that will not be counted if his or her legal status as a United States citizen cannot be verified through the DHSMV; requiring the online voter registration system to transmit certain information to the supervisor of elections and generate certain notices; requiring the supervisor of elections to verify the legal status of certain applicants and provide certain notice; providing that, under specified circumstances, the online voter registration system may populate the applicant's information into a printable voter registration application; requiring an applicant's legal status to be verified for a voter registration application to be valid; providing that an applicant will be deemed an unverified voter if his or her application fails to meet specified requirements."
     }
   ],
   "other_titles": [],
@@ -255,6 +256,162 @@
       "_processing": {
         "log_file_created": "2026-02-25T12:43:58Z"
       }
+    },
+    {
+      "description": "Read 2nd time",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:03Z"
+      }
+    },
+    {
+      "description": "Amendment 090077 Failed",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:03Z"
+      }
+    },
+    {
+      "description": "Amendment 810467 Failed",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:03Z"
+      }
+    },
+    {
+      "description": "Amendment 818439 Failed",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:03Z"
+      }
+    },
+    {
+      "description": "Amendment 658561 adopted",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:03Z"
+      }
+    },
+    {
+      "description": "Amendment 921151 Failed",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:03Z"
+      }
+    },
+    {
+      "description": "Amendment 228467 Failed",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:03Z"
+      }
+    },
+    {
+      "description": "Amendment 587003 Failed",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:03Z"
+      }
+    },
+    {
+      "description": "Amendment 025499 Failed",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:03Z"
+      }
+    },
+    {
+      "description": "Amendment 192155 Failed",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:03Z"
+      }
+    },
+    {
+      "description": "Amendment 746217 Failed",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:03Z"
+      }
+    },
+    {
+      "description": "Added to Third Reading Calendar",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:03Z"
+      }
+    },
+    {
+      "description": "Read 3rd time",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:03Z"
+      }
+    },
+    {
+      "description": "CS passed as amended; YEAS 83, NAYS 31",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:03Z"
+      }
+    },
+    {
+      "description": "In Messages",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:03Z"
+      }
     }
   ],
   "sponsorships": [
@@ -336,6 +493,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/991/BillText/c2/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "H 991 e1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/991/BillText/e1/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -696,6 +864,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-25T12:43:58Z"
+    "logs_latest_update": "2026-02-27T12:39:03Z"
   }
 }

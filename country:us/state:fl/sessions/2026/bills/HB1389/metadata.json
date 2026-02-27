@@ -11,12 +11,14 @@
     "civil rights",
     "municipalities",
     "relations",
+    "social welfare",
+    "t",
     "taxation and finance"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Affordable Housing;  Requires counties & municipalities, respectively, to authorize multifamily & mixed-use residential uses as allowable uses for specified property; requires certain proposed developments to be within specified geographic boundaries; requires certain counties, municipalities, & school districts to be party to application for certain proposed developments; prohibits counties & municipalities, respectively, from restricting height of certain proposed developments in certain manner or requiring setbacks or step-backs that are more restrictive than certain zoning regulations; authorizes applicants for certain proposed developments to notify, by specified date, county or municipality, as applicable, on applicant's intent to proceed under certain provisions of law; requires counties & municipalities to allow certain applicants to submit revised applications, written requests, or notices of intent to account for changes made by act; provides that specified provisions of law relating to proposed developments do not apply to airport zoning regulations unless governing body of airport approves application; prohibits certain discriminatory practices based on financing of development, or proposed development, for affordable housing; waiving state's sovereign immunity for certain causes of action."
+      "abstract": "Affordable Housing;  Authorizes multifamily & mixed-use residential uses as allowable uses for specified property; provides requirements for certain proposed developments; prohibits counties & municipalities from having certain restrictions or requiring certain setbacks; requires adoption of certain ordinances relating to accessory dwelling units; prohibits such ordinances from including certain requirements; provides exception to certain local governments; removes requirement for specified affidavit in building permit application; prohibits owners of certain property from being denied homestead exemption; requires certain accessory dwelling units to be assessed & taxed separately; authorizes applicants for certain proposed developments to proceed under certain provisions of law; requires counties & municipalities to allow certain applicants to submit revised applications, written requests, or notices of intent; provides that specified provisions of law relating to proposed developments do not apply to airport zoning regulations unless approved by governing body; authorizes local governments to provide certain incentives to landowners who donate property to provide affordable housing for military families; prohibits certain discriminatory practices based on financing of development for affordable housing; waiving state's sovereign immunity for certain causes of action; requires OPPAGA to evaluate certain methods to stimulate construction & use of tiny homes for specified purpose & submit to Legislature certain report."
     }
   ],
   "other_titles": [],
@@ -246,9 +248,95 @@
       "_processing": {
         "log_file_created": "2026-02-25T12:43:57Z"
       }
+    },
+    {
+      "description": "Favorable with CS by Commerce Committee",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:03Z"
+      }
+    },
+    {
+      "description": "Reported out of Commerce Committee",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:03Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:03Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:03Z"
+      }
+    },
+    {
+      "description": "Bill referred to House Calendar",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:03Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 2)",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:03Z"
+      }
+    },
+    {
+      "description": "Added to Second Reading Calendar",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:03Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Commerce Committee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Commerce Committee\"}"
+    },
     {
       "name": "Housing, Agriculture & Tourism Subcommittee",
       "classification": "primary",
@@ -297,6 +385,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 1389 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1389/BillText/c2/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -323,10 +422,10 @@
       "classification": ""
     },
     {
-      "note": "Bill Analysis -- Commerce Committee (Post-Meeting) (2/20/2026 4:39 PM)",
+      "note": "Bill Analysis -- Commerce Committee (Post-Meeting) (2/25/2026 6:54 PM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/1389/Analyses/h1389d.COM.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/1389/Analyses/h1389e.COM.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -356,6 +455,14 @@
     },
     {
       "publication": "Florida Statues",
+      "citation": "163.31771",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/163.31771"
+    },
+    {
+      "publication": "Florida Statues",
       "citation": "166.04151",
       "citation_type": "proposed",
       "effective": null,
@@ -364,11 +471,27 @@
     },
     {
       "publication": "Florida Statues",
+      "citation": "196.1978",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/196.1978"
+    },
+    {
+      "publication": "Florida Statues",
       "citation": "333.03",
       "citation_type": "proposed",
       "effective": null,
       "expires": null,
       "url": "https://flsenate.gov/laws/statutes/2025/333.03"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "420.615",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/420.615"
     },
     {
       "publication": "Florida Statues",
@@ -409,6 +532,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-25T12:43:57Z"
+    "logs_latest_update": "2026-02-27T12:39:03Z"
   }
 }

@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "HB 405",
-  "title": "Commercial Construction Projects",
+  "title": "Commercial Construction",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -14,7 +14,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Commercial Construction Projects;  Prohibits governmental entity from enforcing certain contract provisions for public works project; requires Florida Building Commission to adopt by rule uniform commercial building permit application by specified date; provides requirements for such application; requires commission to adopt by rule certain trade-specific forms; requires local enforcement agency to accept uniform application & standardized forms adopted by commission; authorizes local enforcement agency to require additional documentation or plans; requires permit fees that local enforcement agency imposes to be proportional to actual & reasonable costs incurred for performing certain functions; prohibits political subdivision from adopting or enforcing ordinance that imposes certain glazing requirements; requires local jurisdictions to include specified information on their websites; prohibits local jurisdictions from charging fees for plans review services performed by private provider; requires local enforcement agencies to reduce permit fees for commercial construction projects by certain percentages; prohibits local enforcement agencies from collecting any fees for commercial construction projects; requires specified surcharge to be calculated based on reduced permit fee."
+      "abstract": "Commercial Construction ;  Prohibiting a governmental entity from enforcing certain contract provisions for a public works project; requiring the Florida Building Commission to adopt by rule a uniform commercial building permit application for a specified purpose by a specified date; requiring the commission to adopt by rule additional trade-specific permit application forms for certain trades; requiring a local enforcement agency to use and accept the applications and forms adopted by the commission; requiring local enforcement agencies to adopt substantially similar forms for a certain purpose; requiring permit fees that are imposed by a local enforcement agency to be limited to the actual and reasonable costs incurred in reviewing, processing, and administering the permit; requiring a local jurisdiction to include a certain reduction in permit fees on its schedule of fees posted on its website; prohibiting the local jurisdiction from charging fees for plans review services under certain circumstances; requiring the local enforcement agency to reduce the permit fee by specified percentages for an owner or a contractor who retains a private provider for specified purposes."
     }
   ],
   "other_titles": [],
@@ -362,6 +362,72 @@
       "_processing": {
         "log_file_created": "2026-02-25T12:43:57Z"
       }
+    },
+    {
+      "description": "Read 2nd time",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:02Z"
+      }
+    },
+    {
+      "description": "Amendment 880861 adopted",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:02Z"
+      }
+    },
+    {
+      "description": "Added to Third Reading Calendar",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:02Z"
+      }
+    },
+    {
+      "description": "Read 3rd time",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:02Z"
+      }
+    },
+    {
+      "description": "CS passed as amended; YEAS 113, NAYS 2",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:02Z"
+      }
+    },
+    {
+      "description": "In Messages",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:02Z"
+      }
     }
   ],
   "sponsorships": [
@@ -387,6 +453,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Griffitts\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Barnaby",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Barnaby\"}",
       "organization_id": null
     },
     {
@@ -427,6 +501,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/405/BillText/c2/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "H 405 e1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/405/BillText/e1/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -535,7 +620,24 @@
       "classification": ""
     }
   ],
-  "citations": [],
+  "citations": [
+    {
+      "publication": "Florida Statues",
+      "citation": "255.0518",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/255.0518"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "255.0525",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/255.0525"
+    }
+  ],
   "sources": [
     {
       "url": "https://flsenate.gov/Session/Bill/2026/405/ByCategory",
@@ -550,6 +652,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-25T12:43:57Z"
+    "logs_latest_update": "2026-02-27T12:39:02Z"
   }
 }

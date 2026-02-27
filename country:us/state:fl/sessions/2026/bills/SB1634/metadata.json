@@ -123,6 +123,28 @@
       "_processing": {
         "log_file_created": "2026-02-25T12:43:57Z"
       }
+    },
+    {
+      "description": "On Committee agenda-- Fiscal Policy, 03/02/26, 12:00 pm, 412 Knott Building --If Received",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "enrolled"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:02Z"
+      }
+    },
+    {
+      "description": "CS/CS by Appropriations Committee on Criminal and Civil Justice; YEAS 5 NAYS 3",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:02Z"
+      }
     }
   ],
   "sponsorships": [
@@ -241,6 +263,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-25T12:43:57Z"
+    "logs_latest_update": "2026-02-27T12:39:02Z"
   }
 }

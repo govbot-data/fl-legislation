@@ -95,6 +95,16 @@
       "_processing": {
         "log_file_created": "2026-02-25T12:43:57Z"
       }
+    },
+    {
+      "description": "CS by Appropriations Committee on Health and Human Services; YEAS 8 NAYS 0",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:03Z"
+      }
     }
   ],
   "sponsorships": [
@@ -147,6 +157,32 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Appropriations Committee on Health and Human Services (Pre-Meeting) (2/24/2026 11:03 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/162/Analyses/2026s00162.pre.ahs.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "771398 - Amendment to S 162 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/162/Amendment/771398/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/162/Amendment/771398/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [],
@@ -164,6 +200,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-25T12:43:57Z"
+    "logs_latest_update": "2026-02-27T12:39:03Z"
   }
 }

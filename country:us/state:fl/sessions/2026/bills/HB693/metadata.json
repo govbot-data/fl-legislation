@@ -8,8 +8,9 @@
   ],
   "subject": [
     "(adopted)",
+    "h",
     "planning and development",
-    "public business",
+    "ports and harbors",
     "regulation of professions and occupations",
     "relations",
     "subject index"
@@ -17,7 +18,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Health and Human Services;  Revises health care provisions relating to emergency medical technicians & paramedics; enacts Emergency Medical Services Personnel Licensure Interstate Compact; repeals provisions relating to Health Facility & Services Development Act; revises provisions relating to certificates-of-need, the Kidcare program, & Medicaid; requires DCF to develop & implement a food assistance payment accuracy improvement plan; revises significant investigation information DOH is required to report relating to certain physician assistants, emergency medical technicians, & paramedics; enacts Physician Assistant Licensure Compact; revises practice requirements for autonomous advanced practice registered nurse; revises remediable & delegable duties of dentist; requires certain health insurers to apply payments for services provided by nonpreferred providers toward insureds' deductibles & out-of-pocket maximums."
+      "abstract": "Health and Human Services ;  Revises health care provisions relating to emergency medical technicians & paramedics; repeals provisions relating to Health Facility & Services Development Act; revises provisions relating to certificates-of-need, the Kidcare program, & Medicaid; requires DCF to develop & implement a food assistance payment accuracy improvement plan; revises significant investigation information DOH is required to report relating to certain physician assistants, emergency medical technicians, paramedics, & social workers; enacts Physician Assistant Licensure Compact, Emergency Medical Services Personnel Licensure Interstate Compact, & Social Work Licensure Interstate Compact; revises practice requirements for autonomous advanced practice registered nurse; revises remediable & delegable duties of dentist; requires certain health insurers to apply payments for services provided by nonpreferred providers toward insureds' deductibles & out-of-pocket maximums."
     }
   ],
   "other_titles": [],
@@ -145,9 +146,83 @@
       "_processing": {
         "log_file_created": "2026-02-26T12:44:25Z"
       }
+    },
+    {
+      "description": "Reported out of Health & Human Services Committee",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:03Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:03Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:03Z"
+      }
+    },
+    {
+      "description": "Bill referred to House Calendar",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:03Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 1)",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:03Z"
+      }
+    },
+    {
+      "description": "Added to Second Reading Calendar",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:03Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Health & Human Services Committee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Health & Human Services Committee\"}"
+    },
     {
       "name": "Redondo",
       "classification": "primary",
@@ -185,6 +260,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 693 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/693/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -200,10 +286,10 @@
       "classification": ""
     },
     {
-      "note": "Bill Analysis -- Health & Human Services Committee (Post-Meeting) (2/23/2026 1:52 PM)",
+      "note": "Bill Analysis -- Health & Human Services Committee (Post-Meeting) (2/25/2026 5:04 PM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/693/Analyses/h0693b.HHS.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/693/Analyses/h0693e.HHS.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -225,91 +311,11 @@
   "citations": [
     {
       "publication": "Florida Statues",
-      "citation": "154.245",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/154.245"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "154.246",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/154.246"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "159.27",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/159.27"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "189.08",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/189.08"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "220.1845",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/220.1845"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "376.30781",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/376.30781"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "395.003",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/395.003"
-    },
-    {
-      "publication": "Florida Statues",
       "citation": "395.1055",
       "citation_type": "proposed",
       "effective": null,
       "expires": null,
       "url": "https://flsenate.gov/laws/statutes/2025/395.1055"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "400.071",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/400.071"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "400.606",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/400.606"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "400.6085",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/400.6085"
     },
     {
       "publication": "Florida Statues",
@@ -342,6 +348,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-26T12:44:25Z"
+    "logs_latest_update": "2026-02-27T12:39:03Z"
   }
 }

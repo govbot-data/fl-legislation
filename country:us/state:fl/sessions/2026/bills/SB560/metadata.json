@@ -7,13 +7,13 @@
     "bill"
   ],
   "subject": [
-    "judicial branch",
-    "social welfare"
+    "social welfare",
+    "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Child Welfare;  Providing that a new medical report relating to the provision of psychotropic medication to a child in the legal custody of the Department of Children and Families may be required only under certain circumstances; requiring a physician to provide to a pharmacy a copy of certain documentation, rather than a signed attestation, with certain prescriptions, etc."
+      "abstract": "Child Welfare;  Providing that a new medical report relating to the provision of psychotropic medication to a child in the legal custody of the Department of Children and Families may be required only under certain circumstances; requiring the department and each community-based care lead agency to coordinate with certain organizations and meet at least quarterly for a specified purpose; requiring a physician to provide to a pharmacy a copy of certain documentation, rather than a signed attestation, with certain prescriptions, etc."
     }
   ],
   "other_titles": [],
@@ -194,9 +194,47 @@
       "_processing": {
         "log_file_created": "2026-02-26T12:44:25Z"
       }
+    },
+    {
+      "description": "Pending reference review -under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:02Z"
+      }
+    },
+    {
+      "description": "Placed on Calendar, on 2nd reading",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:02Z"
+      }
+    },
+    {
+      "description": "CS/CS/CS by Rules read 1st time",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:02Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Rules",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Rules\"}"
+    },
     {
       "name": "Appropriations Committee on Health and Human Services",
       "classification": "primary",
@@ -268,6 +306,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 560 c3",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/560/BillText/c3/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/560/BillText/c3/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -327,6 +380,17 @@
       "classification": ""
     },
     {
+      "note": "Bill Analysis -- Rules (Post-Meeting) (2/25/2026 10:24 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/560/Analyses/2026s00560.rc.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "964050 - Amendment to S 560 Filed",
       "links": [
         {
@@ -368,6 +432,14 @@
     },
     {
       "publication": "Florida Statues",
+      "citation": "39.4085",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/39.4085"
+    },
+    {
+      "publication": "Florida Statues",
       "citation": "409.175",
       "citation_type": "proposed",
       "effective": null,
@@ -381,6 +453,14 @@
       "effective": null,
       "expires": null,
       "url": "https://flsenate.gov/laws/statutes/2025/409.912"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "409.993",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/409.993"
     }
   ],
   "sources": [
@@ -397,6 +477,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-26T12:44:25Z"
+    "logs_latest_update": "2026-02-27T12:39:02Z"
   }
 }

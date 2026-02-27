@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Pub. Rec./Health Care;  Provides exemptions from public meetings requirements for certain portions of meetings of Interstate Commission for EMS Personnel Practice & Physician Assistant Licensure Compact Commission; respectively; provides exemption from public records requirements for recordings, minutes, & records generated during exempt portions of such meetings; provides for future legislative review & repeal of exemptions; provides statement of public necessity."
+      "abstract": "Pub. Rec./Health Care ;  Provides exemptions from public meetings requirements for certain portions of meetings of Interstate Commission for EMS Personnel Practice, Physician Assistant Licensure Compact Commission, & Social Work Licensure Compact Commission; respectively; provides exemption from public records requirements for recordings, minutes, & records generated during exempt portions of such meetings; provides for future legislative review & repeal of exemptions; provides statement of public necessity."
     }
   ],
   "other_titles": [],
@@ -194,9 +194,83 @@
       "_processing": {
         "log_file_created": "2026-02-26T12:44:25Z"
       }
+    },
+    {
+      "description": "Reported out of Health & Human Services Committee",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:03Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:03Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:03Z"
+      }
+    },
+    {
+      "description": "Bill referred to House Calendar",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:03Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 1)",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:03Z"
+      }
+    },
+    {
+      "description": "Added to Second Reading Calendar",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:03Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Health & Human Services Committee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Health & Human Services Committee\"}"
+    },
     {
       "name": "Redondo",
       "classification": "primary",
@@ -213,6 +287,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/695/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "H 695 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/695/BillText/c1/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -244,10 +329,10 @@
       "classification": ""
     },
     {
-      "note": "Bill Analysis -- Health & Human Services Committee (Post-Meeting) (2/23/2026 9:32 AM)",
+      "note": "Bill Analysis -- Health & Human Services Committee (Post-Meeting) (2/25/2026 3:28 PM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/695/Analyses/h0695d.HHS.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/695/Analyses/h0695e.HHS.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -281,6 +366,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-26T12:44:25Z"
+    "logs_latest_update": "2026-02-27T12:39:03Z"
   }
 }

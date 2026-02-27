@@ -1,24 +1,24 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 676",
-  "title": "Criminal Offenses",
+  "title": "Animal Welfare",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
   ],
   "subject": [
-    "(adopted)",
     "crimes",
     "criminal procedure and corrections",
     "domestic relations",
     "evidence",
-    "judicial branch",
-    "public health"
+    "public health",
+    "social welfare",
+    "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Criminal Offenses;  Providing criminal penalties for persons who commit any act that causes, tends to cause, encourages, or contributes to a child committing offenses of specified severities; providing criminal penalties for persons who induce or endeavor to induce, by act, threat, command, or persuasion, a child to commit offenses of specified severities; creating the offense of causing or enticing a minor to commit, or in the presence of a minor committing, animal cruelty, etc."
+      "abstract": "Animal Welfare;  Creating the offense of causing or enticing a minor to commit, or in the presence of a minor committing, animal cruelty; requiring a court to order a minor who commits specified acts of animal cruelty to undergo a psychological evaluation and, if recommended, receive counseling or treatment for a specified time period; requiring the Department of Law Enforcement to post on its website specified information relating to each individual convicted of specified animal cruelty offenses; creating the offense of causing or enticing a minor to commit, or in the presence of a minor committing, fighting or baiting animals; increasing the maximum civil penalty for specified violations of ordinances relating to animal control or cruelty, etc."
     }
   ],
   "other_titles": [],
@@ -143,9 +143,47 @@
       "_processing": {
         "log_file_created": "2026-02-26T12:44:25Z"
       }
+    },
+    {
+      "description": "Pending reference review -under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:03Z"
+      }
+    },
+    {
+      "description": "Placed on Calendar, on 2nd reading",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:03Z"
+      }
+    },
+    {
+      "description": "CS by Fiscal Policy read 1st time",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:03Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Fiscal Policy",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Fiscal Policy\"}"
+    },
     {
       "name": "Arrington",
       "classification": "primary",
@@ -174,6 +212,21 @@
         },
         {
           "url": "https://flsenate.gov/Session/Bill/2026/676/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S 676 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/676/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/676/BillText/c1/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -238,6 +291,17 @@
       "classification": ""
     },
     {
+      "note": "Bill Analysis -- Fiscal Policy (Post-Meeting) (2/25/2026 3:02 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/676/Analyses/2026s00676.fp.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "605520 - Amendment (Delete All) to S 676 Filed",
       "links": [
         {
@@ -254,54 +318,6 @@
     }
   ],
   "citations": [
-    {
-      "publication": "Florida Statues",
-      "citation": "39.201",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/39.201"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "90.4025",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/90.4025"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "382.356",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/382.356"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "409.2355",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/409.2355"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "742.107",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/742.107"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "827.04",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/827.04"
-    },
     {
       "publication": "Florida Statues",
       "citation": "828.12",
@@ -328,6 +344,14 @@
     },
     {
       "publication": "Florida Statues",
+      "citation": "828.27",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/828.27"
+    },
+    {
+      "publication": "Florida Statues",
       "citation": "921.0022",
       "citation_type": "proposed",
       "effective": null,
@@ -349,6 +373,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-26T12:44:25Z"
+    "logs_latest_update": "2026-02-27T12:39:03Z"
   }
 }

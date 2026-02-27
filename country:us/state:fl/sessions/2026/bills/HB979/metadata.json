@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Infill Redevelopment ;  Requires local government to permit development of certain qualifying parcels up to certain density & intensity; requires developers of qualifying parcels to maintain specified buffer between new developments & single-family homes & townhouses; requires developers of qualifying parcels to establish that certain recreational facilities & areas reserved for recreational use have not been in operation or use for certain timeframe, to pay double parks & recreational facilities impact fees, & to provide written notice to certain property owners; requires property owners who receive such written notice to exercise option to purchase certain parcels or portions thereof within specified timeframe or forfeit option; requires development on qualifying parcels to meet concurrency requirements."
+      "abstract": "Infill Redevelopment;  Requires local government to permit development of certain qualifying parcels up to certain density & intensity; requires developers of qualifying parcels to maintain specified buffer between new developments & single-family homes & townhouses; requires developers of qualifying parcels to establish that certain recreational facilities & areas reserved for recreational use have not been in operation or use for certain timeframe, to pay double parks & recreational facilities impact fees, & to provide written notice to certain property owners; requires property owners who receive such written notice to exercise option to purchase certain parcels or portions thereof within specified timeframe or forfeit option; requires development on qualifying parcels to meet concurrency requirements."
     }
   ],
   "other_titles": [],
@@ -254,9 +254,83 @@
       "_processing": {
         "log_file_created": "2026-02-26T12:44:25Z"
       }
+    },
+    {
+      "description": "Reported out of State Affairs Committee",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:03Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:03Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:03Z"
+      }
+    },
+    {
+      "description": "Bill referred to House Calendar",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:03Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 2)",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:03Z"
+      }
+    },
+    {
+      "description": "Added to Second Reading Calendar",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:03Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "State Affairs Committee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"State Affairs Committee\"}"
+    },
     {
       "name": "Intergovernmental Affairs Subcommittee",
       "classification": "primary",
@@ -297,6 +371,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 979 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/979/BillText/c2/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -312,10 +397,10 @@
       "classification": ""
     },
     {
-      "note": "Bill Analysis -- State Affairs Committee (Post-Meeting) (2/21/2026 2:50 PM)",
+      "note": "Bill Analysis -- State Affairs Committee (Post-Meeting) (2/25/2026 8:09 PM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/979/Analyses/h0979d.SAC.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/979/Analyses/h0979e.SAC.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -360,6 +445,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-26T12:44:25Z"
+    "logs_latest_update": "2026-02-27T12:39:03Z"
   }
 }

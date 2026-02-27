@@ -113,6 +113,38 @@
       "_processing": {
         "log_file_created": "2026-02-25T12:43:57Z"
       }
+    },
+    {
+      "description": "Favorable by Appropriations Committee on Health and Human Services; YEAS 8 NAYS 0",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:02Z"
+      }
+    },
+    {
+      "description": "Now in Appropriations",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:02Z"
+      }
+    },
+    {
+      "description": "On Committee agenda-- Appropriations, 03/02/26, 12:00 pm, 110 Senate Building",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:02Z"
+      }
     }
   ],
   "sponsorships": [
@@ -146,6 +178,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Sharief\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Garcia",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Garcia\"}",
       "organization_id": null
     }
   ],
@@ -206,6 +246,28 @@
       "classification": ""
     },
     {
+      "note": "Bill Analysis -- Appropriations Committee on Health and Human Services (Pre-Meeting) (2/24/2026 11:12 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1110/Analyses/2026s01110.pre.ahs.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Appropriations Committee on Health and Human Services (Post-Meeting) (2/25/2026 12:42 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1110/Analyses/2026s01110.ahs.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "277724 - Amendment (Delete All) to S 1110 Filed",
       "links": [
         {
@@ -245,6 +307,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-25T12:43:57Z"
+    "logs_latest_update": "2026-02-27T12:39:02Z"
   }
 }

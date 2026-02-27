@@ -14,7 +14,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Prohibited Governmental Policies Regulating Greenhouse Gas Emissions;  Prohibits governmental entities from adopting certain net zero policies; prohibits governmental entities from using government funds in any manner that supports, implements, or advances certain net zero policies; prohibits governmental entities from imposing tax, fee, penalty, charge, offset, or assessment to advance certain net zero policies; requires each governmental entity to annually submit to Department of Revenue certain affidavit; prohibits governmental entities from implementing, administering, or enforcing certain programs."
+      "abstract": "Prohibited Governmental Policies Regulating Greenhouse Gas Emissions;  Prohibits governmental entities from adopting certain net zero policies; prohibits governmental entities from using public funds in any manner that supports, implements, or advances certain net zero policies; prohibits governmental entities from imposing any charge to advance certain net zero policies; requires each governmental entity to annually submit to Department of Revenue certain affidavit; prohibits governmental entities from implementing, administering, or enforcing certain programs."
     }
   ],
   "other_titles": [],
@@ -184,9 +184,95 @@
       "_processing": {
         "log_file_created": "2026-02-25T12:43:58Z"
       }
+    },
+    {
+      "description": "Favorable with CS by Commerce Committee",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:02Z"
+      }
+    },
+    {
+      "description": "Reported out of Commerce Committee",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:02Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:02Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:02Z"
+      }
+    },
+    {
+      "description": "Bill referred to House Calendar",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:02Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 1)",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:02Z"
+      }
+    },
+    {
+      "description": "Added to Second Reading Calendar",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:02Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Commerce Committee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Commerce Committee\"}"
+    },
     {
       "name": "Snyder",
       "classification": "primary",
@@ -211,6 +297,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/1217/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "H 1217 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1217/BillText/c1/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -242,10 +339,10 @@
       "classification": ""
     },
     {
-      "note": "Bill Analysis -- Commerce Committee (Post-Meeting) (2/20/2026 4:34 PM)",
+      "note": "Bill Analysis -- Commerce Committee (Post-Meeting) (2/25/2026 5:54 PM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/1217/Analyses/h1217d.COM.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/1217/Analyses/h1217e.COM.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -304,6 +401,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-25T12:43:58Z"
+    "logs_latest_update": "2026-02-27T12:39:02Z"
   }
 }

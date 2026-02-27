@@ -296,6 +296,36 @@
       "_processing": {
         "log_file_created": "2026-02-26T12:44:25Z"
       }
+    },
+    {
+      "description": "Reported out of Health & Human Services Committee",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:02Z"
+      }
+    },
+    {
+      "description": "Bill released to House Calendar",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:02Z"
+      }
+    },
+    {
+      "description": "Added to Second Reading Calendar",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:02Z"
+      }
     }
   ],
   "sponsorships": [
@@ -400,10 +430,10 @@
       "classification": ""
     },
     {
-      "note": "Bill Analysis -- Health & Human Services Committee (Post-Meeting) (2/23/2026 9:12 AM)",
+      "note": "Bill Analysis -- Health & Human Services Committee (Post-Meeting) (2/25/2026 12:22 PM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/447/Analyses/h0447f.HHS.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/447/Analyses/h0447g.HHS.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -454,6 +484,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-26T12:44:25Z"
+    "logs_latest_update": "2026-02-27T12:39:02Z"
   }
 }

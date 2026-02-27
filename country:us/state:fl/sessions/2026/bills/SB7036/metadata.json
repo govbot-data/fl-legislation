@@ -7,13 +7,12 @@
     "bill"
   ],
   "subject": [
-    "k",
-    "t"
+    "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Education;  Removing certain schools from specified contract restrictions; providing additional criteria for award of a 15-year charter; authorizing a private school to purchase a supply of FDA-approved epinephrine delivery devices, rather than epinephrine auto-injectors; requiring the Department of Children and Families to make a specified determination for child care providers; providing requirements for mathematics pathways established by a certain workgroup; requiring the Department of Education to develop applied algebra courses; revising the GATE Startup Grant Program, etc."
+      "abstract": "Education;  Providing that district school boards are not subject to the requirements for rules in chapter 120 when making and adopting rules with public input at a public meeting; authorizing a student to carry a United States Food and Drug Administration (FDA)-approved epinephrine delivery device, rather than an epinephrine auto-injector; revising requirements for attendance reporting by private prekindergarten providers; revising required instruction on the principles of agriculture; providing that completion of 2 years of marching band satisfies two specified credit requirements, etc."
     }
   ],
   "other_titles": [],
@@ -154,9 +153,47 @@
       "_processing": {
         "log_file_created": "2026-02-26T12:44:25Z"
       }
+    },
+    {
+      "description": "Pending reference review -under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:03Z"
+      }
+    },
+    {
+      "description": "Placed on Calendar, on 2nd reading",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:03Z"
+      }
+    },
+    {
+      "description": "CS/CS by Rules read 1st time",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:03Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Rules",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Rules\"}"
+    },
     {
       "name": "Appropriations Committee on Pre-K - 12 Education",
       "classification": "primary",
@@ -215,6 +252,21 @@
         },
         {
           "url": "https://flsenate.gov/Session/Bill/2026/7036/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S 7036 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/7036/BillText/c2/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/7036/BillText/c2/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -279,6 +331,17 @@
       "classification": ""
     },
     {
+      "note": "Bill Analysis -- Rules (Post-Meeting) (2/25/2026 1:22 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/7036/Analyses/2026s07036.rc.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "611918 - Amendment to S 7036 Filed",
       "links": [
         {
@@ -295,6 +358,14 @@
     }
   ],
   "citations": [
+    {
+      "publication": "Florida Statues",
+      "citation": "120.81",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/120.81"
+    },
     {
       "publication": "Florida Statues",
       "citation": "1001.42",
@@ -329,11 +400,27 @@
     },
     {
       "publication": "Florida Statues",
+      "citation": "1002.67",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/1002.67"
+    },
+    {
+      "publication": "Florida Statues",
       "citation": "1002.68",
       "citation_type": "proposed",
       "effective": null,
       "expires": null,
       "url": "https://flsenate.gov/laws/statutes/2025/1002.68"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "1002.71",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/1002.71"
     },
     {
       "publication": "Florida Statues",
@@ -374,6 +461,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-26T12:44:25Z"
+    "logs_latest_update": "2026-02-27T12:39:03Z"
   }
 }

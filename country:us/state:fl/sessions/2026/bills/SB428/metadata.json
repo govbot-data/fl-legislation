@@ -1,18 +1,19 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 428",
-  "title": "Swimming Lesson Voucher Program",
+  "title": "Drowning Prevention",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
   ],
   "subject": [
-    "(adopted)"
+    "and solicitations",
+    "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Swimming Lesson Voucher Program;  Revising the age requirements for children receiving a voucher through the Swimming Lesson Voucher Program, etc."
+      "abstract": "Drowning Prevention;  Revising the purpose of the Swimming Lesson Voucher Program; revising the age requirements for children receiving a voucher through the program; requiring the Department of Health to develop educational materials on drowning prevention safety measures and safe bathing practices for specified purposes; requiring hospitals, birth centers, and home birth providers to provide the educational materials to new parents and caregivers as part of their postpartum education and care, etc."
     }
   ],
   "other_titles": [],
@@ -159,6 +160,72 @@
       "_processing": {
         "log_file_created": "2026-02-25T12:43:58Z"
       }
+    },
+    {
+      "description": "Read 2nd time",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:03Z"
+      }
+    },
+    {
+      "description": "Amendment(s) adopted (667490, 768758)",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:03Z"
+      }
+    },
+    {
+      "description": "Read 3rd time",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:03Z"
+      }
+    },
+    {
+      "description": "Passed as amended; YEAS 36 NAYS 0",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:03Z"
+      }
+    },
+    {
+      "description": "Immediately certified",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:03Z"
+      }
+    },
+    {
+      "description": "In Messages",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:03Z"
+      }
     }
   ],
   "sponsorships": [
@@ -243,6 +310,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 428 e1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/428/BillText/e1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/428/BillText/e1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -311,16 +393,46 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "667490 - Amendment to S 428 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/428/Amendment/667490/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/428/Amendment/667490/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "768758 - Amendment to S 428 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/428/Amendment/768758/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/428/Amendment/768758/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [
     {
       "publication": "Florida Statues",
-      "citation": "514.073",
+      "citation": "383.318",
       "citation_type": "proposed",
       "effective": null,
       "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/514.073"
+      "url": "https://flsenate.gov/laws/statutes/2025/383.318"
     }
   ],
   "sources": [
@@ -337,6 +449,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-25T12:43:58Z"
+    "logs_latest_update": "2026-02-27T12:39:03Z"
   }
 }

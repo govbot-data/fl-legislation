@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Naturopathic Medicine;  Creates Board of Naturopathic Medicine within DOH; provides for licensure by examination of naturopathic doctors; provides financial responsibility requirements as condition of licensure for naturopathic doctors; provides that patients are responsible for advising treating health care practitioners about any legend drug, nutrient, or natural medicinal substance that naturopathic doctor has prescribed or recommended to patient; provides for licensure by endorsement of naturopathic doctors."
+      "abstract": "Naturopathic Medicine ;  Creates Board of Naturopathic Medicine within DOH; provides for licensure by examination of naturopathic doctors; provides financial responsibility requirements as condition of licensure for naturopathic doctors; provides that patients are responsible for advising treating health care practitioners about any legend drug, nutrient, or natural medicinal substance that naturopathic doctor has prescribed or recommended to patient; provides for licensure by endorsement of naturopathic doctors."
     }
   ],
   "other_titles": [],
@@ -194,9 +194,83 @@
       "_processing": {
         "log_file_created": "2026-02-26T12:44:25Z"
       }
+    },
+    {
+      "description": "Reported out of Health & Human Services Committee",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:03Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:03Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:03Z"
+      }
+    },
+    {
+      "description": "Bill referred to House Calendar",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:03Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 1)",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:03Z"
+      }
+    },
+    {
+      "description": "Added to Second Reading Calendar",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:03Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Health & Human Services Committee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Health & Human Services Committee\"}"
+    },
     {
       "name": "Smith",
       "classification": "primary",
@@ -221,6 +295,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/223/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "H 223 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/223/BillText/c1/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -252,10 +337,10 @@
       "classification": ""
     },
     {
-      "note": "Bill Analysis -- Health & Human Services Committee (Post-Meeting) (2/23/2026 9:07 AM)",
+      "note": "Bill Analysis -- Health & Human Services Committee (Post-Meeting) (2/25/2026 3:13 PM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/223/Analyses/h0223d.HHS.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/223/Analyses/h0223e.HHS.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -306,6 +391,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-26T12:44:25Z"
+    "logs_latest_update": "2026-02-27T12:39:03Z"
   }
 }

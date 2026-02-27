@@ -8,18 +8,17 @@
   ],
   "subject": [
     "insurance",
-    "judicial branch",
-    "k",
     "municipalities",
     "public health",
     "relations",
     "social welfare",
+    "subject index",
     "taxation and finance"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Child Care and Early Learning Services;  Revising the information on child care required to be disseminated electronically to the community; deleting the requirement that family child care homes and large family child care homes, respectively, provide specified information to parents each year; requiring that certain child care facilities exempt from licensure requirements meet certain minimum requirements; prohibiting residential property insurance policies from providing coverage for liability for claims arising out of, or in connection with, the operations of large family child care homes; establishing the Florida Endowment for Early Learning Foundation within a Department of Education direct-support organization for a specified purpose, etc."
+      "abstract": "Child Care and Early Learning Services;  Revising the information on child care required to be disseminated electronically to the community; deleting the requirement that family child care homes and large family child care homes, respectively, provide specified information to parents each year; requiring that certain child care facilities exempt from licensure requirements meet certain minimum requirements; prohibiting residential property insurance policies from providing coverage for liability for claims arising out of, or in connection with, the operations of large family child care homes, etc."
     }
   ],
   "other_titles": [],
@@ -180,9 +179,47 @@
       "_processing": {
         "log_file_created": "2026-02-26T12:44:25Z"
       }
+    },
+    {
+      "description": "Pending reference review -under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:03Z"
+      }
+    },
+    {
+      "description": "Placed on Calendar, on 2nd reading",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:03Z"
+      }
+    },
+    {
+      "description": "CS/CS/CS by Appropriations read 1st time",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:03Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Appropriations",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Appropriations\"}"
+    },
     {
       "name": "Education Pre-K - 12",
       "classification": "primary",
@@ -254,6 +291,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 1690 c3",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1690/BillText/c3/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1690/BillText/c3/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -306,6 +358,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/1690/Analyses/2026s01690.pre.ap.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Appropriations (Post-Meeting) (2/25/2026 4:33 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1690/Analyses/2026s01690.ap.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -512,6 +575,70 @@
       "effective": null,
       "expires": null,
       "url": "https://flsenate.gov/laws/statutes/2025/1002.82"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "1002.83",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/1002.83"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "1002.84",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/1002.84"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "1002.88",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/1002.88"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "1002.895",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/1002.895"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "1002.92",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/1002.92"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "1002.93",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/1002.93"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "1002.945",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/1002.945"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "1002.95",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/1002.95"
     }
   ],
   "sources": [
@@ -528,6 +655,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-26T12:44:25Z"
+    "logs_latest_update": "2026-02-27T12:39:03Z"
   }
 }

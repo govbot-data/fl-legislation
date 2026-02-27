@@ -9,8 +9,8 @@
   "subject": [
     "civil practice and procedure",
     "domestic relations",
-    "judicial branch",
-    "real and personal property"
+    "real and personal property",
+    "subject index"
   ],
   "abstracts": [
     {
@@ -165,6 +165,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-02-26T12:44:25Z"
+      }
+    },
+    {
+      "description": "On Committee agenda-- Appropriations, 03/02/26, 12:00 pm, 110 Senate Building",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:03Z"
       }
     }
   ],
@@ -470,6 +480,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-26T12:44:25Z"
+    "logs_latest_update": "2026-02-27T12:39:03Z"
   }
 }

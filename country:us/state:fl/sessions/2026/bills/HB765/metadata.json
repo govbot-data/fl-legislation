@@ -8,18 +8,17 @@
   ],
   "subject": [
     "insurance",
-    "judicial branch",
-    "k",
     "municipalities",
     "public health",
     "relations",
     "social welfare",
+    "subject index",
     "taxation and finance"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Child Care and Early Learning Services;  Prohibits residential property insurance policies from providing coverage for liability for claims arising out of, or in connection with, operations of large family child care homes; provides that insurers are under no obligation to defend against lawsuits covering such claims; prohibits insurers from denying, cancelling, & refusing to renew policy for residential property insurance on basis that policyholders or applicants operate large family child care homes; creates Brighter Futures Program; requires DOE direct-support organization to administer program; requires program funds to be deposited into Early Learning Fund; requires that funds from state sources & interest earnings be accounted separately; provides for establishment & administration of Center for Early Childhood Professional Recognition."
+      "abstract": "Child Care and Early Learning Services ;  Revises minimum standards for child care facility licensing; removes provisions requiring family day care homes & large family child care homes to provide specified information to parents; prohibits residential property insurance policies from providing coverage for liability for claims arising out of, or in connection with, operations of large family child care homes; prohibits insurers from denying, cancelling, & refusing to renew policy for residential property insurance on basis that policyholders or applicants operate large family child care homes; revises requirements for certain prekindergarten curricula; establishes review & approval process for such curricula; creates Florida Child Care Fund; requires DOE direct-support organization to administer fund; requires that funds from state sources & interest earnings be accounted separately; provides for use of funds; provides for establishment & administration of Center for Early Childhood Professional Recognition under specified circumstance."
     }
   ],
   "other_titles": [],
@@ -435,9 +434,83 @@
       "_processing": {
         "log_file_created": "2026-02-26T12:44:25Z"
       }
+    },
+    {
+      "description": "Reported out of Health & Human Services Committee",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:03Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:03Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:03Z"
+      }
+    },
+    {
+      "description": "Bill referred to House Calendar",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:03Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 4)",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:03Z"
+      }
+    },
+    {
+      "description": "Added to Second Reading Calendar",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:03Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Health & Human Services Committee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Health & Human Services Committee\"}"
+    },
     {
       "name": "Budget Committee",
       "classification": "primary",
@@ -556,6 +629,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 765 c4",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/765/BillText/c4/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -593,10 +677,10 @@
       "classification": ""
     },
     {
-      "note": "Bill Analysis -- Health & Human Services Committee (Post-Meeting) (2/23/2026 11:12 AM)",
+      "note": "Bill Analysis -- Health & Human Services Committee (Post-Meeting) (2/25/2026 4:59 PM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/765/Analyses/h0765f.HHS.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/765/Analyses/h0765g.HHS.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -802,6 +886,14 @@
     },
     {
       "publication": "Florida Statues",
+      "citation": "1002.67",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/1002.67"
+    },
+    {
+      "publication": "Florida Statues",
       "citation": "1002.82",
       "citation_type": "proposed",
       "effective": null,
@@ -823,6 +915,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-26T12:44:25Z"
+    "logs_latest_update": "2026-02-27T12:39:03Z"
   }
 }

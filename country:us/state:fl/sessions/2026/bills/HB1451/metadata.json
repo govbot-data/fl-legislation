@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Utility Services;  Requires certain public meetings as condition precedent to effectiveness of new or extended agreement under which municipality will provide specified utility services in other municipalities or unincorporated areas; specifies matters to be addressed at such public meetings; requires such agreements to be written; requires annual public customer meetings; revises provisions relating to permissible rates, fees, & charges imposed by municipal water & sewer utilities on customers located outside municipal boundaries; requires municipalities that provide specified utility services to report certain information by specified date, & annually thereafter, to PSC; requires commission to compile such information & submit report by specified date, & annually thereafter, to Governor & Legislature."
+      "abstract": "Utility Services;  Requires certain public meetings as condition precedent to effectiveness of new or extended agreement under which municipality will provide specified utility services in other municipalities or unincorporated areas; requires municipalities that provide specified utility services to report certain information by specified date, & annually thereafter, to PSC; requires PSC to compile such information & submit report by specified date, & annually thereafter, to Governor & Legislature;  provides for state preemption over subject of certain regional utilities authorities created after specified date."
     }
   ],
   "other_titles": [],
@@ -242,9 +242,95 @@
       "_processing": {
         "log_file_created": "2026-02-25T12:43:58Z"
       }
+    },
+    {
+      "description": "Favorable with CS by Commerce Committee",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:03Z"
+      }
+    },
+    {
+      "description": "Reported out of Commerce Committee",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:03Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:03Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:03Z"
+      }
+    },
+    {
+      "description": "Bill referred to House Calendar",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:03Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 2)",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:03Z"
+      }
+    },
+    {
+      "description": "Added to Second Reading Calendar",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:03Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Commerce Committee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Commerce Committee\"}"
+    },
     {
       "name": "Economic Infrastructure Subcommittee",
       "classification": "primary",
@@ -285,6 +371,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 1451 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1451/BillText/c2/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -311,10 +408,10 @@
       "classification": ""
     },
     {
-      "note": "Bill Analysis -- Commerce Committee (Post-Meeting) (2/20/2026 4:39 PM)",
+      "note": "Bill Analysis -- Commerce Committee (Post-Meeting) (2/25/2026 7:39 PM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/1451/Analyses/h1451d.COM.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/1451/Analyses/h1451e.COM.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -365,6 +462,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-25T12:43:58Z"
+    "logs_latest_update": "2026-02-27T12:39:03Z"
   }
 }

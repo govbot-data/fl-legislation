@@ -113,6 +113,28 @@
       "_processing": {
         "log_file_created": "2026-02-25T12:43:58Z"
       }
+    },
+    {
+      "description": "CS/CS by Appropriations Committee on Pre-K - 12 Education; YEAS 8 NAYS 0",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:02Z"
+      }
+    },
+    {
+      "description": "On Committee agenda-- Fiscal Policy, 03/02/26, 12:00 pm, 412 Knott Building --If Received",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "enrolled"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:02Z"
+      }
     }
   ],
   "sponsorships": [
@@ -138,6 +160,22 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Yarborough\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Osgood",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Osgood\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Massullo",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Massullo\"}",
       "organization_id": null
     }
   ],
@@ -198,6 +236,28 @@
       "classification": ""
     },
     {
+      "note": "Bill Analysis -- Appropriations Committee on Pre-K - 12 Education (Pre-Meeting) (2/24/2026 9:45 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/182/Analyses/2026s00182.pre.aed.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Appropriations Committee on Pre-K - 12 Education (Post-Meeting) (2/25/2026 10:17 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/182/Analyses/2026s00182.aed.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "779178 - Amendment (Delete All) to S 182 Filed",
       "links": [
         {
@@ -237,6 +297,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-25T12:43:58Z"
+    "logs_latest_update": "2026-02-27T12:39:02Z"
   }
 }

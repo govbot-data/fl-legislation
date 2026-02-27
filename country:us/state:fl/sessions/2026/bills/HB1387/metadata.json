@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "State Economic Development Contracts;  Requires employer to sign agreement with department before becoming eligible for economic development incentive; specifies provisions of agreement; provides applicability; authorizes persons & entities to report suspected violation to Attorney General within specified timeframe; requires Attorney General to determine whether violation has occurred; requires Attorney General to request certain information from employer alleged to be in violation; provides that refusal of such employer to provide such information is in violation of agreement; requires Attorney General to deliver his or her findings to such employer within specified timeframe; requires Attorney General to initiate proceedings to recover funds awarded to employer if employer is found to have violated agreement; provides that Attorney General's findings are final; requires department to execute separate written agreement with recipient of economic development incentive before department awards incentive; specifies contents of separate agreement; provides effective periods of separate agreement."
+      "abstract": "State Economic Development Contracts;  Provides short title; defines; requires employer to sign agreement with Department of Commerce before becoming eligible for economic development incentive; specifies provisions of agreement; provides applicability; authorizes persons & entities to report suspected violation to department within specified timeframe; requires department to determine whether violation has occurred; requires department to deliver written notice to Attorney General; requires Attorney General to request certain information from employer alleged to be in violation; requires Attorney General to initiate proceedings to recover funds awarded to employer if employer is found to have violated agreement; provides that department's findings are final; requires department to execute separate written agreement with recipient of economic development incentive before department awards incentive; specifies contents of separate agreement; provides effective periods of separate agreement."
     }
   ],
   "other_titles": [],
@@ -242,9 +242,95 @@
       "_processing": {
         "log_file_created": "2026-02-25T12:43:57Z"
       }
+    },
+    {
+      "description": "Favorable with CS by Commerce Committee",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:02Z"
+      }
+    },
+    {
+      "description": "Reported out of Commerce Committee",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:02Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:02Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:02Z"
+      }
+    },
+    {
+      "description": "Bill referred to House Calendar",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:02Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 2)",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:02Z"
+      }
+    },
+    {
+      "description": "Added to Second Reading Calendar",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:02Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Commerce Committee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Commerce Committee\"}"
+    },
     {
       "name": "Housing, Agriculture & Tourism Subcommittee",
       "classification": "primary",
@@ -285,6 +371,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 1387 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1387/BillText/c2/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -311,10 +408,10 @@
       "classification": ""
     },
     {
-      "note": "Bill Analysis -- Commerce Committee (Post-Meeting) (2/20/2026 4:39 PM)",
+      "note": "Bill Analysis -- Commerce Committee (Post-Meeting) (2/25/2026 4:59 PM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/1387/Analyses/h1387d.COM.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/1387/Analyses/h1387e.COM.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -348,6 +445,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-25T12:43:57Z"
+    "logs_latest_update": "2026-02-27T12:39:02Z"
   }
 }

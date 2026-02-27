@@ -1,20 +1,19 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 382",
-  "title": "Electric Bicycles",
+  "title": "Micromobility Device",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
   ],
   "subject": [
     "banks and banking",
-    "subject index",
-    "t"
+    "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Electric Bicycles;  Providing requirements for the operation of electric bicycles; prohibiting the operation of an electric bicycle above a certain speed under certain circumstances; creating the Electric Bicycle Safety Task Force adjunct to the Department of Highway Safety and Motor Vehicles; requiring the Florida Highway Patrol and each police department and sheriff\u2019s office to maintain a certain list, beginning on a certain date, etc."
+      "abstract": "Micromobility Device;  Providing requirements for the operation of electric bicycles; prohibiting the operation of an electric bicycle above a certain speed under certain circumstances; creating the Micromobility Device Safety Task Force adjunct to the Department of Highway Safety and Motor Vehicles; requiring the Florida Highway Patrol and each police department and sheriff\u2019s office to maintain a certain list, beginning on a certain date, etc."
     }
   ],
   "other_titles": [],
@@ -179,6 +178,72 @@
       "_processing": {
         "log_file_created": "2026-02-25T12:43:57Z"
       }
+    },
+    {
+      "description": "Read 2nd time",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:03Z"
+      }
+    },
+    {
+      "description": "Amendment(s) adopted (324266)",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:03Z"
+      }
+    },
+    {
+      "description": "Read 3rd time",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:03Z"
+      }
+    },
+    {
+      "description": "CS passed as amended; YEAS 37 NAYS 0",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:03Z"
+      }
+    },
+    {
+      "description": "Immediately certified",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:03Z"
+      }
+    },
+    {
+      "description": "In Messages",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:03Z"
+      }
     }
   ],
   "sponsorships": [
@@ -241,6 +306,21 @@
         },
         {
           "url": "https://flsenate.gov/Session/Bill/2026/382/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S 382 e1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/382/BillText/e1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/382/BillText/e1/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -329,6 +409,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "324266 - Amendment to S 382 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/382/Amendment/324266/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/382/Amendment/324266/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [
@@ -355,6 +450,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-25T12:43:57Z"
+    "logs_latest_update": "2026-02-27T12:39:03Z"
   }
 }

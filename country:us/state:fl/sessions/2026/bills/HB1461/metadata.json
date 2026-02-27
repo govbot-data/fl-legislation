@@ -245,6 +245,18 @@
       "_processing": {
         "log_file_created": "2026-02-25T12:43:57Z"
       }
+    },
+    {
+      "description": "Favorable with CS by Commerce Committee",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:03Z"
+      }
     }
   ],
   "sponsorships": [
@@ -273,6 +285,14 @@
       "organization_id": null
     },
     {
+      "name": "Conerly",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Conerly\"}",
+      "organization_id": null
+    },
+    {
       "name": "Gossett-Seidman",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -289,11 +309,27 @@
       "organization_id": null
     },
     {
+      "name": "Salzman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Salzman\"}",
+      "organization_id": null
+    },
+    {
       "name": "Spencer",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Spencer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Yeager",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Yeager\"}",
       "organization_id": null
     }
   ],
@@ -432,6 +468,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-25T12:43:57Z"
+    "logs_latest_update": "2026-02-27T12:39:03Z"
   }
 }

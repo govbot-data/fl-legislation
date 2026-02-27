@@ -14,7 +14,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Land Use and Development Regulations;  Requires transmittal & adoption of amendment to future land use element of comprehensive plan to be by majority vote of members of governing body; requires that local government comprehensive plans & land development regulations include specified factors for assessing compatibility of certain residential uses; requires that land development regulations incorporate certain standards or other measures for mitigating or minimizing potential incompatibility; requires local government staff to meet certain requirements before recommending denial of certain applications on compatibility grounds; requires OPPAGA to conduct specified study; provides study requirements; requires office to submit results of study to Legislature."
+      "abstract": "Land Use and Development Regulations;  Requires amount of application fees associated with development permits or orders to reasonably relate to certain costs; requires public schools interlocal agreements to address reasonable access to certain public easements & public rights-of-way; requires local governments to administratively approve applications for minor special exceptions or variances submitted by large destination resorts; requires local government comprehensive plans & land development regulations to include factors for assessing compatibility of certain residential uses; requires land development regulations to incorporate measures for mitigating or minimizing potential incompatibility; authorizes placement of certain residential manufactured buildings on lots in recreational vehicle parks; requires off-site constructed residential dwellings to be permitted as of right in certain zoning districts; requires OPPAGA to conduct specified study; requires office to submit results of study to Legislature by specified date."
     }
   ],
   "other_titles": [],
@@ -304,9 +304,83 @@
       "_processing": {
         "log_file_created": "2026-02-26T12:44:25Z"
       }
+    },
+    {
+      "description": "Reported out of State Affairs Committee",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:03Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:03Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:03Z"
+      }
+    },
+    {
+      "description": "Bill referred to House Calendar",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:03Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 3)",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:03Z"
+      }
+    },
+    {
+      "description": "Added to Second Reading Calendar",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:03Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "State Affairs Committee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"State Affairs Committee\"}"
+    },
     {
       "name": "Housing, Agriculture & Tourism Subcommittee",
       "classification": "primary",
@@ -366,6 +440,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 399 c3",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/399/BillText/c3/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -392,10 +477,10 @@
       "classification": ""
     },
     {
-      "note": "Bill Analysis -- State Affairs Committee (Post-Meeting) (2/20/2026 5:04 PM)",
+      "note": "Bill Analysis -- State Affairs Committee (Post-Meeting) (2/25/2026 3:53 PM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/399/Analyses/h0399c.SAC.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/399/Analyses/h0399d.SAC.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -425,27 +510,11 @@
     },
     {
       "publication": "Florida Statues",
-      "citation": "163.3184",
+      "citation": "163.31777",
       "citation_type": "proposed",
       "effective": null,
       "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/163.3184"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "163.3194",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/163.3194"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "166.033",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/166.033"
+      "url": "https://flsenate.gov/laws/statutes/2025/163.31777"
     }
   ],
   "sources": [
@@ -462,6 +531,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-26T12:44:25Z"
+    "logs_latest_update": "2026-02-27T12:39:03Z"
   }
 }

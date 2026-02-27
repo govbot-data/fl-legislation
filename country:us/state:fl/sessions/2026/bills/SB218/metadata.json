@@ -135,9 +135,47 @@
       "_processing": {
         "log_file_created": "2026-02-26T12:44:25Z"
       }
+    },
+    {
+      "description": "Pending reference review -under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:03Z"
+      }
+    },
+    {
+      "description": "Placed on Calendar, on 2nd reading",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:03Z"
+      }
+    },
+    {
+      "description": "CS by Rules read 1st time",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:03Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Rules",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Rules\"}"
+    },
     {
       "name": "Gaetz",
       "classification": "primary",
@@ -166,6 +204,21 @@
         },
         {
           "url": "https://flsenate.gov/Session/Bill/2026/218/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S 218 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/218/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/218/BillText/c1/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -230,6 +283,17 @@
       "classification": ""
     },
     {
+      "note": "Bill Analysis -- Rules (Post-Meeting) (2/25/2026 12:30 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/218/Analyses/2026s00218.rc.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "395306 - Amendment to S 218 Filed",
       "links": [
         {
@@ -275,16 +339,7 @@
       "classification": ""
     }
   ],
-  "citations": [
-    {
-      "publication": "Florida Chapter Law",
-      "citation": "2025-190",
-      "citation_type": "chapter",
-      "effective": null,
-      "expires": null,
-      "url": "http://laws.flrules.org/2025/190"
-    }
-  ],
+  "citations": [],
   "sources": [
     {
       "url": "https://flsenate.gov/Session/Bill/2026/218/ByCategory",
@@ -299,6 +354,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-26T12:44:25Z"
+    "logs_latest_update": "2026-02-27T12:39:03Z"
   }
 }

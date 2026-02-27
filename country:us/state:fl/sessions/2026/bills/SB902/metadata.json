@@ -7,9 +7,9 @@
     "bill"
   ],
   "subject": [
-    "k",
     "public health",
-    "regulation of professions and occupations"
+    "regulation of professions and occupations",
+    "subject index"
   ],
   "abstracts": [
     {
@@ -175,9 +175,27 @@
       "_processing": {
         "log_file_created": "2026-02-26T12:44:25Z"
       }
+    },
+    {
+      "description": "Pending reference review -under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:02Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Rules",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Rules\"}"
+    },
     {
       "name": "Appropriations Committee on Health and Human Services",
       "classification": "primary",
@@ -249,6 +267,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 902 c3",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/902/BillText/c3/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/902/BillText/c3/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -301,6 +334,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/902/Analyses/2026s00902.pre.rc.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Rules (Post-Meeting) (2/25/2026 7:05 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/902/Analyses/2026s00902.rc.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -362,6 +406,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-26T12:44:25Z"
+    "logs_latest_update": "2026-02-27T12:39:02Z"
   }
 }

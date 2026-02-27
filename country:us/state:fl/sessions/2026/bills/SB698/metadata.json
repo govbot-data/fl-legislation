@@ -13,7 +13,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Onsite Sewage Treatment and Disposal System Permits;  Prohibiting a municipality or political subdivision of the state from requiring owners and builders of certain residences to receive construction permits from the Department of Environmental Protection as a condition of issuing building or plumbing permits; requiring such owners and builders to provide certain proof to the municipality or political subdivision, etc."
+      "abstract": "Onsite Sewage Treatment and Disposal System Permits;  Prohibiting a municipality or political subdivision of the state from requiring owners and builders of certain residences to receive construction permits from the Department of Environmental Protection as a condition of issuing building or plumbing permits; requiring such owners and builders to provide certain proof to the municipality or political subdivision; requiring an applicant for a permit for the construction of an onsite sewage treatment and disposal system or a property owner to assume specified liabilities under certain circumstances, etc."
     }
   ],
   "other_titles": [],
@@ -156,9 +156,47 @@
       "_processing": {
         "log_file_created": "2026-02-26T12:44:25Z"
       }
+    },
+    {
+      "description": "Pending reference review -under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:02Z"
+      }
+    },
+    {
+      "description": "Placed on Calendar, on 2nd reading",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:02Z"
+      }
+    },
+    {
+      "description": "CS/CS by Rules read 1st time",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:02Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Rules",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Rules\"}"
+    },
     {
       "name": "Environment and Natural Resources",
       "classification": "primary",
@@ -202,6 +240,21 @@
         },
         {
           "url": "https://flsenate.gov/Session/Bill/2026/698/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S 698 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/698/BillText/c2/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/698/BillText/c2/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -266,6 +319,17 @@
       "classification": ""
     },
     {
+      "note": "Bill Analysis -- Rules (Post-Meeting) (2/25/2026 12:58 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/698/Analyses/2026s00698.rc.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "732922 - Amendment to S 698 Filed",
       "links": [
         {
@@ -321,6 +385,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-26T12:44:25Z"
+    "logs_latest_update": "2026-02-27T12:39:02Z"
   }
 }

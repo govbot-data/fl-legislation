@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "On Committee agenda-- Appropriations, 03/02/26, 12:00 pm, 110 Senate Building",
+    "date": "2026-02-25",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 5503"
+}

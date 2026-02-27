@@ -165,18 +165,6 @@
       }
     },
     {
-      "description": "Placed on Special Order Calendar, 02/26/26  --If Received",
-      "date": "2026-02-23",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "enrolled"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-02-25T12:43:58Z"
-      }
-    },
-    {
       "description": "Favorable by- Rules; YEAS 22 NAYS 0",
       "date": "2026-02-24",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -186,6 +174,26 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-02-26T12:44:25Z"
+      }
+    },
+    {
+      "description": "Placed on Calendar, on 2nd reading",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:03Z"
+      }
+    },
+    {
+      "description": "Placed on Special Order Calendar, 02/26/26",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:03Z"
       }
     }
   ],
@@ -328,7 +336,7 @@
       "classification": ""
     },
     {
-      "note": "Bill Analysis -- Rules (Post-Meeting) (2/24/2026 10:17 PM)",
+      "note": "Bill Analysis -- Rules (Post-Meeting) (2/25/2026 10:59 AM)",
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/1030/Analyses/2026s01030.rc.PDF",
@@ -367,6 +375,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "260270 - Amendment (Delete All) to S 1030 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1030/Amendment/260270/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1030/Amendment/260270/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [
@@ -393,6 +416,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-26T12:44:25Z"
+    "logs_latest_update": "2026-02-27T12:39:03Z"
   }
 }

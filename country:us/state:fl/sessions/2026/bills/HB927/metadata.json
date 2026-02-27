@@ -13,7 +13,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Local Land Planning and Development;  Requires governing body of local government, by specified date, to create program that authorizes applicant to use qualified contractor to conduct preapplication review of application; requires development services office of local government to establish registry of specified number of qualified contractors to conduct preapplication reviews; authorizes development services office of local government to register more or less than specified number of qualified contractors; specifies requirements for payment to qualified contractor; requires local government to reduce any application fee by certain amount if applicant uses qualified contractor for preapplication review; requires local government to conduct preapplication review within specified timeframes; prohibits qualified contractor from conducting preapplication review; requires qualified contractor to determine if application is in compliance with specified regulations; provides duties of qualified contractors and development services office; provides that inconsistent local provisions are preempted, void, & unenforceable; provides disciplinary guidelines; authorizes local government to audit work of qualified contractors; prohibits award of attorney fees, costs, or damages; prohibits local governments from creating, establishing, or applying specified additional regulations for approval of final plat; provides requirements for local governments and governing body of certain local governments & counties; authorizes local government to waive certain bonding requirements."
+      "abstract": "Local Land Planning and Development;  Requires certain counties & municipalities, respectively, to create preapplication consulting services program; requires certain local governments to establish registry of specified number of qualified contractors or qualified contractor firms to conduct certain reviews; requires local governments to use qualified contractor program for review plats or replats upon request of applicant; requires governing body of certain local governments & counties to include multiphased developments in program that expedites process for building permits for planned unit developments or phases of community or subdivision; requires governing body to create two-step application process for stabilized access to roads that can support emergency vehicles; prohibits local government from conditioning, delaying, withholding, or denying issuance of certain permits; revises circumstances under which applicant has vested right in preliminary plat."
     }
   ],
   "other_titles": [],
@@ -303,9 +303,63 @@
       "_processing": {
         "log_file_created": "2026-02-26T12:44:25Z"
       }
+    },
+    {
+      "description": "Reported out of State Affairs Committee",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:02Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:02Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:02Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 3)",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:02Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "State Affairs Committee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"State Affairs Committee\"}"
+    },
     {
       "name": "Commerce Committee",
       "classification": "primary",
@@ -365,6 +419,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 927 c3",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/927/BillText/c3/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -391,10 +456,10 @@
       "classification": ""
     },
     {
-      "note": "Bill Analysis -- State Affairs Committee (Post-Meeting) (2/21/2026 2:45 PM)",
+      "note": "Bill Analysis -- State Affairs Committee (Post-Meeting) (2/25/2026 8:24 PM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/927/Analyses/h0927c.SAC.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/927/Analyses/h0927d.SAC.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -413,7 +478,16 @@
       "classification": ""
     }
   ],
-  "citations": [],
+  "citations": [
+    {
+      "publication": "Florida Statues",
+      "citation": "125.022",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/125.022"
+    }
+  ],
   "sources": [
     {
       "url": "https://flsenate.gov/Session/Bill/2026/927/ByCategory",
@@ -428,6 +502,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-26T12:44:25Z"
+    "logs_latest_update": "2026-02-27T12:39:02Z"
   }
 }

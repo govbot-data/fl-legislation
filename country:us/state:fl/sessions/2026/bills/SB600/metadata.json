@@ -13,7 +13,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Bail Bonds;  Decreasing the duration of in-person classroom-instruction basic certification courses required to be considered for approval and certification as an approved limited surety agent and professional bail bond agent prelicensing school; requiring, rather than authorizing, that any monetary or cash component of any form of pretrial release be met by specified means; requiring the clerk of the court, upon the court\u2019s entry of an order to revoke pretrial release and order pretrial detention in certain circumstances, to discharge any bond previously posted as a condition of pretrial release without further order of the court; requiring that a signed certification containing certain information must accompany or be included on a specified notice, etc."
+      "abstract": "Bail Bonds;  Decreasing the duration of in-person classroom-instruction basic certification courses required to be considered for approval and certification as an approved limited surety agent and professional bail bond agent prelicensing school; requiring, rather than authorizing, that any monetary or cash component of any form of pretrial release be met by specified means; requiring the clerk of the court, upon the court\u2019s entry of an order to revoke pretrial release and order pretrial detention in certain circumstances, to discharge any bond previously posted as a condition of pretrial release without further order of the court; requiring that a signed certification containing certain information accompany or be included on a specified notice, etc."
     }
   ],
   "other_titles": [],
@@ -186,18 +186,6 @@
       }
     },
     {
-      "description": "Placed on Special Order Calendar, 02/26/26  --If Received",
-      "date": "2026-02-23",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "enrolled"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-02-25T12:43:58Z"
-      }
-    },
-    {
       "description": "CS/CS/CS by- Rules; YEAS 23 NAYS 0",
       "date": "2026-02-24",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -206,9 +194,57 @@
       "_processing": {
         "log_file_created": "2026-02-26T12:44:25Z"
       }
+    },
+    {
+      "description": "Pending reference review -under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:03Z"
+      }
+    },
+    {
+      "description": "Placed on Calendar, on 2nd reading",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:03Z"
+      }
+    },
+    {
+      "description": "Placed on Special Order Calendar, 02/26/26",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:03Z"
+      }
+    },
+    {
+      "description": "CS/CS/CS by Rules read 1st time",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:03Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Rules",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Rules\"}"
+    },
     {
       "name": "Appropriations Committee on Criminal and Civil Justice",
       "classification": "primary",
@@ -280,6 +316,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 600 c3",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/600/BillText/c3/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/600/BillText/c3/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -332,6 +383,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/600/Analyses/2026s00600.pre.rc.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Rules (Post-Meeting) (2/25/2026 9:32 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/600/Analyses/2026s00600.rc.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -554,6 +616,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-26T12:44:25Z"
+    "logs_latest_update": "2026-02-27T12:39:03Z"
   }
 }

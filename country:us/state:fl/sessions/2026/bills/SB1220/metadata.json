@@ -17,7 +17,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Transportation;  Providing requirements for an infrastructure development and improvement component included in a port\u2019s strategic plan; requiring the Department of Transportation to coordinate with the Department of Commerce, specified ports, and the Federal Government for a certain purpose; prohibiting counties and municipalities from enacting, imposing, levying, collecting, or enforcing certain operating fees and advertising regulations; authorizing certain rental trucks to elect a permanent registration period; revising duties of the Department of Transportation relating to airport systems in this state, etc.\r\n    \r\n        APPROPRIATION:\r\n        $300,000"
+      "abstract": "Transportation;  Revising the membership composition of the Florida Transportation Research Institute; requiring the Department of Transportation to coordinate with the Department of Commerce, specified ports, and the Federal Government for a certain purpose; revising the visible signals given by an approaching emergency vehicle upon which a driver must yield the right-of-way; prohibiting a personal delivery device from operating as otherwise authorized unless the personal delivery device meets certain criteria and a human operator is capable of controlling and monitoring its navigation and operation; prohibiting a political subdivision from withholding issuance of a business tax receipt, development permit, or other land use approval to certain drone delivery services and from enacting or enforcing ordinances or resolutions that prohibit drone delivery service operation; requiring commercial service airports to develop a plan for obtaining and maintaining critical infrastructure resources, etc.\r\n    \r\n        APPROPRIATION:\r\n        $300,000"
     }
   ],
   "other_titles": [],
@@ -178,9 +178,47 @@
       "_processing": {
         "log_file_created": "2026-02-26T12:44:25Z"
       }
+    },
+    {
+      "description": "Pending reference review -under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:03Z"
+      }
+    },
+    {
+      "description": "Placed on Calendar, on 2nd reading",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:03Z"
+      }
+    },
+    {
+      "description": "CS/CS/CS by Appropriations read 1st time",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:03Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Appropriations",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Appropriations\"}"
+    },
     {
       "name": "Appropriations Committee on Transportation, Tourism, and Economic Development",
       "classification": "primary",
@@ -252,6 +290,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 1220 c3",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1220/BillText/c3/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1220/BillText/c3/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -311,6 +364,17 @@
       "classification": ""
     },
     {
+      "note": "Bill Analysis -- Appropriations (Post-Meeting) (2/25/2026 4:33 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1220/Analyses/2026s01220.ap.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "802216 - Amendment to S 1220 Filed",
       "links": [
         {
@@ -327,6 +391,14 @@
     }
   ],
   "citations": [
+    {
+      "publication": "Florida Statues",
+      "citation": "20.23",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/20.23"
+    },
     {
       "publication": "Florida Statues",
       "citation": "260.0142",
@@ -350,6 +422,14 @@
       "effective": null,
       "expires": null,
       "url": "https://flsenate.gov/laws/statutes/2025/311.14"
+    },
+    {
+      "publication": "Florida Chapter Law",
+      "citation": "2006-316",
+      "citation_type": "chapter",
+      "effective": null,
+      "expires": null,
+      "url": "http://laws.flrules.org/2006/316"
     }
   ],
   "sources": [
@@ -366,6 +446,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-26T12:44:25Z"
+    "logs_latest_update": "2026-02-27T12:39:03Z"
   }
 }

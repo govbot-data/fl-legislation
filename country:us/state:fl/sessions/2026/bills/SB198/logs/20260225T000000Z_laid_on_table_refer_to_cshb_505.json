@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Laid on Table, refer to CS/HB 505",
+    "date": "2026-02-25",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "deferral"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 198"
+}

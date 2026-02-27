@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Biosolids Management;  Prohibiting the land application of bulk Class AA biosolids fertilizer and compost products from exceeding the appropriate agronomic rate; requiring the owner or operator of certain land application sites to maintain application records for a specified timeframe and make such records available to the Department of Environmental Protection upon request; requiring the University of Florida Institute of Food and Agricultural Sciences to, on a specified basis and beginning on a specified date, publish and make publicly available recommended agronomic rates for the reuse of bulk Class AA biosolids fertilizer and compost products, etc."
+      "abstract": "Biosolids Management;  Prohibiting the land application of bulk Class AA biosolids fertilizer and compost products from exceeding the appropriate agronomic rate; requiring the owner or operator of certain land application sites to maintain application records for a specified timeframe and make such records available to the Department of Environmental Protection upon request; requiring the University of Florida Institute of Food and Agricultural Sciences, on a specified basis and beginning on a specified date, to publish and make publicly available recommended agronomic rates for the reuse of bulk Class AA biosolids fertilizer and compost products; prohibiting Class AA biosolids fertilizer products and certain Class AA biosolids compost products from being marketed or distributed for agricultural land application unless specified requirements are met, etc."
     }
   ],
   "other_titles": [],
@@ -173,9 +173,37 @@
       "_processing": {
         "log_file_created": "2026-02-26T12:44:25Z"
       }
+    },
+    {
+      "description": "Pending reference review -under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:02Z"
+      }
+    },
+    {
+      "description": "CS/CS/CS by Rules read 1st time",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:39:02Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Rules",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Rules\"}"
+    },
     {
       "name": "Appropriations Committee on Agriculture, Environment, and General Government",
       "classification": "primary",
@@ -247,6 +275,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 1294 c3",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1294/BillText/c3/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1294/BillText/c3/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -299,6 +342,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/1294/Analyses/2026s01294.pre.rc.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Rules (Post-Meeting) (2/25/2026 12:37 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1294/Analyses/2026s01294.rc.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -360,6 +414,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-26T12:44:25Z"
+    "logs_latest_update": "2026-02-27T12:39:02Z"
   }
 }
