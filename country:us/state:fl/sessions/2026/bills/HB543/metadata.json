@@ -14,7 +14,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Transportation;  Requires DOT to increase minimum perception-reaction time for steady yellow signals at certain intersections by specified amount of time; requires certain seaports to submit annual report describing measures taken to support commercial space launch industry to chair of Space Florida board of directors beginning on specified date; requires seaport to post such report on its website; prohibits certain seaports from converting planned or existing land, facilities, or infrastructure that supports cargo purposes unless specified conditions are met; requires legislative approval for use of state funds for specified projects; authorizes private entity to install automated license plate recognition system for use on certain property for specified purpose & provides requirements therefor; authorizes county or municipality to set lower maximum speed limit under certain conditions; authorizes vehicles displaying disabled parking permits to occupy more than one parking space under specified conditions; prohibits such vehicles from being cited, penalized, or towed under specified circumstances; provides requirements for property owners & towing operators; requires certain motor vehicles to be equipped with & maintain exhaust system to prevent excessive or unusual noise; prohibits such system from allowing excessive or unusual noise that is audible at specified distance from vehicle; authorizes certain golf carts to be titled & registered for operation on certain roads without inspection by DOT & provides requirements therefor; provides that use of license plate frame or decorative border device is not prohibited under specified conditions; provides requirements for electronic credentialing system; authorizes DOT to make direct payments to certain subcontractors under specified conditions; requires DOT to adopt rules; provides requirements for takeover agreement."
+      "abstract": "Transportation;  Revises & provides provisions relating to increasing minimum perception-reaction time for steady yellow signals, seaports, speed detection systems in school zones, automated license plate recognition systems, private school bus contractors, school bus infraction detection systems, lowering maximum speed limits, flashing beacons, school zones, radar & LiDAR units, disabled parking permits, golf carts, prevention of excessive or unusual noise, motor vehicle registration, license plate frames or decorative border devices, digital driver licenses & electronic credentialing system, digital imaged licenses, use of data by identity verification service providers, direct payments to subcontractors, metropolitan planning organizations, & takeover agreements; provides various penalties."
     }
   ],
   "other_titles": [],
@@ -304,9 +304,95 @@
       "_processing": {
         "log_file_created": "2026-02-26T12:44:25Z"
       }
+    },
+    {
+      "description": "Favorable with CS by State Affairs Committee",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
+    },
+    {
+      "description": "Reported out of State Affairs Committee",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
+    },
+    {
+      "description": "Bill referred to House Calendar",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
+    },
+    {
+      "description": "Bill added to Special Order Calendar (3/4/2026)",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 3)",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "State Affairs Committee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"State Affairs Committee\"}"
+    },
     {
       "name": "Budget Committee",
       "classification": "primary",
@@ -366,6 +452,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 543 c3",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/543/BillText/c3/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -392,10 +489,10 @@
       "classification": ""
     },
     {
-      "note": "Bill Analysis -- State Affairs Committee (Post-Meeting) (2/24/2026 5:15 PM)",
+      "note": "Bill Analysis -- State Affairs Committee (Post-Meeting) (2/26/2026 9:13 PM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/543/Analyses/h0543d.SAC.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/543/Analyses/h0543e.SAC.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -460,6 +557,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-26T12:44:25Z"
+    "logs_latest_update": "2026-02-28T12:29:17Z"
   }
 }

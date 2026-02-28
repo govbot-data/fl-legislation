@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Specialty License Plates;  Requires certain organizations that have approved specialty license plate to submit within specified timeframe certain financial information to DHSMV; provides for deauthorization of certain specialty license plates if organization receiving annual use fees does not submit required financial information to DHSMV within specified timeframe; requires DHSMV to submit annual report to Governor & Legislature by specified date; prohibits specialty license plate annual use fees or interest earned from such fees from being distributed to certain entities; revises provisions relating to issuance & fee distribution for Fraternal Order of Police license plates."
+      "abstract": "Specialty License Plates;  Requires certain organizations that have approved specialty license plate to submit within specified timeframe certain financial information to DHSMV; provides for deauthorization of certain specialty license plates if organization receiving annual use fees does not submit required financial information to DHSMV within specified timeframe; requires DHSMV to submit annual report to Governor & Legislature by specified date; prohibits specialty license plate annual use fees or interest earned from such fees from being distributed to certain entities; revises provisions relating to issuance & fee distribution for Fraternal Order of Police license plates; directs DHSMV to develop specified specialty license plates."
     }
   ],
   "other_titles": [],
@@ -176,9 +176,95 @@
       "_processing": {
         "log_file_created": "2026-02-26T12:44:25Z"
       }
+    },
+    {
+      "description": "Favorable with CS by State Affairs Committee",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
+    },
+    {
+      "description": "Reported out of State Affairs Committee",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
+    },
+    {
+      "description": "Bill referred to House Calendar",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
+    },
+    {
+      "description": "Bill added to Special Order Calendar (3/4/2026)",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 2)",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "State Affairs Committee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"State Affairs Committee\"}"
+    },
     {
       "name": "Government Operations Subcommittee",
       "classification": "primary",
@@ -219,6 +305,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 639 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/639/BillText/c2/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -227,6 +324,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/639/Analyses/h0639.GOS.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- State Affairs Committee (Post-Meeting) (2/26/2026 3:18 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/639/Analyses/h0639a.SAC.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -282,6 +390,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-26T12:44:25Z"
+    "logs_latest_update": "2026-02-28T12:29:17Z"
   }
 }

@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "HB 273",
-  "title": "Special District Funding",
+  "title": "Special Districts",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Special District Funding;  Revises agency agreements that provide state financial assistance to recipients or subrecipients to include certain special districts as entity to which such agency may provide for payment of invoices; provides construction; revises definition of \"rural community\" to include certain special districts."
+      "abstract": "Special Districts;  Provides that boundaries of downtown development district may only be changed in specified manner; requires adopted budget of downtown development district to contain specified information; prohibits certain expenditures from exceeding specified percentage of budget;  requires budget be approved in specified manner; revises agency agreements that provide state financial assistance to recipients or subrecipients to include specified special districts as entity to which such agency may provide for payment of invoices."
     }
   ],
   "other_titles": [],
@@ -182,9 +182,95 @@
       "_processing": {
         "log_file_created": "2026-02-26T12:44:25Z"
       }
+    },
+    {
+      "description": "Favorable with CS by State Affairs Committee",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
+    },
+    {
+      "description": "Reported out of State Affairs Committee",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
+    },
+    {
+      "description": "Bill referred to House Calendar",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
+    },
+    {
+      "description": "Bill added to Special Order Calendar (3/4/2026)",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 1)",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "State Affairs Committee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"State Affairs Committee\"}"
+    },
     {
       "name": "Johnson",
       "classification": "primary",
@@ -201,6 +287,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/273/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "H 273 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/273/BillText/c1/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -230,26 +327,20 @@
       ],
       "date": "",
       "classification": ""
-    }
-  ],
-  "citations": [
-    {
-      "publication": "Florida Statues",
-      "citation": "215.971",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/215.971"
     },
     {
-      "publication": "Florida Statues",
-      "citation": "288.0656",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/288.0656"
+      "note": "Bill Analysis -- State Affairs Committee (Post-Meeting) (2/26/2026 3:17 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/273/Analyses/h0273d.SAC.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
+  "citations": [],
   "sources": [
     {
       "url": "https://flsenate.gov/Session/Bill/2026/273/ByCategory",
@@ -264,6 +355,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-26T12:44:25Z"
+    "logs_latest_update": "2026-02-28T12:29:17Z"
   }
 }

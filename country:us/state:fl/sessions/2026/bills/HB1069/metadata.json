@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "HB 1069",
-  "title": "Background Screenings of Athletic Coaches",
+  "title": "Background Screenings",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -13,12 +13,12 @@
     "k",
     "labor",
     "public health",
-    "social welfare"
+    "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Background Screenings of Athletic Coaches;  Provides that independent sanctioning authority is deemed to be a qualified entity for purpose of participating in Care Provider Background Screening Clearinghouse; authorizes person who has not undergone certain background screening to act as athletic coach if he or she is under direct supervision of athletic coach who meets certain background screening requirements."
+      "abstract": "Background Screenings;  Revises definition of term \"athletic coach\"; provides that independent sanctioning authority is deemed to be qualified entity for purpose of participating in Care Provider Background Screening Clearinghouse; requires qualified entities to designate user administrator for specified purpose; prohibits certain persons from denying or failing to acknowledge certain criminal history records that have been expunged or sealed; requires FDLE to disclose sealed criminal history records."
     }
   ],
   "other_titles": [],
@@ -206,9 +206,95 @@
       "_processing": {
         "log_file_created": "2026-02-26T12:44:25Z"
       }
+    },
+    {
+      "description": "Favorable with CS by Judiciary Committee",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
+    },
+    {
+      "description": "Reported out of Judiciary Committee",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
+    },
+    {
+      "description": "Bill referred to House Calendar",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
+    },
+    {
+      "description": "Bill added to Special Order Calendar (3/3/2026)",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 2)",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Judiciary Committee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Judiciary Committee\"}"
+    },
     {
       "name": "Health & Human Services Committee",
       "classification": "primary",
@@ -231,6 +317,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Hunschofsky\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gossett-Seidman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Gossett-Seidman\"}",
       "organization_id": null
     }
   ],
@@ -257,6 +351,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 1069 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1069/BillText/c2/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -265,6 +370,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/1069/Analyses/h1069.HHS.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Judiciary Committee (Post-Meeting) (2/26/2026 2:38 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1069/Analyses/h1069a.JDC.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -280,6 +396,54 @@
       "effective": null,
       "expires": null,
       "url": "https://flsenate.gov/laws/statutes/2025/943.0438"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "943.053",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/943.053"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "943.0542",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/943.0542"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "943.0578",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/943.0578"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "943.0582",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/943.0582"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "943.0585",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/943.0585"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "943.059",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/943.059"
     }
   ],
   "sources": [
@@ -296,6 +460,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-26T12:44:25Z"
+    "logs_latest_update": "2026-02-28T12:29:17Z"
   }
 }

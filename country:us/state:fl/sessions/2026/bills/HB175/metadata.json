@@ -13,7 +13,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Payment Stablecoin;  Revises definition of term \"money services business\" to include qualified payment stablecoin issuer; prohibits persons from engaging in activity of qualified payment stablecoin issuer without registering & receiving specified notification; provides that certain money services businesses are exempt from registration requirements; specifies that certain payment stablecoins are not security & are not subject to certain requirements; specifies that certain transactions are not regulated under certain provisions; requires qualified payment stablecoin issuers with consolidated total outstanding payment stablecoin issuance that reaches specified threshold to comply with certain requirements; specifies that OFR remains solely responsible for supervising qualified payment stablecoin issuers or is jointly responsible with Office of Comptroller of Currency for such supervision; specifies that qualified payment stablecoin issuers may engage only in certain activities."
+      "abstract": "Payment Stablecoin;  Revises Florida Control of Money Laundering in Money Services Business Act to include payment stablecoins; requires certain payment stablecoin issuers to comply with certain regulations; prohibits persons from engaging in activity of qualified payment stablecoin issuer without being licensed or exempted from licensure; requires out-of-state state-qualified payment stablecoin issuers to provide specified written notice to OFR; specifies that certain transactions are not regulated under certain provisions; specifies that certain payment stablecoin is not security & not subject to certain provisions; specifies that office remains solely responsible for supervising qualified payment stablecoin issuers or is jointly responsible with Office of Comptroller of Currency for such supervision; prohibits trust company from engaging in activity of qualified payment stablecoin issuer unless trust company obtains certificate of approval or is exempted from such certificate."
     }
   ],
   "other_titles": [],
@@ -189,9 +189,83 @@
       "_processing": {
         "log_file_created": "2026-02-27T12:39:02Z"
       }
+    },
+    {
+      "description": "Reported out of Commerce Committee",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
+    },
+    {
+      "description": "Bill referred to House Calendar",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
+    },
+    {
+      "description": "Bill added to Special Order Calendar (3/3/2026)",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 2)",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Commerce Committee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Commerce Committee\"}"
+    },
     {
       "name": "Insurance & Banking Subcommittee",
       "classification": "primary",
@@ -243,6 +317,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/175/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "H 175 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/175/BillText/c2/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -307,14 +392,6 @@
     },
     {
       "publication": "Florida Statues",
-      "citation": "560.114",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/560.114"
-    },
-    {
-      "publication": "Florida Statues",
       "citation": "560.123",
       "citation_type": "proposed",
       "effective": null,
@@ -344,6 +421,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-27T12:39:02Z"
+    "logs_latest_update": "2026-02-28T12:29:17Z"
   }
 }

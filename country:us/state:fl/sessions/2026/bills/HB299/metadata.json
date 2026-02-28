@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Blue Ribbon Projects;  Requires that development project meet certain requirements to qualify as blue ribbon project; provides maximum residential density & nonresidential intensity permitted within development area of blue ribbon project; requires that specified percentage of project's residential units meet certain requirements; requires development area to be developed in phases; requires certain development rights & mitigation of project impacts to be vested for specified period; requires blue ribbon project to have blue ribbon plan; provides that plan is not required to demonstrate certain need; requires project to receive dollar-for-dollar credits from local government; provides that certain easements or property must be granted without charge; provides that project may be located on land with any future land use designation or zoning designation; prohibits required amendment of comprehensive plan or required rezoning for approval of project; requires landowner to apply to local government for approval of project; requires project to meet certain requirements to receive administrative approval; provides local government review requirements; requires local government to record plan for approved project in public records of county in which project property is located; prohibits applicant from amending recorded plan without undergoing specified review; authorizes applicant to hire private company to conduct plan reviews & building inspections; provides appeal procedures for denial of blue ribbon project application; provides environmental review requirements."
+      "abstract": "Blue Ribbon Projects ;  Requires that development project meet certain requirements to qualify as blue ribbon project; requires blue ribbon project to have blue ribbon plan; requires project to receive dollar-for-dollar credits from local government; provides that certain easements or property must be granted without charge; requires landowner to apply to local government for approval of plan; provides local government review requirements; provides that blue ribbon plan governs use of property upon approval of plan application by local government; provides that project may be located on land with any future land use designation or zoning designation; provides appeal procedures for denial & approval of blue ribbon plan application; provides environmental review requirements."
     }
   ],
   "other_titles": [],
@@ -290,9 +290,75 @@
       "_processing": {
         "log_file_created": "2026-02-26T12:44:25Z"
       }
+    },
+    {
+      "description": "Favorable with CS by State Affairs Committee",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
+    },
+    {
+      "description": "Reported out of State Affairs Committee",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 3)",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "State Affairs Committee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"State Affairs Committee\"}"
+    },
     {
       "name": "Commerce Committee",
       "classification": "primary",
@@ -352,6 +418,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 299 c3",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/299/BillText/c3/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -378,10 +455,10 @@
       "classification": ""
     },
     {
-      "note": "Bill Analysis -- State Affairs Committee (Post-Meeting) (2/24/2026 5:10 PM)",
+      "note": "Bill Analysis -- State Affairs Committee (Post-Meeting) (2/26/2026 5:58 PM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/299/Analyses/h0299d.SAC.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/299/Analyses/h0299e.SAC.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -415,6 +492,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-26T12:44:25Z"
+    "logs_latest_update": "2026-02-28T12:29:17Z"
   }
 }

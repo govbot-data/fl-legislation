@@ -7,10 +7,10 @@
     "bill"
   ],
   "subject": [
-    "executive branch",
     "industry",
     "public health",
     "public lands and property",
+    "relations",
     "subject index"
   ],
   "abstracts": [
@@ -119,18 +119,6 @@
       }
     },
     {
-      "description": "On Committee agenda-- Fiscal Policy, 03/02/26, 12:00 pm, 412 Knott Building --If Received",
-      "date": "2026-02-25",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "enrolled"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-02-27T12:39:03Z"
-      }
-    },
-    {
       "description": "CS/CS by Appropriations Committee on Agriculture, Environment, and General Government; YEAS 8 NAYS 0",
       "date": "2026-02-25",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -139,9 +127,57 @@
       "_processing": {
         "log_file_created": "2026-02-27T12:39:03Z"
       }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
+    },
+    {
+      "description": "Now in Fiscal Policy",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
+    },
+    {
+      "description": "On Committee agenda-- Fiscal Policy, 03/02/26, 12:00 pm, 412 Knott Building",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
+    },
+    {
+      "description": "CS/CS by Appropriations Committee on Agriculture, Environment, and General Government read 1st time",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Appropriations Committee on Agriculture, Environment, and General Government",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Appropriations Committee on Agriculture, Environment, and General Government\"}"
+    },
     {
       "name": "Environment and Natural Resources",
       "classification": "primary",
@@ -190,6 +226,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 1510 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1510/BillText/c2/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1510/BillText/c2/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -220,6 +271,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/1510/Analyses/2026s01510.pre.aeg.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Appropriations Committee on Agriculture, Environment, and General Government (Post-Meeting) (2/26/2026 12:25 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1510/Analyses/2026s01510.aeg.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -258,6 +320,14 @@
       "effective": null,
       "expires": null,
       "url": "https://flsenate.gov/laws/statutes/2025/120.81"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "163.3205",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/163.3205"
     },
     {
       "publication": "Florida Statues",
@@ -554,6 +624,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-27T12:39:03Z"
+    "logs_latest_update": "2026-02-28T12:29:17Z"
   }
 }

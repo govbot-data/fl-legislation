@@ -15,7 +15,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Domestic Violence and Protective Injunctions;  Provides enhanced penalties for committing domestic violence offense if person has prior conviction for domestic violence; provides that sentencing & incentive gain-time eligibility determinations are made without regard to penalty enhancement; authorizes & in certain circumstances requires court to order electronic monitoring in domestic violence cases; requires respondent to pay for such electronic monitoring services; revises information contained in petition for injunction for protection against domestic violence; revises factors judge may consider in determining whether to grant petition for injunction against domestic violence; requires FDLE to enter injunctions against dating violence & sexual violence into statewide verification system; requires law enforcement officer to make specified notification if he or she has probable cause to believe that person violated military protective order; authorizes & in certain circumstances requires court to order electronic monitoring for respondent in injunction for protection against dating violence, repeat violence, or sexual violence; requires respondent to pay for such electronic monitoring services; increases dollar amounts for relocation assistance for victims of domestic violence."
+      "abstract": "Domestic Violence and Protective Injunctions;  Reclassifies penalties for committing domestic violence offense if person has prior conviction for domestic violence; provides that certain determinations are made without regard to penalty enhancement; establishes electronic monitoring pilot program  in specified county; authorizes & in certain circumstances requires court to order electronic monitoring supervision if certain conditions are met; provides requirements for pilot program; requires sheriff to provide to Legislature reports on specified dates; provides report requirements; requires order for electronic monitoring supervision to terminate on specified date; provides for repeal of pilot program; revises information contained in petition for domestic violence injunction; revises factors judge may consider in determining whether to grant petition; requires FDLE to enter injunctions against dating violence & sexual violence into statewide verification system; provides that person commits felony of third degree if such person commits violation of injunction or foreign protection order against victim under certain circumstances; requires minimum term of imprisonment for such offense; requires law enforcement officer to make specified notification if he or she has probable cause to believe that person violated military protective order; increases dollar amounts for relocation assistance for victims of domestic violence."
     }
   ],
   "other_titles": [],
@@ -257,9 +257,95 @@
       "_processing": {
         "log_file_created": "2026-02-26T12:44:25Z"
       }
+    },
+    {
+      "description": "Favorable with CS by Judiciary Committee",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:18Z"
+      }
+    },
+    {
+      "description": "Reported out of Judiciary Committee",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:18Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:18Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:18Z"
+      }
+    },
+    {
+      "description": "Bill referred to House Calendar",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:18Z"
+      }
+    },
+    {
+      "description": "Bill added to Special Order Calendar (3/4/2026)",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:18Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 2)",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:18Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Judiciary Committee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Judiciary Committee\"}"
+    },
     {
       "name": "Criminal Justice Subcommittee",
       "classification": "primary",
@@ -461,6 +547,14 @@
       "organization_id": null
     },
     {
+      "name": "Plakon",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Plakon\"}",
+      "organization_id": null
+    },
+    {
       "name": "Redondo",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -474,6 +568,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Rosenwald\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Salzman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Salzman\"}",
       "organization_id": null
     },
     {
@@ -540,6 +642,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 277 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/277/BillText/c2/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -559,6 +672,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/277/Analyses/h0277b.JUB.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Judiciary Committee (Post-Meeting) (2/26/2026 2:27 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/277/Analyses/h0277c.JDC.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -590,6 +714,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-26T12:44:25Z"
+    "logs_latest_update": "2026-02-28T12:29:18Z"
   }
 }

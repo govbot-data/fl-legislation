@@ -13,7 +13,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Local Government Spending;  Citing this act as the \u201cLocal Government Financial Transparency and Accountability Act\u201d; requiring counties to reinvest utility service revenues back into a utility for specified purposes; revising the timeframe during which tentative budgets, and the length of time for which final budgets, must be posted on county websites; revising the timeframe during which a public hearing for an amendment to a county budget must be advertised; revising the timeframe during which tentative budgets, and the length of time for which final budgets, must be posted on municipal or county websites, as applicable, etc."
+      "abstract": "Local Government Spending;  Citing this act as the \u201cLocal Government Financial Transparency and Accountability Act\u201d; revising the timeframe during which tentative budgets, and the length of time for which final budgets, must be posted on county websites; revising the timeframe during which a public hearing for an amendment to a county budget must be advertised; revising the timeframe during which tentative budgets, and the length of time for which final budgets, must be posted on municipal or county websites, as applicable, etc."
     }
   ],
   "other_titles": [],
@@ -124,9 +124,57 @@
       "_processing": {
         "log_file_created": "2026-02-27T12:39:03Z"
       }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
+    },
+    {
+      "description": "Now in Rules",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
+    },
+    {
+      "description": "On Committee agenda-- Rules, 03/03/26, 9:00 am, 412 Knott Building",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
+    },
+    {
+      "description": "CS/CS by Appropriations Committee on Agriculture, Environment, and General Government read 1st time",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Appropriations Committee on Agriculture, Environment, and General Government",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Appropriations Committee on Agriculture, Environment, and General Government\"}"
+    },
     {
       "name": "Community Affairs",
       "classification": "primary",
@@ -175,6 +223,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 1566 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1566/BillText/c2/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1566/BillText/c2/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -212,6 +275,17 @@
       "classification": ""
     },
     {
+      "note": "Bill Analysis -- Appropriations Committee on Agriculture, Environment, and General Government (Post-Meeting) (2/26/2026 12:25 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1566/Analyses/2026s01566.aeg.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "148420 - Amendment (Delete All) to S 1566 Filed",
       "links": [
         {
@@ -227,7 +301,32 @@
       "classification": ""
     }
   ],
-  "citations": [],
+  "citations": [
+    {
+      "publication": "Florida Statues",
+      "citation": "129.03",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/129.03"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "129.06",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/129.06"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "166.241",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/166.241"
+    }
+  ],
   "sources": [
     {
       "url": "https://flsenate.gov/Session/Bill/2026/1566/ByCategory",
@@ -242,6 +341,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-27T12:39:03Z"
+    "logs_latest_update": "2026-02-28T12:29:17Z"
   }
 }

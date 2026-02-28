@@ -7,12 +7,14 @@
     "bill"
   ],
   "subject": [
+    "evidence",
+    "judicial branch",
     "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Sexual Offenses;  Provides for reclassification of certain child pornography offenses; requires mandatory minimum sentences for certain reclassified offenses committed by specified offenders; revises mandatory minimum sentences for certain sexual offenses by persons previously convicted of sexual offenses; requires mandatory minimum sentences for certain offenses committed by specified offenders; prohibits person from employing, authorizing, or inducing child younger than specified age to engage in sexual performance; increases penalty for knowingly soliciting, possessing, controlling, or intentionally viewing certain materials that include child pornography; increases penalty for intentionally creating generated child pornography; requires mandatory minimum sentence for such offense when committed by specified offenders; revises punishments for certain sexual activities involving animals; requires certain court order to be effective for certain number of years; provides that prohibition of certain acts in connection with obscene, lewd, etc., materials does not apply to certain persons; prohibits person from knowingly granting another access to child pornography or generated child pornography in certain manner; requires mandatory minimum sentences for certain offenses committed by specified offenders; ranks offenses on offense severity ranking chart of Criminal Punishment Code."
+      "abstract": "Sexual Offenses;  Replaces term \"child pornography\" with term \"child sexual abuse material\"; revises criterion related to reclassification of specified offenses; revises mandatory minimum sentences for certain sexual offenses by persons previously convicted of sexual offenses; increases penalty for employing, authorizing, or inducing child of specified age to engage in sexual performance; prohibits person from employing, authorizing, or inducing child younger than 12 years of age to engage in sexual performance; requires mandatory minimum sentences for certain offenses when committed by specified offenders; increases penalty for knowingly soliciting, possessing, controlling, or intentionally viewing certain materials that include child sexual abuse material; provides applicability of specified mandatory minimum sentences; increases penalty for intentionally creating generated child sexual abuse material; prohibits person from transmitting child sexual abuse material to another person; revises punishments for certain sexual activities involving animals; requires certain court order to be effective for certain number of years; increases criminal penalties for possessing child-like sex doll; provides that prosecution for certain acts in connection with obscene, lewd, etc., materials does not prohibit person from prosecution for other specified offenses; requires mandatory minimum sentences for certain offenses when committed by specified offenders; ranks offenses on offense severity ranking chart of Criminal Punishment Code."
     }
   ],
   "other_titles": [],
@@ -242,9 +244,95 @@
       "_processing": {
         "log_file_created": "2026-02-26T12:44:25Z"
       }
+    },
+    {
+      "description": "Favorable with CS by Judiciary Committee",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
+    },
+    {
+      "description": "Reported out of Judiciary Committee",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
+    },
+    {
+      "description": "Bill referred to House Calendar",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
+    },
+    {
+      "description": "Bill added to Special Order Calendar (3/3/2026)",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 2)",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Judiciary Committee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Judiciary Committee\"}"
+    },
     {
       "name": "Criminal Justice Subcommittee",
       "classification": "primary",
@@ -259,6 +347,30 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Jacques\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Baker",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Baker\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Daniels",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Daniels\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Steele",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Steele\"}",
       "organization_id": null
     },
     {
@@ -293,6 +405,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 1159 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1159/BillText/c2/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -319,6 +442,17 @@
       "classification": ""
     },
     {
+      "note": "Bill Analysis -- Judiciary Committee (Post-Meeting) (2/26/2026 2:38 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1159/Analyses/h1159d.JDC.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "140239 - Amendment to H 1159 Filed",
       "links": [
         {
@@ -331,6 +465,46 @@
     }
   ],
   "citations": [
+    {
+      "publication": "Florida Statues",
+      "citation": "39.0138",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/39.0138"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "92.56",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/92.56"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "92.561",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/92.561"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "435.07",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/435.07"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "456.074",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/456.074"
+    },
     {
       "publication": "Florida Statues",
       "citation": "775.0847",
@@ -373,11 +547,51 @@
     },
     {
       "publication": "Florida Statues",
+      "citation": "836.13",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/836.13"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "836.14",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/836.14"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "847.001",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/847.001"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "847.002",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/847.002"
+    },
+    {
+      "publication": "Florida Statues",
       "citation": "847.011",
       "citation_type": "proposed",
       "effective": null,
       "expires": null,
       "url": "https://flsenate.gov/laws/statutes/2025/847.011"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "847.01357",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/847.01357"
     },
     {
       "publication": "Florida Statues",
@@ -389,11 +603,51 @@
     },
     {
       "publication": "Florida Statues",
+      "citation": "847.0139",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/847.0139"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "903.011",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/903.011"
+    },
+    {
+      "publication": "Florida Statues",
       "citation": "921.0022",
       "citation_type": "proposed",
       "effective": null,
       "expires": null,
       "url": "https://flsenate.gov/laws/statutes/2025/921.0022"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "948.06",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/948.06"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "960.03",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/960.03"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "960.197",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/960.197"
     }
   ],
   "sources": [
@@ -410,6 +664,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-26T12:44:25Z"
+    "logs_latest_update": "2026-02-28T12:29:17Z"
   }
 }

@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Agency for Persons with Disabilities;  Requiring level 2 employment screening for all employees of residential facilities and adult day training programs; requiring the agency to contract with a state university to develop and administer certain surveys for a specified purpose; requiring the state university to submit a final report to the agency by a specified date; requiring the agency to use certain information to identify certain core competencies and performance metrics and make recommendations for standardizing assessments, etc."
+      "abstract": "Agency for Persons with Disabilities;  Requiring level 2 employment screening for all employees of residential facilities and adult day training programs; providing background screening requirements for such employees; requiring the agency to solicit input and conduct publicly noticed hearings for a specified purpose in each service region; requiring the agency to use certain information to identify certain core competencies and performance metrics and make recommendations for standardizing assessments, etc."
     }
   ],
   "other_titles": [],
@@ -125,19 +125,55 @@
       }
     },
     {
-      "description": "On Committee agenda-- Fiscal Policy, 03/02/26, 12:00 pm, 412 Knott Building --If Received",
-      "date": "2026-02-25",
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-02-26",
       "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "enrolled"
-      ],
+      "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-02-27T12:39:02Z"
+        "log_file_created": "2026-02-28T12:29:18Z"
+      }
+    },
+    {
+      "description": "Now in Fiscal Policy",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:18Z"
+      }
+    },
+    {
+      "description": "On Committee agenda-- Fiscal Policy, 03/02/26, 12:00 pm, 412 Knott Building",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:18Z"
+      }
+    },
+    {
+      "description": "CS/CS by Appropriations Committee on Health and Human Services read 1st time",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:18Z"
       }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Appropriations Committee on Health and Human Services",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Appropriations Committee on Health and Human Services\"}"
+    },
     {
       "name": "Children, Families, and Elder Affairs",
       "classification": "primary",
@@ -189,6 +225,21 @@
         },
         {
           "url": "https://flsenate.gov/Session/Bill/2026/794/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S 794 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/794/BillText/c2/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/794/BillText/c2/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -249,6 +300,14 @@
   "citations": [
     {
       "publication": "Florida Statues",
+      "citation": "393.063",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/393.063"
+    },
+    {
+      "publication": "Florida Statues",
       "citation": "393.0655",
       "citation_type": "proposed",
       "effective": null,
@@ -270,6 +329,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-27T12:39:02Z"
+    "logs_latest_update": "2026-02-28T12:29:18Z"
   }
 }

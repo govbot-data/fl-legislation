@@ -7,6 +7,7 @@
     "bill"
   ],
   "subject": [
+    "public business",
     "railroads and other regulated utilities",
     "relations",
     "subject index"
@@ -14,7 +15,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Data Centers;  Prohibiting an agency from entering into a nondisclosure agreement or other contract that restricts the agency from disclosing certain information to the public; specifying that local governments maintain authority to exercise power and responsibility over comprehensive planning and land development regulations related to large load customers; requiring the Florida Public Service Commission to develop minimum tariff and service requirements for large load customers; prohibiting the governing board of a water management district or the Department of Environmental Protection from issuing a permit for the consumptive use of water to a large-scale data center under certain circumstances, etc."
+      "abstract": "Data Centers;  Prohibiting an agency from entering into a nondisclosure agreement or other contract that restricts the agency from disclosing certain information to the public; specifying that local governments maintain authority to exercise power and responsibility over comprehensive planning and land development regulations related to large load customers; requiring an economic development agency to disclose business activities related to the location, relocation, or expansion of a data center; requiring the Florida Public Service Commission to develop minimum tariff and service requirements for large load customers, etc."
     }
   ],
   "other_titles": [],
@@ -207,6 +208,72 @@
       "_processing": {
         "log_file_created": "2026-02-27T12:39:02Z"
       }
+    },
+    {
+      "description": "Read 2nd time",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
+    },
+    {
+      "description": "Amendment(s) adopted (817402)",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
+    },
+    {
+      "description": "Read 3rd time",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
+    },
+    {
+      "description": "CS passed as amended; YEAS 37 NAYS 0",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
+    },
+    {
+      "description": "Immediately certified",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
+    },
+    {
+      "description": "In Messages",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
     }
   ],
   "sponsorships": [
@@ -292,6 +359,21 @@
         },
         {
           "url": "https://flsenate.gov/Session/Bill/2026/484/BillText/c2/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S 484 e1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/484/BillText/e1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/484/BillText/e1/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -410,6 +492,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "817402 - Amendment to S 484 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/484/Amendment/817402/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/484/Amendment/817402/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [],
@@ -427,6 +524,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-27T12:39:02Z"
+    "logs_latest_update": "2026-02-28T12:29:17Z"
   }
 }

@@ -218,6 +218,16 @@
       "_processing": {
         "log_file_created": "2026-02-26T12:44:25Z"
       }
+    },
+    {
+      "description": "Bill added to Special Order Calendar (3/4/2026)",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:18Z"
+      }
     }
   ],
   "sponsorships": [
@@ -246,6 +256,14 @@
       "organization_id": null
     },
     {
+      "name": "Blanco",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Blanco\"}",
+      "organization_id": null
+    },
+    {
       "name": "Chaney",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -254,11 +272,27 @@
       "organization_id": null
     },
     {
+      "name": "Cross",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Cross\"}",
+      "organization_id": null
+    },
+    {
       "name": "Gentry",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Gentry\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gonzalez Pittman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Gonzalez Pittman\"}",
       "organization_id": null
     },
     {
@@ -409,6 +443,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-26T12:44:25Z"
+    "logs_latest_update": "2026-02-28T12:29:18Z"
   }
 }

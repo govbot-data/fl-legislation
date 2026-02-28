@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Use of Digital Currency by the Department of Financial Services;  Establishes Florida Stablecoin Pilot Program within DFS; authorizes DFS to engage in certain activities, designate one or more payment stablecoins for certain activities, accept payment stablecoins, & conduct examinations, audits, & investigations of permitted payment stablecoin issuers; requires that certain payment stablecoins meet specified criteria; authorizes program participants to elect to voluntarily participate in program & remit payment stablecoins to compatible digital wallet address; requires certain participants to provide DFS with compatible digital wallet address; requires DFS to comply with certain requirements, provide compatible digital wallet address for specified purpose, coordinate with OFR under certain circumstances, monitor & evaluate pilot program & collect certain data, & submit annual report containing certain information to Governor & Legislature beginning on specified date & annually thereafter; authorizes DFS to adopt rules."
+      "abstract": "Use of Digital Currency by the Department of Financial Services;  Establishes Florida Stablecoin Pilot Program within DFS; authorizes DFS to engage in certain activities, designate one or more payment stablecoins for certain activities, & accept payment stablecoins; requires that certain payment stablecoins meet specified criteria; authorizes program participants to elect to voluntarily participate in program & remit payment stablecoins to compatible digital wallet address; requires certain participants to provide DFS with such address; requires DFS to comply with certain requirements & provide such address for specified purpose; authorizes DFS to conduct examinations, audits, & investigations of permitted payment stablecoin issuers; requires DFS to coordinate with OFR under certain circumstances; requires DFS to monitor & evaluate pilot program & collect certain data; requires DFS to submit annual report containing certain information to Governor & Legislature beginning on specified date & annually thereafter; authorizes DFS to adopt rules."
     }
   ],
   "other_titles": [],
@@ -200,9 +200,63 @@
       "_processing": {
         "log_file_created": "2026-02-27T12:39:03Z"
       }
+    },
+    {
+      "description": "Reported out of Commerce Committee",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:18Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:18Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:18Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 2)",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:18Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Commerce Committee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Commerce Committee\"}"
+    },
     {
       "name": "Insurance & Banking Subcommittee",
       "classification": "primary",
@@ -246,6 +300,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/1415/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "H 1415 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1415/BillText/c2/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -303,6 +368,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-27T12:39:03Z"
+    "logs_latest_update": "2026-02-28T12:29:18Z"
   }
 }

@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 536",
-  "title": "Criminal Gang Members",
+  "title": "Criteria for Determining Criminal Gang Membership",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -13,7 +13,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Criminal Gang Members;  Defining the term \u201cgang-related language\u201d; revising the definition of the term \u201ccriminal gang member\u201d, etc."
+      "abstract": "Criteria for Determining Criminal Gang Membership;  Revising the definition of the term \u201ccriminal gang member\u201d; defining the term \u201cgang-related language\u201d, etc."
     }
   ],
   "other_titles": [],
@@ -116,18 +116,6 @@
       }
     },
     {
-      "description": "On Committee agenda-- Fiscal Policy, 03/02/26, 12:00 pm, 412 Knott Building --If Received",
-      "date": "2026-02-25",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "enrolled"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-02-27T12:39:03Z"
-      }
-    },
-    {
       "description": "CS/CS by Appropriations Committee on Criminal and Civil Justice; YEAS 5 NAYS 3",
       "date": "2026-02-25",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -136,9 +124,57 @@
       "_processing": {
         "log_file_created": "2026-02-27T12:39:03Z"
       }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
+    },
+    {
+      "description": "Now in Fiscal Policy",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
+    },
+    {
+      "description": "On Committee agenda-- Fiscal Policy, 03/02/26, 12:00 pm, 412 Knott Building",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
+    },
+    {
+      "description": "CS/CS by Appropriations Committee on Criminal and Civil Justice read 1st time",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Appropriations Committee on Criminal and Civil Justice",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Appropriations Committee on Criminal and Civil Justice\"}"
+    },
     {
       "name": "Criminal Justice",
       "classification": "primary",
@@ -182,6 +218,21 @@
         },
         {
           "url": "https://flsenate.gov/Session/Bill/2026/536/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S 536 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/536/BillText/c2/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/536/BillText/c2/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -287,6 +338,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-27T12:39:03Z"
+    "logs_latest_update": "2026-02-28T12:29:17Z"
   }
 }

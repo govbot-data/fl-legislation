@@ -117,6 +117,16 @@
       "_processing": {
         "log_file_created": "2026-01-31T12:29:57Z"
       }
+    },
+    {
+      "description": "On Committee agenda-- Rules, 03/03/26, 9:00 am, 412 Knott Building",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:18Z"
+      }
     }
   ],
   "sponsorships": [
@@ -191,6 +201,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "521902 - Amendment to S 620 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/620/Amendment/521902/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/620/Amendment/521902/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [
@@ -233,6 +258,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-31T12:29:57Z"
+    "logs_latest_update": "2026-02-28T12:29:18Z"
   }
 }

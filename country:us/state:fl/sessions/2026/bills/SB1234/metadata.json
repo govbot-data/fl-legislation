@@ -15,7 +15,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Building Permits and Inspections;  Providing for expiration of certain building permits issued by a county after a specified timeframe; providing construction; requiring the Florida Building Commission to modify the Florida Building Code to exempt from building permit requirements the installation of certain walls or barriers; providing for expiration of certain building permits issued by a local government after a specified timeframe; requiring certain services to be subject to an agreement, rather than a written contract; requiring the Department of Business and Professional Regulation to maintain a statewide registry of licensed persons and business organizations qualified to act as private providers, etc."
+      "abstract": "Building Permits and Inspections;  Providing for expiration of certain building permits issued by a county after a specified timeframe; providing that any certified residential manufactured building may not be denied a building permit for placement on specified lots or property associations; prohibiting a local government from adopting or enforcing certain zoning, land use, or development ordinances or regulations; requiring the Florida Building Commission to adopt by rule uniform statewide building permit applications for commercial and residential construction projects; requiring certain persons who perform work on a property to file a notice of permit exemption with the local enforcement agency within a specified timeframe, etc."
     }
   ],
   "other_titles": [],
@@ -158,9 +158,47 @@
       "_processing": {
         "log_file_created": "2026-02-26T12:44:25Z"
       }
+    },
+    {
+      "description": "Pending reference review -under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
+    },
+    {
+      "description": "Placed on Calendar, on 2nd reading",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
+    },
+    {
+      "description": "CS/CS by Rules read 1st time",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Rules",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Rules\"}"
+    },
     {
       "name": "Regulated Industries",
       "classification": "primary",
@@ -204,6 +242,21 @@
         },
         {
           "url": "https://flsenate.gov/Session/Bill/2026/1234/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S 1234 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1234/BillText/c2/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1234/BillText/c2/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -268,6 +321,17 @@
       "classification": ""
     },
     {
+      "note": "Bill Analysis -- Rules (Post-Meeting) (2/26/2026 12:25 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1234/Analyses/2026s01234.rc.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "269350 - Amendment (Delete All) to S 1234 Filed",
       "links": [
         {
@@ -317,43 +381,11 @@
     },
     {
       "publication": "Florida Statues",
-      "citation": "553.73",
+      "citation": "553.382",
       "citation_type": "proposed",
       "effective": null,
       "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/553.73"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "553.79",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/553.79"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "553.791",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/553.791"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "553.792",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/553.792"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "720.3035",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/720.3035"
+      "url": "https://flsenate.gov/laws/statutes/2025/553.382"
     }
   ],
   "sources": [
@@ -370,6 +402,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-26T12:44:25Z"
+    "logs_latest_update": "2026-02-28T12:29:17Z"
   }
 }

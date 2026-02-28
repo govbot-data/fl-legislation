@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Local Government Cyber Security;  Creates Local Government Cybersecurity Protection Program within Florida State University, to be administered by Florida State University; requires Florida State University to enter into certain data-sharing agreements with local governments & Florida Digital Service for specified purpose; requires Florida State University to administer grant program based on specified criteria to provide information technology commodities & services to local governments for specified purpose; requires Florida State University to contract for information technology commodities & services & award such commodities & services to local governments; requires grants to be annually awarded by date certain; authorizes Florida State University to apply for & accept certain funds or grants."
+      "abstract": "Local Government Cyber Security;  Creates Local Government Cybersecurity Protection Program within University of South Florida, to be administered by Florida Center for Cybersecurity; requires Florida Center for Cybersecurity to enter into data-sharing agreements with local governments & Florida Digital Service; requires Florida Center for Cybersecurity to administer grant program based on specified criteria to provide information technology commodities & services to local governments; requires Florida Center for Cybersecurity to contract for information technology commodities & services & award such commodities & services to local governments; requires Florida Center for Cybersecurity to prepare & submit specified report to Governor's Office of Policy & Budget & chairs of legislative appropriations committees."
     }
   ],
   "other_titles": [],
@@ -242,9 +242,95 @@
       "_processing": {
         "log_file_created": "2026-02-26T12:44:25Z"
       }
+    },
+    {
+      "description": "Favorable with CS by State Affairs Committee",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:18Z"
+      }
+    },
+    {
+      "description": "Reported out of State Affairs Committee",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:18Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:18Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:18Z"
+      }
+    },
+    {
+      "description": "Bill referred to House Calendar",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:18Z"
+      }
+    },
+    {
+      "description": "Bill added to Special Order Calendar (3/4/2026)",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:18Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 2)",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:18Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "State Affairs Committee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"State Affairs Committee\"}"
+    },
     {
       "name": "Information Technology Budget & Policy Subcommittee",
       "classification": "primary",
@@ -285,6 +371,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 1085 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1085/BillText/c2/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -300,10 +397,10 @@
       "classification": ""
     },
     {
-      "note": "Bill Analysis -- State Affairs Committee (Post-Meeting) (2/24/2026 7:10 PM)",
+      "note": "Bill Analysis -- State Affairs Committee (Post-Meeting) (2/26/2026 5:34 PM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/1085/Analyses/h1085d.SAC.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/1085/Analyses/h1085e.SAC.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -348,6 +445,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-26T12:44:25Z"
+    "logs_latest_update": "2026-02-28T12:29:18Z"
   }
 }

@@ -13,7 +13,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Qualified Contractors;  Requiring the governing body of a local government, by a specified date, to create a program that authorizes an applicant to use a qualified contractor to conduct a preapplication review of an application; requiring the development services office of a local government to establish a registry of a specified number of qualified contractors to conduct preapplication reviews; authorizing an applicant to use a qualified contractor from the registry, at the expense of the local government, if the local government fails to process the application in the required time under certain conditions, etc."
+      "abstract": "Qualified Contractors;  Requiring each county and municipality, respectively, of a specified size to create and implement a program for the purpose of making development preapplication consultation services available at an applicant\u2019s request; authorizing a county or municipality to use a qualified contractor or qualified contractor firm to fulfill specified preapplication services requirements; requiring a local government to establish a registry of a specified number of qualified contractors or qualified contractor firms to conduct certain preapplication services; requiring the governing body of certain local governments and counties to include certain developments in a program that expedites the process for issuing building permits for planned unit developments or phases of a community or subdivision, etc."
     }
   ],
   "other_titles": [],
@@ -156,9 +156,47 @@
       "_processing": {
         "log_file_created": "2026-02-26T12:44:25Z"
       }
+    },
+    {
+      "description": "Pending reference review -under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
+    },
+    {
+      "description": "Placed on Calendar, on 2nd reading",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
+    },
+    {
+      "description": "CS/CS by Rules read 1st time",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Rules",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Rules\"}"
+    },
     {
       "name": "Judiciary",
       "classification": "primary",
@@ -202,6 +240,21 @@
         },
         {
           "url": "https://flsenate.gov/Session/Bill/2026/1138/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S 1138 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1138/BillText/c2/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1138/BillText/c2/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -266,6 +319,17 @@
       "classification": ""
     },
     {
+      "note": "Bill Analysis -- Rules (Post-Meeting) (2/26/2026 12:52 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1138/Analyses/2026s01138.rc.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "292056 - Amendment (Delete All) to S 1138 Filed",
       "links": [
         {
@@ -281,7 +345,16 @@
       "classification": ""
     }
   ],
-  "citations": [],
+  "citations": [
+    {
+      "publication": "Florida Statues",
+      "citation": "125.022",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/125.022"
+    }
+  ],
   "sources": [
     {
       "url": "https://flsenate.gov/Session/Bill/2026/1138/ByCategory",
@@ -296,6 +369,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-26T12:44:25Z"
+    "logs_latest_update": "2026-02-28T12:29:17Z"
   }
 }

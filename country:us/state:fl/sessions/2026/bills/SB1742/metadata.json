@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 1742",
-  "title": "Indecent Exposure of Sexual Organs to Minors",
+  "title": "Indecent Exposure of Sexual Organs While Observing a Child",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Indecent Exposure of Sexual Organs to Minors;  Repealing a provision relating to unnatural and lascivious acts; prohibiting a person from intentionally exposing or exhibiting his or her sexual organs in a lewd or lascivious manner for a specified purpose while viewing a person who is younger than 16 years of age or performing specified sexual acts for a specified purpose while viewing a person who is younger than 16 years of age; defining the term \u201cviewing\u201d; providing a criminal penalty, etc."
+      "abstract": "Indecent Exposure of Sexual Organs While Observing a Child;  Repealing a provision relating to unnatural and lascivious acts; prohibiting a person from, for a specified purpose, intentionally exposing his or her sexual organs in a lewd or lascivious manner or intentionally performing specified sexual acts while observing a child under 16 years of age; providing criminal penalties; specifying what does not constitute a defense to committing such offense, etc."
     }
   ],
   "other_titles": [],
@@ -115,18 +115,6 @@
       }
     },
     {
-      "description": "On Committee agenda-- Fiscal Policy, 03/02/26, 12:00 pm, 412 Knott Building --If Received",
-      "date": "2026-02-25",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "enrolled"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-02-27T12:39:02Z"
-      }
-    },
-    {
       "description": "CS/CS by Appropriations Committee on Criminal and Civil Justice; YEAS 8 NAYS 0",
       "date": "2026-02-25",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -135,9 +123,57 @@
       "_processing": {
         "log_file_created": "2026-02-27T12:39:02Z"
       }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
+    },
+    {
+      "description": "Now in Fiscal Policy",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
+    },
+    {
+      "description": "On Committee agenda-- Fiscal Policy, 03/02/26, 12:00 pm, 412 Knott Building",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
+    },
+    {
+      "description": "CS/CS by Appropriations Committee on Criminal and Civil Justice read 1st time",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Appropriations Committee on Criminal and Civil Justice",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Appropriations Committee on Criminal and Civil Justice\"}"
+    },
     {
       "name": "Criminal Justice",
       "classification": "primary",
@@ -181,6 +217,21 @@
         },
         {
           "url": "https://flsenate.gov/Session/Bill/2026/1742/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S 1742 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1742/BillText/c2/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1742/BillText/c2/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -262,6 +313,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-27T12:39:02Z"
+    "logs_latest_update": "2026-02-28T12:29:17Z"
   }
 }

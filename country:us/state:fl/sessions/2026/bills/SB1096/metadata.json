@@ -7,7 +7,7 @@
     "bill"
   ],
   "subject": [
-    "subject index"
+    "civil rights"
   ],
   "abstracts": [
     {
@@ -117,6 +117,16 @@
       "_processing": {
         "log_file_created": "2026-02-25T12:43:57Z"
       }
+    },
+    {
+      "description": "On Committee agenda-- Rules, 03/03/26, 9:00 am, 412 Knott Building",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:18Z"
+      }
     }
   ],
   "sponsorships": [
@@ -191,6 +201,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "556298 - Amendment to S 1096 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1096/Amendment/556298/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1096/Amendment/556298/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [
@@ -225,6 +250,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-25T12:43:57Z"
+    "logs_latest_update": "2026-02-28T12:29:18Z"
   }
 }

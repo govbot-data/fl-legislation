@@ -8,12 +8,12 @@
   ],
   "subject": [
     "(adopted)",
-    "subject index"
+    "torts"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Florida Birth-Related Neurological Injury Compensation Association;  Requiring the agency to recover the full amount of medical assistance from the neurological injury compensation association; revising the exclusiveness of remedy under the Florida Birth-Related Neurological Injury Compensation Plan; requiring compensation for the costs of major medical health coverage; exempting expenses for professional custodial care in certain circumstances; requiring the association to submit quarterly estimates, etc."
+      "abstract": "Florida Birth-Related Neurological Injury Compensation Association;  Requiring the Agency for Health Care Administration to recover from the Florida Birth-Related Neurological Injury Compensation Association specified costs incurred by Medicaid; revising the exclusiveness of rights and remedies of the Florida Birth-Related Neurological Injury Compensation Plan; revising services eligible for compensation under certain annual benefits under the plan; requiring family members of plan participants to continuously maintain certain health insurance coverage for the participant, etc."
     }
   ],
   "other_titles": [],
@@ -106,9 +106,57 @@
       "_processing": {
         "log_file_created": "2026-02-27T12:39:03Z"
       }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:18Z"
+      }
+    },
+    {
+      "description": "Now in Rules",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:18Z"
+      }
+    },
+    {
+      "description": "On Committee agenda-- Rules, 03/03/26, 9:00 am, 412 Knott Building",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:18Z"
+      }
+    },
+    {
+      "description": "CS by Appropriations Committee on Agriculture, Environment, and General Government read 1st time",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:18Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Appropriations Committee on Agriculture, Environment, and General Government",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Appropriations Committee on Agriculture, Environment, and General Government\"}"
+    },
     {
       "name": "Burton",
       "classification": "primary",
@@ -129,6 +177,21 @@
         },
         {
           "url": "https://flsenate.gov/Session/Bill/2026/1668/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S 1668 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1668/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1668/BillText/c1/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -266,6 +329,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-27T12:39:03Z"
+    "logs_latest_update": "2026-02-28T12:29:18Z"
   }
 }

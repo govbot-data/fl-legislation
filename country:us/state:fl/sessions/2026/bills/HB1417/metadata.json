@@ -16,7 +16,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Department of Environmental Protection;  Repeals, revises, & creates various provisions relating to Environmental Regulation Commission; central sewer system connections; wastewater treatment systems; aerobic treatment units; basin management action plans; onsite sewage treatment & disposal system reports & permits; air pollution permits & license fees; small community sewer construction grants; wastewater services; & fertilizer inspection fees."
+      "abstract": "Department of Environmental Protection;  Repeals, revises, & creates various provisions relating to Environmental Regulation Commission; solar facilities; stormwater management systems; central sewer system connections; wastewater treatment systems; coastal resiliency projects; & air pollution license fees."
     }
   ],
   "other_titles": [],
@@ -294,9 +294,95 @@
       "_processing": {
         "log_file_created": "2026-02-26T12:44:25Z"
       }
+    },
+    {
+      "description": "Favorable with CS by State Affairs Committee",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
+    },
+    {
+      "description": "Reported out of State Affairs Committee",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
+    },
+    {
+      "description": "Bill referred to House Calendar",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
+    },
+    {
+      "description": "Bill added to Special Order Calendar (3/4/2026)",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 3)",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "State Affairs Committee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"State Affairs Committee\"}"
+    },
     {
       "name": "Agriculture & Natural Resources Budget Subcommittee",
       "classification": "primary",
@@ -364,6 +450,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 1417 c3",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1417/BillText/c3/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -390,10 +487,10 @@
       "classification": ""
     },
     {
-      "note": "Bill Analysis -- State Affairs Committee (Post-Meeting) (2/24/2026 8:50 PM)",
+      "note": "Bill Analysis -- State Affairs Committee (Post-Meeting) (2/26/2026 7:53 PM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/1417/Analyses/h1417d.SAC.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/1417/Analyses/h1417e.SAC.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -482,22 +579,6 @@
     },
     {
       "publication": "Florida Statues",
-      "citation": "373.807",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/373.807"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "373.811",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/373.811"
-    },
-    {
-      "publication": "Florida Statues",
       "citation": "376.302",
       "citation_type": "proposed",
       "effective": null,
@@ -519,6 +600,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-26T12:44:25Z"
+    "logs_latest_update": "2026-02-28T12:29:17Z"
   }
 }

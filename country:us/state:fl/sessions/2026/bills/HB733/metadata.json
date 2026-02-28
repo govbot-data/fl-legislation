@@ -7,9 +7,11 @@
     "bill"
   ],
   "subject": [
+    "domestic relations",
     "k",
     "public health",
-    "regulation of professions and occupations"
+    "regulation of professions and occupations",
+    "torts"
   ],
   "abstracts": [
     {
@@ -196,9 +198,83 @@
       "_processing": {
         "log_file_created": "2026-02-26T12:44:25Z"
       }
+    },
+    {
+      "description": "Reported out of Health & Human Services Committee",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
+    },
+    {
+      "description": "Bill referred to House Calendar",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
+    },
+    {
+      "description": "Bill added to Special Order Calendar (3/4/2026)",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 1)",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Health & Human Services Committee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Health & Human Services Committee\"}"
+    },
     {
       "name": "Gerwig",
       "classification": "primary",
@@ -215,6 +291,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/733/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "H 733 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/733/BillText/c1/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -246,10 +333,10 @@
       "classification": ""
     },
     {
-      "note": "Bill Analysis -- Health & Human Services Committee (Post-Meeting) (2/23/2026 3:18 PM)",
+      "note": "Bill Analysis -- Health & Human Services Committee (Post-Meeting) (2/26/2026 3:12 PM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/733/Analyses/h0733d.HHS.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/733/Analyses/h0733e.HHS.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -306,38 +393,6 @@
       "effective": null,
       "expires": null,
       "url": "https://flsenate.gov/laws/statutes/2025/381.986"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "391.308",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/391.308"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "391.3081",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/391.3081"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "456.074",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/456.074"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "1004.551",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/1004.551"
     }
   ],
   "sources": [
@@ -354,6 +409,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-26T12:44:25Z"
+    "logs_latest_update": "2026-02-28T12:29:17Z"
   }
 }

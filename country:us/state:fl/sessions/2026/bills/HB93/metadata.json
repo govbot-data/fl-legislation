@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Protection from Surgical Smoke;  \nRequires hospitals & ambulatory surgical centers to adopt & implement policies requiring use of smoke evacuation systems during certain surgical procedures."
+      "abstract": "Protection from Surgical Smoke ;  Defines \"smoke evacuation system\" & \"surgical smoke\"; requires hospitals & ambulatory surgical centers to, by specified date, adopt & implement policies requiring use of smoke evacuation systems or any other appropriate measure under certain circumstances."
     }
   ],
   "other_titles": [],
@@ -128,9 +128,75 @@
       "_processing": {
         "log_file_created": "2026-02-26T12:44:25Z"
       }
+    },
+    {
+      "description": "Favorable with CS by Health & Human Services Committee",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
+    },
+    {
+      "description": "Reported out of Health & Human Services Committee",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 1)",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Health & Human Services Committee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Health & Human Services Committee\"}"
+    },
     {
       "name": "Woodson",
       "classification": "primary",
@@ -160,6 +226,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 93 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/93/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -168,6 +245,28 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/93/Analyses/h0093a.HFS.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Health & Human Services Committee (Post-Meeting) (2/26/2026 5:42 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/93/Analyses/h0093c.HHS.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "863303 - Strike All Amendment to H 93 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/93/Amendment/863303/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -190,6 +289,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-26T12:44:25Z"
+    "logs_latest_update": "2026-02-28T12:29:17Z"
   }
 }

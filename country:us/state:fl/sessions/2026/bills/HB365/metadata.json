@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Law Enforcement Officer Interactions with Individuals with Autism Spectrum Disorder;  Requires DHSMV to establish program to improve communication between individuals with autism spectrum disorder & law enforcement officers under certain circumstances & develop & make available to such individuals certain envelope by specified date; provides requirements for envelope; authorizes such individuals to request envelope from DHSMV or tax collector's office beginning on specified date; requires Criminal Justice Standards & Training Commission within FDLE to establish employment training component relating to such individuals; requires training component to be included in specified course by specified date; requires specified law enforcement officers to complete training component by specified date."
+      "abstract": "Law Enforcement Officer Interactions with Individuals with Autism Spectrum Disorder;  Requires DHSMV to establish program to improve communication between individuals with autism spectrum disorder & law enforcement officers under certain circumstances; requires DHSMV to develop & make available to such individuals certain envelope & card by specified date; provides requirements for envelope & card; authorizes such individuals to request envelope & card from DHSMV or tax collector's office beginning on specified date; requires Criminal Justice Standards & Training Commission within FDLE to establish employment training component relating to such individuals; provides requirements for training law enforcement officers on interacting with such individuals; requires training component to be included in specified course by specified date; requires specified law enforcement officers to complete training component by specified date."
     }
   ],
   "other_titles": [],
@@ -254,9 +254,75 @@
       "_processing": {
         "log_file_created": "2026-02-26T12:44:25Z"
       }
+    },
+    {
+      "description": "Favorable with CS by Judiciary Committee",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
+    },
+    {
+      "description": "Reported out of Judiciary Committee",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 2)",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Judiciary Committee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Judiciary Committee\"}"
+    },
     {
       "name": "Criminal Justice Subcommittee",
       "classification": "primary",
@@ -401,6 +467,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 365 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/365/BillText/c2/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -427,10 +504,10 @@
       "classification": ""
     },
     {
-      "note": "Bill Analysis -- Judiciary Committee (Post-Meeting) (2/24/2026 4:55 PM)",
+      "note": "Bill Analysis -- Judiciary Committee (Post-Meeting) (2/26/2026 2:32 PM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/365/Analyses/h0365e.JDC.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/365/Analyses/h0365f.JDC.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -464,6 +541,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-26T12:44:25Z"
+    "logs_latest_update": "2026-02-28T12:29:17Z"
   }
 }

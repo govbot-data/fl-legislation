@@ -53,18 +53,6 @@
       }
     },
     {
-      "description": "On Committee agenda-- Appropriations, 03/02/26, 12:00 pm, 110 Senate Building --If Received",
-      "date": "2026-02-25",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "enrolled"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-02-27T12:39:02Z"
-      }
-    },
-    {
       "description": "Filed",
       "date": "2026-02-25",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -86,6 +74,28 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-02-27T12:39:02Z"
+      }
+    },
+    {
+      "description": "On Committee agenda-- Appropriations, 03/02/26, 12:00 pm, 110 Senate Building",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
+    },
+    {
+      "description": "Introduced",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
       }
     }
   ],
@@ -138,6 +148,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/7046/Analyses/2026s07046.pre.ft.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Finance and Tax (Post-Meeting) (2/26/2026 8:31 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/7046/Analyses/2026s07046.ft.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -384,6 +405,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-27T12:39:02Z"
+    "logs_latest_update": "2026-02-28T12:29:17Z"
   }
 }

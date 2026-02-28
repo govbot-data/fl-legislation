@@ -1,19 +1,18 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 1750",
-  "title": "Criminal Sexual Conduct",
+  "title": "Sexual Offenses",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
   ],
   "subject": [
-    "crimes",
-    "criminal procedure and corrections"
+    "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Criminal Sexual Conduct;  Revising the circumstances under which the violation of specified provisions must be reclassified to the next higher degree; increasing the mandatory minimum terms of imprisonment for persons who commit a violation of specified provisions and have a certain prior conviction; increasing criminal penalties and providing a mandatory minimum term of imprisonment for persons who commit the offense of use of a child in a sexual performance; increasing criminal penalties and providing a mandatory minimum term of imprisonment for persons who intentionally create generated child pornography, etc."
+      "abstract": "Sexual Offenses;  Revising a criteria related to the reclassification of specified offenses; revising mandatory minimum sentences for certain sexual offenses by persons previously convicted of sexual offenses; increasing the criminal penalties for a person who is guilty of the use of a child in a sexual performance under certain circumstances; prohibiting a person from employing, authorizing, or inducing a child younger than 12 years of age to engage in a sexual performance; providing criminal penalties for a person transmitting child pornography to another person, etc."
     }
   ],
   "other_titles": [],
@@ -108,18 +107,6 @@
       }
     },
     {
-      "description": "On Committee agenda-- Fiscal Policy, 03/02/26, 12:00 pm, 412 Knott Building --If Received",
-      "date": "2026-02-25",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "enrolled"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-02-27T12:39:02Z"
-      }
-    },
-    {
       "description": "CS by Appropriations Committee on Criminal and Civil Justice; YEAS 8 NAYS 0",
       "date": "2026-02-25",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -128,9 +115,57 @@
       "_processing": {
         "log_file_created": "2026-02-27T12:39:02Z"
       }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
+    },
+    {
+      "description": "Now in Fiscal Policy",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
+    },
+    {
+      "description": "On Committee agenda-- Fiscal Policy, 03/02/26, 12:00 pm, 412 Knott Building",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
+    },
+    {
+      "description": "CS by Appropriations Committee on Criminal and Civil Justice read 1st time",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Appropriations Committee on Criminal and Civil Justice",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Appropriations Committee on Criminal and Civil Justice\"}"
+    },
     {
       "name": "Martin",
       "classification": "primary",
@@ -151,6 +186,21 @@
         },
         {
           "url": "https://flsenate.gov/Session/Bill/2026/1750/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S 1750 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1750/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1750/BillText/c1/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -216,22 +266,6 @@
       "effective": null,
       "expires": null,
       "url": "https://flsenate.gov/laws/statutes/2025/775.0847"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "775.15",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/775.15"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "794.0115",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/794.0115"
     },
     {
       "publication": "Florida Statues",
@@ -304,6 +338,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-27T12:39:02Z"
+    "logs_latest_update": "2026-02-28T12:29:17Z"
   }
 }

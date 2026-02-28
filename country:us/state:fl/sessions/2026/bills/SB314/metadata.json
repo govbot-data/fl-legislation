@@ -13,7 +13,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Payment Stablecoin;  Revising the definition of the term \u201cmoney services business\u201d; revising the Florida Control of Money Laundering in Money Services Business Act to include payment stablecoins; prohibiting persons from engaging in the activity of a qualified payment stablecoin issuer without registering and receiving a specified notification; requiring applicants seeking to be a qualified payment stablecoin issuer to submit a specified application to the office; specifying that qualified payment stablecoin issuers may only engage in certain activities, etc."
+      "abstract": "Payment Stablecoin;  Revising the Florida Control of Money Laundering in Money Services Business Act to include payment stablecoins; prohibiting persons from engaging in the activity of a qualified payment stablecoin issuer without being licensed or exempted from licensure; requiring applicants seeking to be a qualified payment stablecoin issuer to submit a specified application to the office; specifying that licensed qualified payment stablecoin issuers may only engage in certain activities, etc."
     }
   ],
   "other_titles": [],
@@ -156,9 +156,47 @@
       "_processing": {
         "log_file_created": "2026-02-26T12:44:25Z"
       }
+    },
+    {
+      "description": "Pending reference review -under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:18Z"
+      }
+    },
+    {
+      "description": "Placed on Calendar, on 2nd reading",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:18Z"
+      }
+    },
+    {
+      "description": "CS/CS by Rules read 1st time",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:18Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Rules",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Rules\"}"
+    },
     {
       "name": "Banking and Insurance",
       "classification": "primary",
@@ -202,6 +240,21 @@
         },
         {
           "url": "https://flsenate.gov/Session/Bill/2026/314/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S 314 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/314/BillText/c2/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/314/BillText/c2/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -266,6 +319,17 @@
       "classification": ""
     },
     {
+      "note": "Bill Analysis -- Rules (Post-Meeting) (2/26/2026 12:35 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/314/Analyses/2026s00314.rc.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "663608 - Amendment (Delete All) to S 314 Filed",
       "links": [
         {
@@ -289,14 +353,6 @@
       "effective": null,
       "expires": null,
       "url": "https://flsenate.gov/laws/statutes/2025/560.103"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "560.114",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/560.114"
     },
     {
       "publication": "Florida Statues",
@@ -337,6 +393,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-26T12:44:25Z"
+    "logs_latest_update": "2026-02-28T12:29:18Z"
   }
 }

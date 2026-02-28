@@ -14,7 +14,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Drug Prices and Coverage;  Requires prescription drug manufacturer permitholders to annually report to AHCA international drug price data; requires agency to contract with entity to designate reference price source countries & analyze certain data; requires agency to publish annually prescription drug & product reference prices; requires pharmacies to charge cash-paying customers up to reference prices for prescribed drugs & products; requires contracts between pharmacy benefit managers & pharmacy benefits plans & programs to prohibit PBMs from offering & implementing certain formularies; requires health insurers, Medicaid managed care plans, state group insurance programs & HMOs to provide reimbursement for covered prescription drugs & products up to reference prices; requires savings from such reimbursement limits to be used for certain purposes; limits changes that health insurance policies & health maintenance contracts can make relating to prescription drug formularies."
+      "abstract": "Drug Prices and Coverage ;  Revises definition of term \"pharmacy benefits plan or program\" to exclude plan or program that exclusively serves PACE organization; requires contracts between pharmacy benefit managers & participating pharmacies to allow specified option in administrative appeal procedure; provides pharmacy benefit manager prohibited practices relating to pharmacies & pharmacists."
     }
   ],
   "other_titles": [],
@@ -184,9 +184,75 @@
       "_processing": {
         "log_file_created": "2026-02-26T12:44:25Z"
       }
+    },
+    {
+      "description": "Favorable with CS by Health & Human Services Committee",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
+    },
+    {
+      "description": "Reported out of Health & Human Services Committee",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 1)",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Health & Human Services Committee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Health & Human Services Committee\"}"
+    },
     {
       "name": "Kincart Jonsson",
       "classification": "primary",
@@ -203,6 +269,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/697/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "H 697 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/697/BillText/c1/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -232,9 +309,48 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Health & Human Services Committee (Post-Meeting) (2/26/2026 6:28 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/697/Analyses/h0697e.HHS.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "092027 - Strike All Amendment to H 697 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/697/Amendment/092027/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "citations": [],
+  "citations": [
+    {
+      "publication": "Florida Statues",
+      "citation": "626.8825",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/626.8825"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "626.8827",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/626.8827"
+    }
+  ],
   "sources": [
     {
       "url": "https://flsenate.gov/Session/Bill/2026/697/ByCategory",
@@ -249,6 +365,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-26T12:44:25Z"
+    "logs_latest_update": "2026-02-28T12:29:17Z"
   }
 }

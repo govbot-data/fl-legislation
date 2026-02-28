@@ -13,7 +13,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Systems of Law and Terrorist Organizations;  Provides person who knowingly provides or attempts or conspires to provide material support or resources to domestic terrorist organization commits specified crime; provides that person who willfully becomes member of domestic terrorist organization & serves under direction or control of such organization with specified intent commits specified crime; authorizes Chief of Domestic Security to designate organization domestic terrorist organization or foreign terrorist organization; authorizes designated organization to seek judicial review; prohibits state agencies, political subdivisions, & public school districts from expending certain public funds to support organization designated domestic terrorist organization or foreign terrorist organization; prohibits certain institutions from expending public funds to promote, support, or maintain programs or campus activities that advocate for domestic terrorist organizations or foreign terrorist organizations."
+      "abstract": "Systems of Law and Terrorist Organizations;  Provides that person who willfully becomes member of domestic terrorist organization & serves under direction or control of such organization with specified intent commits specified crime; authorizes Chief of Domestic Security to designate organization domestic terrorist organization or foreign terrorist organization; requires Chief to provide specified written notice to Governor & Cabinet before making designation; provides Governor & Cabinet may by majority vote approve or reject designation; requires Chief to publish such designation in Florida Administrative Register; prohibits state agencies, political subdivisions, & public school districts from expending certain public funds to support organization designated domestic terrorist organization or foreign terrorist organization, or accepting funds from such organizations; requires that certain students of Florida College System institutions & state universities be immediately expelled & assessed out-of-state fees after determination has been made such students have promoted domestic terrorist organization or foreign terrorist organization."
     }
   ],
   "other_titles": [],
@@ -231,9 +231,95 @@
       "_processing": {
         "log_file_created": "2026-02-26T12:44:25Z"
       }
+    },
+    {
+      "description": "Favorable with CS by Judiciary Committee",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
+    },
+    {
+      "description": "Reported out of Judiciary Committee",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
+    },
+    {
+      "description": "Bill referred to House Calendar",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
+    },
+    {
+      "description": "Bill added to Special Order Calendar (3/3/2026)",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 2)",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Judiciary Committee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Judiciary Committee\"}"
+    },
     {
       "name": "Education & Employment Committee",
       "classification": "primary",
@@ -264,6 +350,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Bankson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Barnaby",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Barnaby\"}",
       "organization_id": null
     },
     {
@@ -379,6 +473,14 @@
       "organization_id": null
     },
     {
+      "name": "Trabulsy",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Trabulsy\"}",
+      "organization_id": null
+    },
+    {
       "name": "Yarkosky",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -410,6 +512,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 1471 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1471/BillText/c2/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -429,6 +542,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/1471/Analyses/h1471c.EEC.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Judiciary Committee (Post-Meeting) (2/26/2026 2:47 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1471/Analyses/h1471d.JDC.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -462,6 +586,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-26T12:44:25Z"
+    "logs_latest_update": "2026-02-28T12:29:17Z"
   }
 }

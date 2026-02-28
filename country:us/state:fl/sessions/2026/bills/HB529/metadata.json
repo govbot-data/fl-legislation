@@ -7,12 +7,12 @@
     "bill"
   ],
   "subject": [
-    "social welfare"
+    "(adopted)"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Community-based Care Lead Agency and Subcontractor Liability;  Removes liability insurance coverage requirements for community-based care lead agencies & subcontractors of community-based care lead agencies; removes requirement to annually increase certain conditional limitations on damages by specified percentage."
+      "abstract": "Community-based Care Lead Agency and Subcontractor Liability;  Removes liability insurance coverage requirements for community-based care lead agencies; removes liability insurance coverage requirements for subcontractors of community-based care lead agencies; removes requirement to annually increase certain conditional limitations on damages by specified percentage."
     }
   ],
   "other_titles": [],
@@ -242,9 +242,75 @@
       "_processing": {
         "log_file_created": "2026-02-26T12:44:25Z"
       }
+    },
+    {
+      "description": "Favorable with CS by Judiciary Committee",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:18Z"
+      }
+    },
+    {
+      "description": "Reported out of Judiciary Committee",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:18Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:18Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:18Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 2)",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:18Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Judiciary Committee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Judiciary Committee\"}"
+    },
     {
       "name": "Civil Justice & Claims Subcommittee",
       "classification": "primary",
@@ -285,6 +351,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 529 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/529/BillText/c2/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -311,10 +388,21 @@
       "classification": ""
     },
     {
-      "note": "Bill Analysis -- Judiciary Committee (Post-Meeting) (2/24/2026 5:00 PM)",
+      "note": "Bill Analysis -- Judiciary Committee (Post-Meeting) (2/26/2026 2:47 PM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/529/Analyses/h0529c.JDC.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/529/Analyses/h0529d.JDC.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "508527 - Amendment to H 529 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/529/Amendment/508527/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -346,6 +434,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-26T12:44:25Z"
+    "logs_latest_update": "2026-02-28T12:29:18Z"
   }
 }

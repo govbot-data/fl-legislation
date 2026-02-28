@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 1634",
-  "title": "Public Records and Meetings/Chief of Domestic Security",
+  "title": "Public Records/Chief of Domestic Security",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Public Records and Meetings/Chief of Domestic Security;  Providing an exemption from public records requirements for certain information held by the Chief of Domestic Security and any information in a certain notification which would reveal information critical to state or national security; providing an exemption from public meetings requirements for portions of meetings which would reveal such exempt information; providing for future legislative review and repeal of the exemptions; providing a statement of public necessity, etc."
+      "abstract": "Public Records/Chief of Domestic Security;  Providing an exemption from public records requirements for certain information relating to the designation of an organization as a domestic terrorist organization or a foreign terrorist organization by the Chief of Domestic Security; providing for future legislative review and repeal of the exemption; providing a statement of public necessity, etc."
     }
   ],
   "other_titles": [],
@@ -145,9 +145,57 @@
       "_processing": {
         "log_file_created": "2026-02-27T12:39:02Z"
       }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
+    },
+    {
+      "description": "Original reference(s) removed: Fiscal Policy",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
+    },
+    {
+      "description": "Placed on Calendar, on 2nd reading",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
+    },
+    {
+      "description": "CS/CS by Appropriations Committee on Criminal and Civil Justice read 1st time",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-28T12:29:17Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Appropriations Committee on Criminal and Civil Justice",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Appropriations Committee on Criminal and Civil Justice\"}"
+    },
     {
       "name": "Judiciary",
       "classification": "primary",
@@ -191,6 +239,21 @@
         },
         {
           "url": "https://flsenate.gov/Session/Bill/2026/1634/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S 1634 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1634/BillText/c2/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1634/BillText/c2/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -263,6 +326,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-27T12:39:02Z"
+    "logs_latest_update": "2026-02-28T12:29:17Z"
   }
 }
