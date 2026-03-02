@@ -13,7 +13,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Utilities;  Requires municipalities that operate utility services to allow other municipalities & property owners outside its municipal boundaries to connect with & use its utility services under specified conditions; prohibits municipalities that operate utility services from denying such services based on specified criteria; requires municipalities to make certain determinations; provides for appeal of such determinations; provides that municipalities are not liable for such fees & costs under certain conditions; authorizes notices for rural electrical cooperative board of trustees meetings to be delivered by electronic mail; revises notice requirements for meetings during which elections will occur; requires board of trustees, beginning on specified date, to annually prepare list of cooperative members & to make list available for certain inspection; revises quorum requirements; revises requirements for rural electrical cooperative bylaws; requires appointment of election inspectors; authorizes rural electric cooperatives to conduct elections & membership votes through electronic voting; requires electronic voting to be authorized by resolution of board of trustees; provides for cooperative members to consent to & opt out of electronic voting; provides for cooperative members to petition board of trustees to adopt electronic voting."
+      "abstract": "Utilities ;  Requires municipalities that operate utility services to allow other municipalities & property owners outside its municipal boundaries to connect with & use its utility services under specified conditions; prohibits municipalities that operate utility services from denying such services based on specified criteria; requires municipalities to make certain determinations; provides for appeal of such determinations; provides that municipalities are not liable for such fees & costs under certain conditions; authorizes notices for rural electrical cooperative board of trustees meetings to be delivered by electronic mail; revises notice requirements for meetings during which elections will occur; requires board of trustees, beginning on specified date, to annually prepare list of cooperative members & to make list available for certain inspection; revises quorum requirements; revises requirements for rural electrical cooperative bylaws; requires appointment of election inspectors; authorizes rural electric cooperatives to conduct elections & membership votes through electronic voting; requires electronic voting to be authorized by resolution of board of trustees; provides for cooperative members to consent to & opt out of electronic voting; provides for cooperative members to petition board of trustees to adopt electronic voting."
     }
   ],
   "other_titles": [],
@@ -253,9 +253,51 @@
       "_processing": {
         "log_file_created": "2026-02-27T12:39:03Z"
       }
+    },
+    {
+      "description": "Reported out of Commerce Committee",
+      "date": "2026-02-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-02T12:38:45Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-02T12:38:45Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-02T12:38:45Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Commerce Committee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Commerce Committee\"}"
+    },
     {
       "name": "Intergovernmental Affairs Subcommittee",
       "classification": "primary",
@@ -304,6 +346,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 1075 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1075/BillText/c2/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -330,10 +383,10 @@
       "classification": ""
     },
     {
-      "note": "Bill Analysis -- Commerce Committee (Post-Meeting) (2/20/2026 4:29 PM)",
+      "note": "Bill Analysis -- Commerce Committee (Post-Meeting) (2/27/2026 4:40 PM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/1075/Analyses/h1075d.COM.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/1075/Analyses/h1075e.COM.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -374,32 +427,7 @@
       "classification": ""
     }
   ],
-  "citations": [
-    {
-      "publication": "Florida Statues",
-      "citation": "180.19",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/180.19"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "425.09",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/425.09"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "425.10",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/425.10"
-    }
-  ],
+  "citations": [],
   "sources": [
     {
       "url": "https://flsenate.gov/Session/Bill/2026/1075/ByCategory",
@@ -414,6 +442,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-27T12:39:03Z"
+    "logs_latest_update": "2026-03-02T12:38:45Z"
   }
 }

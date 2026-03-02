@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Nursing Education Programs;  Requiring the Department of Health to issue temporary provisional licenses to graduate registered nurses and graduate licensed practical nurses; revising application requirements for nursing education program approval; requiring the Florida Center for Nursing to develop graduate nursing preceptorship standards by a specified date; authorizing agents or employees of the department to conduct onsite evaluations and inspections of approved and accredited nursing education programs, etc."
+      "abstract": "Nursing Education Programs;  Requiring applicants for nurse licensure seeking to take the licensing examination more than 6 months after graduation to first complete a remedial course approved or developed by the Board of Nursing; requiring the Department of Health to issue temporary provisional licenses to graduate professional nurses and graduate practical nurses meeting certain criteria; revising application requirements for nursing education program approval; requiring the Florida Center for Nursing to develop graduate nursing preceptorship standards by a specified date; authorizing agents or employees of the department to conduct onsite evaluations and inspections of approved and accredited nursing education programs, etc."
     }
   ],
   "other_titles": [],
@@ -105,9 +105,27 @@
       "_processing": {
         "log_file_created": "2026-02-27T12:39:02Z"
       }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-02-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-02T12:38:45Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Appropriations Committee on Health and Human Services",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Appropriations Committee on Health and Human Services\"}"
+    },
     {
       "name": "Harrell",
       "classification": "primary",
@@ -128,6 +146,21 @@
         },
         {
           "url": "https://flsenate.gov/Session/Bill/2026/254/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S 254 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/254/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/254/BillText/c1/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -170,6 +203,17 @@
       "classification": ""
     },
     {
+      "note": "Bill Analysis -- Appropriations Committee on Health and Human Services (Post-Meeting) (2/27/2026 10:23 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/254/Analyses/2026s00254.ahs.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "639802 - Amendment (Delete All) to S 254 Filed",
       "links": [
         {
@@ -201,6 +245,14 @@
       "effective": null,
       "expires": null,
       "url": "https://flsenate.gov/laws/statutes/2025/464.019"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "464.022",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/464.022"
     }
   ],
   "sources": [
@@ -217,6 +269,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-27T12:39:02Z"
+    "logs_latest_update": "2026-03-02T12:38:45Z"
   }
 }

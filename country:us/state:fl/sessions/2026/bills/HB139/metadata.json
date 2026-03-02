@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Adverse Personnel Actions and Ethics Complaints;  Prohibits agencies & independent contractors from taking specified actions against employees for disclosing certain information to Commission on Ethics; requires that information disclosed include specified violations or alleged violations; requires disclosure of specified information to commission; provides that specified provisions protect employees & persons who submit written complaints to commission or provide information to investigator during investigation of complaint; authorizes certain employees or applicants for employment to file complaints in accordance with specified provisions; authorizes such employees or applicants to pursue specified administrative remedy or civil action within specified timeframe; authorizes local public employees to file complaint with appropriate local governmental authority; specifies requirements for administrative procedures created by local governmental authorities; authorizes such employee to bring civil actions in court of competent jurisdiction under specified conditions; requires specified relief; provides that it is affirmative defense to certain actions that adverse personnel action was predicated on grounds other than exercising of certain protected rights; requires commission to deliver complaints & any amendment thereto to agency conducting certain investigation, upon agency's written request; requires commission to deliver complaints & any amendment thereto to certain persons upon notarized written request."
+      "abstract": "Adverse Personnel Actions and Ethics Complaints;  Prohibits agencies & independent contractors from taking specified actions against employees for disclosing certain information to Commission on Ethics; requires that information disclosed include specified violations or alleged violations; requires disclosure of specified information to commission; provides that specified provisions protect employees who submit written complaints to commission or provide information to investigator during investigation of complaint or referral; authorizes certain employees to file complaints in accordance with specified provisions; authorizes such employees to pursue specified administrative remedy or civil action within specified timeframe; authorizes local public employees to file complaint with appropriate local governmental authority; specifies requirements for administrative procedures created by local governmental authorities; authorizes such employees to bring civil actions in court of competent jurisdiction under specified conditions; provides that it is affirmative defense to certain actions that adverse personnel action was predicated on grounds other than exercising of certain protected rights; requires commission to deliver complaints & any amendment thereto to agency conducting certain investigation, upon agency's written request; provides that such delivery does not affect specified exemptions in regard to complaint & amendments; requires that such delivery be within reasonable timeframe; requires that commission redact certain information under specified conditions; requires commission to deliver complaints & any amendment thereto to certain persons upon notarized written request."
     }
   ],
   "other_titles": [],
@@ -194,9 +194,51 @@
       "_processing": {
         "log_file_created": "2026-02-28T12:29:17Z"
       }
+    },
+    {
+      "description": "Reported out of State Affairs Committee",
+      "date": "2026-02-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-02T12:38:45Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-02T12:38:45Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-02T12:38:45Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "State Affairs Committee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"State Affairs Committee\"}"
+    },
     {
       "name": "Maney",
       "classification": "primary",
@@ -221,6 +263,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/139/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "H 139 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/139/BillText/c1/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -252,10 +305,10 @@
       "classification": ""
     },
     {
-      "note": "Bill Analysis -- State Affairs Committee (Post-Meeting) (2/24/2026 5:10 PM)",
+      "note": "Bill Analysis -- State Affairs Committee (Post-Meeting) (2/27/2026 3:55 PM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/139/Analyses/h0139d.SAC.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/139/Analyses/h0139e.SAC.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -298,6 +351,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-28T12:29:17Z"
+    "logs_latest_update": "2026-03-02T12:38:45Z"
   }
 }

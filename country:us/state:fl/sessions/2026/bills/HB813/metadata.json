@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "HB 813",
-  "title": "Firefighter Cancer Benefits and Prevention",
+  "title": "Firefighter Cancer Benefits",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Firefighter Cancer Benefits and Prevention;  Requires former employer to provide death benefits to certain beneficiaries for specified time period."
+      "abstract": "Firefighter Cancer Benefits;  Requires former employer to provide death benefits to certain beneficiaries for specified time period; provides finding & declaration of important state interest."
     }
   ],
   "other_titles": [],
@@ -242,9 +242,51 @@
       "_processing": {
         "log_file_created": "2026-02-28T12:29:17Z"
       }
+    },
+    {
+      "description": "Reported out of State Affairs Committee",
+      "date": "2026-02-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-02T12:38:45Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-02T12:38:45Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-02T12:38:45Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "State Affairs Committee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"State Affairs Committee\"}"
+    },
     {
       "name": "Budget Committee",
       "classification": "primary",
@@ -429,6 +471,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 813 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/813/BillText/c2/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -448,6 +501,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/813/Analyses/h0813c.BUC.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- State Affairs Committee (Post-Meeting) (2/27/2026 3:55 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/813/Analyses/h0813d.SAC.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -490,6 +554,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-28T12:29:17Z"
+    "logs_latest_update": "2026-03-02T12:38:45Z"
   }
 }

@@ -13,8 +13,7 @@
     "public transportation",
     "railroads and other regulated utilities",
     "relations",
-    "subject index",
-    "taxation and finance"
+    "subject index"
   ],
   "abstracts": [
     {
@@ -195,6 +194,18 @@
       "_processing": {
         "log_file_created": "2026-02-26T12:44:25Z"
       }
+    },
+    {
+      "description": "Favorable with CS by Commerce Committee",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-02T12:38:45Z"
+      }
     }
   ],
   "sponsorships": [
@@ -262,6 +273,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "630383 - Amendment to H 1007 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1007/Amendment/630383/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [],
@@ -279,6 +301,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-26T12:44:25Z"
+    "logs_latest_update": "2026-03-02T12:38:45Z"
   }
 }

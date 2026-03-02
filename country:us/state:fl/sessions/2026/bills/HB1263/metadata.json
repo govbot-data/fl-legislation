@@ -176,9 +176,63 @@
       "_processing": {
         "log_file_created": "2026-02-26T12:44:25Z"
       }
+    },
+    {
+      "description": "Favorable with CS by Commerce Committee",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-02T12:38:45Z"
+      }
+    },
+    {
+      "description": "Reported out of Commerce Committee",
+      "date": "2026-02-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-02T12:38:45Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-02T12:38:45Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-02T12:38:45Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Commerce Committee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Commerce Committee\"}"
+    },
     {
       "name": "Insurance & Banking Subcommittee",
       "classification": "primary",
@@ -219,6 +273,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 1263 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1263/BillText/c2/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -238,6 +303,28 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/1263/Analyses/h1263a.COM.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "225893 - Amendment to H 1263 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1263/Amendment/225893/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "108955 - Amendment to H 1263 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1263/Amendment/108955/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -301,6 +388,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-26T12:44:25Z"
+    "logs_latest_update": "2026-03-02T12:38:45Z"
   }
 }

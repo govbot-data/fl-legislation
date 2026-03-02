@@ -7,13 +7,12 @@
     "bill"
   ],
   "subject": [
-    "subject index",
-    "taxation and finance"
+    "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Establishment and Administration of a State Cryptocurrency Reserve;  Establishes Florida Strategic Cryptocurrency Reserve as special fund assigned to SBA; provides for custody, administration, & management of reserve; provides sources of reserve; authorizes Legislature to appropriate funds for deposit to credit of reserve for specified purposes; authorizes executive director of SBA to pay certain costs using cryptocurrency in reserve or net proceed from sale of cryptocurrency in reserve; provides for investment of money in reserve; authorizes transfer of reserve money to State Treasury; provides requirements for cryptocurrency to be purchased for reserve; authorizes contracts with third parties for administration or management of reserve; authorizes executive director to use derivatives; authorizes contracts with certified public accountants for independent audits; establishes Florida Strategic Cryptocurrency Reserve Advisory Committee within SBA."
+      "abstract": "Establishment and Administration of a State Cryptocurrency Reserve;  Establishes Florida Strategic Cryptocurrency Reserve Fund as special fund assigned to SBA; provides for objective, custody, administration, & management of reserve; provides sources of reserve; authorizes Legislature to appropriate funds for deposit to credit of reserve for specified purposes; authorizes board to pay certain costs using cryptocurrency in reserve or net proceed from sale of cryptocurrency in reserve; authorizes transfer of reserve money to State Treasury; authorizes board to dispose of certain cryptocurrency received by reserve; provides requirements for cryptocurrency to be purchased for reserve; authorizes contracts with third parties for administration or management of reserve; authorizes board to use derivatives; authorizes contracts with certified public accountants for independent audits; establishes Florida Strategic Cryptocurrency Reserve Fund Advisory Committee within board; provides for committee membership; provides duties & terms of committee members; requires board to adopt rules; requires board to provide to Legislature certain information relating to reserve."
     }
   ],
   "other_titles": [],
@@ -213,9 +212,51 @@
       "_processing": {
         "log_file_created": "2026-02-27T12:39:03Z"
       }
+    },
+    {
+      "description": "Reported out of Commerce Committee",
+      "date": "2026-02-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-02T12:38:45Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-02T12:38:45Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-02T12:38:45Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Commerce Committee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Commerce Committee\"}"
+    },
     {
       "name": "Insurance & Banking Subcommittee",
       "classification": "primary",
@@ -272,6 +313,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 1039 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1039/BillText/c2/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -287,10 +339,10 @@
       "classification": ""
     },
     {
-      "note": "Bill Analysis -- Commerce Committee (Post-Meeting) (2/20/2026 4:29 PM)",
+      "note": "Bill Analysis -- Commerce Committee (Post-Meeting) (2/27/2026 3:45 PM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/1039/Analyses/h1039b.COM.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/1039/Analyses/h1039c.COM.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -309,7 +361,16 @@
       "classification": ""
     }
   ],
-  "citations": [],
+  "citations": [
+    {
+      "publication": "Florida Statues",
+      "citation": "215.44",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/215.44"
+    }
+  ],
   "sources": [
     {
       "url": "https://flsenate.gov/Session/Bill/2026/1039/ByCategory",
@@ -324,6 +385,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-27T12:39:03Z"
+    "logs_latest_update": "2026-03-02T12:38:45Z"
   }
 }

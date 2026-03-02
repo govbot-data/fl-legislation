@@ -8,6 +8,7 @@
   ],
   "subject": [
     "aviation",
+    "banks and banking",
     "ports and harbors",
     "public business",
     "public lands and property",
@@ -16,7 +17,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Transportation;  Requires Florida Greenways & Trails Council to meet within specified timeframe to update specified recommendations; requires seaports to include specified strategies for obtaining & maintaining critical infrastructure resources as part of 10-year strategic plan; revises provisions relating to personal delivery devices & drones; requires commercial service airports to provide methods for obtaining & maintaining critical infrastructure resources; provides penalties for certain offenses relating to autonomous vehicles."
+      "abstract": "Transportation;  Revises membership of Florida Transportation Research Institute; requires Florida Greenways & Trails Council to meet within specified timeframe to update specified recommendations; requires seaports to include critical infrastructure resource strategies in specified plan; revises provisions relating to personal delivery devices & mobile carriers; increases certain speed limits; modifies terms for elections to attend basic driver improvement course; authorizes certain rental trucks to elect permanent registration period; requires motor vehicle registration renewal to be recorded electronically; removes provisions relating to validation stickers; revises provisions relating to drone delivery services & drone ports; revises powers & duties of DOT with respect to state airport systems; provides requirements for commercial service airports relating to critical infrastructure resources; revises provisions relating to certain communications facilities; revises construction materials that may be used for certain multiuse trails or shared-use paths; provides that certain provisions relating to paratransit services apply only to persons with disabilities; revises provisions authorizing certain sign owners to increase sign height under certain circumstances; provides penalties for shooting into or throwing deadly missiles into occupied or unoccupied autonomous vehicle; provides penalties for defacing, injuring, or damaging autonomous vehicle."
     }
   ],
   "other_titles": [],
@@ -216,9 +217,51 @@
       "_processing": {
         "log_file_created": "2026-02-27T12:39:02Z"
       }
+    },
+    {
+      "description": "Reported out of Commerce Committee",
+      "date": "2026-02-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-02T12:38:45Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-02T12:38:45Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-02T12:38:45Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Commerce Committee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Commerce Committee\"}"
+    },
     {
       "name": "Economic Infrastructure Subcommittee",
       "classification": "primary",
@@ -267,6 +310,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 1233 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1233/BillText/c2/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -282,10 +336,10 @@
       "classification": ""
     },
     {
-      "note": "Bill Analysis -- Commerce Committee (Post-Meeting) (2/20/2026 4:34 PM)",
+      "note": "Bill Analysis -- Commerce Committee (Post-Meeting) (2/27/2026 4:01 PM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/1233/Analyses/h1233a.COM.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/1233/Analyses/h1233b.COM.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -316,6 +370,14 @@
     }
   ],
   "citations": [
+    {
+      "publication": "Florida Statues",
+      "citation": "20.23",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/20.23"
+    },
     {
       "publication": "Florida Statues",
       "citation": "260.0142",
@@ -355,6 +417,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-27T12:39:02Z"
+    "logs_latest_update": "2026-03-02T12:38:45Z"
   }
 }

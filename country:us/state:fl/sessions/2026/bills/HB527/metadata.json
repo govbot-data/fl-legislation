@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Mandatory Human Reviews of Insurance Claim Denials ;  Authorizes workers' compensation carriers, insurers & HMOs to use algorithms, artificial intelligence systems, & machine learning systems to assist in processing claims; prohibits use of algorithms, artificial intelligence, or machine learning systems as sole basis for determining whether to reduce claim payment or deny claim or portion of claim; requires that decisions by carriers, insurers & HMOs to deny claim or portion of claim or reduce claim be made by qualified human professionals; specifies duties of qualified human professionals; requires carriers, insurers & HMOs to include certain information in denial communications to claimants; authorizes DFS & OIR to conduct examinations & investigations."
+      "abstract": "Mandatory Human Reviews of Insurance Claim Denials ;  Authorizes workers' compensation carriers, insurers &HMOs to use artificial intelligence systems & machine learning systems to assist in processing claims; prohibits use of artificial intelligence or machine learning systems as sole basis for determining whether to reduce claim payment or deny claim or portion of claim; requires that decisions to deny claim or portion of claim or reduce claim be made by qualified human professionals; authorizes OIR to conduct market conduct examinations & investigations."
     }
   ],
   "other_titles": [],
@@ -176,9 +176,63 @@
       "_processing": {
         "log_file_created": "2026-02-26T12:44:25Z"
       }
+    },
+    {
+      "description": "Favorable with CS by Commerce Committee",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-02T12:38:45Z"
+      }
+    },
+    {
+      "description": "Reported out of Commerce Committee",
+      "date": "2026-02-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-02T12:38:45Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-02T12:38:45Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-02T12:38:45Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Commerce Committee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Commerce Committee\"}"
+    },
     {
       "name": "Insurance & Banking Subcommittee",
       "classification": "primary",
@@ -193,6 +247,22 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Cassel\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Cross",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Cross\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Robinson, F.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Robinson, F.\"}",
       "organization_id": null
     },
     {
@@ -222,6 +292,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/527/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "H 527 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/527/BillText/c2/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -279,6 +360,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-26T12:44:25Z"
+    "logs_latest_update": "2026-03-02T12:38:45Z"
   }
 }

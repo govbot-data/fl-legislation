@@ -188,6 +188,48 @@
       "_processing": {
         "log_file_created": "2026-02-26T12:44:25Z"
       }
+    },
+    {
+      "description": "Favorable by Commerce Committee",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-02T12:38:45Z"
+      }
+    },
+    {
+      "description": "Reported out of Commerce Committee",
+      "date": "2026-02-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-02T12:38:45Z"
+      }
+    },
+    {
+      "description": "Bill released to House Calendar",
+      "date": "2026-02-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-02T12:38:45Z"
+      }
+    },
+    {
+      "description": "Added to Second Reading Calendar",
+      "date": "2026-02-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-02T12:38:45Z"
+      }
     }
   ],
   "sponsorships": [
@@ -246,10 +288,10 @@
       "classification": ""
     },
     {
-      "note": "Bill Analysis -- Commerce Committee (Post-Meeting) (2/24/2026 6:20 PM)",
+      "note": "Bill Analysis -- Commerce Committee (Post-Meeting) (2/27/2026 4:50 PM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/185/Analyses/h0185a.COM.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/185/Analyses/h0185b.COM.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -281,6 +323,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-26T12:44:25Z"
+    "logs_latest_update": "2026-03-02T12:38:45Z"
   }
 }

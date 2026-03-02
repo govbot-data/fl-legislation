@@ -15,7 +15,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Stormwater Treatment;  Prohibits certain stormwater treatment & net improvement activities; requires DEP to require specified documentation for issuance of environmental resource permit for regional stormwater management systems; provides requirements for environmental resource permits authorizing such systems; authorizes certain permit applicants to purchase & use certain pollution reduction allocations & water quality enhancement credits; requires DEP & water management districts to use specified information to establish drainage areas; provides that certain use of enhancement credits constitutes stormwater treatment; provides that certain pollutant load reductions may not be referred to as enhancement credits; requires DEP to file specified rules for adoption by specified date; provides for water quality enhancement provisional permits; provides for modification of such permits under certain conditions; requires DEP & water management districts to recognize enhancement credits established in provisional permits; clarifies types of mitigation measures for compensating stormwater treatment which DEP or water management district governing boards must consider."
+      "abstract": "Stormwater Treatment ;  Prohibits certain stormwater treatment & net improvement activities; requires DEP to require specified documentation for issuance of environmental resource permit for regional stormwater management systems; provides requirements for environmental resource permits authorizing such systems; authorizes certain permit applicants to purchase & use certain pollution reduction allocations & water quality enhancement credits; requires DEP & water management districts to use specified information to establish drainage areas; provides that certain use of enhancement credits constitutes stormwater treatment; provides that certain pollutant load reductions may not be referred to as enhancement credits; requires DEP to file specified rules for adoption by specified date; provides for water quality enhancement provisional permits; provides for modification of such permits under certain conditions; requires DEP & water management districts to recognize enhancement credits established in provisional permits; clarifies types of mitigation measures for compensating stormwater treatment which DEP or water management district governing boards must consider."
     }
   ],
   "other_titles": [],
@@ -191,9 +191,51 @@
       "_processing": {
         "log_file_created": "2026-02-28T12:29:17Z"
       }
+    },
+    {
+      "description": "Reported out of State Affairs Committee",
+      "date": "2026-02-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-02T12:38:45Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-02T12:38:45Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-02T12:38:45Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "State Affairs Committee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"State Affairs Committee\"}"
+    },
     {
       "name": "Natural Resources & Disasters Subcommittee",
       "classification": "primary",
@@ -242,6 +284,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 1457 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1457/BillText/c2/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -257,10 +310,10 @@
       "classification": ""
     },
     {
-      "note": "Bill Analysis -- State Affairs Committee (Post-Meeting) (2/24/2026 5:20 PM)",
+      "note": "Bill Analysis -- State Affairs Committee (Post-Meeting) (2/27/2026 4:15 PM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/1457/Analyses/h1457b.SAC.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/1457/Analyses/h1457c.SAC.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -343,6 +396,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-28T12:29:17Z"
+    "logs_latest_update": "2026-03-02T12:38:45Z"
   }
 }

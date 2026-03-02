@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Citizens Property Insurance Corporation;  Prohibits corporation from issuing or renewing coverage for commercial residential & commercial nonresidential risks; requires corporation to establish personal lines clearinghouse for specified purposes; requires corporation to implement commercial lines clearinghouse for specified purpose; authorizes corporation to develop & implement separate commercial lines clearinghouse for specified purposes; authorizes approved surplus lines clearinghouse insurers to participate in commercial lines clearinghouse; revises prohibitions & requirements for insurers making offers of coverage to new applicants or renewal policyholders through program; specifies that applicants for new commercial lines residential coverage are not eligible for coverage from corporation; specifies circumstances under which policyholders of corporation are not eligible for new commercial lines residential coverage from corporation; authorizes applicants or insureds to elect to accept coverage with authorized insurers or elect to accept or continue coverage with corporation; authorizes insureds to elect to accept coverage with specified insurers or elect to accept or continue coverage with corporation; specifies that certain applicants & policyholders remain eligible for coverage from corporation; authorizes such applicants & policyholders to elect to accept coverage from clearinghouse insurers or elect to accept or continue coverage with corporation; authorizes certain applicants & policyholders of corporation to elect to accept coverage from clearinghouse insurers or elect to accept or continue coverage with corporation; requires such applicants or policyholders to pay specified total cost of insurance for corporation coverage; revises rights & authorizations for certain independent insurance agents; removes prohibition relating to commercial nonresidential policies."
+      "abstract": "Citizens Property Insurance Corporation;  Prohibits corporation from issuing or renewing coverage for commercial residential & commercial nonresidential risks & from imposing equalization adjustment; requires corporation to implement commercial lines clearinghouse; authorizes corporation to share risk exposure & policy information with commercial lines clearinghouse administrator; authorizes approved surplus lines clearinghouse insurers to participate in commercial lines clearinghouse; prohibits such insurers from participating in personal lines clearinghouse; authorizes OIR to review certain operational processes related to program."
     }
   ],
   "other_titles": [],
@@ -188,9 +188,51 @@
       "_processing": {
         "log_file_created": "2026-02-27T12:39:03Z"
       }
+    },
+    {
+      "description": "Reported out of Commerce Committee",
+      "date": "2026-02-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-02T12:38:45Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-02T12:38:45Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-02T12:38:45Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Commerce Committee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Commerce Committee\"}"
+    },
     {
       "name": "Insurance & Banking Subcommittee",
       "classification": "primary",
@@ -242,6 +284,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/943/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "H 943 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/943/BillText/c2/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -316,6 +369,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-27T12:39:03Z"
+    "logs_latest_update": "2026-03-02T12:38:45Z"
   }
 }
