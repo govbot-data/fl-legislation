@@ -9,7 +9,7 @@
   "subject": [
     "(adopted)",
     "construction of statutes",
-    "homestead and exemptions",
+    "h",
     "subject index"
   ],
   "abstracts": [
@@ -116,6 +116,16 @@
       "_processing": {
         "log_file_created": "2026-02-27T12:39:03Z"
       }
+    },
+    {
+      "description": "CS/CS by- Appropriations; YEAS 18 NAYS 0",
+      "date": "2026-03-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-04T12:37:44Z"
+      }
     }
   ],
   "sponsorships": [
@@ -157,6 +167,22 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Massullo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Garcia",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Garcia\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Harrell",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Harrell\"}",
       "organization_id": null
     }
   ],
@@ -217,6 +243,17 @@
       "classification": ""
     },
     {
+      "note": "Bill Analysis -- Appropriations (Pre-Meeting) (2/27/2026 12:04 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1760/Analyses/2026s01760.pre.ap.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "620456 - Amendment (Delete All) to S 1760 Filed",
       "links": [
         {
@@ -256,6 +293,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-27T12:39:03Z"
+    "logs_latest_update": "2026-03-04T12:37:44Z"
   }
 }

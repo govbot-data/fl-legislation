@@ -8,12 +8,14 @@
   ],
   "subject": [
     "aviation",
+    "ports and harbors",
+    "real and personal property",
     "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Spaceport Operations and Space Florida;  Provides that Space Florida is not agency & is not subject to certain bidding & contract procedures under certain conditions; requires Space Florida to enhance & promote development & use of quintimodal transportation hubs in this state; provides powers & duties of spaceport operators."
+      "abstract": "Spaceport Operations and Space Florida;  Requires governing board of certain seaports to coordinate with Space Florida for specified purposes; provides that Space Florida is not agency & is not subject to certain bidding & contract procedures under certain conditions; requires Space Florida to employ full-time business development director for specified purposes; revises membership of Space Florida board of directors."
     }
   ],
   "other_titles": [],
@@ -313,9 +315,83 @@
       "_processing": {
         "log_file_created": "2026-03-02T12:38:45Z"
       }
+    },
+    {
+      "description": "Reported out of Commerce Committee",
+      "date": "2026-03-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-04T12:37:44Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-03-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-04T12:37:44Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-03-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-04T12:37:44Z"
+      }
+    },
+    {
+      "description": "Bill referred to House Calendar",
+      "date": "2026-03-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-04T12:37:44Z"
+      }
+    },
+    {
+      "description": "Bill added to Special Order Calendar (3/5/2026)",
+      "date": "2026-03-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-04T12:37:44Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 3)",
+      "date": "2026-03-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-04T12:37:44Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Commerce Committee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Commerce Committee\"}"
+    },
     {
       "name": "Transportation & Economic Development Budget Subcommittee",
       "classification": "primary",
@@ -375,6 +451,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 1177 c3",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1177/BillText/c3/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -401,10 +488,10 @@
       "classification": ""
     },
     {
-      "note": "Bill Analysis -- Commerce Committee (Post-Meeting) (2/20/2026 4:34 PM)",
+      "note": "Bill Analysis -- Commerce Committee (Post-Meeting) (3/2/2026 4:03 PM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/1177/Analyses/h1177c.COM.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/1177/Analyses/h1177d.COM.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -426,11 +513,11 @@
   "citations": [
     {
       "publication": "Florida Statues",
-      "citation": "330.41",
+      "citation": "311.14",
       "citation_type": "proposed",
       "effective": null,
       "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/330.41"
+      "url": "https://flsenate.gov/laws/statutes/2025/311.14"
     },
     {
       "publication": "Florida Statues",
@@ -442,19 +529,19 @@
     },
     {
       "publication": "Florida Statues",
-      "citation": "331.303",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/331.303"
-    },
-    {
-      "publication": "Florida Statues",
       "citation": "331.3051",
       "citation_type": "proposed",
       "effective": null,
       "expires": null,
       "url": "https://flsenate.gov/laws/statutes/2025/331.3051"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "331.3081",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/331.3081"
     }
   ],
   "sources": [
@@ -471,6 +558,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-02T12:38:45Z"
+    "logs_latest_update": "2026-03-04T12:37:44Z"
   }
 }

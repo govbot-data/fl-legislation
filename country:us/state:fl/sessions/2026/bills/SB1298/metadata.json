@@ -143,6 +143,16 @@
       "_processing": {
         "log_file_created": "2026-02-27T12:39:03Z"
       }
+    },
+    {
+      "description": "Unfavorable by Fiscal Policy; YEAS 8 NAYS 10",
+      "date": "2026-03-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-04T12:37:44Z"
+      }
     }
   ],
   "sponsorships": [
@@ -229,6 +239,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Fiscal Policy (Pre-Meeting) (2/27/2026 11:53 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1298/Analyses/2026s01298.pre.fp.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [
@@ -255,6 +276,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-27T12:39:03Z"
+    "logs_latest_update": "2026-03-04T12:37:44Z"
   }
 }

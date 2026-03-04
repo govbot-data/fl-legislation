@@ -11,8 +11,7 @@
     "public business",
     "public lands and property",
     "regulation of professions and occupations",
-    "subject index",
-    "taxation and finance"
+    "subject index"
   ],
   "abstracts": [
     {
@@ -177,6 +176,16 @@
       "_processing": {
         "log_file_created": "2026-02-27T12:39:02Z"
       }
+    },
+    {
+      "description": "Favorable with 1 amendment(s) by- Appropriations ; YEAS 16 NAYS 0",
+      "date": "2026-03-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-04T12:37:44Z"
+      }
     }
   ],
   "sponsorships": [
@@ -213,10 +222,36 @@
   ],
   "documents": [
     {
+      "note": "Bill Analysis -- Appropriations (Pre-Meeting) (2/27/2026 12:05 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/5207/Analyses/2026h05207.pre.ap.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Bill Analysis -- State Administration Budget Subcommittee (Post-Meeting) (2/16/2026 4:51 PM)",
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/5207/Analyses/h5207a.SAB.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "604948 - Amendment (Delete All) to H 5207 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/5207/Amendment/604948/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/5207/Amendment/604948/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -264,6 +299,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-27T12:39:02Z"
+    "logs_latest_update": "2026-03-04T12:37:44Z"
   }
 }

@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Historic Cemeteries Program;  Requires local governments to approve applications from historic African-American cemeteries to change land use category & zoning district of excess vacant land under certain conditions."
+      "abstract": "Historic Cemeteries Program;  Requires local governments to approve applications from historic African-American cemeteries to change land use category & zoning district of excess vacant land under certain conditions to allow development consistent & compatible with adjacent land uses."
     }
   ],
   "other_titles": [],
@@ -200,9 +200,83 @@
       "_processing": {
         "log_file_created": "2026-03-02T12:38:45Z"
       }
+    },
+    {
+      "description": "Reported out of Commerce Committee",
+      "date": "2026-03-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-04T12:37:44Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-03-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-04T12:37:44Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-03-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-04T12:37:44Z"
+      }
+    },
+    {
+      "description": "Bill referred to House Calendar",
+      "date": "2026-03-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-04T12:37:44Z"
+      }
+    },
+    {
+      "description": "Bill added to Special Order Calendar (3/5/2026)",
+      "date": "2026-03-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-04T12:37:44Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 2)",
+      "date": "2026-03-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-04T12:37:44Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Commerce Committee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Commerce Committee\"}"
+    },
     {
       "name": "Intergovernmental Affairs Subcommittee",
       "classification": "primary",
@@ -251,6 +325,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 425 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/425/BillText/c2/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -266,10 +351,10 @@
       "classification": ""
     },
     {
-      "note": "Bill Analysis -- Commerce Committee (Post-Meeting) (2/24/2026 6:20 PM)",
+      "note": "Bill Analysis -- Commerce Committee (Post-Meeting) (3/2/2026 11:59 AM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/425/Analyses/h0425a.COM.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/425/Analyses/h0425b.COM.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -312,6 +397,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-02T12:38:45Z"
+    "logs_latest_update": "2026-03-04T12:37:44Z"
   }
 }

@@ -8,7 +8,7 @@
   ],
   "subject": [
     "public transportation",
-    "taxation and finance"
+    "subject index"
   ],
   "abstracts": [
     {
@@ -173,6 +173,16 @@
       "_processing": {
         "log_file_created": "2026-02-27T12:39:02Z"
       }
+    },
+    {
+      "description": "Favorable with 1 amendment(s) by- Appropriations ; YEAS 17 NAYS 0",
+      "date": "2026-03-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-04T12:37:44Z"
+      }
     }
   ],
   "sponsorships": [
@@ -209,10 +219,36 @@
   ],
   "documents": [
     {
+      "note": "Bill Analysis -- Appropriations (Pre-Meeting) (2/27/2026 12:06 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/5501/Analyses/2026h05501.pre.ap.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Bill Analysis -- Transportation & Economic Development Budget Subcommittee (Post-Meeting) (2/16/2026 2:35 PM)",
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/5501/Analyses/h5501.TED.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "555842 - Amendment (Delete All) to H 5501 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/5501/Amendment/555842/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/5501/Amendment/555842/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -252,6 +288,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-27T12:39:02Z"
+    "logs_latest_update": "2026-03-04T12:37:44Z"
   }
 }

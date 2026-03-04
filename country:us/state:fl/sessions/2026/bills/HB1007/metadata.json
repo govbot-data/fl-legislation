@@ -12,13 +12,14 @@
     "public health",
     "public transportation",
     "railroads and other regulated utilities",
+    "reclamation, and use",
     "relations",
     "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Data Centers;  Prohibits agency from entering into nondisclosure agreement or other contract that restricts agency from disclosing certain information to public; specifies that local governments maintain authority to exercise power & responsibility over comprehensive planning & land development regulations related to large load customers; prohibits large load customer from being considered electric substation; prohibits local government from issuing construction permit for certain new data center or support facilities in specified areas; provides exception to provision allowing extension of certain confidentiality protections; requires PSC to develop minimum tariff & service requirements for large load customers; prohibits any tariff, contractual provision, service requirement, or other public utility policy from preventing or hindering curtailment or interruption of electric service to large load customer; prohibits public utility from knowingly providing electric service to large load customer that is foreign entity; prohibits governing board of water management district or DEP from issuing permit for consumptive use of water to large-scale data center; requires governing board or DEP to require use of reclaimed water for large-scale data center applicant's allocation."
+      "abstract": "Data Centers;  Prohibits agency from entering into nondisclosure agreement or other contract that restricts agency from disclosing certain information to public; specifies that local governments maintain authority to exercise power & responsibility over comprehensive planning & land development regulations related to large load customers; prohibits large load customer from being considered electric substation; requires applicants for construction permits for certain new data center in specified areas to demonstrate that operation of data center will comply with certain provisions & submit specified study in support of such application; requires PSC to develop minimum tariff & service requirements for large load customers; prohibits governing board of water management district or DEP from issuing permit for consumptive use of water to large-scale data center; requires governing board or DEP to require use of reclaimed water for large-scale data center applicant's allocation when certain requirements are met."
     }
   ],
   "other_titles": [],
@@ -206,9 +207,83 @@
       "_processing": {
         "log_file_created": "2026-03-02T12:38:45Z"
       }
+    },
+    {
+      "description": "Reported out of Commerce Committee",
+      "date": "2026-03-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-04T12:37:44Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-03-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-04T12:37:44Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-03-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-04T12:37:44Z"
+      }
+    },
+    {
+      "description": "Bill referred to House Calendar",
+      "date": "2026-03-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-04T12:37:44Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 2)",
+      "date": "2026-03-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-04T12:37:44Z"
+      }
+    },
+    {
+      "description": "Added to Second Reading Calendar",
+      "date": "2026-03-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-04T12:37:44Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Commerce Committee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Commerce Committee\"}"
+    },
     {
       "name": "State Affairs Committee",
       "classification": "primary",
@@ -249,6 +324,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 1007 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1007/BillText/c2/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -264,10 +350,10 @@
       "classification": ""
     },
     {
-      "note": "Bill Analysis -- Commerce Committee (Post-Meeting) (2/24/2026 6:30 PM)",
+      "note": "Bill Analysis -- Commerce Committee (Post-Meeting) (3/2/2026 3:59 PM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/1007/Analyses/h1007a.COM.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/1007/Analyses/h1007b.COM.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -301,6 +387,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-02T12:38:45Z"
+    "logs_latest_update": "2026-03-04T12:37:44Z"
   }
 }

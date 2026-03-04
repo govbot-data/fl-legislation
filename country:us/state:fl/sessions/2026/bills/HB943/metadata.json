@@ -222,6 +222,38 @@
       "_processing": {
         "log_file_created": "2026-03-02T12:38:45Z"
       }
+    },
+    {
+      "description": "Bill referred to House Calendar",
+      "date": "2026-03-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-04T12:37:44Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 2)",
+      "date": "2026-03-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-04T12:37:44Z"
+      }
+    },
+    {
+      "description": "Added to Second Reading Calendar",
+      "date": "2026-03-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-04T12:37:44Z"
+      }
     }
   ],
   "sponsorships": [
@@ -315,10 +347,10 @@
       "classification": ""
     },
     {
-      "note": "Bill Analysis -- Commerce Committee (Post-Meeting) (2/20/2026 4:29 PM)",
+      "note": "Bill Analysis -- Commerce Committee (Post-Meeting) (3/2/2026 8:43 AM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/943/Analyses/h0943b.COM.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/943/Analyses/h0943c.COM.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -369,6 +401,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-02T12:38:45Z"
+    "logs_latest_update": "2026-03-04T12:37:44Z"
   }
 }

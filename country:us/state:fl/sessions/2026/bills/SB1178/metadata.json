@@ -7,6 +7,7 @@
     "bill"
   ],
   "subject": [
+    "and solicitations",
     "electors and elections",
     "public business",
     "real and personal property",
@@ -148,6 +149,16 @@
       "_processing": {
         "log_file_created": "2026-02-27T12:39:02Z"
       }
+    },
+    {
+      "description": "CS/CS by- Appropriations; YEAS 11 NAYS 5",
+      "date": "2026-03-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-04T12:37:44Z"
+      }
     }
   ],
   "sponsorships": [
@@ -255,6 +266,17 @@
       "classification": ""
     },
     {
+      "note": "Bill Analysis -- Appropriations (Pre-Meeting) (2/27/2026 12:02 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1178/Analyses/2026s01178.pre.ap.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "226318 - Amendment to S 1178 Filed",
       "links": [
         {
@@ -285,6 +307,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-27T12:39:02Z"
+    "logs_latest_update": "2026-03-04T12:37:44Z"
   }
 }

@@ -16,7 +16,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Community Associations;  Provides requirements for terminating dissolved HOA governing documents; provides requirements relating to easements of dissolved HOA; provides retroactive applicability; requires condominium & homeowners' associations to include specified statement in their governing documents or to hold meeting by date certain to vote to amend governing documents to include such statement; provides disclosure requirements for conflicts of interest; removes presuit mediation requirements; requires that specified arbitrators conduct arbitration proceedings; authorizes HOA's to be terminated; provides requirements for termination of HOA; provides duties & responsibilities of HOA board, & termination trustee; provides for distribution of HOA assets & paying lawful debts after termination; authorizes circuit court to create & administer community association court program; provides duties of chief judge; provides jurisdiction of community association court program; authorizes community association court program to take certain actions; requires each judicial circuit to submit to Legislature specified report annually by specified date; provides duties of OSCA; provides for funding & additional judges."
+      "abstract": "Community Associations;  Provides requirements for terminating dissolved HOA governing documents; provides requirements relating to easements of dissolved HOA; provides retroactive applicability; requires condominium & homeowners' associations to include specified statement in their governing documents or to hold meeting by date certain to vote to amend governing documents to include such statement; revises provisions relating to official records, electronic ballots, turnover inspection reports, & roofs; provides disclosure requirements for conflicts of interest; removes presuit mediation requirements; requires that specified arbitrators conduct arbitration proceedings; authorizes HOA's to be terminated; provides requirements for termination of HOA; provides duties & responsibilities of HOA board, & termination trustee; provides for distribution of HOA assets & paying lawful debts after termination; authorizes circuit court to create & administer community association court program; provides duties of chief judge; provides jurisdiction of community association court program; authorizes community association court program to take certain actions; requires each judicial circuit to submit to Legislature specified report annually by specified date; provides duties of OSCA; provides for funding & additional judges."
     }
   ],
   "other_titles": [],
@@ -432,9 +432,83 @@
       "_processing": {
         "log_file_created": "2026-03-02T12:38:45Z"
       }
+    },
+    {
+      "description": "Reported out of Commerce Committee",
+      "date": "2026-03-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-04T12:37:44Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-03-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-04T12:37:44Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-03-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-04T12:37:44Z"
+      }
+    },
+    {
+      "description": "Bill referred to House Calendar",
+      "date": "2026-03-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-04T12:37:44Z"
+      }
+    },
+    {
+      "description": "Bill added to Special Order Calendar (3/5/2026)",
+      "date": "2026-03-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-04T12:37:44Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 4)",
+      "date": "2026-03-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-04T12:37:44Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Commerce Committee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Commerce Committee\"}"
+    },
     {
       "name": "Budget Committee",
       "classification": "primary",
@@ -564,6 +638,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/657/BillText/c3/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "H 657 c4",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/657/BillText/c4/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -769,6 +854,14 @@
     },
     {
       "publication": "Florida Statues",
+      "citation": "617.0825",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/617.0825"
+    },
+    {
+      "publication": "Florida Statues",
       "citation": "617.1606",
       "citation_type": "proposed",
       "effective": null,
@@ -790,6 +883,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-02T12:38:45Z"
+    "logs_latest_update": "2026-03-04T12:37:44Z"
   }
 }

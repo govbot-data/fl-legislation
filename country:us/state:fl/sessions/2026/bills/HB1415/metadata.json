@@ -246,6 +246,26 @@
       "_processing": {
         "log_file_created": "2026-02-28T12:29:18Z"
       }
+    },
+    {
+      "description": "Bill referred to House Calendar",
+      "date": "2026-03-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-04T12:37:44Z"
+      }
+    },
+    {
+      "description": "Added to Second Reading Calendar",
+      "date": "2026-03-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-04T12:37:44Z"
+      }
     }
   ],
   "sponsorships": [
@@ -331,10 +351,10 @@
       "classification": ""
     },
     {
-      "note": "Bill Analysis -- Commerce Committee (Post-Meeting) (2/20/2026 4:39 PM)",
+      "note": "Bill Analysis -- Commerce Committee (Post-Meeting) (3/2/2026 11:28 AM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/1415/Analyses/h1415b.COM.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/1415/Analyses/h1415c.COM.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -368,6 +388,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-28T12:29:18Z"
+    "logs_latest_update": "2026-03-04T12:37:44Z"
   }
 }

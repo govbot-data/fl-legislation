@@ -8,6 +8,7 @@
   ],
   "subject": [
     "(adopted)",
+    "civil rights",
     "public lands and property",
     "subject index"
   ],
@@ -174,6 +175,16 @@
       "_processing": {
         "log_file_created": "2026-02-27T12:39:02Z"
       }
+    },
+    {
+      "description": "Favorable with 1 amendment(s) by- Appropriations ; YEAS 16 NAYS 0",
+      "date": "2026-03-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-04T12:37:44Z"
+      }
     }
   ],
   "sponsorships": [
@@ -210,10 +221,36 @@
   ],
   "documents": [
     {
+      "note": "Bill Analysis -- Appropriations (Pre-Meeting) (2/27/2026 12:05 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/5203/Analyses/2026h05203.pre.ap.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Bill Analysis -- State Administration Budget Subcommittee (Post-Meeting) (2/16/2026 4:46 PM)",
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/5203/Analyses/h5203.SAB.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "629570 - Amendment (Delete All) to H 5203 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/5203/Amendment/629570/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/5203/Amendment/629570/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -253,6 +290,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-27T12:39:02Z"
+    "logs_latest_update": "2026-03-04T12:37:44Z"
   }
 }

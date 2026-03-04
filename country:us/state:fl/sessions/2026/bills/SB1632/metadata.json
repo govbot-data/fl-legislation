@@ -7,7 +7,6 @@
     "bill"
   ],
   "subject": [
-    "business organizations",
     "construction of statutes",
     "subject index"
   ],
@@ -127,7 +126,7 @@
       }
     },
     {
-      "description": "On Committee agenda-- Fiscal Policy, 03/02/26, 12:00 pm, 412 Knott Building --If Received",
+      "description": "On Committee agenda-- Fiscal Policy, 03/02/26, 12:00 pm, 412 Knott Building --Not Received",
       "date": "2026-02-25",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
@@ -135,7 +134,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-02-27T12:39:03Z"
+        "log_file_created": "2026-03-04T12:37:44Z"
       }
     },
     {
@@ -186,6 +185,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-02-28T12:29:17Z"
+      }
+    },
+    {
+      "description": "Placed on Special Order Calendar, 03/05/26",
+      "date": "2026-03-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-04T12:37:44Z"
       }
     }
   ],
@@ -298,6 +307,17 @@
       "classification": ""
     },
     {
+      "note": "Bill Analysis -- Appropriations Committee on Criminal and Civil Justice (Post-Meeting) (2/27/2026 10:18 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1632/Analyses/2026s01632.acj.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "507972 - Amendment to S 1632 Filed",
       "links": [
         {
@@ -328,6 +348,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-28T12:29:17Z"
+    "logs_latest_update": "2026-03-04T12:37:44Z"
   }
 }

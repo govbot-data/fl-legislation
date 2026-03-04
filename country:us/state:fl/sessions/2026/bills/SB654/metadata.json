@@ -7,6 +7,7 @@
     "bill"
   ],
   "subject": [
+    "judicial branch",
     "subject index"
   ],
   "abstracts": [
@@ -155,13 +156,25 @@
       }
     },
     {
-      "description": "On Committee agenda-- Fiscal Policy, 03/02/26, 12:00 pm, 412 Knott Building",
+      "description": "On Committee agenda-- Fiscal Policy, 03/02/26, 12:00 pm, 412 Knott Building --Temporarily Postponed",
       "date": "2026-02-25",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-02-27T12:39:02Z"
+        "log_file_created": "2026-03-04T12:37:44Z"
+      }
+    },
+    {
+      "description": "Placed on Special Order Calendar, 03/05/26  --If Received",
+      "date": "2026-03-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "enrolled"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-04T12:37:44Z"
       }
     }
   ],
@@ -278,6 +291,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/654/Analyses/2026s00654.atd.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Fiscal Policy (Pre-Meeting) (2/27/2026 11:52 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/654/Analyses/2026s00654.pre.fp.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -468,6 +492,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-27T12:39:02Z"
+    "logs_latest_update": "2026-03-04T12:37:44Z"
   }
 }
