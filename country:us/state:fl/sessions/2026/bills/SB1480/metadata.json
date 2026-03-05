@@ -187,6 +187,16 @@
       "_processing": {
         "log_file_created": "2026-02-25T12:43:58Z"
       }
+    },
+    {
+      "description": "Placed on Special Order Calendar, 03/06/26",
+      "date": "2026-03-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-05T12:41:14Z"
+      }
     }
   ],
   "sponsorships": [
@@ -363,6 +373,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-25T12:43:58Z"
+    "logs_latest_update": "2026-03-05T12:41:14Z"
   }
 }

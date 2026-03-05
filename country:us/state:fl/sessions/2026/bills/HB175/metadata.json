@@ -255,6 +255,106 @@
       "_processing": {
         "log_file_created": "2026-02-28T12:29:17Z"
       }
+    },
+    {
+      "description": "Read 2nd time",
+      "date": "2026-03-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-05T12:41:14Z"
+      }
+    },
+    {
+      "description": "Amendment 586903 adopted",
+      "date": "2026-03-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-05T12:41:14Z"
+      }
+    },
+    {
+      "description": "Amendment 618355 superseded by substitute",
+      "date": "2026-03-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-05T12:41:14Z"
+      }
+    },
+    {
+      "description": "Read 3rd time",
+      "date": "2026-03-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-05T12:41:14Z"
+      }
+    },
+    {
+      "description": "Added to Third Reading Calendar",
+      "date": "2026-03-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-05T12:41:14Z"
+      }
+    },
+    {
+      "description": "CS passed as amended; YEAS 102, NAYS 2",
+      "date": "2026-03-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-05T12:41:14Z"
+      }
+    },
+    {
+      "description": "In Messages",
+      "date": "2026-03-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-05T12:41:14Z"
+      }
+    },
+    {
+      "description": "Referred to Rules",
+      "date": "2026-03-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-05T12:41:14Z"
+      }
+    },
+    {
+      "description": "Received",
+      "date": "2026-03-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "enrolled"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-05T12:41:14Z"
+      }
     }
   ],
   "sponsorships": [
@@ -333,6 +433,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 175 e1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/175/BillText/e1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -348,10 +459,10 @@
       "classification": ""
     },
     {
-      "note": "Bill Analysis -- Commerce Committee (Post-Meeting) (2/20/2026 4:24 PM)",
+      "note": "Bill Analysis -- Commerce Committee (Post-Meeting) (2/27/2026 1:54 PM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/175/Analyses/h0175a.COM.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/175/Analyses/h0175b.COM.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -374,6 +485,28 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/175/Amendment/415819/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "618355 - Amendment to H 175 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/175/Amendment/618355/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "586903 - Substitute Amendment (618355) to H 175 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/175/Amendment/586903/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -421,6 +554,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-28T12:29:17Z"
+    "logs_latest_update": "2026-03-05T12:41:14Z"
   }
 }

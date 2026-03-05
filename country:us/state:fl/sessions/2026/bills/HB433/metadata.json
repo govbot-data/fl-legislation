@@ -353,6 +353,28 @@
       "_processing": {
         "log_file_created": "2026-02-28T12:29:17Z"
       }
+    },
+    {
+      "description": "Substituted CS/CS/CS/SB 290",
+      "date": "2026-03-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-05T12:41:14Z"
+      }
+    },
+    {
+      "description": "Laid on Table, refer to CS/CS/CS/SB 290",
+      "date": "2026-03-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-05T12:41:14Z"
+      }
     }
   ],
   "sponsorships": [
@@ -397,6 +419,14 @@
       "organization_id": null
     },
     {
+      "name": "Booth",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Booth\"}",
+      "organization_id": null
+    },
+    {
       "name": "Grow",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -418,6 +448,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Nix\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rizo",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rizo\"}",
       "organization_id": null
     }
   ],
@@ -501,6 +539,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "552173 - Amendment to H 433 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/433/Amendment/552173/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [],
@@ -518,6 +567,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-28T12:29:17Z"
+    "logs_latest_update": "2026-03-05T12:41:14Z"
   }
 }

@@ -13,7 +13,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Specific Medical Diagnoses in Child Protective Investigations ;  Provides exception to requirement that DCF immediately forward certain allegations to law enforcement agency; requires such allegations to be immediately forwarded to law enforcement agency upon completion of department's investigation; requires child protective investigator to inform subject of investigation of certain duty; requires Child Protection Teams to consult with licensed physician or advanced practice registered nurse with pediatric experience when evaluating certain reports; provides for medical evaluation of abused, abandoned, or neglected children; authorizes parent or legal custodian of child who is subject of protective investigation or shelter order to request specified evaluations or examinations of child within specified timeframe; requires that certain evaluations or examinations be paid for by parent or legal custodian making request or as otherwise covered by insurance; requires physician or advanced practice registered nurse who performed certain medical evaluations or examinations to submit written report to department & certain persons within specified timeframe; requires department to immediately convene case staffing with specified persons; requires certain records be provided to department within specified timeframe."
+      "abstract": "Specific Medical Diagnoses in Child Protective Investigations ;  Providing an exception to the requirement that the Department of Children and Families immediately forward certain allegations to a law enforcement agency; requiring such allegations to be immediately forwarded to a law enforcement agency upon completion of the department's investigation; requiring a child protective investigator to inform the subject of an investigation of a certain duty; requiring Child Protection Teams to consult with a licensed physician or advanced practice registered nurse with certain experience when evaluating certain reports; requiring the physician or advanced practice registered nurse who performed certain medical examinations to submit a written report to the department and certain persons within a specified timeframe, etc."
     }
   ],
   "other_titles": [],
@@ -331,6 +331,96 @@
       "_processing": {
         "log_file_created": "2026-02-28T12:29:17Z"
       }
+    },
+    {
+      "description": "Read 2nd time",
+      "date": "2026-03-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-05T12:41:14Z"
+      }
+    },
+    {
+      "description": "Amendment 691295 adopted",
+      "date": "2026-03-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-05T12:41:14Z"
+      }
+    },
+    {
+      "description": "Added to Third Reading Calendar",
+      "date": "2026-03-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-05T12:41:14Z"
+      }
+    },
+    {
+      "description": "Read 3rd time",
+      "date": "2026-03-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-05T12:41:14Z"
+      }
+    },
+    {
+      "description": "CS passed as amended; YEAS 109, NAYS 0",
+      "date": "2026-03-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-05T12:41:14Z"
+      }
+    },
+    {
+      "description": "In Messages",
+      "date": "2026-03-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-05T12:41:14Z"
+      }
+    },
+    {
+      "description": "Referred to Rules",
+      "date": "2026-03-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-05T12:41:14Z"
+      }
+    },
+    {
+      "description": "Received",
+      "date": "2026-03-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "enrolled"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-05T12:41:14Z"
+      }
     }
   ],
   "sponsorships": [
@@ -367,11 +457,27 @@
       "organization_id": null
     },
     {
+      "name": "Buchanan",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Buchanan\"}",
+      "organization_id": null
+    },
+    {
       "name": "Campbell",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Campbell\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Daniels",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Daniels\"}",
       "organization_id": null
     },
     {
@@ -388,6 +494,22 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Hunschofsky\"}",
+      "organization_id": null
+    },
+    {
+      "name": "L\u00f3pez, J.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"L\\u00f3pez, J.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mooney",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mooney\"}",
       "organization_id": null
     },
     {
@@ -452,6 +574,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/47/BillText/c2/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "H 47 e1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/47/BillText/e1/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -564,6 +697,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-28T12:29:17Z"
+    "logs_latest_update": "2026-03-05T12:41:14Z"
   }
 }

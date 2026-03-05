@@ -7,6 +7,7 @@
     "bill"
   ],
   "subject": [
+    "(adopted)",
     "subject index"
   ],
   "abstracts": [
@@ -372,6 +373,18 @@
       "_processing": {
         "log_file_created": "2026-02-28T12:29:17Z"
       }
+    },
+    {
+      "description": "Favorable by- Rules; YEAS 21 NAYS 0",
+      "date": "2026-03-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-05T12:41:14Z"
+      }
     }
   ],
   "sponsorships": [
@@ -418,6 +431,17 @@
     }
   ],
   "documents": [
+    {
+      "note": "Bill Analysis -- Rules (Pre-Meeting) (3/2/2026 7:47 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1175/Analyses/2026h01175.pre.rc.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "Bill Analysis -- Industries & Professional Activities Subcommittee (Post-Meeting) (1/28/2026 6:25 PM)",
       "links": [
@@ -478,6 +502,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-28T12:29:17Z"
+    "logs_latest_update": "2026-03-05T12:41:14Z"
   }
 }

@@ -15,7 +15,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Land Use and Development Regulations;  Requires amount of application fees associated with development permits or orders to reasonably relate to certain costs; requires public schools interlocal agreements to address reasonable access to certain public easements & public rights-of-way; requires local governments to administratively approve applications for minor special exceptions or variances submitted by large destination resorts; requires local government comprehensive plans & land development regulations to include factors for assessing compatibility of certain residential uses; requires land development regulations to incorporate measures for mitigating or minimizing potential incompatibility; authorizes placement of certain residential manufactured buildings on lots in recreational vehicle parks; requires off-site constructed residential dwellings to be permitted as of right in certain zoning districts; requires OPPAGA to conduct specified study; requires office to submit results of study to Legislature by specified date."
+      "abstract": "Land Use and Development Regulations;  Requires amount of application fees associated with development permits or orders to reasonably relate to certain costs; requires public schools interlocal agreements to address reasonable access to certain public easements & public rights-of-way; requires local governments to administratively approve applications for minor special exceptions or variances submitted by large destination resorts; requires local government comprehensive plans & land development regulations to include factors for assessing compatibility of certain residential uses; requires land development regulations to incorporate measures for mitigating or minimizing potential incompatibility; prohibits residential manufactured buildings from being denied a building permit for placement on certain lots; requires housing units located on a mobile home lot to be taxed in a specified manner and be subject to payments to a specified fund; requires off-site constructed residential dwellings to be permitted as of right in certain zoning districts; requires OPPAGA to conduct specified study; requires office to submit results of study to Legislature by specified date."
     }
   ],
   "other_titles": [],
@@ -381,6 +381,116 @@
       "_processing": {
         "log_file_created": "2026-02-28T12:29:18Z"
       }
+    },
+    {
+      "description": "Read 2nd time",
+      "date": "2026-03-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-05T12:41:14Z"
+      }
+    },
+    {
+      "description": "Amendment 979721 Failed",
+      "date": "2026-03-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-05T12:41:14Z"
+      }
+    },
+    {
+      "description": "Amendment 198601 adopted",
+      "date": "2026-03-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-05T12:41:14Z"
+      }
+    },
+    {
+      "description": "Amendment 034653 ruled out of order",
+      "date": "2026-03-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-05T12:41:14Z"
+      }
+    },
+    {
+      "description": "Added to Third Reading Calendar",
+      "date": "2026-03-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-05T12:41:14Z"
+      }
+    },
+    {
+      "description": "Read 3rd time",
+      "date": "2026-03-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-05T12:41:14Z"
+      }
+    },
+    {
+      "description": "CS passed as amended; YEAS 71, NAYS 38",
+      "date": "2026-03-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-05T12:41:14Z"
+      }
+    },
+    {
+      "description": "In Messages",
+      "date": "2026-03-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-05T12:41:14Z"
+      }
+    },
+    {
+      "description": "Referred to Rules",
+      "date": "2026-03-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-05T12:41:14Z"
+      }
+    },
+    {
+      "description": "Received",
+      "date": "2026-03-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "enrolled"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-05T12:41:14Z"
+      }
     }
   ],
   "sponsorships": [
@@ -462,6 +572,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 399 e1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/399/BillText/e1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -508,6 +629,39 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "979721 - Amendment to H 399 c3",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/399/Amendment/979721/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "198601 - Amendment to H 399 c3",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/399/Amendment/198601/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "034653 - Strike All Amendment to H 399 c3",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/399/Amendment/034653/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [
@@ -542,6 +696,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-28T12:29:18Z"
+    "logs_latest_update": "2026-03-05T12:41:14Z"
   }
 }

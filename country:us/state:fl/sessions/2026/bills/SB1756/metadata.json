@@ -145,6 +145,28 @@
       "_processing": {
         "log_file_created": "2026-02-28T12:29:17Z"
       }
+    },
+    {
+      "description": "Placed on Special Order Calendar, 03/06/26  --If Received",
+      "date": "2026-03-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "enrolled"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-05T12:41:14Z"
+      }
+    },
+    {
+      "description": "CS/CS by- Rules; YEAS 14 NAYS 8",
+      "date": "2026-03-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-05T12:41:14Z"
+      }
     }
   ],
   "sponsorships": [
@@ -244,6 +266,17 @@
       "classification": ""
     },
     {
+      "note": "Bill Analysis -- Rules (Pre-Meeting) (3/2/2026 7:56 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1756/Analyses/2026s01756.pre.rc.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "882450 - Amendment to S 1756 Filed",
       "links": [
         {
@@ -321,6 +354,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-28T12:29:17Z"
+    "logs_latest_update": "2026-03-05T12:41:14Z"
   }
 }

@@ -7,8 +7,11 @@
     "bill"
   ],
   "subject": [
+    "civil practice and procedure",
+    "domestic relations",
     "electors and elections",
     "public business",
+    "public officers, employees, and records",
     "real and personal property",
     "subject index"
   ],
@@ -405,6 +408,106 @@
       "_processing": {
         "log_file_created": "2026-02-28T12:29:17Z"
       }
+    },
+    {
+      "description": "Read 2nd time",
+      "date": "2026-03-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-05T12:41:14Z"
+      }
+    },
+    {
+      "description": "Amendment 942243 adopted",
+      "date": "2026-03-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-05T12:41:14Z"
+      }
+    },
+    {
+      "description": "Amendment 231443 adopted",
+      "date": "2026-03-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-05T12:41:14Z"
+      }
+    },
+    {
+      "description": "Added to Third Reading Calendar",
+      "date": "2026-03-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-05T12:41:14Z"
+      }
+    },
+    {
+      "description": "Read 3rd time",
+      "date": "2026-03-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-05T12:41:14Z"
+      }
+    },
+    {
+      "description": "CS passed as amended; YEAS 86, NAYS 20",
+      "date": "2026-03-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-05T12:41:14Z"
+      }
+    },
+    {
+      "description": "In Messages",
+      "date": "2026-03-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-05T12:41:14Z"
+      }
+    },
+    {
+      "description": "Referred to Rules",
+      "date": "2026-03-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-05T12:41:14Z"
+      }
+    },
+    {
+      "description": "Received",
+      "date": "2026-03-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "enrolled"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-05T12:41:14Z"
+      }
     }
   ],
   "sponsorships": [
@@ -497,6 +600,30 @@
       "organization_id": null
     },
     {
+      "name": "Rizo",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rizo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Robinson, W.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Robinson, W.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Trabulsy",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Trabulsy\"}",
+      "organization_id": null
+    },
+    {
       "name": "Vald\u00e9s",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -550,6 +677,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 905 e1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/905/BillText/e1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -596,9 +734,40 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "942243 - Amendment to H 905 c3",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/905/Amendment/942243/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "231443 - Amendment to H 905 c3",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/905/Amendment/231443/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "citations": [],
+  "citations": [
+    {
+      "publication": "Florida Statues",
+      "citation": "63.213",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/63.213"
+    }
+  ],
   "sources": [
     {
       "url": "https://flsenate.gov/Session/Bill/2026/905/ByCategory",
@@ -613,6 +782,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-28T12:29:17Z"
+    "logs_latest_update": "2026-03-05T12:41:14Z"
   }
 }

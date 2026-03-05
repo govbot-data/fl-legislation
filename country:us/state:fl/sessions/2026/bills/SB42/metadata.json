@@ -168,9 +168,37 @@
       "_processing": {
         "log_file_created": "2026-03-04T12:37:44Z"
       }
+    },
+    {
+      "description": "Pending reference review -under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-03-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-05T12:41:14Z"
+      }
+    },
+    {
+      "description": "CS/CS by Fiscal Policy read 1st time",
+      "date": "2026-03-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-05T12:41:14Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Fiscal Policy",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Fiscal Policy\"}"
+    },
     {
       "name": "Appropriations Committee on Health and Human Services",
       "classification": "primary",
@@ -251,6 +279,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 42 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/42/BillText/c2/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/42/BillText/c2/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -303,6 +346,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/42/Analyses/2026s00042.pre.fp.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Fiscal Policy (Post-Meeting) (3/3/2026 9:20 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/42/Analyses/2026s00042.fp.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -373,6 +427,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-04T12:37:44Z"
+    "logs_latest_update": "2026-03-05T12:41:14Z"
   }
 }

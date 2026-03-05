@@ -149,9 +149,37 @@
       "_processing": {
         "log_file_created": "2026-03-04T12:37:44Z"
       }
+    },
+    {
+      "description": "Pending reference review -under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-03-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-05T12:41:14Z"
+      }
+    },
+    {
+      "description": "CS by Fiscal Policy read 1st time",
+      "date": "2026-03-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-05T12:41:14Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Fiscal Policy",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Fiscal Policy\"}"
+    },
     {
       "name": "Rodriguez",
       "classification": "primary",
@@ -172,6 +200,21 @@
         },
         {
           "url": "https://flsenate.gov/Session/Bill/2026/688/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S 688 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/688/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/688/BillText/c1/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -236,6 +279,17 @@
       "classification": ""
     },
     {
+      "note": "Bill Analysis -- Fiscal Policy (Post-Meeting) (3/3/2026 1:36 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/688/Analyses/2026s00688.fp.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "558882 - Amendment (Delete All) to S 688 Filed",
       "links": [
         {
@@ -267,6 +321,14 @@
       "effective": null,
       "expires": null,
       "url": "https://flsenate.gov/laws/statutes/2025/381.0031"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "456.47",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/456.47"
     }
   ],
   "sources": [
@@ -283,6 +345,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-04T12:37:44Z"
+    "logs_latest_update": "2026-03-05T12:41:14Z"
   }
 }

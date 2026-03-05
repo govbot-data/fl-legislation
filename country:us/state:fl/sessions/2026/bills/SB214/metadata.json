@@ -7,13 +7,12 @@
     "bill"
   ],
   "subject": [
-    "planning and development",
     "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Special District Funding;  Revising agency agreements that provide state financial assistance to recipients or subrecipients to include specified special districts as an entity to which such agency may provide for the payment of invoices under specified circumstances; revising the definition of \u201crural community\u201d to include specified special districts, etc."
+      "abstract": "Special District Funding;  Revising agency agreements that provide state financial assistance to recipients or subrecipients to include specified special districts as an entity to which such agency may provide for the payment of invoices under specified circumstances; requiring state agencies to expedite payment requests from certain counties, municipalities, and special districts for a specified purpose; revising the definition of \u201crural community\u201d to include specified special districts, etc."
     }
   ],
   "other_titles": [],
@@ -156,9 +155,49 @@
       "_processing": {
         "log_file_created": "2026-03-04T12:37:44Z"
       }
+    },
+    {
+      "description": "Pending reference review -under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-03-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-05T12:41:14Z"
+      }
+    },
+    {
+      "description": "Placed on Special Order Calendar, 03/06/26  --If Received",
+      "date": "2026-03-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "enrolled"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-05T12:41:14Z"
+      }
+    },
+    {
+      "description": "CS/CS by Fiscal Policy read 1st time",
+      "date": "2026-03-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-05T12:41:14Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Fiscal Policy",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Fiscal Policy\"}"
+    },
     {
       "name": "Appropriations Committee on Transportation, Tourism, and Economic Development",
       "classification": "primary",
@@ -202,6 +241,21 @@
         },
         {
           "url": "https://flsenate.gov/Session/Bill/2026/214/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S 214 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/214/BillText/c2/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/214/BillText/c2/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -266,6 +320,17 @@
       "classification": ""
     },
     {
+      "note": "Bill Analysis -- Fiscal Policy (Post-Meeting) (3/3/2026 12:40 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/214/Analyses/2026s00214.fp.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "451338 - Amendment to S 214 Filed",
       "links": [
         {
@@ -313,6 +378,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-04T12:37:44Z"
+    "logs_latest_update": "2026-03-05T12:41:14Z"
   }
 }

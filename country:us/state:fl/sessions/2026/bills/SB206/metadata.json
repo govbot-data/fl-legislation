@@ -159,15 +159,23 @@
       }
     },
     {
-      "description": "Placed on Special Order Calendar, 03/05/26  --If Received",
-      "date": "2026-03-02",
+      "description": "Placed on Calendar, on 2nd reading",
+      "date": "2026-03-03",
       "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "enrolled"
-      ],
+      "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-03-04T12:37:44Z"
+        "log_file_created": "2026-03-05T12:41:14Z"
+      }
+    },
+    {
+      "description": "Placed on Special Order Calendar, 03/05/26",
+      "date": "2026-03-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-05T12:41:14Z"
       }
     }
   ],
@@ -287,6 +295,17 @@
       "classification": ""
     },
     {
+      "note": "Bill Analysis -- Appropriations (Post-Meeting) (3/3/2026 10:32 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/206/Analyses/2026s00206.ap.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "651894 - Amendment (Delete All) to S 206 Filed",
       "links": [
         {
@@ -341,6 +360,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-04T12:37:44Z"
+    "logs_latest_update": "2026-03-05T12:41:14Z"
   }
 }

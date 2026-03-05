@@ -115,6 +115,16 @@
       "_processing": {
         "log_file_created": "2026-03-02T12:38:45Z"
       }
+    },
+    {
+      "description": "CS by Appropriations Committee on Criminal and Civil Justice read 1st time",
+      "date": "2026-03-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-05T12:41:14Z"
+      }
     }
   ],
   "sponsorships": [
@@ -252,6 +262,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-02T12:38:45Z"
+    "logs_latest_update": "2026-03-05T12:41:14Z"
   }
 }

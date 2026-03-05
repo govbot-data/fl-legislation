@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Candidate Qualifying;  Requiring certain candidates to provide the filing officer a statement disclosing dual citizenship for nomination and election to federal, state, county, multicounty, district, or judicial office or to a district school board, etc."
+      "abstract": "Candidate Qualifying;  Requiring a candidate for federal office to state in writing whether he or she intends to trade or has traded stock while serving in federal office; requiring certain candidates to provide the filing officer a statement disclosing dual citizenship for nomination and election to federal, state, county, multicounty, district, or judicial office or to a district school board; requiring candidates for representative to Congress seeking ballot position by petition to obtain a specified percentage of signatures to qualify for such office, etc."
     }
   ],
   "other_titles": [],
@@ -129,19 +129,65 @@
       }
     },
     {
-      "description": "Placed on Special Order Calendar, 03/04/26  --If Received",
-      "date": "2026-03-02",
+      "description": "CS by- Rules; YEAS 22 NAYS 0",
+      "date": "2026-03-03",
       "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "enrolled"
-      ],
+      "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-03-04T12:37:44Z"
+        "log_file_created": "2026-03-05T12:41:14Z"
+      }
+    },
+    {
+      "description": "Pending reference review -under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-03-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-05T12:41:14Z"
+      }
+    },
+    {
+      "description": "Placed on Calendar, on 2nd reading",
+      "date": "2026-03-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-05T12:41:14Z"
+      }
+    },
+    {
+      "description": "Placed on Special Order Calendar, 03/04/26",
+      "date": "2026-03-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-05T12:41:14Z"
+      }
+    },
+    {
+      "description": "CS by Rules read 1st time",
+      "date": "2026-03-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-05T12:41:14Z"
       }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Rules",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Rules\"}"
+    },
     {
       "name": "Mayfield",
       "classification": "primary",
@@ -162,6 +208,21 @@
         },
         {
           "url": "https://flsenate.gov/Session/Bill/2026/620/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S 620 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/620/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/620/BillText/c1/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -226,6 +287,17 @@
       "classification": ""
     },
     {
+      "note": "Bill Analysis -- Rules (Post-Meeting) (3/3/2026 7:39 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/620/Analyses/2026s00620.rc.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "521902 - Amendment to S 620 Filed",
       "links": [
         {
@@ -254,6 +326,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "590144 - Amendment to S 620 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/620/Amendment/590144/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/620/Amendment/590144/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [
@@ -264,6 +351,14 @@
       "effective": null,
       "expires": null,
       "url": "https://flsenate.gov/laws/statutes/2025/99.012"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "99.021",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/99.021"
     },
     {
       "publication": "Florida Statues",
@@ -296,6 +391,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-04T12:37:44Z"
+    "logs_latest_update": "2026-03-05T12:41:14Z"
   }
 }

@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Inmate Services;  Requiring that maintenance and repair deduction fees from contractor-operated correctional facilities be deposited in the Contractor-Operated Institutions Inmate Welfare Trust Fund; requiring that funds from the Contractor-Operated Institutions Inmate Welfare Trust Fund be used for specified purposes; revising compensation for the provision of inmate medical services by certain providers; providing an exemption; prohibiting compensation to a hospital for the provision of emergency medical services and care provided to inmates from exceeding a certain percentage of the Medicare allowable rate, etc."
+      "abstract": "Inmate Services;  Requiring that maintenance and repair deduction fees from contractor-operated correctional facilities be deposited in the Contractor-Operated Institutions Inmate Welfare Trust Fund; requiring that funds from the Contractor-Operated Institutions Inmate Welfare Trust Fund be used for specified purposes, etc."
     }
   ],
   "other_titles": [],
@@ -167,9 +167,37 @@
       "_processing": {
         "log_file_created": "2026-03-04T12:37:44Z"
       }
+    },
+    {
+      "description": "Pending reference review -under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-03-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-05T12:41:14Z"
+      }
+    },
+    {
+      "description": "CS/CS by Appropriations read 1st time",
+      "date": "2026-03-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-05T12:41:14Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Appropriations",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Appropriations\"}"
+    },
     {
       "name": "Appropriations Committee on Criminal and Civil Justice",
       "classification": "primary",
@@ -213,6 +241,21 @@
         },
         {
           "url": "https://flsenate.gov/Session/Bill/2026/1012/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S 1012 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1012/BillText/c2/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1012/BillText/c2/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -308,14 +351,6 @@
       "effective": null,
       "expires": null,
       "url": "https://flsenate.gov/laws/statutes/2025/945.215"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "945.6041",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/945.6041"
     }
   ],
   "sources": [
@@ -332,6 +367,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-04T12:37:44Z"
+    "logs_latest_update": "2026-03-05T12:41:14Z"
   }
 }

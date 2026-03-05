@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 1614",
-  "title": "Local Government Funding",
+  "title": "Enforcement of the Florida Building Code",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Local Government Funding;  Providing that a local governmental entity is not eligible to receive state funds through a local funding initiative request if the local governmental entity was subject to an audit directed by the Legislative Auditing Committee within a specified timeframe; providing an exception; requiring the Legislative Auditing Committee to notify the chairs of each legislative appropriations committee upon voting to direct an audit of a local governmental entity; revising the manner in which a local government is required to spend excess funds, etc."
+      "abstract": "Enforcement of the Florida Building Code;  Revising the manner in which a local government is required to spend excess funds, etc."
     }
   ],
   "other_titles": [],
@@ -185,9 +185,37 @@
       "_processing": {
         "log_file_created": "2026-03-04T12:37:44Z"
       }
+    },
+    {
+      "description": "Pending reference review -under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-03-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-05T12:41:14Z"
+      }
+    },
+    {
+      "description": "CS/CS/CS by Appropriations read 1st time",
+      "date": "2026-03-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-05T12:41:14Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Appropriations",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Appropriations\"}"
+    },
     {
       "name": "Appropriations Committee on Agriculture, Environment, and General Government",
       "classification": "primary",
@@ -259,6 +287,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 1614 c3",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1614/BillText/c3/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1614/BillText/c3/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -318,6 +361,17 @@
       "classification": ""
     },
     {
+      "note": "Bill Analysis -- Appropriations (Post-Meeting) (3/3/2026 3:03 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1614/Analyses/2026s01614.ap.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "709702 - Amendment to S 1614 Filed",
       "links": [
         {
@@ -334,14 +388,6 @@
     }
   ],
   "citations": [
-    {
-      "publication": "Florida Statues",
-      "citation": "11.40",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/11.40"
-    },
     {
       "publication": "Florida Statues",
       "citation": "553.80",
@@ -365,6 +411,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-04T12:37:44Z"
+    "logs_latest_update": "2026-03-05T12:41:14Z"
   }
 }

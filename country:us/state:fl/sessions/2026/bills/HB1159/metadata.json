@@ -14,7 +14,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Sexual Offenses;  Replaces term \"child pornography\" with term \"child sexual abuse material\"; revises criterion related to reclassification of specified offenses; revises mandatory minimum sentences for certain sexual offenses by persons previously convicted of sexual offenses; increases penalty for employing, authorizing, or inducing child of specified age to engage in sexual performance; prohibits person from employing, authorizing, or inducing child younger than 12 years of age to engage in sexual performance; requires mandatory minimum sentences for certain offenses when committed by specified offenders; increases penalty for knowingly soliciting, possessing, controlling, or intentionally viewing certain materials that include child sexual abuse material; provides applicability of specified mandatory minimum sentences; increases penalty for intentionally creating generated child sexual abuse material; prohibits person from transmitting child sexual abuse material to another person; revises punishments for certain sexual activities involving animals; requires certain court order to be effective for certain number of years; increases criminal penalties for possessing child-like sex doll; provides that prosecution for certain acts in connection with obscene, lewd, etc., materials does not prohibit person from prosecution for other specified offenses; requires mandatory minimum sentences for certain offenses when committed by specified offenders; ranks offenses on offense severity ranking chart of Criminal Punishment Code."
+      "abstract": "Sexual Offenses;  Replaces term \"child pornography\" with term \"child sexual abuse material\"; revises criteria related to reclassification of specified offenses; revises mandatory minimum sentences for certain sexual offenses by persons previously convicted of sexual offenses; increases penalty for employing, authorizing, or inducing child of specified age to engage in sexual performance; prohibits person from employing, authorizing, or inducing child younger than 12 years of age to engage in sexual performance; requires mandatory minimum sentences for certain offenses when committed by specified offenders; increases penalty for knowingly soliciting, possessing, controlling, or intentionally viewing certain materials that include child sexual abuse material; provides applicability of specified mandatory minimum sentences; increases penalty for intentionally creating generated child sexual abuse material; prohibits person from transmitting child sexual abuse material to another person; revises punishments for certain sexual activities involving animals; requires certain court order to be effective for certain number of years; increases criminal penalties for possessing child-like sex doll; provides that prosecution for certain acts in connection with obscene, lewd, etc., materials does not prohibit person from prosecution for other specified offenses; requires mandatory minimum sentences for certain offenses when committed by specified offenders; ranks offenses on offense severity ranking chart of Criminal Punishment Code."
     }
   ],
   "other_titles": [],
@@ -322,6 +322,86 @@
       "_processing": {
         "log_file_created": "2026-02-28T12:29:17Z"
       }
+    },
+    {
+      "description": "Read 2nd time",
+      "date": "2026-03-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-05T12:41:14Z"
+      }
+    },
+    {
+      "description": "Added to Third Reading Calendar",
+      "date": "2026-03-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-05T12:41:14Z"
+      }
+    },
+    {
+      "description": "Read 3rd time",
+      "date": "2026-03-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-05T12:41:14Z"
+      }
+    },
+    {
+      "description": "CS passed; YEAS 105, NAYS 0",
+      "date": "2026-03-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-05T12:41:14Z"
+      }
+    },
+    {
+      "description": "In Messages",
+      "date": "2026-03-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-05T12:41:14Z"
+      }
+    },
+    {
+      "description": "Referred to Rules",
+      "date": "2026-03-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-05T12:41:14Z"
+      }
+    },
+    {
+      "description": "Received",
+      "date": "2026-03-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "enrolled"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-05T12:41:14Z"
+      }
     }
   ],
   "sponsorships": [
@@ -366,11 +446,51 @@
       "organization_id": null
     },
     {
+      "name": "Gossett-Seidman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Gossett-Seidman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "L\u00f3pez, J.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"L\\u00f3pez, J.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mooney",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mooney\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Nix",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Nix\"}",
+      "organization_id": null
+    },
+    {
       "name": "Steele",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Steele\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Weinberger",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Weinberger\"}",
       "organization_id": null
     },
     {
@@ -664,6 +784,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-28T12:29:17Z"
+    "logs_latest_update": "2026-03-05T12:41:14Z"
   }
 }

@@ -175,6 +175,16 @@
       "_processing": {
         "log_file_created": "2026-03-04T12:37:44Z"
       }
+    },
+    {
+      "description": "Placed on Calendar, on 2nd reading",
+      "date": "2026-03-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-05T12:41:14Z"
+      }
     }
   ],
   "sponsorships": [
@@ -308,6 +318,17 @@
       "classification": ""
     },
     {
+      "note": "Bill Analysis -- Fiscal Policy (Post-Meeting) (3/3/2026 12:39 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1742/Analyses/2026s01742.fp.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "866418 - Amendment (Delete All) to S 1742 Filed",
       "links": [
         {
@@ -347,6 +368,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-04T12:37:44Z"
+    "logs_latest_update": "2026-03-05T12:41:14Z"
   }
 }

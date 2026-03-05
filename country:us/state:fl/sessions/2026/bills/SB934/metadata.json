@@ -166,6 +166,18 @@
       "_processing": {
         "log_file_created": "2026-02-28T12:29:17Z"
       }
+    },
+    {
+      "description": "Favorable by- Rules; YEAS 21 NAYS 0",
+      "date": "2026-03-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-05T12:41:14Z"
+      }
     }
   ],
   "sponsorships": [
@@ -265,6 +277,17 @@
       "classification": ""
     },
     {
+      "note": "Bill Analysis -- Rules (Pre-Meeting) (3/2/2026 7:50 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/934/Analyses/2026s00934.pre.rc.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "678604 - Amendment to S 934 Filed",
       "links": [
         {
@@ -312,6 +335,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-28T12:29:17Z"
+    "logs_latest_update": "2026-03-05T12:41:14Z"
   }
 }
