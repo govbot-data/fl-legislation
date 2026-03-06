@@ -13,7 +13,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Antisemitism Task Force;  Creating the Antisemitism Task Force adjunct to the Office of Civil Rights within the Department of Legal Affairs for a specified purpose; requiring the department to provide administrative and staff support to the task force; requiring the task force to meet quarterly; requiring the task force to annually submit a report and policy recommendations to the Governor and the Legislature by a specified date, etc."
+      "abstract": "Antisemitism Task Force;  Creating the Antisemitism Task Force adjunct to the Office of Civil Rights within the Department of Legal Affairs for a specified purpose; requiring the department to provide administrative and staff support to the task force; requiring the task force to meet quarterly; requiring the task force to annually submit a report and policy recommendations to the Governor and the Legislature by a specified date; specifying that the term \u201cantisemitism\u201d does not include certain criticism of the state of Israel, etc."
     }
   ],
   "other_titles": [],
@@ -160,6 +160,62 @@
       "_processing": {
         "log_file_created": "2026-03-04T12:37:44Z"
       }
+    },
+    {
+      "description": "Read 2nd time",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-06T12:36:22Z"
+      }
+    },
+    {
+      "description": "Amendment(s) adopted (856218)",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-06T12:36:22Z"
+      }
+    },
+    {
+      "description": "Read 3rd time",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-06T12:36:22Z"
+      }
+    },
+    {
+      "description": "Passed as amended; YEAS 37 NAYS 0",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-06T12:36:22Z"
+      }
+    },
+    {
+      "description": "In Messages",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-06T12:36:22Z"
+      }
     }
   ],
   "sponsorships": [
@@ -191,6 +247,21 @@
         },
         {
           "url": "https://flsenate.gov/Session/Bill/2026/1072/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S 1072 e1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1072/BillText/e1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1072/BillText/e1/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -264,6 +335,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "856218 - Amendment to S 1072 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1072/Amendment/856218/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1072/Amendment/856218/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [],
@@ -281,6 +367,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-04T12:37:44Z"
+    "logs_latest_update": "2026-03-06T12:36:22Z"
   }
 }

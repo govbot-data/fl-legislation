@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Customer Service Callback Queues;  Establishing a pilot program to require specified agencies to use a callback queue for returning certain calls; requiring calls to be returned in a specified manner; requiring pilot program participants to report specified information to the Legislature by a certain date, etc."
+      "abstract": "Customer Service Callback Queues;  Establishing a pilot program to require the Department of Commerce to use a callback queue for returning certain calls; requiring that calls be returned in a specified manner; requiring the department to report specified information to the Legislature by a certain date, etc."
     }
   ],
   "other_titles": [],
@@ -137,9 +137,47 @@
       "_processing": {
         "log_file_created": "2026-03-04T12:37:44Z"
       }
+    },
+    {
+      "description": "Pending reference review -under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-06T12:36:22Z"
+      }
+    },
+    {
+      "description": "Placed on Calendar, on 2nd reading",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-06T12:36:22Z"
+      }
+    },
+    {
+      "description": "CS by Appropriations read 1st time",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-06T12:36:22Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Appropriations",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Appropriations\"}"
+    },
     {
       "name": "Polsky",
       "classification": "primary",
@@ -168,6 +206,21 @@
         },
         {
           "url": "https://flsenate.gov/Session/Bill/2026/1192/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S 1192 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1192/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1192/BillText/c1/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -232,6 +285,17 @@
       "classification": ""
     },
     {
+      "note": "Bill Analysis -- Appropriations (Post-Meeting) (3/4/2026 12:06 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1192/Analyses/2026s01192.ap.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "600084 - Amendment to S 1192 Filed",
       "links": [
         {
@@ -271,6 +335,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-04T12:37:44Z"
+    "logs_latest_update": "2026-03-06T12:36:22Z"
   }
 }

@@ -34,7 +34,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Claims Against the Government;  Increasing the statutory limits on the liability of the state and its agencies and subdivisions for tort claims; requiring the Department of Financial Services, beginning on a specified date and every 5 years thereafter, to adjust the limitations of liability for claims; limiting attorney fees based on the amount of funds recovered; authorizing the Legislature to limit attorney fee awards in a claim bill or reserve any portion of the proceeds of a claim bill to the claimant, etc."
+      "abstract": "Claims Against the Government;  Increasing the statutory limits on the liability of the state and its agencies and subdivisions for tort claims; revising exceptions relating to instituting actions on tort claims against the state or one of its agencies or subdivisions; revising the period after which the failure of certain entities to make a final disposition of a claim shall be deemed a final denial of the claim for certain purposes; revising the statute of limitations for tort claims against the state or one of its agencies or subdivisions and exceptions thereto, etc."
     }
   ],
   "other_titles": [],
@@ -159,9 +159,47 @@
       "_processing": {
         "log_file_created": "2026-03-05T12:41:14Z"
       }
+    },
+    {
+      "description": "Pending reference review -under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-06T12:36:22Z"
+      }
+    },
+    {
+      "description": "Placed on Calendar, on 2nd reading",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-06T12:36:22Z"
+      }
+    },
+    {
+      "description": "CS by Rules read 1st time",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-06T12:36:22Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Rules",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Rules\"}"
+    },
     {
       "name": "Brodeur",
       "classification": "primary",
@@ -190,6 +228,21 @@
         },
         {
           "url": "https://flsenate.gov/Session/Bill/2026/1366/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S 1366 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1366/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1366/BillText/c1/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -247,6 +300,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/1366/Analyses/2026s01366.pre.rc.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Rules (Post-Meeting) (3/4/2026 4:03 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1366/Analyses/2026s01366.rc.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -805,6 +869,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-05T12:41:14Z"
+    "logs_latest_update": "2026-03-06T12:36:22Z"
   }
 }

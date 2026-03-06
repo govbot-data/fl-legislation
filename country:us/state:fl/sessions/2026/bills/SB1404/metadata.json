@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Memory Care;  Requiring licenses for assisted living facilities that provide memory care services; requiring an assisted living facility that serves memory care residents or holds itself out as providing memory care services to obtain a memory care services license; requiring the Agency for Health Care Administration to adopt rules governing memory care services licenses by a specified date; authorizing a facility that served memory care residents without a memory care services license before a specified date to continue to do so if certain requirements are met, etc."
+      "abstract": "Memory Care;  Requiring licenses for assisted living facilities that provide memory care services; making technical changes; requiring an assisted living facility that serves memory care residents or holds itself out as providing memory care services to obtain a memory care services license; providing an exception; requiring an assisted living facility to maintain certain licensure and meet certain requirements in order to obtain a memory care services license; requiring the Agency for Health Care Administration to adopt rules governing memory care services licenses by a specified date, etc."
     }
   ],
   "other_titles": [],
@@ -195,6 +195,52 @@
       "_processing": {
         "log_file_created": "2026-03-04T12:37:44Z"
       }
+    },
+    {
+      "description": "Read 2nd time",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-06T12:36:22Z"
+      }
+    },
+    {
+      "description": "Amendment(s) adopted (620750)",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-06T12:36:22Z"
+      }
+    },
+    {
+      "description": "Read 3rd time",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-06T12:36:22Z"
+      }
+    },
+    {
+      "description": "CS passed as amended; YEAS 37 NAYS 0",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-06T12:36:22Z"
+      }
     }
   ],
   "sponsorships": [
@@ -264,6 +310,21 @@
         },
         {
           "url": "https://flsenate.gov/Session/Bill/2026/1404/BillText/c2/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S 1404 e1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1404/BillText/e1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1404/BillText/e1/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -352,6 +413,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "620750 - Amendment to S 1404 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1404/Amendment/620750/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1404/Amendment/620750/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [
@@ -386,6 +462,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-04T12:37:44Z"
+    "logs_latest_update": "2026-03-06T12:36:22Z"
   }
 }

@@ -166,18 +166,6 @@
       }
     },
     {
-      "description": "Placed on Special Order Calendar, 03/05/26  --If Received",
-      "date": "2026-03-03",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "enrolled"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-03-05T12:41:14Z"
-      }
-    },
-    {
       "description": "CS/CS by Fiscal Policy read 1st time",
       "date": "2026-03-03",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -185,6 +173,26 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-03-05T12:41:14Z"
+      }
+    },
+    {
+      "description": "Placed on Calendar, on 2nd reading",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-06T12:36:23Z"
+      }
+    },
+    {
+      "description": "Placed on Special Order Calendar, 03/05/26",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-06T12:36:23Z"
       }
     }
   ],
@@ -327,6 +335,66 @@
         },
         {
           "url": "https://flsenate.gov/Session/Bill/2026/1296/Amendment/323952/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "151210 - Amendment to S 1296 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1296/Amendment/151210/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1296/Amendment/151210/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "841228 - Amendment to S 1296 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1296/Amendment/841228/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1296/Amendment/841228/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "716778 - Amendment to S 1296 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1296/Amendment/716778/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1296/Amendment/716778/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "553092 - Amendment to S 1296 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1296/Amendment/553092/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1296/Amendment/553092/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -478,6 +546,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-05T12:41:14Z"
+    "logs_latest_update": "2026-03-06T12:36:23Z"
   }
 }

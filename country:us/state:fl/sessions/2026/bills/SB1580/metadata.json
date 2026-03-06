@@ -7,13 +7,14 @@
     "bill"
   ],
   "subject": [
+    "executive branch",
     "subject index",
     "torts"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Illegal Gaming;  Repealing a provision relating to penalties and violations related to illegal gambling; authorizing a person who is ineligible for employment with the commission to submit a waiver request to the commission asking to be considered eligible for employment if the person possesses certain expertise or experience; revising the standards of conduct for current and former commissioners and employees of the commission; providing criminal penalties for persons who stake, bet, or wager any money or other thing of value upon the result of certain games, contests, matches, races, or sports if such persons have knowledge that the outcome of the games, contests, matches, races, or sports is prearranged or predetermined; revising the criminal penalties for persons who keep a gambling house, are agents or employees of a keeper of a gambling house, and rent a house for gambling purposes, respectively; providing that violations of certain laws are deemed immediate and serious dangers to public health, safety, and welfare, etc."
+      "abstract": "Illegal Gaming;  Repealing a provision relating to penalties and violations related to illegal gambling; authorizing a person who is ineligible for employment with the commission to submit a waiver request to the commission asking to be considered eligible for employment if the person possesses certain expertise or experience; revising the standards of conduct for current and former commissioners and employees of the commission; authorizing a slot machine licensee to apply to the commission to change the location of its designated slot machine gaming area under certain circumstances; providing criminal penalties for persons who stake, bet, or wager any money or other thing of value upon the result of certain games, contests, matches, races, or sports if such persons have knowledge that the outcome of the games, contests, matches, races, or sports is prearranged or predetermined; revising the criminal penalties for persons who rent or lease a house for gambling purposes, etc."
     }
   ],
   "other_titles": [],
@@ -168,18 +169,6 @@
       }
     },
     {
-      "description": "Placed on Special Order Calendar, 03/06/26  --If Received",
-      "date": "2026-03-03",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "enrolled"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-03-05T12:41:14Z"
-      }
-    },
-    {
       "description": "CS/CS by- Rules; YEAS 21 NAYS 1",
       "date": "2026-03-03",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -188,9 +177,57 @@
       "_processing": {
         "log_file_created": "2026-03-05T12:41:14Z"
       }
+    },
+    {
+      "description": "Pending reference review -under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-06T12:36:23Z"
+      }
+    },
+    {
+      "description": "Placed on Calendar, on 2nd reading",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-06T12:36:23Z"
+      }
+    },
+    {
+      "description": "Placed on Special Order Calendar, 03/06/26",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-06T12:36:23Z"
+      }
+    },
+    {
+      "description": "CS/CS by Rules read 1st time",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-06T12:36:23Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Rules",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Rules\"}"
+    },
     {
       "name": "Regulated Industries",
       "classification": "primary",
@@ -234,6 +271,21 @@
         },
         {
           "url": "https://flsenate.gov/Session/Bill/2026/1580/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S 1580 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1580/BillText/c2/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1580/BillText/c2/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -291,6 +343,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/1580/Analyses/2026s01580.pre.rc.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Rules (Post-Meeting) (3/4/2026 4:17 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1580/Analyses/2026s01580.rc.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -372,6 +435,14 @@
     },
     {
       "publication": "Florida Statues",
+      "citation": "551.114",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/551.114"
+    },
+    {
+      "publication": "Florida Statues",
       "citation": "772.102",
       "citation_type": "proposed",
       "effective": null,
@@ -433,6 +504,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-05T12:41:14Z"
+    "logs_latest_update": "2026-03-06T12:36:23Z"
   }
 }

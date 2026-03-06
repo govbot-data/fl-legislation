@@ -197,6 +197,62 @@
       "_processing": {
         "log_file_created": "2026-03-04T12:37:44Z"
       }
+    },
+    {
+      "description": "Read 2nd time",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-06T12:36:22Z"
+      }
+    },
+    {
+      "description": "Amendment(s) failed (255382, 334094, 366604, 726506, 893150)",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-06T12:36:22Z"
+      }
+    },
+    {
+      "description": "Amendment(s) adopted (648678)",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-06T12:36:22Z"
+      }
+    },
+    {
+      "description": "Read 3rd time",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-06T12:36:22Z"
+      }
+    },
+    {
+      "description": "CS passed as amended; YEAS 25 NAYS 11",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-06T12:36:22Z"
+      }
     }
   ],
   "sponsorships": [
@@ -266,6 +322,21 @@
         },
         {
           "url": "https://flsenate.gov/Session/Bill/2026/1134/BillText/c2/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S 1134 e1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1134/BillText/e1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1134/BillText/e1/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -354,6 +425,141 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "660174 - Amendment to S 1134 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1134/Amendment/660174/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1134/Amendment/660174/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "366604 - Amendment to S 1134 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1134/Amendment/366604/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1134/Amendment/366604/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "255382 - Amendment to S 1134 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1134/Amendment/255382/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1134/Amendment/255382/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "726506 - Amendment to S 1134 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1134/Amendment/726506/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1134/Amendment/726506/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "648678 - Amendment to S 1134 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1134/Amendment/648678/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1134/Amendment/648678/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "893150 - Substitute Amendment (648678) to S 1134 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1134/Amendment/893150/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1134/Amendment/893150/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "416460 - Substitute Amendment (648678) to S 1134 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1134/Amendment/416460/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1134/Amendment/416460/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "727146 - Amendment to S 1134 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1134/Amendment/727146/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1134/Amendment/727146/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "334094 - Amendment to S 1134 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1134/Amendment/334094/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1134/Amendment/334094/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [],
@@ -371,6 +577,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-04T12:37:44Z"
+    "logs_latest_update": "2026-03-06T12:36:22Z"
   }
 }

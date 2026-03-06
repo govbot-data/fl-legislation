@@ -7,17 +7,18 @@
     "bill"
   ],
   "subject": [
+    "civil practice and procedure",
     "industry",
     "military affairs and related matters",
     "municipalities",
     "public business",
-    "public transportation",
+    "public lands and property",
     "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Taxation;  Prohibiting counties, municipalities, and special districts, respectively, from levying certain special assessments against more than a specified square footage amount per recreational vehicle parking space or campsite; revising a specified finding that a taxing authority must make in order to elect not to exempt certain property from certain ad valorem taxation; exempting certain liquefied petroleum gas tanks from sales and use tax; revising the conditions required for a county to be considered a fiscally constrained county, etc."
+      "abstract": "Taxation;  Prohibiting counties, municipalities, and special districts, respectively, from levying certain special assessments against more than a specified square footage amount per recreational vehicle parking space or campsite; prohibiting a taxpayer from being assessed certain penalties or interest under certain circumstances; revising a specified finding that a taxing authority must make in order to elect not to exempt certain property from certain ad valorem taxation; providing that the provision of electricity to a consumer at an electric vehicle charging station shall be considered the retail sale of electricity, etc."
     }
   ],
   "other_titles": [],
@@ -108,9 +109,47 @@
       "_processing": {
         "log_file_created": "2026-03-04T12:37:44Z"
       }
+    },
+    {
+      "description": "Pending reference review -under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-06T12:36:22Z"
+      }
+    },
+    {
+      "description": "Placed on Calendar, on 2nd reading",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-06T12:36:22Z"
+      }
+    },
+    {
+      "description": "CS by Appropriations read 1st time",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-06T12:36:22Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Appropriations",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Appropriations\"}"
+    },
     {
       "name": "Finance and Tax",
       "classification": "primary",
@@ -146,6 +185,21 @@
         },
         {
           "url": "https://flsenate.gov/Session/Bill/2026/7046/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S 7046 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/7046/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/7046/BillText/c1/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -188,6 +242,17 @@
       "classification": ""
     },
     {
+      "note": "Bill Analysis -- Appropriations (Post-Meeting) (3/4/2026 12:06 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/7046/Analyses/2026s07046.ap.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "363594 - Amendment to S 7046 pb",
       "links": [
         {
@@ -204,6 +269,14 @@
     }
   ],
   "citations": [
+    {
+      "publication": "Florida Statues",
+      "citation": "72.011",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/72.011"
+    },
     {
       "publication": "Florida Statues",
       "citation": "125.01",
@@ -227,6 +300,14 @@
       "effective": null,
       "expires": null,
       "url": "https://flsenate.gov/laws/statutes/2025/125.0168"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "163.387",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/163.387"
     },
     {
       "publication": "Florida Statues",
@@ -262,11 +343,59 @@
     },
     {
       "publication": "Florida Statues",
+      "citation": "193.155",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/193.155"
+    },
+    {
+      "publication": "Florida Statues",
       "citation": "193.624",
       "citation_type": "proposed",
       "effective": null,
       "expires": null,
       "url": "https://flsenate.gov/laws/statutes/2025/193.624"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "194.032",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/194.032"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "196.011",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/196.011"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "196.031",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/196.031"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "196.081",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/196.081"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "196.173",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/196.173"
     },
     {
       "publication": "Florida Statues",
@@ -302,115 +431,51 @@
     },
     {
       "publication": "Florida Statues",
-      "citation": "212.08",
+      "citation": "203.0011",
       "citation_type": "proposed",
       "effective": null,
       "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/212.08"
+      "url": "https://flsenate.gov/laws/statutes/2025/203.0011"
     },
     {
       "publication": "Florida Statues",
-      "citation": "212.20",
+      "citation": "203.01",
       "citation_type": "proposed",
       "effective": null,
       "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/212.20"
+      "url": "https://flsenate.gov/laws/statutes/2025/203.01"
     },
     {
       "publication": "Florida Statues",
-      "citation": "212.205",
+      "citation": "203.012",
       "citation_type": "proposed",
       "effective": null,
       "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/212.205"
+      "url": "https://flsenate.gov/laws/statutes/2025/203.012"
     },
     {
       "publication": "Florida Statues",
-      "citation": "218.12",
+      "citation": "212.04",
       "citation_type": "proposed",
       "effective": null,
       "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/218.12"
+      "url": "https://flsenate.gov/laws/statutes/2025/212.04"
     },
     {
       "publication": "Florida Statues",
-      "citation": "218.125",
+      "citation": "212.05",
       "citation_type": "proposed",
       "effective": null,
       "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/218.125"
+      "url": "https://flsenate.gov/laws/statutes/2025/212.05"
     },
     {
       "publication": "Florida Statues",
-      "citation": "218.135",
+      "citation": "212.05011",
       "citation_type": "proposed",
       "effective": null,
       "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/218.135"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "218.136",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/218.136"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "218.67",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/218.67"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "252.35",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/252.35"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "288.0655",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/288.0655"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "288.102",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/288.102"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "288.11621",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/288.11621"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "288.11631",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/288.11631"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "339.2816",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/339.2816"
+      "url": "https://flsenate.gov/laws/statutes/2025/212.05011"
     }
   ],
   "sources": [
@@ -427,6 +492,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-04T12:37:44Z"
+    "logs_latest_update": "2026-03-06T12:36:22Z"
   }
 }

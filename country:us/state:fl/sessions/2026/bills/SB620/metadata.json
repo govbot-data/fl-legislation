@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Candidate Qualifying;  Requiring a candidate for federal office to state in writing whether he or she intends to trade or has traded stock while serving in federal office; requiring certain candidates to provide the filing officer a statement disclosing dual citizenship for nomination and election to federal, state, county, multicounty, district, or judicial office or to a district school board; requiring candidates for representative to Congress seeking ballot position by petition to obtain a specified percentage of signatures to qualify for such office, etc."
+      "abstract": "Candidate Qualifying;  Requiring a candidate for federal office to state in writing whether he or she intends to trade stock while serving in federal office; requiring candidates to ensure they satisfy statutory and constitutional requirements for office; requiring certain candidates to provide to the filing officer a statement disclosing dual citizenship for nomination and election to a judicial office or to a district school board;  requiring candidates for representative to Congress seeking ballot position by petition to obtain a specified percentage of signatures to qualify for such office, etc."
     }
   ],
   "other_titles": [],
@@ -177,6 +177,52 @@
       "_processing": {
         "log_file_created": "2026-03-05T12:41:14Z"
       }
+    },
+    {
+      "description": "Read 2nd time",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-06T12:36:23Z"
+      }
+    },
+    {
+      "description": "Amendment(s) adopted (864144)",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-06T12:36:23Z"
+      }
+    },
+    {
+      "description": "Read 3rd time",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-06T12:36:23Z"
+      }
+    },
+    {
+      "description": "CS passed as amended; YEAS 37 NAYS 0",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-06T12:36:23Z"
+      }
     }
   ],
   "sponsorships": [
@@ -223,6 +269,21 @@
         },
         {
           "url": "https://flsenate.gov/Session/Bill/2026/620/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S 620 e1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/620/BillText/e1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/620/BillText/e1/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -341,6 +402,36 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "743196 - Amendment to Amendment (590144) to S 620 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/620/Amendment/743196/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/620/Amendment/743196/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "864144 - Amendment (Delete All) to S 620 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/620/Amendment/864144/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/620/Amendment/864144/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [
@@ -359,22 +450,6 @@
       "effective": null,
       "expires": null,
       "url": "https://flsenate.gov/laws/statutes/2025/99.021"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "99.061",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/99.061"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "105.031",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/105.031"
     }
   ],
   "sources": [
@@ -391,6 +466,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-05T12:41:14Z"
+    "logs_latest_update": "2026-03-06T12:36:23Z"
   }
 }

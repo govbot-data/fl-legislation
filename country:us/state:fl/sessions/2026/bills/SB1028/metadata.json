@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Citizens Property Insurance Corporation;  Prohibiting the corporation from issuing or renewing coverage for commercial residential and commercial nonresidential risks under certain circumstances; requiring the corporation to establish a personal lines clearinghouse for specified purposes; authorizing the corporation to share risk exposure and policy information with the commercial lines clearinghouse administrator; specifying that applicants for new commercial lines residential coverage are not eligible for coverage from the corporation under certain circumstances; providing applicability; revising the rights and authorizations for certain independent insurance agents, etc."
+      "abstract": "Citizens Property Insurance Corporation;  Prohibiting the corporation from issuing new coverage for commercial residential and commercial nonresidential risks under certain circumstances; requiring the corporation to establish a personal lines clearinghouse for specified purposes; revising the rights and responsibilities the corporation has in establishing the program; requiring that certain risk information be aggregated and deidentified; authorizing applicants or insureds to elect to accept coverage with authorized insurers or elect to accept or continue coverage with the corporation under certain circumstances, etc."
     }
   ],
   "other_titles": [],
@@ -215,6 +215,52 @@
       "_processing": {
         "log_file_created": "2026-02-28T12:29:17Z"
       }
+    },
+    {
+      "description": "Read 2nd time",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-06T12:36:22Z"
+      }
+    },
+    {
+      "description": "Amendment(s) adopted (241162)",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-06T12:36:22Z"
+      }
+    },
+    {
+      "description": "Read 3rd time",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-06T12:36:22Z"
+      }
+    },
+    {
+      "description": "CS passed as amended; YEAS 33 NAYS 1",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-06T12:36:22Z"
+      }
     }
   ],
   "sponsorships": [
@@ -284,6 +330,21 @@
         },
         {
           "url": "https://flsenate.gov/Session/Bill/2026/1028/BillText/c2/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S 1028 e1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1028/BillText/e1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1028/BillText/e1/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -387,6 +448,51 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "241162 - Amendment (Delete All) to S 1028 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1028/Amendment/241162/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1028/Amendment/241162/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "579534 - Amendment to Amendment (241162) to S 1028 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1028/Amendment/579534/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1028/Amendment/579534/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "626130 - Amendment to Amendment (241162) to S 1028 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1028/Amendment/626130/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1028/Amendment/626130/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [
@@ -421,6 +527,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-28T12:29:17Z"
+    "logs_latest_update": "2026-03-06T12:36:22Z"
   }
 }

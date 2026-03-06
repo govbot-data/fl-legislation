@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Blue Ribbon Projects;  Requiring that a development project meet certain requirements to qualify as a blue ribbon project; specifying maximum residential density and nonresidential intensity permitted within the development area of a blue ribbon project; requiring that a blue ribbon project have a blue ribbon plan; requiring that a project receive dollar-for-dollar credits from a local government under certain circumstances; specifying that a project may be located on land with any future land use designation or zoning designation, etc."
+      "abstract": "Blue Ribbon Projects;  Requiring that a development project meet certain requirements to qualify as a blue ribbon project; providing maximum residential density and nonresidential intensity permitted within the development area of a blue ribbon project; requiring a blue ribbon project to have a blue ribbon plan; requiring a project to receive dollar-for-dollar credits from a local government under certain circumstances, etc."
     }
   ],
   "other_titles": [],
@@ -165,18 +165,6 @@
       }
     },
     {
-      "description": "Placed on Special Order Calendar, 03/05/26  --If Received",
-      "date": "2026-03-02",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "enrolled"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-03-04T12:37:44Z"
-      }
-    },
-    {
       "description": "CS/CS/CS by- Rules; YEAS 12 NAYS 10",
       "date": "2026-03-03",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -185,9 +173,57 @@
       "_processing": {
         "log_file_created": "2026-03-05T12:41:14Z"
       }
+    },
+    {
+      "description": "Pending reference review -under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-06T12:36:23Z"
+      }
+    },
+    {
+      "description": "Placed on Calendar, on 2nd reading",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-06T12:36:23Z"
+      }
+    },
+    {
+      "description": "Placed on Special Order Calendar, 03/05/26",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-06T12:36:23Z"
+      }
+    },
+    {
+      "description": "CS/CS/CS by Rules read 1st time",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-06T12:36:23Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Rules",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Rules\"}"
+    },
     {
       "name": "Appropriations Committee on Transportation, Tourism, and Economic Development",
       "classification": "primary",
@@ -259,6 +295,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 354 c3",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/354/BillText/c3/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/354/BillText/c3/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -318,6 +369,17 @@
       "classification": ""
     },
     {
+      "note": "Bill Analysis -- Rules (Post-Meeting) (3/4/2026 3:35 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/354/Analyses/2026s00354.rc.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "922876 - Amendment to S 354 Filed",
       "links": [
         {
@@ -346,6 +408,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "688738 - Amendment to S 354 c3",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/354/Amendment/688738/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/354/Amendment/688738/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [],
@@ -363,6 +440,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-05T12:41:14Z"
+    "logs_latest_update": "2026-03-06T12:36:23Z"
   }
 }

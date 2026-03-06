@@ -7,16 +7,18 @@
     "bill"
   ],
   "subject": [
-    "and solicitations",
+    "civil practice and procedure",
+    "domestic relations",
     "electors and elections",
     "public business",
+    "public officers, employees, and records",
     "real and personal property",
     "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Foreign Influence;  Citing this act as the \u201cForeign Interference Restriction and Enforcement Act\u201d; requiring agents of foreign countries of concern and foreign-supported political organizations to register with the Division of Elections; requiring periodic updates by such agents and organizations; defining the terms \u201cdesignated foreign terrorist organization\u201d and \u201cforeign country of concern\u201d; prohibiting a governmental entity from entering into certain contracts with certain entities owned or partially owned by foreign sources of concern or affiliated with a foreign country of concern, etc."
+      "abstract": "Foreign Influence;  Citing this act as the \u201cForeign Interference Restriction and Enforcement Act\u201d; prohibiting preplanned adoption agreements unless certain conditions are met; prohibiting specified persons from soliciting or accepting anything of value from a designated foreign terrorist organization, a foreign country of concern, or persons or entities representing such organizations or countries; authorizing any appropriate tax collector to revoke or refuse to renew business tax receipts of specified individuals, businesses, or entities; prohibiting a governmental entity from knowingly entering into certain contracts with foreign sources of concern; removing the Florida-China Institute from the list of linkage institutes, etc."
     }
   ],
   "other_titles": [],
@@ -159,9 +161,37 @@
       "_processing": {
         "log_file_created": "2026-03-04T12:37:44Z"
       }
+    },
+    {
+      "description": "Pending reference review -under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-06T12:36:22Z"
+      }
+    },
+    {
+      "description": "CS/CS by Appropriations read 1st time",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-06T12:36:22Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Appropriations",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Appropriations\"}"
+    },
     {
       "name": "Ethics and Elections",
       "classification": "primary",
@@ -213,6 +243,21 @@
         },
         {
           "url": "https://flsenate.gov/Session/Bill/2026/1178/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S 1178 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1178/BillText/c2/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1178/BillText/c2/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -277,6 +322,17 @@
       "classification": ""
     },
     {
+      "note": "Bill Analysis -- Appropriations (Post-Meeting) (3/4/2026 7:14 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1178/Analyses/2026s01178.ap.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "226318 - Amendment to S 1178 Filed",
       "links": [
         {
@@ -292,7 +348,136 @@
       "classification": ""
     }
   ],
-  "citations": [],
+  "citations": [
+    {
+      "publication": "Florida Statues",
+      "citation": "11.045",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/11.045"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "63.213",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/63.213"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "112.313",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/112.313"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "112.3142",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/112.3142"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "112.3215",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/112.3215"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "112.3261",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/112.3261"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "205.0532",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/205.0532"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "282.802",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/282.802"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "287.138",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/287.138"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "288.816",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/288.816"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "288.8175",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/288.8175"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "288.854",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/288.854"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "288.860",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/288.860"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "316.0078",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/316.0078"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "496.404",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/496.404"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "692.201",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/692.201"
+    }
+  ],
   "sources": [
     {
       "url": "https://flsenate.gov/Session/Bill/2026/1178/ByCategory",
@@ -307,6 +492,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-04T12:37:44Z"
+    "logs_latest_update": "2026-03-06T12:36:22Z"
   }
 }

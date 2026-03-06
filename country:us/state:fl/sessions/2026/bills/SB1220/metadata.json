@@ -8,18 +8,17 @@
   ],
   "subject": [
     "aviation",
+    "executive branch",
     "ports and harbors",
     "public business",
     "public lands and property",
-    "public transportation",
     "railroads and other regulated utilities",
-    "real and personal property",
     "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Transportation;  Revising the membership composition of the Florida Transportation Research Institute; requiring the Department of Transportation to coordinate with the Department of Commerce, specified ports, and the Federal Government for a certain purpose; revising the visible signals given by an approaching emergency vehicle upon which a driver must yield the right-of-way; prohibiting a personal delivery device from operating as otherwise authorized unless the personal delivery device meets certain criteria and a human operator is capable of controlling and monitoring its navigation and operation; prohibiting a political subdivision from withholding issuance of a business tax receipt, development permit, or other land use approval to certain drone delivery services and from enacting or enforcing ordinances or resolutions that prohibit drone delivery service operation; requiring commercial service airports to develop a plan for obtaining and maintaining critical infrastructure resources, etc.\r\n    \r\n        APPROPRIATION:\r\n        $300,000"
+      "abstract": "Transportation;  Revising the membership composition of the Florida Transportation Research Institute; requiring the Department of Transportation to coordinate with the Department of Commerce, specified ports, and the Federal Government for a certain purpose; revising the visible signals given by an approaching emergency vehicle upon which a driver must yield the right-of-way; prohibiting a personal delivery device from operating as otherwise authorized unless the personal delivery device meets certain criteria and a human operator is capable of controlling and monitoring its navigation and operation; revising a limitation on the number of times a person may elect to attend a basic driver improvement course under certain circumstances, etc.\r\n    \r\n        APPROPRIATION:\r\n        $300,000"
     }
   ],
   "other_titles": [],
@@ -220,6 +219,52 @@
       "_processing": {
         "log_file_created": "2026-03-04T12:37:44Z"
       }
+    },
+    {
+      "description": "Read 2nd time",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-06T12:36:22Z"
+      }
+    },
+    {
+      "description": "Amendment(s) adopted (469478)",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-06T12:36:22Z"
+      }
+    },
+    {
+      "description": "Read 3rd time",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-06T12:36:22Z"
+      }
+    },
+    {
+      "description": "CS passed as amended; YEAS 35 NAYS 1",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-06T12:36:22Z"
+      }
     }
   ],
   "sponsorships": [
@@ -317,6 +362,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 1220 e1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1220/BillText/e1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1220/BillText/e1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -400,6 +460,51 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "394774 - Amendment to S 1220 c3",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1220/Amendment/394774/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1220/Amendment/394774/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "923036 - Amendment to Amendment (394774) to S 1220 c3",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1220/Amendment/923036/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1220/Amendment/923036/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "469478 - Amendment to S 1220 c3",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1220/Amendment/469478/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1220/Amendment/469478/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [
@@ -458,6 +563,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-04T12:37:44Z"
+    "logs_latest_update": "2026-03-06T12:36:22Z"
   }
 }

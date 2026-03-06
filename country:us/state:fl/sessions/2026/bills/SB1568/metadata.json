@@ -7,7 +7,7 @@
     "bill"
   ],
   "subject": [
-    "subject index"
+    "executive branch"
   ],
   "abstracts": [
     {
@@ -165,18 +165,6 @@
       }
     },
     {
-      "description": "Placed on Special Order Calendar, 03/06/26  --If Received",
-      "date": "2026-03-03",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "enrolled"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-03-05T12:41:14Z"
-      }
-    },
-    {
       "description": "Favorable by- Rules; YEAS 22 NAYS 0",
       "date": "2026-03-03",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -186,6 +174,26 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-03-05T12:41:14Z"
+      }
+    },
+    {
+      "description": "Placed on Calendar, on 2nd reading",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-06T12:36:22Z"
+      }
+    },
+    {
+      "description": "Placed on Special Order Calendar, 03/06/26",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-06T12:36:22Z"
       }
     }
   ],
@@ -320,6 +328,17 @@
       "classification": ""
     },
     {
+      "note": "Bill Analysis -- Rules (Post-Meeting) (3/4/2026 8:41 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1568/Analyses/2026s01568.rc.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "652444 - Amendment (Delete All) to S 1568 Filed",
       "links": [
         {
@@ -348,6 +367,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "548372 - Amendment (Delete All) to S 1568 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1568/Amendment/548372/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1568/Amendment/548372/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [],
@@ -365,6 +399,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-05T12:41:14Z"
+    "logs_latest_update": "2026-03-06T12:36:22Z"
   }
 }
