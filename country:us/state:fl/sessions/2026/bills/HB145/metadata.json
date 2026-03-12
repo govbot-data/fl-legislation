@@ -7,12 +7,13 @@
     "bill"
   ],
   "subject": [
+    "(adopted)",
+    "civil practice and procedure",
+    "civil rights",
     "industry",
-    "limitations",
     "military affairs and related matters",
-    "planning and development",
     "public business",
-    "public transportation",
+    "public lands and property",
     "railroads and other regulated utilities",
     "subject index"
   ],
@@ -311,6 +312,94 @@
       "_processing": {
         "log_file_created": "2026-01-31T12:29:57Z"
       }
+    },
+    {
+      "description": "Withdrawn from Rules",
+      "date": "2026-03-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "withdrawal"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:39:52Z"
+      }
+    },
+    {
+      "description": "Placed on Calendar, on 2nd reading",
+      "date": "2026-03-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:39:52Z"
+      }
+    },
+    {
+      "description": "Substituted for CS/SB 1366",
+      "date": "2026-03-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:39:52Z"
+      }
+    },
+    {
+      "description": "Read 2nd time",
+      "date": "2026-03-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:39:52Z"
+      }
+    },
+    {
+      "description": "Amendment(s) adopted (401768)",
+      "date": "2026-03-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:39:52Z"
+      }
+    },
+    {
+      "description": "Read 3rd time",
+      "date": "2026-03-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:39:52Z"
+      }
+    },
+    {
+      "description": "Passed as amended; YEAS 36 NAYS 0",
+      "date": "2026-03-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:39:52Z"
+      }
+    },
+    {
+      "description": "In Messages",
+      "date": "2026-03-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:39:52Z"
+      }
     }
   ],
   "sponsorships": [
@@ -365,6 +454,21 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/145/Analyses/h0145e.JDC.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "401768 - Amendment (Delete All) to H 145 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/145/Amendment/401768/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/145/Amendment/401768/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -844,6 +948,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-31T12:29:57Z"
+    "logs_latest_update": "2026-03-12T12:39:52Z"
   }
 }

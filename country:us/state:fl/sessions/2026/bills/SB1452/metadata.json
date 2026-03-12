@@ -7,19 +7,20 @@
     "bill"
   ],
   "subject": [
-    "and solicitations",
+    "executive branch",
     "k",
     "labor",
     "public business",
     "public officers, employees, and records",
     "real and personal property",
     "subject index",
+    "taxation and finance",
     "torts"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Department of Financial Services;  Revising the subsystem used for a certain report of disbursements made; deleting the Department of Financial Services\u2019 authority to make semimonthly salary payments; revising eligibility requirements for a hurricane mitigation inspection under the My Safe Florida Home Program; revising the timeframe in which health care providers must petition the department to resolve utilization and reimbursement disputes; revising the timelines and conditions under which stock, other equity interests, or debt of a business association is considered abandoned, etc."
+      "abstract": "Department of Financial Services;  Revising the subsystem used for a certain report of disbursements made; deleting the Department of Financial Services\u2019 authority to make semimonthly salary payments; revising eligibility requirements for a hurricane mitigation inspection under the My Safe Florida Home Program; revising eligibility requirements for the My Safe Florida Condominium Pilot Program; providing that redemption in cash or through a debit card transaction shall be treated the same; revising the timelines and conditions under which stock, other equity interests, or debt of a business association is considered abandoned; ratifying specified rules relating to legal tender for the sole and exclusive purpose of satisfying conditions on effectiveness pursuant to chapter 2025-100, Laws of Florida, etc."
     }
   ],
   "other_titles": [],
@@ -172,18 +173,6 @@
       }
     },
     {
-      "description": "Placed on Special Order Calendar, 03/06/26  --If Received",
-      "date": "2026-03-03",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "enrolled"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-03-05T12:41:14Z"
-      }
-    },
-    {
       "description": "CS/CS/CS by- Rules; YEAS 22 NAYS 0",
       "date": "2026-03-03",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -192,9 +181,155 @@
       "_processing": {
         "log_file_created": "2026-03-05T12:41:14Z"
       }
+    },
+    {
+      "description": "Pending reference review -under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:39:53Z"
+      }
+    },
+    {
+      "description": "Placed on Calendar, on 2nd reading",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:39:53Z"
+      }
+    },
+    {
+      "description": "Placed on Special Order Calendar, 03/06/26",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:39:53Z"
+      }
+    },
+    {
+      "description": "CS/CS/CS by Rules read 1st time",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:39:53Z"
+      }
+    },
+    {
+      "description": "Retained on Special Order Calendar",
+      "date": "2026-03-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:39:53Z"
+      }
+    },
+    {
+      "description": "Read 2nd time",
+      "date": "2026-03-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:39:53Z"
+      }
+    },
+    {
+      "description": "Amendment(s) adopted (344910, 347422, 712002)",
+      "date": "2026-03-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:39:53Z"
+      }
+    },
+    {
+      "description": "Read 3rd time",
+      "date": "2026-03-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:39:53Z"
+      }
+    },
+    {
+      "description": "CS passed as amended; YEAS 38 NAYS 0",
+      "date": "2026-03-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:39:53Z"
+      }
+    },
+    {
+      "description": "In Messages",
+      "date": "2026-03-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:39:53Z"
+      }
+    },
+    {
+      "description": "Bill referred to House Calendar",
+      "date": "2026-03-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:39:53Z"
+      }
+    },
+    {
+      "description": "Bill added to Special Order Calendar (3/11/2026)",
+      "date": "2026-03-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:39:53Z"
+      }
+    },
+    {
+      "description": "1st Reading (Engrossed 1)",
+      "date": "2026-03-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:39:53Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Rules",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Rules\"}"
+    },
     {
       "name": "Appropriations Committee on Agriculture, Environment, and General Government",
       "classification": "primary",
@@ -266,6 +401,36 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 1452 c3",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1452/BillText/c3/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1452/BillText/c3/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S 1452 e1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1452/BillText/e1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1452/BillText/e1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -325,6 +490,17 @@
       "classification": ""
     },
     {
+      "note": "Bill Analysis -- Rules (Post-Meeting) (3/5/2026 10:27 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1452/Analyses/2026s01452.rc.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "466478 - Amendment to S 1452 Filed",
       "links": [
         {
@@ -333,6 +509,111 @@
         },
         {
           "url": "https://flsenate.gov/Session/Bill/2026/1452/Amendment/466478/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "344910 - Amendment to S 1452 c3",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1452/Amendment/344910/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1452/Amendment/344910/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "573608 - Amendment to S 1452 c3",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1452/Amendment/573608/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1452/Amendment/573608/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "754896 - Amendment to S 1452 c3",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1452/Amendment/754896/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1452/Amendment/754896/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "942860 - Amendment to S 1452 c3",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1452/Amendment/942860/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1452/Amendment/942860/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "347422 - Amendment to S 1452 c3",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1452/Amendment/347422/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1452/Amendment/347422/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "881572 - Amendment to S 1452 c3",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1452/Amendment/881572/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1452/Amendment/881572/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "712002 - Amendment to S 1452 c3",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1452/Amendment/712002/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1452/Amendment/712002/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -367,6 +648,14 @@
     },
     {
       "publication": "Florida Statues",
+      "citation": "112.3135",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/112.3135"
+    },
+    {
+      "publication": "Florida Statues",
       "citation": "197.582",
       "citation_type": "proposed",
       "effective": null,
@@ -375,19 +664,19 @@
     },
     {
       "publication": "Florida Statues",
-      "citation": "215.422",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/215.422"
-    },
-    {
-      "publication": "Florida Statues",
       "citation": "215.5586",
       "citation_type": "proposed",
       "effective": null,
       "expires": null,
       "url": "https://flsenate.gov/laws/statutes/2025/215.5586"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "215.55871",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/215.55871"
     },
     {
       "publication": "Florida Statues",
@@ -452,6 +741,14 @@
       "effective": null,
       "expires": null,
       "url": "https://flsenate.gov/laws/statutes/2025/440.13"
+    },
+    {
+      "publication": "Florida Chapter Law",
+      "citation": "2025-100",
+      "citation_type": "chapter",
+      "effective": null,
+      "expires": null,
+      "url": "http://laws.flrules.org/2025/100"
     }
   ],
   "sources": [
@@ -468,6 +765,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-05T12:41:14Z"
+    "logs_latest_update": "2026-03-12T12:39:53Z"
   }
 }

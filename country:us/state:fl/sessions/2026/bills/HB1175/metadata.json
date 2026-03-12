@@ -395,6 +395,74 @@
       "_processing": {
         "log_file_created": "2026-03-06T12:36:23Z"
       }
+    },
+    {
+      "description": "Placed on Special Order Calendar, 03/10/26",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:39:52Z"
+      }
+    },
+    {
+      "description": "Read 2nd time",
+      "date": "2026-03-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:39:52Z"
+      }
+    },
+    {
+      "description": "Read 3rd time",
+      "date": "2026-03-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:39:52Z"
+      }
+    },
+    {
+      "description": "CS passed; YEAS 37 NAYS 1",
+      "date": "2026-03-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:39:52Z"
+      }
+    },
+    {
+      "description": "In Messages",
+      "date": "2026-03-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:39:52Z"
+      }
+    },
+    {
+      "description": "Ordered enrolled",
+      "date": "2026-03-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "enrolled"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:39:52Z"
+      }
     }
   ],
   "sponsorships": [
@@ -433,6 +501,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/1175/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "H 1175 er",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1175/BillText/er/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -523,6 +602,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-06T12:36:23Z"
+    "logs_latest_update": "2026-03-12T12:39:52Z"
   }
 }

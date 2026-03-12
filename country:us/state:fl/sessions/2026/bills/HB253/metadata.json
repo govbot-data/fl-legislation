@@ -374,6 +374,96 @@
       "_processing": {
         "log_file_created": "2026-02-28T12:29:17Z"
       }
+    },
+    {
+      "description": "Withdrawn from Rules",
+      "date": "2026-03-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "withdrawal"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:39:53Z"
+      }
+    },
+    {
+      "description": "Placed on Calendar, on 2nd reading",
+      "date": "2026-03-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:39:53Z"
+      }
+    },
+    {
+      "description": "Substituted for CS/CS/SB 96",
+      "date": "2026-03-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:39:53Z"
+      }
+    },
+    {
+      "description": "Read 2nd time",
+      "date": "2026-03-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:39:53Z"
+      }
+    },
+    {
+      "description": "Read 3rd time",
+      "date": "2026-03-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:39:53Z"
+      }
+    },
+    {
+      "description": "CS passed; YEAS 34 NAYS 0",
+      "date": "2026-03-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:39:53Z"
+      }
+    },
+    {
+      "description": "In Messages",
+      "date": "2026-03-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:39:53Z"
+      }
+    },
+    {
+      "description": "Ordered enrolled",
+      "date": "2026-03-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "enrolled"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:39:53Z"
+      }
     }
   ],
   "sponsorships": [
@@ -391,6 +481,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Edmonds\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gantt",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Gantt\"}",
       "organization_id": null
     }
   ],
@@ -412,6 +510,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/253/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "H 253 er",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/253/BillText/er/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -478,6 +587,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-28T12:29:17Z"
+    "logs_latest_update": "2026-03-12T12:39:53Z"
   }
 }

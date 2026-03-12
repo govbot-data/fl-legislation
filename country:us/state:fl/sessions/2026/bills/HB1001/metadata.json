@@ -310,6 +310,38 @@
       "_processing": {
         "log_file_created": "2026-03-04T12:37:44Z"
       }
+    },
+    {
+      "description": "Temporarily postponed, on 2nd Reading",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:39:53Z"
+      }
+    },
+    {
+      "description": "Added to Second Reading Calendar",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:39:53Z"
+      }
+    },
+    {
+      "description": "Laid on Table, refer to CS/CS/SB 1134",
+      "date": "2026-03-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:39:53Z"
+      }
     }
   ],
   "sponsorships": [
@@ -354,6 +386,14 @@
       "organization_id": null
     },
     {
+      "name": "Jacques",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jacques\"}",
+      "organization_id": null
+    },
+    {
       "name": "Kendall",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -362,11 +402,27 @@
       "organization_id": null
     },
     {
+      "name": "Michael",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Michael\"}",
+      "organization_id": null
+    },
+    {
       "name": "Nix",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Nix\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Porras",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Porras\"}",
       "organization_id": null
     }
   ],
@@ -450,6 +506,116 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "915877 - Amendment to H 1001 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1001/Amendment/915877/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "552525 - Amendment to H 1001 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1001/Amendment/552525/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "136181 - Amendment to H 1001 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1001/Amendment/136181/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "189947 - Amendment to H 1001 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1001/Amendment/189947/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "034657 - Amendment to H 1001 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1001/Amendment/034657/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "815377 - Amendment to H 1001 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1001/Amendment/815377/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "845231 - Amendment to H 1001 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1001/Amendment/845231/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "922807 - Amendment to H 1001 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1001/Amendment/922807/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "178599 - Amendment to H 1001 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1001/Amendment/178599/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "277951 - Amendment to H 1001 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1001/Amendment/277951/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [],
@@ -467,6 +633,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-04T12:37:44Z"
+    "logs_latest_update": "2026-03-12T12:39:53Z"
   }
 }

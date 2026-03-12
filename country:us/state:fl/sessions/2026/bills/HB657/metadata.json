@@ -498,6 +498,96 @@
       "_processing": {
         "log_file_created": "2026-03-04T12:37:44Z"
       }
+    },
+    {
+      "description": "Read 2nd time",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:39:53Z"
+      }
+    },
+    {
+      "description": "Amendment 909233 adopted",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:39:53Z"
+      }
+    },
+    {
+      "description": "Added to Third Reading Calendar",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:39:53Z"
+      }
+    },
+    {
+      "description": "Read 3rd time",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:39:53Z"
+      }
+    },
+    {
+      "description": "CS passed as amended; YEAS 108, NAYS 2",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:39:53Z"
+      }
+    },
+    {
+      "description": "In Messages",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:39:53Z"
+      }
+    },
+    {
+      "description": "Referred to Rules",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:39:53Z"
+      }
+    },
+    {
+      "description": "Received",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "enrolled"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:39:53Z"
+      }
     }
   ],
   "sponsorships": [
@@ -550,6 +640,14 @@
       "organization_id": null
     },
     {
+      "name": "Barnaby",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Barnaby\"}",
+      "organization_id": null
+    },
+    {
       "name": "Conerly",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -587,6 +685,30 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Johnson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mooney",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mooney\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Salzman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Salzman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Stark",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Stark\"}",
       "organization_id": null
     },
     {
@@ -654,6 +776,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 657 e1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/657/BillText/e1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -691,10 +824,10 @@
       "classification": ""
     },
     {
-      "note": "Bill Analysis -- Commerce Committee (Post-Meeting) (2/24/2026 6:25 PM)",
+      "note": "Bill Analysis -- Commerce Committee (Post-Meeting) (3/3/2026 8:35 AM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/657/Analyses/h0657f.COM.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/657/Analyses/h0657g.COM.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -772,6 +905,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/657/Amendment/661803/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "909233 - Amendment to H 657 c4",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/657/Amendment/909233/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -883,6 +1027,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-04T12:37:44Z"
+    "logs_latest_update": "2026-03-12T12:39:53Z"
   }
 }

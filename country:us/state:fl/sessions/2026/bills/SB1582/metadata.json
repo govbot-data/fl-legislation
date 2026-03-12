@@ -153,6 +153,16 @@
       "_processing": {
         "log_file_created": "2026-03-05T12:41:14Z"
       }
+    },
+    {
+      "description": "Now in Fiscal Policy",
+      "date": "2026-03-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:39:53Z"
+      }
     }
   ],
   "sponsorships": [
@@ -346,6 +356,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-05T12:41:14Z"
+    "logs_latest_update": "2026-03-12T12:39:53Z"
   }
 }

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Withdrawn from Rules",
+    "date": "2026-03-06",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "withdrawal"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 753"
+}

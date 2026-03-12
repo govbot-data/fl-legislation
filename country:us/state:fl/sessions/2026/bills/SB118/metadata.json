@@ -253,6 +253,104 @@
       "_processing": {
         "log_file_created": "2026-02-28T12:29:18Z"
       }
+    },
+    {
+      "description": "Bill referred to House Calendar",
+      "date": "2026-03-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:39:52Z"
+      }
+    },
+    {
+      "description": "Bill added to Special Order Calendar (3/10/2026)",
+      "date": "2026-03-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:39:52Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 2)",
+      "date": "2026-03-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:39:52Z"
+      }
+    },
+    {
+      "description": "Read 2nd time",
+      "date": "2026-03-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:39:52Z"
+      }
+    },
+    {
+      "description": "Amendment 652343 adopted",
+      "date": "2026-03-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:39:52Z"
+      }
+    },
+    {
+      "description": "Added to Third Reading Calendar",
+      "date": "2026-03-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:39:52Z"
+      }
+    },
+    {
+      "description": "Read 3rd time",
+      "date": "2026-03-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:39:52Z"
+      }
+    },
+    {
+      "description": "CS passed as amended; YEAS 111, NAYS 1",
+      "date": "2026-03-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:39:52Z"
+      }
+    },
+    {
+      "description": "In returning messages",
+      "date": "2026-03-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:39:52Z"
+      }
     }
   ],
   "sponsorships": [
@@ -410,6 +508,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "652343 - Amendment to S 118 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/118/Amendment/652343/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [
@@ -452,6 +561,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-28T12:29:18Z"
+    "logs_latest_update": "2026-03-12T12:39:52Z"
   }
 }

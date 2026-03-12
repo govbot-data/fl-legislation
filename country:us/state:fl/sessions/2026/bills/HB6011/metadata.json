@@ -260,6 +260,94 @@
       "_processing": {
         "log_file_created": "2026-02-28T12:29:18Z"
       }
+    },
+    {
+      "description": "Withdrawn from Rules",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "withdrawal"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:39:52Z"
+      }
+    },
+    {
+      "description": "Placed on Calendar, on 2nd reading",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:39:52Z"
+      }
+    },
+    {
+      "description": "Substituted for SB 964",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:39:52Z"
+      }
+    },
+    {
+      "description": "Read 2nd time",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:39:52Z"
+      }
+    },
+    {
+      "description": "Amendment(s) adopted (300312)",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:39:52Z"
+      }
+    },
+    {
+      "description": "Read 3rd time",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:39:52Z"
+      }
+    },
+    {
+      "description": "Passed as amended; YEAS 36 NAYS 0",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:39:52Z"
+      }
+    },
+    {
+      "description": "In Messages",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:39:52Z"
+      }
     }
   ],
   "sponsorships": [
@@ -324,6 +412,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "300312 - Amendment to H 6011 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/6011/Amendment/300312/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/6011/Amendment/300312/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [
@@ -358,6 +461,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-28T12:29:18Z"
+    "logs_latest_update": "2026-03-12T12:39:52Z"
   }
 }

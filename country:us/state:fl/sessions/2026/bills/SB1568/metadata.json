@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 1568",
-  "title": "Florida Stablecoin Pilot Program",
+  "title": "Use of Digital Currency by the Department of Financial Services",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Florida Stablecoin Pilot Program;  Establishing the Florida Stablecoin Pilot Program within the Department of Financial Services; authorizing the department to accept payment stablecoins; authorizing the department to conduct examinations, audits, and investigations of permitted payment stablecoin issuers; requiring the department to monitor and evaluate the pilot program and collect certain data, etc."
+      "abstract": "Use of Digital Currency by the Department of Financial Services;  Establishing the Florida Stablecoin Pilot Program within the Department of Financial Services; authorizing the department to accept payment stablecoins; authorizing the department to conduct examinations, audits, and investigations of permitted payment stablecoin issuers; requiring the department to monitor and evaluate the pilot program and collect certain data, etc."
     }
   ],
   "other_titles": [],
@@ -195,6 +195,94 @@
       "_processing": {
         "log_file_created": "2026-03-06T12:36:22Z"
       }
+    },
+    {
+      "description": "Read 2nd time",
+      "date": "2026-03-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:39:53Z"
+      }
+    },
+    {
+      "description": "Amendment(s) adopted (548372)",
+      "date": "2026-03-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:39:53Z"
+      }
+    },
+    {
+      "description": "Read 3rd time",
+      "date": "2026-03-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:39:53Z"
+      }
+    },
+    {
+      "description": "CS passed as amended; YEAS 34 NAYS 0",
+      "date": "2026-03-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:39:53Z"
+      }
+    },
+    {
+      "description": "In Messages",
+      "date": "2026-03-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:39:53Z"
+      }
+    },
+    {
+      "description": "Bill referred to House Calendar",
+      "date": "2026-03-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:39:53Z"
+      }
+    },
+    {
+      "description": "Bill added to Special Order Calendar (3/11/2026)",
+      "date": "2026-03-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:39:53Z"
+      }
+    },
+    {
+      "description": "1st Reading (Engrossed 1)",
+      "date": "2026-03-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:39:53Z"
+      }
     }
   ],
   "sponsorships": [
@@ -264,6 +352,21 @@
         },
         {
           "url": "https://flsenate.gov/Session/Bill/2026/1568/BillText/c2/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S 1568 e1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1568/BillText/e1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1568/BillText/e1/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -399,6 +502,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-06T12:36:22Z"
+    "logs_latest_update": "2026-03-12T12:39:53Z"
   }
 }

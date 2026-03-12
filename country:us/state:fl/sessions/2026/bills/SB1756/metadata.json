@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Medical Freedom;  Citing this act as the \"Medical Freedom Act\"; requiring certain health care practitioners and paramedics to, before administering a vaccine to a minor child, inform the parent or legal guardian of certain information using materials approved and adopted by joint rule of the Board of Medicine and the Board of Osteopathic Medicine; providing that specified amendments made by the act to s. 456.0575, F.S., take effect within a specified timeframe after the Board of Medicine and the Board of Osteopathic Medicine adopt certain materials by joint rule; authorizing pharmacists to provide ivermectin to adults without a prescription as a behind-the-counter medication until the United States Food and Drug Administration approves it for over-the-counter sale; revising exemptions from school-entry immunization requirements, etc."
+      "abstract": "Medical Freedom;  Citing this act as the \"Medical Freedom Act\"; repealing a provison relating to the future repeal of the definition of the term \u201cmessenger ribonucleic acid vaccine\u201d; prohibiting a vaccine manufacturer from offering or paying, and a health care practitioner from receiving, specified financial incentives for the administration of a vaccine; requiring certain health care practitioners and paramedics to, before administering one or more vaccines to a minor child, provide the parent or legal guardian with specified materials; providing that specified amendments made by the act to s. 456.0575, F.S., take effect on a specified date or within a specified timeframe after the Board of Medicine and the Board of Osteopathic Medicine adopt certain materials by joint rule, whichever occurs later, etc."
     }
   ],
   "other_titles": [],
@@ -147,18 +147,6 @@
       }
     },
     {
-      "description": "Placed on Special Order Calendar, 03/06/26  --If Received",
-      "date": "2026-03-03",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "enrolled"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-03-05T12:41:14Z"
-      }
-    },
-    {
       "description": "CS/CS by- Rules; YEAS 14 NAYS 8",
       "date": "2026-03-03",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -167,9 +155,125 @@
       "_processing": {
         "log_file_created": "2026-03-05T12:41:14Z"
       }
+    },
+    {
+      "description": "Pending reference review -under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:39:53Z"
+      }
+    },
+    {
+      "description": "Placed on Calendar, on 2nd reading",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:39:53Z"
+      }
+    },
+    {
+      "description": "Placed on Special Order Calendar, 03/06/26",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:39:53Z"
+      }
+    },
+    {
+      "description": "CS/CS by Rules read 1st time",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:39:53Z"
+      }
+    },
+    {
+      "description": "Read 2nd time",
+      "date": "2026-03-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:39:53Z"
+      }
+    },
+    {
+      "description": "Amendment(s) adopted (861452, 978470)",
+      "date": "2026-03-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:39:53Z"
+      }
+    },
+    {
+      "description": "Placed on 3rd reading",
+      "date": "2026-03-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:39:53Z"
+      }
+    },
+    {
+      "description": "Read 3rd time",
+      "date": "2026-03-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:39:53Z"
+      }
+    },
+    {
+      "description": "CS passed; YEAS 23 NAYS 15",
+      "date": "2026-03-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:39:53Z"
+      }
+    },
+    {
+      "description": "In Messages",
+      "date": "2026-03-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:39:53Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Rules",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Rules\"}"
+    },
     {
       "name": "Health Policy",
       "classification": "primary",
@@ -213,6 +317,36 @@
         },
         {
           "url": "https://flsenate.gov/Session/Bill/2026/1756/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S 1756 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1756/BillText/c2/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1756/BillText/c2/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S 1756 e1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1756/BillText/e1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1756/BillText/e1/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -277,6 +411,17 @@
       "classification": ""
     },
     {
+      "note": "Bill Analysis -- Rules (Post-Meeting) (3/5/2026 10:49 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1756/Analyses/2026s01756.rc.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "882450 - Amendment to S 1756 Filed",
       "links": [
         {
@@ -320,6 +465,36 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "978470 - Amendment to S 1756 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1756/Amendment/978470/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1756/Amendment/978470/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "861452 - Amendment to S 1756 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1756/Amendment/861452/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1756/Amendment/861452/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [
@@ -333,11 +508,35 @@
     },
     {
       "publication": "Florida Statues",
+      "citation": "456.054",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/456.054"
+    },
+    {
+      "publication": "Florida Statues",
       "citation": "456.0575",
       "citation_type": "proposed",
       "effective": null,
       "expires": null,
       "url": "https://flsenate.gov/laws/statutes/2025/456.0575"
+    },
+    {
+      "publication": "Florida Chapter Law",
+      "citation": "2023-43",
+      "citation_type": "chapter",
+      "effective": null,
+      "expires": null,
+      "url": "http://laws.flrules.org/2023/43"
+    },
+    {
+      "publication": "Florida Chapter Law",
+      "citation": "2025-114",
+      "citation_type": "chapter",
+      "effective": null,
+      "expires": null,
+      "url": "http://laws.flrules.org/2025/114"
     }
   ],
   "sources": [
@@ -354,6 +553,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-05T12:41:14Z"
+    "logs_latest_update": "2026-03-12T12:39:53Z"
   }
 }

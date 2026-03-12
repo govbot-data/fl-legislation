@@ -7,12 +7,13 @@
     "bill"
   ],
   "subject": [
+    "executive branch",
     "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Office of Insurance Regulation;  Provides that OIR is responsible for all activities concerning entities under its jurisdiction; authorizes DFS & office to issue cease & desist orders for certain activity & provides for enforcement; grants office authority to examine administrators; provides requirements to OIR, FDLE, & FBI relating to fingerprinting & background checks of certain persons; specifies who bears costs of fingerprint processing; provides requirements for projection of private passenger automobile insurance; requires OIR to determine minimum rate differentials for certain windstorm damage mitigation techniques; revises requirements of rate filing with OIR for certain insurers; requires OIR to contract with state university to design, operate, upgrade, & maintain specified database; requires property insurers to file certain policyholder forms in database; provides & revises requirements & exemptions for certain reports & liquidity stress test; requires attorneys in fact of reciprocal insurers to obtain registration; provides requirements for application, renewal, suspension, & revocation of such registration; authorizes office to issue administrative fines in lieu of suspension or revocation."
+      "abstract": "Office of Insurance Regulation;  Providing that the Office of Insurance Regulation is responsible for all activities concerning entities under its jurisdiction; authorizing the Department of Financial Services and the office to issue and deliver cease and desist orders for certain activities; authorizing the department and the office to seek an injunction for enforcement of such order; removing a provision authorizing the Financial Services Commission to adopt the Market Conduct Examiners Handbook; requiring the Department of Law Enforcement to accept and process fingerprints taken of certain persons; requiring the Department of Law Enforcement and the Federal Bureau of Investigation to conduct certain background checks; authorizing the Department of Law Enforcement to exchange certain records with the office; requiring certain non-United States-based insurance holding company systems to file a group capital calculation report, etc."
     }
   ],
   "other_titles": [],
@@ -254,6 +255,96 @@
       "_processing": {
         "log_file_created": "2026-03-04T12:37:44Z"
       }
+    },
+    {
+      "description": "Read 2nd time",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:39:53Z"
+      }
+    },
+    {
+      "description": "Amendment 670587 adopted",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:39:53Z"
+      }
+    },
+    {
+      "description": "Added to Third Reading Calendar",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:39:53Z"
+      }
+    },
+    {
+      "description": "Read 3rd time",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:39:53Z"
+      }
+    },
+    {
+      "description": "CS passed as amended; YEAS 109, NAYS 0",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:39:53Z"
+      }
+    },
+    {
+      "description": "In Messages",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:39:53Z"
+      }
+    },
+    {
+      "description": "Referred to Rules",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:39:53Z"
+      }
+    },
+    {
+      "description": "Received",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "enrolled"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:39:53Z"
+      }
     }
   ],
   "sponsorships": [
@@ -316,6 +407,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 1263 e1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1263/BillText/e1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -357,6 +459,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/1263/Amendment/108955/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "670587 - Amendment to H 1263 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1263/Amendment/670587/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -420,6 +533,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-04T12:37:44Z"
+    "logs_latest_update": "2026-03-12T12:39:53Z"
   }
 }

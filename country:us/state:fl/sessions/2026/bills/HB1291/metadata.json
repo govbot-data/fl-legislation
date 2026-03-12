@@ -1,19 +1,19 @@
 {
   "legislative_session": "2026",
   "identifier": "HB 1291",
-  "title": "Florida Birth-related Neurological Injury Compensation Association",
+  "title": "Florida Birth-Related Neurological Injury Compensation Association",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
   "subject": [
     "(adopted)",
-    "torts"
+    "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Florida Birth-related Neurological Injury Compensation Association;  Requires agency to recover full amount of medical assistance from neurological injury compensation association; 766.302, F.S.; provides & revising definitions; removes limitation on time subject to plan compensation; provides & revising definitions; removes limitation on time subject to plan compensation; revises terminology; revises provisions relating to filing claims; conforms cross-reference; revises items that are eligible for award providing compensation; requires compensation to be provided for certain actual expenses; requires compensation for costs of major medical health coverage; requires plan to reimburse certain payments made for services provided; exempts expenses for professional custodial care in certain circumstances; requires that, upon entry of final order for compensation, parents or legal guardians obtain private health insurance or submit application for Medicaid program; requires directors to maintain plan of operation; requires certain assessments to be paid into Florida Birth-Related Neurological Injury Compensation Association at certain times for certain purposes; requires plan of operation to include provision for fraud; removes obsolete provisions; revises provisions relating to actuarial valuation of plan; requires association to submit quarterly estimates; requires association to state whether plan is actuarially sound; authorizes transfer of funds to association from Insurance Regulatory Trust Fund if plan is not actuarially sound; requires association to require each entity to issue casualty insurance and pay annual assessment; provides requirements for annual assessments; requires increase in assessments after certain findings."
+      "abstract": "Florida Birth-Related Neurological Injury Compensation Association;  Requires agency to recover full amount of medical assistance from neurological injury compensation association; 766.302, F.S.; provides & revising definitions; removes limitation on time subject to plan compensation; provides & revising definitions; removes limitation on time subject to plan compensation; revises terminology; revises provisions relating to filing claims; conforms cross-reference; revises items that are eligible for award providing compensation; requires compensation to be provided for certain actual expenses; requires compensation for costs of major medical health coverage; requires plan to reimburse certain payments made for services provided; exempts expenses for professional custodial care in certain circumstances; requires that, upon entry of final order for compensation, parents or legal guardians obtain private health insurance or submit application for Medicaid program; requires directors to maintain plan of operation; requires certain assessments to be paid into Florida Birth-Related Neurological Injury Compensation Association at certain times for certain purposes; requires plan of operation to include provision for fraud; removes obsolete provisions; revises provisions relating to actuarial valuation of plan; requires association to submit quarterly estimates; requires association to state whether plan is actuarially sound; authorizes transfer of funds to association from Insurance Regulatory Trust Fund if plan is not actuarially sound; requires association to require each entity to issue casualty insurance and pay annual assessment; provides requirements for annual assessments; requires increase in assessments after certain findings."
     }
   ],
   "other_titles": [],
@@ -309,6 +309,38 @@
       "_processing": {
         "log_file_created": "2026-03-04T12:37:44Z"
       }
+    },
+    {
+      "description": "Temporarily postponed, on 2nd Reading",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:39:53Z"
+      }
+    },
+    {
+      "description": "Added to Second Reading Calendar",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:39:53Z"
+      }
+    },
+    {
+      "description": "Laid on Table, refer to CS/CS/SB 1668",
+      "date": "2026-03-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:39:53Z"
+      }
     }
   ],
   "sponsorships": [
@@ -499,6 +531,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-04T12:37:44Z"
+    "logs_latest_update": "2026-03-12T12:39:53Z"
   }
 }

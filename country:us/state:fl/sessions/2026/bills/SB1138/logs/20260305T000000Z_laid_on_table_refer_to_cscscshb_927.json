@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Laid on Table, refer to CS/CS/CS/HB 927",
+    "date": "2026-03-05",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "deferral"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 1138"
+}

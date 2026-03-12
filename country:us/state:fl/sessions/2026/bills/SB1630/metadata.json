@@ -8,8 +8,8 @@
   ],
   "subject": [
     "domestic relations",
-    "social welfare",
-    "subject index"
+    "public officers, employees, and records",
+    "social welfare"
   ],
   "abstracts": [
     {
@@ -178,6 +178,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-02-26T12:44:25Z"
+      }
+    },
+    {
+      "description": "Placed on Special Order Calendar, 03/11/26",
+      "date": "2026-03-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:39:52Z"
       }
     }
   ],
@@ -386,6 +396,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-26T12:44:25Z"
+    "logs_latest_update": "2026-03-12T12:39:52Z"
   }
 }

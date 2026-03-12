@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Candidate Qualifying;  Requiring a candidate for federal office to state in writing whether he or she intends to trade stock while serving in federal office; requiring candidates to ensure they satisfy statutory and constitutional requirements for office; requiring certain candidates to provide to the filing officer a statement disclosing dual citizenship for nomination and election to a judicial office or to a district school board;  requiring candidates for representative to Congress seeking ballot position by petition to obtain a specified percentage of signatures to qualify for such office, etc."
+      "abstract": "Candidate Qualifying;  Requiring a candidate for federal office to state in writing whether he or she intends to trade stock while serving in federal office; requiring candidates to ensure they satisfy statutory and constitutional requirements for office; requiring certain candidates to provide to the filing officer a statement disclosing dual citizenship for nomination and election to a judicial office or to a district school board; requiring candidates for representative to Congress seeking ballot position by petition to obtain a specified percentage of signatures to qualify for such office, etc."
     }
   ],
   "other_titles": [],
@@ -222,6 +222,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-03-06T12:36:23Z"
+      }
+    },
+    {
+      "description": "In Messages",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:39:53Z"
       }
     }
   ],
@@ -466,6 +476,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-06T12:36:23Z"
+    "logs_latest_update": "2026-03-12T12:39:53Z"
   }
 }

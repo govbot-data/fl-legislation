@@ -177,6 +177,40 @@
       "_processing": {
         "log_file_created": "2026-03-05T12:41:14Z"
       }
+    },
+    {
+      "description": "Read 2nd time",
+      "date": "2026-03-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:39:52Z"
+      }
+    },
+    {
+      "description": "Substituted CS/CS/HB 1503",
+      "date": "2026-03-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:39:52Z"
+      }
+    },
+    {
+      "description": "Laid on Table, refer to CS/CS/HB 1503",
+      "date": "2026-03-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:39:52Z"
+      }
     }
   ],
   "sponsorships": [
@@ -194,6 +228,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Avila\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Burgess",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Burgess\"}",
       "organization_id": null
     }
   ],
@@ -345,6 +387,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-05T12:41:14Z"
+    "logs_latest_update": "2026-03-12T12:39:52Z"
   }
 }

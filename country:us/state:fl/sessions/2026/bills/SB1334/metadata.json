@@ -8,6 +8,7 @@
   ],
   "subject": [
     "electors and elections",
+    "public officers, employees, and records",
     "subject index"
   ],
   "abstracts": [
@@ -164,6 +165,16 @@
       "_processing": {
         "log_file_created": "2026-02-26T12:44:25Z"
       }
+    },
+    {
+      "description": "Placed on Special Order Calendar, 03/11/26",
+      "date": "2026-03-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:39:53Z"
+      }
     }
   ],
   "sponsorships": [
@@ -309,6 +320,96 @@
         },
         {
           "url": "https://flsenate.gov/Session/Bill/2026/1334/Amendment/221160/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "607550 - Amendment to S 1334 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1334/Amendment/607550/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1334/Amendment/607550/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "291274 - Amendment to S 1334 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1334/Amendment/291274/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1334/Amendment/291274/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "643154 - Amendment to S 1334 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1334/Amendment/643154/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1334/Amendment/643154/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "307400 - Amendment to S 1334 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1334/Amendment/307400/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1334/Amendment/307400/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "865386 - Amendment to S 1334 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1334/Amendment/865386/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1334/Amendment/865386/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "732854 - Amendment to S 1334 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1334/Amendment/732854/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1334/Amendment/732854/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -500,6 +601,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-26T12:44:25Z"
+    "logs_latest_update": "2026-03-12T12:39:53Z"
   }
 }

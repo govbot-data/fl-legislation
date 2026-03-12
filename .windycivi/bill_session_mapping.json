@@ -644,6 +644,11 @@
     "name": "2026 Regular Session",
     "date_folder": "2026-2026"
   },
+  "SR1814": {
+    "session_id": "2026",
+    "name": "2026 Regular Session",
+    "date_folder": "2026-2026"
+  },
   "HB5401": {
     "session_id": "2026",
     "name": "2026 Regular Session",
@@ -5130,6 +5135,11 @@
     "date_folder": "2026-2026"
   },
   "SB602": {
+    "session_id": "2026",
+    "name": "2026 Regular Session",
+    "date_folder": "2026-2026"
+  },
+  "SR1812": {
     "session_id": "2026",
     "name": "2026 Regular Session",
     "date_folder": "2026-2026"

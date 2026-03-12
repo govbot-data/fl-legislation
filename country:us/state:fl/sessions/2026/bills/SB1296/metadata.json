@@ -13,7 +13,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Public Employees Relations Commission;  Authorizing subpoenas to be served by certified mail, return receipt requested, or by personal service; revising application requirements for employee organization registration and renewal of registration; providing that a petition to clarify the composition of a bargaining unit may be filed with the commission under certain circumstances; providing that implementation of appropriations from the Legislature which are specifically directed to be disbursed as salaries for employees of local governments are considered a financial urgency; authorizing certain public employers, public employees, and employee organizations, or combinations thereof, to file certain charges with the commission, etc."
+      "abstract": "Public Employees Relations Commission;  Authorizing subpoenas to be served by certified mail, return receipt requested, or by personal service; revising application requirements for employee organization registration and renewal of registration; specifying the criteria by which the commission determines the method and timing of elections; providing that a petition to clarify the composition of a bargaining unit may be filed with the commission under certain circumstances; providing that implementation of appropriations from the Legislature which are specifically directed to be disbursed as salaries for employees of local governments are considered a financial urgency; authorizing certain public employers, public employees, and employee organizations, or combinations thereof, to file certain charges with the commission, etc."
     }
   ],
   "other_titles": [],
@@ -194,6 +194,106 @@
       "_processing": {
         "log_file_created": "2026-03-06T12:36:23Z"
       }
+    },
+    {
+      "description": "Read 2nd time",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:39:52Z"
+      }
+    },
+    {
+      "description": "Amendment(s) adopted (151210, 553092, 851520)",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:39:52Z"
+      }
+    },
+    {
+      "description": "Placed on 3rd reading",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:39:52Z"
+      }
+    },
+    {
+      "description": "Read 3rd time",
+      "date": "2026-03-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:39:52Z"
+      }
+    },
+    {
+      "description": "CS passed as amended; YEAS 20 NAYS 14",
+      "date": "2026-03-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:39:52Z"
+      }
+    },
+    {
+      "description": "In Messages",
+      "date": "2026-03-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:39:52Z"
+      }
+    },
+    {
+      "description": "Bill referred to House Calendar",
+      "date": "2026-03-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:39:52Z"
+      }
+    },
+    {
+      "description": "Bill added to Special Order Calendar (3/11/2026)",
+      "date": "2026-03-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:39:52Z"
+      }
+    },
+    {
+      "description": "1st Reading (Engrossed 1)",
+      "date": "2026-03-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:39:52Z"
+      }
     }
   ],
   "sponsorships": [
@@ -263,6 +363,21 @@
         },
         {
           "url": "https://flsenate.gov/Session/Bill/2026/1296/BillText/c2/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S 1296 e1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1296/BillText/e1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1296/BillText/e1/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -365,6 +480,51 @@
         },
         {
           "url": "https://flsenate.gov/Session/Bill/2026/1296/Amendment/841228/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "351914 - Amendment to S 1296 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1296/Amendment/351914/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1296/Amendment/351914/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "851520 - Substitute Amendment (351914) to S 1296 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1296/Amendment/851520/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1296/Amendment/851520/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "230280 - Amendment to Substitute Amendment (851520) to S 1296 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1296/Amendment/230280/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1296/Amendment/230280/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -546,6 +706,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-06T12:36:23Z"
+    "logs_latest_update": "2026-03-12T12:39:52Z"
   }
 }

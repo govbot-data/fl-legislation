@@ -8,7 +8,7 @@
   ],
   "subject": [
     "k",
-    "subject index"
+    "public officers, employees, and records"
   ],
   "abstracts": [
     {
@@ -225,6 +225,18 @@
       "_processing": {
         "log_file_created": "2026-02-26T12:44:25Z"
       }
+    },
+    {
+      "description": "Laid on Table, refer to CS/SB 572",
+      "date": "2026-03-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-12T12:39:53Z"
+      }
     }
   ],
   "sponsorships": [
@@ -345,6 +357,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-26T12:44:25Z"
+    "logs_latest_update": "2026-03-12T12:39:53Z"
   }
 }
