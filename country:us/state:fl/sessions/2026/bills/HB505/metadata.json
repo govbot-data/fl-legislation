@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Virtual Currency Kiosks;  Revises definition of term \"money transmitter\" to include owners & operators of virtual currency kiosks; exempts owners & operators of virtual currency kiosks from license application fees & license renewal fees; requires owner or operator of virtual currency kiosk to ensure that specified disclosure is displayed before customer initiates virtual currency kiosk transaction; prohibits owner or operator of virtual currency kiosk from permitting new & existing customers to transact more than specified amount per calendar day; requires owner or operator of virtual currency kiosk to provide customer with specified electronic & paper receipt upon completion of virtual currency kiosk transaction; requires owner or operator of virtual currency kiosk to issue full refund of transaction fees under certain circumstances; authorizes FSC to adopt rules."
+      "abstract": "Virtual Currency Kiosks;  Revising the requirements for certain rules adopted by the Financial Services Commission; revising the actions by money services businesses, authorized vendors, or affiliated parties which constitute grounds for disciplinary action; prohibiting a virtual currency kiosk business from operating in this state without registering or renewing its registration; requiring the Office of Financial Regulation to give a specified notice to applicants; specifying that certain money transmitters are exempt from registration as a virtual currency kiosk business but are subject to certain provisions; prohibiting certain entities from performing certain actions without being licensed as a money services business; specifying that virtual currency kiosk business registrations are not transferable or assignable; requiring applicants to submit certain information to the office to be registered as a virtual currency kiosk business; requiring certain virtual currency kiosk businesses to submit a registration application to the office by a specified date; requiring registrants to report a change in the information within a specified timeframe, etc."
     }
   ],
   "other_titles": [],
@@ -394,6 +394,50 @@
       "_processing": {
         "log_file_created": "2026-02-27T12:39:03Z"
       }
+    },
+    {
+      "description": "Added to Senate Message List",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-14T12:32:49Z"
+      }
+    },
+    {
+      "description": "Amendment 518110 Concur",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-14T12:32:49Z"
+      }
+    },
+    {
+      "description": "CS passed as amended; YEAS 107, NAYS 0",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-14T12:32:49Z"
+      }
+    },
+    {
+      "description": "Ordered engrossed, then enrolled",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "enrolled"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-14T12:32:49Z"
+      }
     }
   ],
   "sponsorships": [
@@ -485,6 +529,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 505 e1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/505/BillText/e1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -559,11 +614,27 @@
     },
     {
       "publication": "Florida Statues",
-      "citation": "560.143",
+      "citation": "560.105",
       "citation_type": "proposed",
       "effective": null,
       "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/560.143"
+      "url": "https://flsenate.gov/laws/statutes/2025/560.105"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "560.114",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/560.114"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "560.125",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/560.125"
     }
   ],
   "sources": [
@@ -580,6 +651,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-27T12:39:03Z"
+    "logs_latest_update": "2026-03-14T12:32:49Z"
   }
 }

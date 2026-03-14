@@ -1,18 +1,18 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 984",
-  "title": "Firefighter Cancer Benefits and Prevention",
+  "title": "Firefighter Cancer Benefits",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
   ],
   "subject": [
-    "public officers, employees, and records"
+    "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Firefighter Cancer Benefits and Prevention;  Revising conditions under which a specified one-time payment must be made by a former employer upon a firefighter\u2019s cancer diagnosis; requiring a former employer to provide death benefits for a specified timeframe under certain circumstances; deleting the requirement for the Division of State Fire Marshal to adopt rules for establishing employer cancer prevention best practices, etc."
+      "abstract": "Firefighter Cancer Benefits;  Requiring a former employer to provide death benefits to certain beneficiaries for a specified time period under certain circumstances, etc."
     }
   ],
   "other_titles": [],
@@ -349,6 +349,40 @@
       "_processing": {
         "log_file_created": "2026-03-12T12:39:53Z"
       }
+    },
+    {
+      "description": "Concurred in 1 amendment(s) (761459)",
+      "date": "2026-03-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-14T12:32:49Z"
+      }
+    },
+    {
+      "description": "CS passed as amended; YEAS 37 NAYS 0",
+      "date": "2026-03-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-14T12:32:49Z"
+      }
+    },
+    {
+      "description": "Ordered engrossed, then enrolled",
+      "date": "2026-03-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "enrolled"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-14T12:32:49Z"
+      }
     }
   ],
   "sponsorships": [
@@ -434,6 +468,36 @@
         },
         {
           "url": "https://flsenate.gov/Session/Bill/2026/984/BillText/c2/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S 984 e1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/984/BillText/e1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/984/BillText/e1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S 984 er",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/984/BillText/er/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/984/BillText/er/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -570,6 +634,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-12T12:39:53Z"
+    "logs_latest_update": "2026-03-14T12:32:49Z"
   }
 }

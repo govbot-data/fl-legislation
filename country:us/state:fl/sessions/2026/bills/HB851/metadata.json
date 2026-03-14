@@ -396,6 +396,90 @@
       "_processing": {
         "log_file_created": "2026-03-12T12:39:53Z"
       }
+    },
+    {
+      "description": "Added to Senate Message List",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-14T12:32:49Z"
+      }
+    },
+    {
+      "description": "Amendment 354086 Refuse to Concur",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-14T12:32:49Z"
+      }
+    },
+    {
+      "description": "Refused to concur, requested Senate to recede",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-14T12:32:49Z"
+      }
+    },
+    {
+      "description": "In returning messages",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-14T12:32:49Z"
+      }
+    },
+    {
+      "description": "Receded from 1 amendment(s) (354086)",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-14T12:32:49Z"
+      }
+    },
+    {
+      "description": "CS passed; YEAS 38 NAYS 0",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-14T12:32:49Z"
+      }
+    },
+    {
+      "description": "In Messages",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-14T12:32:49Z"
+      }
+    },
+    {
+      "description": "Ordered enrolled",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "enrolled"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-14T12:32:49Z"
+      }
     }
   ],
   "sponsorships": [
@@ -495,9 +579,31 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 851 er",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/851/BillText/er/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
+    {
+      "note": "House Message Summary -- Education Pre-K - 12 (3/12/2026 11:58 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/851/Analyses/2026h00851.hms.ed.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "Bill Analysis -- Student Academic Success Subcommittee (Post-Meeting) (2/11/2026 3:53 PM)",
       "links": [
@@ -560,6 +666,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-12T12:39:53Z"
+    "logs_latest_update": "2026-03-14T12:32:49Z"
   }
 }

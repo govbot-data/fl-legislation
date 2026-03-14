@@ -8,7 +8,7 @@
   ],
   "subject": [
     "crimes",
-    "subject index"
+    "criminal procedure and corrections"
   ],
   "abstracts": [
     {
@@ -219,6 +219,18 @@
       "_processing": {
         "log_file_created": "2026-01-31T12:29:56Z"
       }
+    },
+    {
+      "description": "Laid on Table, refer to CS/SB 156",
+      "date": "2026-03-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-14T12:32:49Z"
+      }
     }
   ],
   "sponsorships": [
@@ -252,6 +264,22 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Alvarez, J.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Anderson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Anderson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Antone",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Antone\"}",
       "organization_id": null
     },
     {
@@ -300,6 +328,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Chambliss\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Chaney",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Chaney\"}",
       "organization_id": null
     },
     {
@@ -391,6 +427,14 @@
       "organization_id": null
     },
     {
+      "name": "Michael",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Michael\"}",
+      "organization_id": null
+    },
+    {
       "name": "Partington",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -431,6 +475,14 @@
       "organization_id": null
     },
     {
+      "name": "Sirois",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sirois\"}",
+      "organization_id": null
+    },
+    {
       "name": "Skidmore",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -439,11 +491,35 @@
       "organization_id": null
     },
     {
+      "name": "Snyder",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Snyder\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Spencer",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Spencer\"}",
+      "organization_id": null
+    },
+    {
       "name": "Stark",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Stark\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tant",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tant\"}",
       "organization_id": null
     },
     {
@@ -587,6 +663,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-31T12:29:56Z"
+    "logs_latest_update": "2026-03-14T12:32:49Z"
   }
 }

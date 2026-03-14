@@ -20,7 +20,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Clerks of the Court;  Authorizes Florida Clerks of Court Operations Corporation, on behalf of clerks, to submit request for reimbursement to reimburse clerks for filing certain petitions, orders, appeals, & summons; increases rate at which clerks may be reimbursed for filing certain petitions, orders, appeals, & summons; authorizes clerk to be reimbursed for certain fees & charges; increases percentage of certain penalties that must be deposited into fine & forfeiture fund & decreases percentage of certain penalties that must be paid to municipality."
+      "abstract": "Clerks of the Court;  Authorizing the cumulative excess of funds to be used in the development of the total combined budgets of the clerks of the court; conforming provisions to changes made by the act; revising the definition of the term \u201cpublicly accessible website\u201d; increasing the percentage of certain penalties which must be deposited into the fine and forfeiture fund and decreasing the percentage of certain penalties that must be paid to a municipality, etc."
     }
   ],
   "other_titles": [],
@@ -382,6 +382,138 @@
       "_processing": {
         "log_file_created": "2026-03-06T12:36:22Z"
       }
+    },
+    {
+      "description": "Withdrawn from Rules",
+      "date": "2026-03-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "withdrawal"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-14T12:32:49Z"
+      }
+    },
+    {
+      "description": "Placed on Calendar, on 2nd reading",
+      "date": "2026-03-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-14T12:32:49Z"
+      }
+    },
+    {
+      "description": "Substituted for CS/CS/SB 532",
+      "date": "2026-03-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-14T12:32:49Z"
+      }
+    },
+    {
+      "description": "Read 2nd time",
+      "date": "2026-03-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-14T12:32:49Z"
+      }
+    },
+    {
+      "description": "Amendment(s) adopted (878376)",
+      "date": "2026-03-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-14T12:32:49Z"
+      }
+    },
+    {
+      "description": "Read 3rd time",
+      "date": "2026-03-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-14T12:32:49Z"
+      }
+    },
+    {
+      "description": "CS passed as amended; YEAS 38 NAYS 0",
+      "date": "2026-03-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-14T12:32:49Z"
+      }
+    },
+    {
+      "description": "In Messages",
+      "date": "2026-03-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-14T12:32:49Z"
+      }
+    },
+    {
+      "description": "Added to Senate Message List",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-14T12:32:49Z"
+      }
+    },
+    {
+      "description": "Amendment 878376 Concur",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-14T12:32:49Z"
+      }
+    },
+    {
+      "description": "CS passed as amended; YEAS 101, NAYS 5",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-14T12:32:49Z"
+      }
+    },
+    {
+      "description": "Ordered engrossed, then enrolled",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "enrolled"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-14T12:32:49Z"
+      }
     }
   ],
   "sponsorships": [
@@ -423,6 +555,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Gossett-Seidman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Grow",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Grow\"}",
       "organization_id": null
     },
     {
@@ -468,6 +608,28 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/925/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "H 925 e1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/925/BillText/e1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "H 925 er",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/925/BillText/er/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -519,6 +681,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "878376 - Amendment (Delete All) to H 925 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/925/Amendment/878376/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/925/Amendment/878376/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [
@@ -532,27 +709,35 @@
     },
     {
       "publication": "Florida Statues",
-      "citation": "40.29",
+      "citation": "28.36",
       "citation_type": "proposed",
       "effective": null,
       "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/40.29"
+      "url": "https://flsenate.gov/laws/statutes/2025/28.36"
     },
     {
       "publication": "Florida Statues",
-      "citation": "57.081",
+      "citation": "28.37",
       "citation_type": "proposed",
       "effective": null,
       "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/57.081"
+      "url": "https://flsenate.gov/laws/statutes/2025/28.37"
     },
     {
       "publication": "Florida Statues",
-      "citation": "57.082",
+      "citation": "50.0311",
       "citation_type": "proposed",
       "effective": null,
       "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/57.082"
+      "url": "https://flsenate.gov/laws/statutes/2025/50.0311"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "318.18",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/318.18"
     },
     {
       "publication": "Florida Statues",
@@ -561,86 +746,6 @@
       "effective": null,
       "expires": null,
       "url": "https://flsenate.gov/laws/statutes/2025/318.21"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "394.459",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/394.459"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "394.463",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/394.463"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "394.467",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/394.467"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "394.914",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/394.914"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "394.917",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/394.917"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "397.681",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/397.681"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "741.30",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/741.30"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "784.046",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/784.046"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "784.0485",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/784.0485"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "825.1035",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/825.1035"
     }
   ],
   "sources": [
@@ -657,6 +762,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-06T12:36:22Z"
+    "logs_latest_update": "2026-03-14T12:32:49Z"
   }
 }

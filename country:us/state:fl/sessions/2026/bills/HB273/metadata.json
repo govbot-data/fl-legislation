@@ -1,18 +1,19 @@
 {
   "legislative_session": "2026",
   "identifier": "HB 273",
-  "title": "Special Districts",
+  "title": "Special District Funding",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
   "subject": [
+    "planning and development",
     "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Special Districts;  Provides that boundaries of downtown development district may only be changed in specified manner; requires adopted budget of downtown development district to contain specified information; prohibits certain expenditures from exceeding specified percentage of budget;  requires budget be approved in specified manner; revises agency agreements that provide state financial assistance to recipients or subrecipients to include specified special districts as entity to which such agency may provide for payment of invoices."
+      "abstract": "Special District Funding;  Revising agency agreements that provide state financial assistance to recipients or subrecipients to include specified special districts as an entity to which such agency may provide for the payment of invoices under specified circumstances; providing construction; requiring state agencies to expedite payment requests from certain counties, municipalities, and special districts for a specified purpose, etc."
     }
   ],
   "other_titles": [],
@@ -438,6 +439,50 @@
       "_processing": {
         "log_file_created": "2026-03-12T12:39:53Z"
       }
+    },
+    {
+      "description": "Added to Senate Message List",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-14T12:32:49Z"
+      }
+    },
+    {
+      "description": "Amendment 625206 Concur",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-14T12:32:49Z"
+      }
+    },
+    {
+      "description": "CS passed as amended; YEAS 108, NAYS 0",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-14T12:32:49Z"
+      }
+    },
+    {
+      "description": "Ordered engrossed, then enrolled",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "enrolled"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-14T12:32:49Z"
+      }
     }
   ],
   "sponsorships": [
@@ -476,6 +521,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/273/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "H 273 e1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/273/BillText/e1/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -544,7 +600,24 @@
       "classification": ""
     }
   ],
-  "citations": [],
+  "citations": [
+    {
+      "publication": "Florida Statues",
+      "citation": "215.971",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/215.971"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "288.0656",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/288.0656"
+    }
+  ],
   "sources": [
     {
       "url": "https://flsenate.gov/Session/Bill/2026/273/ByCategory",
@@ -559,6 +632,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-12T12:39:53Z"
+    "logs_latest_update": "2026-03-14T12:32:49Z"
   }
 }

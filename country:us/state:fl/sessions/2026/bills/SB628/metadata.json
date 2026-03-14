@@ -324,6 +324,120 @@
       "_processing": {
         "log_file_created": "2026-02-27T12:39:03Z"
       }
+    },
+    {
+      "description": "Amendment(s) to House amendment(s) adopted (169580, 374018, 387786)",
+      "date": "2026-03-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-14T12:32:49Z"
+      }
+    },
+    {
+      "description": "Concurred in House amendment(s) as amended (376033)",
+      "date": "2026-03-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-14T12:32:49Z"
+      }
+    },
+    {
+      "description": "Passed as amended; YEAS 34 NAYS 3",
+      "date": "2026-03-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-14T12:32:49Z"
+      }
+    },
+    {
+      "description": "In Messages",
+      "date": "2026-03-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-14T12:32:49Z"
+      }
+    },
+    {
+      "description": "Added to Senate Message List",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-14T12:32:49Z"
+      }
+    },
+    {
+      "description": "Amendment 494741 adopted",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-14T12:32:49Z"
+      }
+    },
+    {
+      "description": "Amendment 169580 Concur",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-14T12:32:49Z"
+      }
+    },
+    {
+      "description": "Concurred in Senate amendment 387786 as amended",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-14T12:32:49Z"
+      }
+    },
+    {
+      "description": "Amendment 374018 Concur",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-14T12:32:49Z"
+      }
+    },
+    {
+      "description": "Passed as amended; YEAS 81, NAYS 22",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-14T12:32:49Z"
+      }
+    },
+    {
+      "description": "In returning messages",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-14T12:32:49Z"
+      }
     }
   ],
   "sponsorships": [
@@ -422,10 +536,103 @@
       "classification": ""
     },
     {
+      "note": "House Message Summary -- Transportation (2/27/2026 9:39 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/628/Analyses/2026s00628.hms.tr.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "House Message Summary -- Transportation (3/12/2026 5:33 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/628/Analyses/2026s00628.hm1.tr.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "376033 - Strike All Amendment to S 628 Filed",
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/628/Amendment/376033/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "264008 - S Amend. to H Amend. (376033) to S 628 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/628/Amendment/264008/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/628/Amendment/264008/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "169580 - S Amend. to H Amend. (376033) to S 628 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/628/Amendment/169580/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/628/Amendment/169580/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "387786 - S Amend. to H Amend. (376033) to S 628 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/628/Amendment/387786/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/628/Amendment/387786/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "494741 - Amendment to Amendment (387786) to S 628 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/628/Amendment/494741/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "374018 - S Amend. to H Amend. (376033) to S 628 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/628/Amendment/374018/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/628/Amendment/374018/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -448,6 +655,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-27T12:39:03Z"
+    "logs_latest_update": "2026-03-14T12:32:49Z"
   }
 }

@@ -7,8 +7,9 @@
     "bill"
   ],
   "subject": [
+    "motor vehicles",
+    "public transportation",
     "subject index",
-    "taxation and finance",
     "vessels"
   ],
   "abstracts": [
@@ -365,6 +366,40 @@
       "_processing": {
         "log_file_created": "2026-03-12T12:39:52Z"
       }
+    },
+    {
+      "description": "Concurred in 1 amendment(s) (078509)",
+      "date": "2026-03-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-14T12:32:49Z"
+      }
+    },
+    {
+      "description": "Passed as amended; YEAS 36 NAYS 0",
+      "date": "2026-03-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-14T12:32:49Z"
+      }
+    },
+    {
+      "description": "Ordered engrossed, then enrolled",
+      "date": "2026-03-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "enrolled"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-14T12:32:49Z"
+      }
     }
   ],
   "sponsorships": [
@@ -403,6 +438,36 @@
         },
         {
           "url": "https://flsenate.gov/Session/Bill/2026/488/BillText/e1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S 488 e2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/488/BillText/e2/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/488/BillText/e2/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S 488 er",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/488/BillText/er/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/488/BillText/er/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -505,6 +570,14 @@
     }
   ],
   "citations": [
+    {
+      "publication": "Florida Statues",
+      "citation": "120.80",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/120.80"
+    },
     {
       "publication": "Florida Statues",
       "citation": "207.001",
@@ -651,6 +724,14 @@
     },
     {
       "publication": "Florida Statues",
+      "citation": "319.40",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/319.40"
+    },
+    {
+      "publication": "Florida Statues",
       "citation": "320.02",
       "citation_type": "proposed",
       "effective": null,
@@ -659,11 +740,59 @@
     },
     {
       "publication": "Florida Statues",
+      "citation": "320.03",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/320.03"
+    },
+    {
+      "publication": "Florida Statues",
       "citation": "320.061",
       "citation_type": "proposed",
       "effective": null,
       "expires": null,
       "url": "https://flsenate.gov/laws/statutes/2025/320.061"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "320.084",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/320.084"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "320.0843",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/320.0843"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "320.262",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/320.262"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "320.64",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/320.64"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "320.643",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/320.643"
     },
     {
       "publication": "Florida Statues",
@@ -683,11 +812,27 @@
     },
     {
       "publication": "Florida Statues",
+      "citation": "322.051",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/322.051"
+    },
+    {
+      "publication": "Florida Statues",
       "citation": "322.08",
       "citation_type": "proposed",
       "effective": null,
       "expires": null,
       "url": "https://flsenate.gov/laws/statutes/2025/322.08"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "322.17",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/322.17"
     },
     {
       "publication": "Florida Statues",
@@ -707,11 +852,27 @@
     },
     {
       "publication": "Florida Statues",
+      "citation": "322.245",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/322.245"
+    },
+    {
+      "publication": "Florida Statues",
       "citation": "322.251",
       "citation_type": "proposed",
       "effective": null,
       "expires": null,
       "url": "https://flsenate.gov/laws/statutes/2025/322.251"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "322.2615",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/322.2615"
     },
     {
       "publication": "Florida Statues",
@@ -755,6 +916,22 @@
     },
     {
       "publication": "Florida Statues",
+      "citation": "328.73",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/328.73"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "337.401",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/337.401"
+    },
+    {
+      "publication": "Florida Statues",
       "citation": "627.7415",
       "citation_type": "proposed",
       "effective": null,
@@ -776,6 +953,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-12T12:39:52Z"
+    "logs_latest_update": "2026-03-14T12:32:49Z"
   }
 }

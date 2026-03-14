@@ -507,6 +507,50 @@
       "_processing": {
         "log_file_created": "2026-03-12T12:39:52Z"
       }
+    },
+    {
+      "description": "Added to Senate Message List",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-14T12:32:49Z"
+      }
+    },
+    {
+      "description": "Amendment 173774 Concur",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-14T12:32:49Z"
+      }
+    },
+    {
+      "description": "CS passed as amended; YEAS 80, NAYS 25",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-14T12:32:49Z"
+      }
+    },
+    {
+      "description": "Ordered engrossed, then enrolled",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "enrolled"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-14T12:32:49Z"
+      }
     }
   ],
   "sponsorships": [
@@ -745,6 +789,28 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 1471 e1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1471/BillText/e1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "H 1471 er",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1471/BillText/er/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -853,6 +919,17 @@
       "classification": ""
     },
     {
+      "note": "441185 - Amendment to Amendment (173774) to H 1471 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1471/Amendment/441185/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "716683 - Amendment to H 1471 c2",
       "links": [
         {
@@ -879,6 +956,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-12T12:39:52Z"
+    "logs_latest_update": "2026-03-14T12:32:49Z"
   }
 }

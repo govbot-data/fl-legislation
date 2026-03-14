@@ -8,8 +8,8 @@
   ],
   "subject": [
     "public business",
-    "public officers, employees, and records",
     "railroads and other regulated utilities",
+    "reclamation, and use",
     "relations",
     "subject index"
   ],
@@ -307,6 +307,72 @@
       "_processing": {
         "log_file_created": "2026-03-12T12:39:52Z"
       }
+    },
+    {
+      "description": "Read 2nd time",
+      "date": "2026-03-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-14T12:32:49Z"
+      }
+    },
+    {
+      "description": "Amendment 383957 adopted",
+      "date": "2026-03-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-14T12:32:49Z"
+      }
+    },
+    {
+      "description": "Added to Third Reading Calendar",
+      "date": "2026-03-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-14T12:32:49Z"
+      }
+    },
+    {
+      "description": "Read 3rd time",
+      "date": "2026-03-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-14T12:32:49Z"
+      }
+    },
+    {
+      "description": "CS passed as amended; YEAS 92, NAYS 16",
+      "date": "2026-03-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-14T12:32:49Z"
+      }
+    },
+    {
+      "description": "In returning messages",
+      "date": "2026-03-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-14T12:32:49Z"
+      }
     }
   ],
   "sponsorships": [
@@ -482,6 +548,17 @@
       "classification": ""
     },
     {
+      "note": "House Message Summary -- Regulated Industries (3/12/2026 8:26 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/484/Analyses/2026s00484.hms.ri.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "781774 - Amendment to S 484 Filed",
       "links": [
         {
@@ -557,6 +634,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-12T12:39:52Z"
+    "logs_latest_update": "2026-03-14T12:32:49Z"
   }
 }

@@ -8,7 +8,7 @@
   ],
   "subject": [
     "(adopted)",
-    "subject index"
+    "torts"
   ],
   "abstracts": [
     {
@@ -340,6 +340,58 @@
       "_processing": {
         "log_file_created": "2026-03-12T12:39:53Z"
       }
+    },
+    {
+      "description": "Amendment(s) to House amendment(s) adopted (771754)",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-14T12:32:49Z"
+      }
+    },
+    {
+      "description": "Concurred in House amendment(s) as amended (690561)",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-14T12:32:49Z"
+      }
+    },
+    {
+      "description": "CS passed as amended; YEAS 39 NAYS 0",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-14T12:32:49Z"
+      }
+    },
+    {
+      "description": "In Messages",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-14T12:32:49Z"
+      }
+    },
+    {
+      "description": "Added to Senate Message List",
+      "date": "2026-03-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-14T12:32:49Z"
+      }
     }
   ],
   "sponsorships": [
@@ -484,7 +536,7 @@
       "classification": ""
     },
     {
-      "note": "House Message Summary -- Banking and Insurance (3/10/2026 5:07 PM)",
+      "note": "House Message Summary -- Banking and Insurance (3/11/2026 9:09 AM)",
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/1668/Analyses/2026s01668.hms.bi.PDF",
@@ -514,6 +566,21 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/1668/Amendment/690561/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "771754 - S Amend. to H Amend. (690561) to S 1668 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1668/Amendment/771754/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1668/Amendment/771754/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -601,6 +668,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-12T12:39:53Z"
+    "logs_latest_update": "2026-03-14T12:32:49Z"
   }
 }

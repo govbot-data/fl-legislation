@@ -7,7 +7,7 @@
     "bill"
   ],
   "subject": [
-    "social welfare"
+    "subject index"
   ],
   "abstracts": [
     {
@@ -284,6 +284,18 @@
       "_processing": {
         "log_file_created": "2026-02-26T12:44:25Z"
       }
+    },
+    {
+      "description": "Laid on Table, refer to CS/SB 578",
+      "date": "2026-03-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-14T12:32:49Z"
+      }
     }
   ],
   "sponsorships": [
@@ -312,6 +324,14 @@
       "organization_id": null
     },
     {
+      "name": "Chaney",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Chaney\"}",
+      "organization_id": null
+    },
+    {
       "name": "Driskell",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -320,11 +340,27 @@
       "organization_id": null
     },
     {
+      "name": "L\u00f3pez, J.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"L\\u00f3pez, J.\"}",
+      "organization_id": null
+    },
+    {
       "name": "Tendrich",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Tendrich\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Vald\u00e9s",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Vald\\u00e9s\"}",
       "organization_id": null
     },
     {
@@ -411,6 +447,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-26T12:44:25Z"
+    "logs_latest_update": "2026-03-14T12:32:49Z"
   }
 }

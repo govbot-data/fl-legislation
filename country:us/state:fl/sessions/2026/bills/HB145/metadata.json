@@ -1,26 +1,41 @@
 {
   "legislative_session": "2026",
   "identifier": "HB 145",
-  "title": "Suits Against the Government",
+  "title": "Claims Against the Government",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
   "subject": [
     "(adopted)",
+    "and solicitations",
     "civil practice and procedure",
     "civil rights",
+    "criminal procedure and corrections",
     "industry",
+    "insurance",
+    "judicial branch",
+    "limitations",
     "military affairs and related matters",
+    "motor vehicles",
+    "planning and development",
     "public business",
+    "public health",
     "public lands and property",
+    "public officers, employees, and records",
+    "public transportation",
     "railroads and other regulated utilities",
-    "subject index"
+    "real and personal property",
+    "reclamation, and use",
+    "regulation of professions and occupations",
+    "relations",
+    "subject index",
+    "torts"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Suits Against the Government;  Increases statutory limits on liability for tort claims against state & its agencies & subdivisions; authorizes subdivision of state to settle claim in excess of statutory limit without legislative action regardless of insurance coverage limits; prohibits insurance policy from conditioning benefits on enactment of claim bill; specifies that limitations in effect on date claim accrues apply to that claim; revises period within which certain claims must be presented; revises exceptions relating to instituting tort claims against state or agencies or subdivisions; revises period after which failure of certain entities to make final disposition of claim shall be deemed final denial of claim for certain purposes; revises statute of limitations for tort claims against state or  agencies or subdivisions & exceptions thereto."
+      "abstract": "Claims Against the Government;  Increasing the statutory limits on the liability of the state and its agencies and subdivisions for tort claims; revising exceptions relating to instituting actions on tort claims against the state or one of its agencies or subdivisions; revising the period after which the failure of certain entities to make a final disposition of a claim shall be deemed a final denial of the claim for certain purposes; revising the statute of limitations for tort claims against the state or one of its agencies or subdivisions and exceptions thereto, etc."
     }
   ],
   "other_titles": [],
@@ -400,6 +415,50 @@
       "_processing": {
         "log_file_created": "2026-03-12T12:39:52Z"
       }
+    },
+    {
+      "description": "Added to Senate Message List",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-14T12:32:49Z"
+      }
+    },
+    {
+      "description": "Amendment 401768 Concur",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-14T12:32:49Z"
+      }
+    },
+    {
+      "description": "Passed as amended; YEAS 108, NAYS 1",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-14T12:32:49Z"
+      }
+    },
+    {
+      "description": "Ordered engrossed, then enrolled",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "enrolled"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-14T12:32:49Z"
+      }
     }
   ],
   "sponsorships": [
@@ -419,6 +478,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/145/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "H 145 e1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/145/BillText/e1/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -477,6 +547,22 @@
     }
   ],
   "citations": [
+    {
+      "publication": "Florida Statues",
+      "citation": "29.0081",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/29.0081"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "39.8297",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/39.8297"
+    },
     {
       "publication": "Florida Statues",
       "citation": "45.061",
@@ -932,6 +1018,54 @@
       "effective": null,
       "expires": null,
       "url": "https://flsenate.gov/laws/statutes/2025/1002.34"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "1002.37",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/1002.37"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "1002.55",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/1002.55"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "1002.83",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/1002.83"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "1002.88",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/1002.88"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "1006.24",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/1006.24"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "1006.261",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/1006.261"
     }
   ],
   "sources": [
@@ -948,6 +1082,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-12T12:39:52Z"
+    "logs_latest_update": "2026-03-14T12:32:49Z"
   }
 }

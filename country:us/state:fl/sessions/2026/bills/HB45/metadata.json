@@ -7,7 +7,6 @@
     "bill"
   ],
   "subject": [
-    "(adopted)",
     "subject index"
   ],
   "abstracts": [
@@ -267,6 +266,18 @@
       "_processing": {
         "log_file_created": "2026-02-27T12:39:03Z"
       }
+    },
+    {
+      "description": "Laid on Table, refer to CS/CS/CS/SB 212",
+      "date": "2026-03-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-14T12:32:49Z"
+      }
     }
   ],
   "sponsorships": [
@@ -295,6 +306,14 @@
       "organization_id": null
     },
     {
+      "name": "Bankson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Bankson\"}",
+      "organization_id": null
+    },
+    {
       "name": "Baker",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -311,6 +330,14 @@
       "organization_id": null
     },
     {
+      "name": "Basabe",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Basabe\"}",
+      "organization_id": null
+    },
+    {
       "name": "Benarroch",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -319,11 +346,83 @@
       "organization_id": null
     },
     {
+      "name": "Black",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Black\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Buchanan",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Buchanan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Chamberlin",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Chamberlin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gossett-Seidman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Gossett-Seidman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jacques",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jacques\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kendall",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kendall\"}",
+      "organization_id": null
+    },
+    {
       "name": "Porras",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Porras\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Steele",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Steele\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tramont",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tramont\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Weinberger",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Weinberger\"}",
       "organization_id": null
     }
   ],
@@ -473,6 +572,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-27T12:39:03Z"
+    "logs_latest_update": "2026-03-14T12:32:49Z"
   }
 }

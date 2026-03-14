@@ -7,17 +7,16 @@
     "bill"
   ],
   "subject": [
-    "executive branch",
     "industry",
+    "public health",
     "public lands and property",
-    "public officers, employees, and records",
     "relations",
     "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Department of Environmental Protection;  Repeals, revises, & creates various provisions relating to Environmental Regulation Commission; solar facilities; stormwater management systems; central sewer system connections; wastewater treatment systems; coastal resiliency projects; & air pollution license fees."
+      "abstract": "Department of Environmental Protection;  Removes provisions creating the Environmental Regulation Commission; requires certain solar facility permit applicants to incorporate certain protections in the development and implementation of erosion and sediment control plans for the construction of such facilities; specifies requirements for such plans; revises the date by which certain major permitted sources of air pollution must pay an annual operation license fee; ratifies specified rules relating to the Lower Santa Fe and Ichetucknee Rivers and Priority Springs minimum flows and recovery strategy for the sole and exclusive purpose of satisfying any condition on effectiveness pursuant to provisions which require ratification of any rule exceeding the specified thresholds for likely adverse impact or increase in regulatory costs, etc."
     }
   ],
   "other_titles": [],
@@ -541,6 +540,50 @@
       "_processing": {
         "log_file_created": "2026-03-12T12:39:53Z"
       }
+    },
+    {
+      "description": "Added to Senate Message List",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-14T12:32:49Z"
+      }
+    },
+    {
+      "description": "Amendment 215232 Concur",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-14T12:32:49Z"
+      }
+    },
+    {
+      "description": "CS passed as amended; YEAS 110, NAYS 0",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-14T12:32:49Z"
+      }
+    },
+    {
+      "description": "Ordered engrossed, then enrolled",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "enrolled"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-14T12:32:49Z"
+      }
     }
   ],
   "sponsorships": [
@@ -625,6 +668,28 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/1417/BillText/c3/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "H 1417 e1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1417/BillText/e1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "H 1417 er",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1417/BillText/er/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -795,6 +860,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-12T12:39:53Z"
+    "logs_latest_update": "2026-03-14T12:32:49Z"
   }
 }

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Ordered enrolled",
+    "date": "2026-03-11",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "enrolled"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 4067"
+}

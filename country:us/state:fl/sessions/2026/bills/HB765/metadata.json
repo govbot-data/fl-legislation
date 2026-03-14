@@ -7,14 +7,13 @@
     "bill"
   ],
   "subject": [
+    "(adopted)",
     "insurance",
     "judicial branch",
-    "k",
     "municipalities",
     "public health",
     "relations",
-    "social welfare",
-    "taxation and finance"
+    "subject index"
   ],
   "abstracts": [
     {
@@ -531,6 +530,18 @@
       "_processing": {
         "log_file_created": "2026-03-12T12:39:53Z"
       }
+    },
+    {
+      "description": "Laid on Table, refer to CS/CS/CS/SB 1690",
+      "date": "2026-03-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-14T12:32:49Z"
+      }
     }
   ],
   "sponsorships": [
@@ -957,6 +968,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-12T12:39:53Z"
+    "logs_latest_update": "2026-03-14T12:32:49Z"
   }
 }

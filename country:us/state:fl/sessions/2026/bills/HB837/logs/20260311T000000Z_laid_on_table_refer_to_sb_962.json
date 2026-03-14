@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Laid on Table, refer to SB 962",
+    "date": "2026-03-11",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "deferral"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 837"
+}

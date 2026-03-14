@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "CS passed as amended; YEAS 87, NAYS 19",
+    "date": "2026-03-12",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1329"
+}

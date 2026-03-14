@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Housing for Veterans;  Creating the \u201cHomes for Veterans Property Management Incentive Pilot Program Act\u201d; establishing the Homes for Veterans Property Management Incentive Pilot Program in certain counties, subject to legislative appropriation; authorizing certain landlords to apply to a contracted program administrator to request funding from the Vacancy Relief and Risk Mitigation Trust Fund under certain circumstances; authorizing a landlord to apply for up to a specified dollar amount from the trust fund, etc."
+      "abstract": "Housing for Veterans;  Creating the \u201cHomes for Veterans Property Management Incentive Pilot Program Act\u201d; establishing the Homes for Veterans Property Management Incentive Pilot Program in certain counties, subject to legislative appropriation; requiring a landlord to submit to the contracted program administrator required documentation within a specified time period to apply for funding; authorizing a landlord to apply for up to a specified dollar amount from the funds, etc."
     }
   ],
   "other_titles": [],
@@ -339,6 +339,40 @@
       "_processing": {
         "log_file_created": "2026-03-12T12:39:53Z"
       }
+    },
+    {
+      "description": "Concurred in 1 amendment(s) (481141)",
+      "date": "2026-03-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-14T12:32:49Z"
+      }
+    },
+    {
+      "description": "CS passed as amended; YEAS 37 NAYS 0",
+      "date": "2026-03-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-14T12:32:49Z"
+      }
+    },
+    {
+      "description": "Ordered engrossed, then enrolled",
+      "date": "2026-03-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "enrolled"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-14T12:32:49Z"
+      }
     }
   ],
   "sponsorships": [
@@ -408,6 +442,36 @@
         },
         {
           "url": "https://flsenate.gov/Session/Bill/2026/1602/BillText/c2/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S 1602 e1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1602/BillText/e1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1602/BillText/e1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S 1602 er",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1602/BillText/er/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1602/BillText/er/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -550,6 +614,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-12T12:39:53Z"
+    "logs_latest_update": "2026-03-14T12:32:49Z"
   }
 }

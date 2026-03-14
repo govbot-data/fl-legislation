@@ -13,7 +13,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Pub. Rec./Office of Financial Regulation;  Expanding an exemption from public records requirements to include information obtained by Office of Financial Regulation during investigations & examinations relating to virtual currency businesses & payments to stablecoin issuers & to include trust companies that are qualified payment stablecoin issuers in existing protections afforded to other financial institutions."
+      "abstract": "Pub. Rec./Office of Financial Regulation;  Expanding a public records exemption for certain information obtained by the Office of Financial Regulation concerning or during the course of an investigation or examination conducted by the office, including customer and consumer complaints, to incorporate the inclusion of documents relating to virtual currency businesses, qualified payment stablecoin issuers, and money transmitters acting as custodians of gold coin and silver coin; providing for future legislative review and repeal of the exemptions, etc."
     }
   ],
   "other_titles": [],
@@ -423,6 +423,50 @@
       "_processing": {
         "log_file_created": "2026-03-12T12:39:53Z"
       }
+    },
+    {
+      "description": "Added to Senate Message List",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-14T12:32:49Z"
+      }
+    },
+    {
+      "description": "Amendment 736548 Concur",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-14T12:32:49Z"
+      }
+    },
+    {
+      "description": "CS passed as amended; YEAS 109, NAYS 0",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-14T12:32:49Z"
+      }
+    },
+    {
+      "description": "Ordered engrossed, then enrolled",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "enrolled"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-14T12:32:49Z"
+      }
     }
   ],
   "sponsorships": [
@@ -488,6 +532,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/1087/BillText/c2/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "H 1087 e1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1087/BillText/e1/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -571,6 +626,22 @@
     },
     {
       "publication": "Florida Statues",
+      "citation": "560.312",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/560.312"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "560.4041",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/560.4041"
+    },
+    {
+      "publication": "Florida Statues",
       "citation": "655.057",
       "citation_type": "proposed",
       "effective": null,
@@ -600,6 +671,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-12T12:39:53Z"
+    "logs_latest_update": "2026-03-14T12:32:49Z"
   }
 }

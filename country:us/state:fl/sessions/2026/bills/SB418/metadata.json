@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Law Enforcement Officer Interactions with Individuals with Autism Spectrum Disorder;  Requiring the Department of Highway Safety and Motor Vehicles to establish a program to improve communication between individuals with autism spectrum disorder and law enforcement officers under certain circumstances; requiring the department to develop and make available to individuals with autism spectrum disorder a certain envelope by a specified date; defining the terms \u201cagency\u201d and \u201cautism spectrum disorder\u201d; requiring the Criminal Justice Standards and Training Commission within the Department of Law Enforcement to establish an employment training component relating to individuals with autism spectrum disorder, etc."
+      "abstract": "Law Enforcement Officer Interactions with Individuals with Autism Spectrum Disorder;  Requiring the Department of Highway Safety and Motor Vehicles to establish a program to improve communication between individuals with autism spectrum disorder and law enforcement officers under certain circumstances; requiring the department to develop and make available to individuals with autism spectrum disorder a certain envelope and card by a specified date; defining the terms \u201cagency\u201d and \u201cautism spectrum disorder\u201d; requiring the Criminal Justice Standards and Training Commission within the Department of Law Enforcement to establish an employment training component relating to individuals with autism spectrum disorder, etc."
     }
   ],
   "other_titles": [],
@@ -314,6 +314,40 @@
       "_processing": {
         "log_file_created": "2026-03-12T12:39:53Z"
       }
+    },
+    {
+      "description": "Concurred in 1 amendment(s) (376741)",
+      "date": "2026-03-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-14T12:32:49Z"
+      }
+    },
+    {
+      "description": "Passed as amended; YEAS 37 NAYS 0",
+      "date": "2026-03-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-14T12:32:49Z"
+      }
+    },
+    {
+      "description": "Ordered engrossed, then enrolled",
+      "date": "2026-03-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "enrolled"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-14T12:32:49Z"
+      }
     }
   ],
   "sponsorships": [
@@ -345,6 +379,36 @@
         },
         {
           "url": "https://flsenate.gov/Session/Bill/2026/418/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S 418 e1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/418/BillText/e1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/418/BillText/e1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S 418 er",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/418/BillText/er/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/418/BillText/er/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -457,6 +521,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-12T12:39:53Z"
+    "logs_latest_update": "2026-03-14T12:32:49Z"
   }
 }

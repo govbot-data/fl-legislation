@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 824",
-  "title": "Inventory of Unimproved Real Property Owned by School Districts",
+  "title": "School District Unimproved Real Property",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Inventory of Unimproved Real Property Owned by School Districts;  Requiring each school district to annually submit to the Department of Education an inventory of certain real property; requiring the department to compile the districts\u2019 inventories into an annual report; requiring the department to publish the report online annually by a specified date; providing that school districts that do not comply with the act are subject to enforcement, etc."
+      "abstract": "School District Unimproved Real Property;  Requiring school districts to annually submit complete inventories of unimproved real property owned by the district to the Department of Education; requiring the department to compile and publish such data in a statewide report, etc."
     }
   ],
   "other_titles": [],
@@ -319,6 +319,40 @@
       "_processing": {
         "log_file_created": "2026-03-12T12:39:53Z"
       }
+    },
+    {
+      "description": "Concurred in 1 amendment(s) (211059)",
+      "date": "2026-03-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-14T12:32:49Z"
+      }
+    },
+    {
+      "description": "CS passed as amended; YEAS 33 NAYS 4",
+      "date": "2026-03-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-14T12:32:49Z"
+      }
+    },
+    {
+      "description": "Ordered engrossed, then enrolled",
+      "date": "2026-03-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "enrolled"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-14T12:32:49Z"
+      }
     }
   ],
   "sponsorships": [
@@ -365,6 +399,36 @@
         },
         {
           "url": "https://flsenate.gov/Session/Bill/2026/824/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S 824 e1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/824/BillText/e1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/824/BillText/e1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S 824 er",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/824/BillText/er/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/824/BillText/er/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -470,6 +534,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-12T12:39:53Z"
+    "logs_latest_update": "2026-03-14T12:32:49Z"
   }
 }

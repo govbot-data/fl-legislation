@@ -7,7 +7,8 @@
     "bill"
   ],
   "subject": [
-    "subject index"
+    "subject index",
+    "torts"
   ],
   "abstracts": [
     {
@@ -368,6 +369,18 @@
       "_processing": {
         "log_file_created": "2026-02-25T12:43:57Z"
       }
+    },
+    {
+      "description": "Laid on Table, refer to CS/CS/SB 1580",
+      "date": "2026-03-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-14T12:32:49Z"
+      }
     }
   ],
   "sponsorships": [
@@ -401,6 +414,22 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Trabulsy\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Giallombardo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Giallombardo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Chaney",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Chaney\"}",
       "organization_id": null
     },
     {
@@ -644,6 +673,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-25T12:43:57Z"
+    "logs_latest_update": "2026-03-14T12:32:49Z"
   }
 }

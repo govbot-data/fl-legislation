@@ -8,15 +8,15 @@
   ],
   "subject": [
     "domestic relations",
-    "k",
     "public health",
     "regulation of professions and occupations",
+    "subject index",
     "torts"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Department of Health;  Revises eligibility requirements for dental student loan repayment program; revises renewal period for certification of specified course; renaming compassionate use registry as medical marijuana registry; prohibits medical marijuana treatment center from being located within certain distance of specified areas; revises DOH duties relating to Early Steps Program & Early Steps Extended Option; revises eligibility requirements for developmental evaluation & early intervention services; revises transition to education requirements for children with disabilities; provides that committing criminal offense relating to murder is cause for immediate suspension of health care practitioner's license; revises eligible individuals for University of Florida Center for Autism & Neurodevelopment's autism micro-credential."
+      "abstract": "Department of Health;  Revising definitions; revising eligibility requirements for dentists and dental hygienists participating in the Dental Student Loan Repayment Program; revising requirements for department approval of qualified physicians and medical directors of medical marijuana treatment centers; creating the Neurofibromatosis Disease Grant Program within the Department of Health;  prohibiting marriage between certain related individuals; revising requirements for the micro-credential component of specialized training provided by the University of Florida Center for Autism and Neurodevelopment, etc."
     }
   ],
   "other_titles": [],
@@ -374,6 +374,94 @@
       "_processing": {
         "log_file_created": "2026-03-06T12:36:23Z"
       }
+    },
+    {
+      "description": "Withdrawn from Rules",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "withdrawal"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-14T12:32:49Z"
+      }
+    },
+    {
+      "description": "Placed on Calendar, on 2nd reading",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-14T12:32:49Z"
+      }
+    },
+    {
+      "description": "Substituted for CS/CS/CS/SB 902",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-14T12:32:49Z"
+      }
+    },
+    {
+      "description": "Read 2nd time",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-14T12:32:49Z"
+      }
+    },
+    {
+      "description": "Amendment(s) adopted (296444)",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-14T12:32:49Z"
+      }
+    },
+    {
+      "description": "Read 3rd time",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-14T12:32:49Z"
+      }
+    },
+    {
+      "description": "CS passed as amended; YEAS 37 NAYS 0",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-14T12:32:49Z"
+      }
+    },
+    {
+      "description": "In Messages",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-14T12:32:49Z"
+      }
     }
   ],
   "sponsorships": [
@@ -563,6 +651,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-06T12:36:23Z"
+    "logs_latest_update": "2026-03-14T12:32:49Z"
   }
 }
