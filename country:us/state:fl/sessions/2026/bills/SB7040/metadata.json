@@ -266,6 +266,80 @@
       "_processing": {
         "log_file_created": "2026-03-12T12:39:53Z"
       }
+    },
+    {
+      "description": "Amendment(s) to House amendment(s) adopted (877368)",
+      "date": "2026-03-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-15T12:34:41Z"
+      }
+    },
+    {
+      "description": "Concurred in House amendment(s) as amended (520451)",
+      "date": "2026-03-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-15T12:34:41Z"
+      }
+    },
+    {
+      "description": "Passed as amended; YEAS 29 NAYS 7",
+      "date": "2026-03-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-15T12:34:41Z"
+      }
+    },
+    {
+      "description": "In Messages",
+      "date": "2026-03-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-15T12:34:41Z"
+      }
+    },
+    {
+      "description": "Added to Senate Message List",
+      "date": "2026-03-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-15T12:34:41Z"
+      }
+    },
+    {
+      "description": "Amendment 877368 Concur",
+      "date": "2026-03-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-15T12:34:41Z"
+      }
+    },
+    {
+      "description": "Passed as amended; YEAS 80, NAYS 20",
+      "date": "2026-03-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-15T12:34:41Z"
+      }
     }
   ],
   "sponsorships": [
@@ -381,6 +455,36 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "905572 - S Amend. to H Amend. (520451) to S 7040 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/7040/Amendment/905572/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/7040/Amendment/905572/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "877368 - S Amend. to H Amend. (520451) to S 7040 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/7040/Amendment/877368/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/7040/Amendment/877368/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [
@@ -407,6 +511,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-12T12:39:53Z"
+    "logs_latest_update": "2026-03-15T12:34:41Z"
   }
 }

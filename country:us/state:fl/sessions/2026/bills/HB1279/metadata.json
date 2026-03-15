@@ -8,8 +8,8 @@
   ],
   "subject": [
     "(adopted)",
-    "k",
-    "regulation of professions and occupations"
+    "regulation of professions and occupations",
+    "subject index"
   ],
   "abstracts": [
     {
@@ -412,6 +412,138 @@
       "_processing": {
         "log_file_created": "2026-03-05T12:41:14Z"
       }
+    },
+    {
+      "description": "Withdrawn from Rules",
+      "date": "2026-03-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "withdrawal"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-15T12:34:41Z"
+      }
+    },
+    {
+      "description": "Placed on Calendar, on 2nd reading",
+      "date": "2026-03-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-15T12:34:41Z"
+      }
+    },
+    {
+      "description": "Substituted for CS/CS/SB 7038",
+      "date": "2026-03-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-15T12:34:41Z"
+      }
+    },
+    {
+      "description": "Read 2nd time",
+      "date": "2026-03-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-15T12:34:41Z"
+      }
+    },
+    {
+      "description": "Amendment(s) adopted (476262)",
+      "date": "2026-03-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-15T12:34:41Z"
+      }
+    },
+    {
+      "description": "Read 3rd time",
+      "date": "2026-03-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-15T12:34:41Z"
+      }
+    },
+    {
+      "description": "CS passed as amended; YEAS 36 NAYS 1",
+      "date": "2026-03-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-15T12:34:41Z"
+      }
+    },
+    {
+      "description": "In Messages",
+      "date": "2026-03-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-15T12:34:41Z"
+      }
+    },
+    {
+      "description": "Added to Senate Message List",
+      "date": "2026-03-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-15T12:34:41Z"
+      }
+    },
+    {
+      "description": "Amendment 476262 Concur",
+      "date": "2026-03-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-15T12:34:41Z"
+      }
+    },
+    {
+      "description": "CS passed as amended; YEAS 81, NAYS 16",
+      "date": "2026-03-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-15T12:34:41Z"
+      }
+    },
+    {
+      "description": "Ordered engrossed, then enrolled",
+      "date": "2026-03-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "enrolled"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-15T12:34:41Z"
+      }
     }
   ],
   "sponsorships": [
@@ -437,6 +569,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Kincart Jonsson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jacques",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jacques\"}",
       "organization_id": null
     },
     {
@@ -551,6 +691,21 @@
       "classification": ""
     },
     {
+      "note": "476262 - Amendment (Delete All) to H 1279 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1279/Amendment/476262/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1279/Amendment/476262/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "277549 - Amendment to H 1279 c2",
       "links": [
         {
@@ -577,6 +732,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-05T12:41:14Z"
+    "logs_latest_update": "2026-03-15T12:34:41Z"
   }
 }

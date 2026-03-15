@@ -7,7 +7,6 @@
     "bill"
   ],
   "subject": [
-    "and solicitations",
     "civil practice and procedure",
     "domestic relations",
     "electors and elections",
@@ -18,7 +17,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Foreign Influence;  Requires agents of foreign countries of concern, foreign-supported political organizations, & certain entities to register with Division of Elections & Department of Commerce; provides registration & form requirements; prohibits specified persons from soliciting or accepting anything of value from certain organizations & countries; authorizes certain persons to revoke or refuse to renew certain receipts & to request specified affidavits; prohibits certain entities from entering into certain contracts with foreign sources of concern; provides exception; prohibits certain activities encouraging affiliations with foreign countries of concern; requires Department of Commerce to publish & update certain information on its website; revises certain information relating to linkage institutes; authorizes & provides requirements for Governor to suspend certain laws & rules relating to Cuba; requires certain agreements to be terminated by specified date; requires certain entities to provide specified affidavit to Department of Commerce; prohibits information technology from foreign source of concern from being used in critical infrastructure facilities; prohibits enforcement of certain laws of foreign government; provides civil & criminal penalties; provides for reclassification of criminal penalties."
+      "abstract": "Foreign Influence;  Defines the terms \"designated foreign terrorist organization\" and \"foreign country of concern\"; provides penalties for specified persons who solicit or accept anything of value from persons or entities representing a designated foreign terrorist organization or a foreign country of concern; requiring the Commission on Ethics to adopt certain rules by a specified date; authorizes any appropriate tax collector to revoke or refuse to renew business tax receipts of specified individuals, businesses, or entities; prohibits  certain activities encouraging affiliations with foreign countries of concern; requires the Department of Commerce to publish and update certain information on its website; deleting the Florida-China Institute from the list of linkage institutes; authorizes the Governor to suspend certain laws or rules relating to Cuba for a specified period under certain circumstances, etc."
     }
   ],
   "other_titles": [],
@@ -596,6 +595,60 @@
       "_processing": {
         "log_file_created": "2026-03-14T12:32:49Z"
       }
+    },
+    {
+      "description": "Added to Senate Message List",
+      "date": "2026-03-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-15T12:34:41Z"
+      }
+    },
+    {
+      "description": "Amendment 889739 Failed",
+      "date": "2026-03-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-15T12:34:41Z"
+      }
+    },
+    {
+      "description": "Amendment 930088 Concur",
+      "date": "2026-03-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-15T12:34:41Z"
+      }
+    },
+    {
+      "description": "CS passed as amended; YEAS 83, NAYS 17",
+      "date": "2026-03-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-15T12:34:41Z"
+      }
+    },
+    {
+      "description": "Ordered engrossed, then enrolled",
+      "date": "2026-03-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "enrolled"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-15T12:34:41Z"
+      }
     }
   ],
   "sponsorships": [
@@ -776,6 +829,28 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 905 e2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/905/BillText/e2/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "H 905 er",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/905/BillText/er/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -854,6 +929,102 @@
       "effective": null,
       "expires": null,
       "url": "https://flsenate.gov/laws/statutes/2025/63.213"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "112.313",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/112.313"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "112.3142",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/112.3142"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "205.0532",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/205.0532"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "282.802",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/282.802"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "288.816",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/288.816"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "288.8175",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/288.8175"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "288.854",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/288.854"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "288.860",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/288.860"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "316.0078",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/316.0078"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "496.404",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/496.404"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "692.201",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/692.201"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "742.15",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/742.15"
     }
   ],
   "sources": [
@@ -870,6 +1041,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-14T12:32:49Z"
+    "logs_latest_update": "2026-03-15T12:34:41Z"
   }
 }

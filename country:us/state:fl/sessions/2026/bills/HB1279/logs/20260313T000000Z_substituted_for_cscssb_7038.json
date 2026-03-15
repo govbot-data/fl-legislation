@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Substituted for CS/CS/SB 7038",
+    "date": "2026-03-13",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 1279"
+}
