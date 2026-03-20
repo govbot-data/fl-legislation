@@ -8,17 +8,22 @@
   ],
   "subject": [
     "and solicitations",
+    "appropriations",
     "regulation of professions and occupations",
     "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Drug Prices and Coverage ;  Revises definition of term \"pharmacy benefits plan or program\" to exclude plan or program that exclusively serves PACE organization; requires contracts between pharmacy benefit managers & participating pharmacies to allow specified option in administrative appeal procedure; provides pharmacy benefit manager prohibited practices relating to pharmacies & pharmacists."
+      "abstract": "Drug Prices and Coverage ;  Revises definition of term \"pharmacy benefits plan or program\" to exclude plan or program that exclusively serves PACE organization; requires contracts between pharmacy benefit managers & participating pharmacies to allow specified option in administrative appeal procedure; provides pharmacy benefit manager prohibited practices relating to pharmacies & pharmacists.\r\n    \r\n        APPROPRIATION:\r\n        $30,901,933"
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-fl-2026-hb697"
+    }
+  ],
   "actions": [
     {
       "description": "Filed",
@@ -484,6 +489,18 @@
       "_processing": {
         "log_file_created": "2026-03-14T12:32:49Z"
       }
+    },
+    {
+      "description": "Signed by Officers and presented to Governor",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-20T12:39:39Z"
+      }
     }
   ],
   "sponsorships": [
@@ -530,6 +547,28 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/697/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "H 697 e1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/697/BillText/e1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "H 697 er",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/697/BillText/er/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -630,6 +669,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-14T12:32:49Z"
+    "logs_latest_update": "2026-03-20T12:39:39Z"
   }
 }

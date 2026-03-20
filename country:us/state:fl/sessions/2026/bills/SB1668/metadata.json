@@ -13,11 +13,15 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Florida Birth-Related Neurological Injury Compensation Association;  Requiring the Agency for Health Care Administration to recover from the Florida Birth-Related Neurological Injury Compensation Association specified costs incurred by Medicaid; revising the exclusiveness of rights and remedies of the Florida Birth-Related Neurological Injury Compensation Plan; revising services eligible for compensation under certain annual benefits under the plan; requiring family members of plan participants to continuously maintain certain health insurance coverage for the participant, etc."
+      "abstract": "Florida Birth-Related Neurological Injury Compensation Association;  Requiring the Agency for Health Care Administration to recover from the Florida Birth-Related Neurological Injury Compensation Association specified costs incurred by Medicaid; revising the exclusiveness of rights and remedies of the Florida Birth-Related Neurological Injury Compensation Plan; revising services eligible for compensation under certain annual benefits under the plan; requiring family members of plan participants to continuously maintain certain health insurance coverage for the participant; revising requirements for the administration of assessments and appropriations dedicated to the Florida Birth-Related Neurological Injury Compensation Plan, etc."
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-fl-2026-sb1668"
+    }
+  ],
   "actions": [
     {
       "description": "Filed",
@@ -414,6 +418,18 @@
       "_processing": {
         "log_file_created": "2026-03-15T12:34:41Z"
       }
+    },
+    {
+      "description": "Ordered engrossed, then enrolled",
+      "date": "2026-03-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "enrolled"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-20T12:39:39Z"
+      }
     }
   ],
   "sponsorships": [
@@ -483,6 +499,36 @@
         },
         {
           "url": "https://flsenate.gov/Session/Bill/2026/1668/BillText/c2/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S 1668 e1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1668/BillText/e1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1668/BillText/e1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S 1668 er",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1668/BillText/er/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1668/BillText/er/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -690,6 +736,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-15T12:34:41Z"
+    "logs_latest_update": "2026-03-20T12:39:39Z"
   }
 }

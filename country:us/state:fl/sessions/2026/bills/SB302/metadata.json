@@ -8,7 +8,7 @@
   ],
   "subject": [
     "public lands and property",
-    "subject index"
+    "reclamation, and use"
   ],
   "abstracts": [
     {
@@ -17,7 +17,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-fl-2026-sb302"
+    }
+  ],
   "actions": [
     {
       "description": "Filed",
@@ -340,6 +344,30 @@
       "_processing": {
         "log_file_created": "2026-03-12T12:39:52Z"
       }
+    },
+    {
+      "description": "Ordered enrolled",
+      "date": "2026-03-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "enrolled"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-20T12:39:39Z"
+      }
+    },
+    {
+      "description": "Signed by Officers and presented to Governor",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-20T12:39:39Z"
+      }
     }
   ],
   "sponsorships": [
@@ -440,6 +468,21 @@
         },
         {
           "url": "https://flsenate.gov/Session/Bill/2026/302/BillText/e1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S 302 er",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/302/BillText/er/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/302/BillText/er/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -585,6 +628,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-12T12:39:52Z"
+    "logs_latest_update": "2026-03-20T12:39:39Z"
   }
 }

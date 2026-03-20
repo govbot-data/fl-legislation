@@ -9,17 +9,20 @@
   "subject": [
     "municipalities",
     "relations",
-    "subject index",
-    "t"
+    "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Land Use and Development Regulations;  Requires amount of application fees associated with development permits or orders to reasonably relate to certain costs; requires public schools interlocal agreements to address reasonable access to certain public easements & public rights-of-way; requires local governments to administratively approve applications for minor special exceptions or variances submitted by large destination resorts; requires local government comprehensive plans & land development regulations to include factors for assessing compatibility of certain residential uses; requires land development regulations to incorporate measures for mitigating or minimizing potential incompatibility; prohibits residential manufactured buildings from being denied a building permit for placement on certain lots; requires housing units located on a mobile home lot to be taxed in a specified manner and be subject to payments to a specified fund; requires off-site constructed residential dwellings to be permitted as of right in certain zoning districts; requires OPPAGA to conduct specified study; requires office to submit results of study to Legislature by specified date."
+      "abstract": "Land Use and Development Regulations;  Requires amount of application fees associated with development permits or orders to reasonably relate to certain costs; requires public schools interlocal agreements to address reasonable access to certain public easements & public rights-of-way; requires local governments to administratively approve applications for minor special exceptions or variances submitted by large destination resorts that meet certain requirements ; requires local government comprehensive plans & land development regulations to include factors for assessing compatibility of certain residential uses; requires land development regulations to incorporate measures for mitigating or minimizing potential incompatibility; prohibits residential manufactured buildings from being denied a building permit for placement on certain lots; requires housing units located on a mobile home lot to be taxed in a specified manner and be subject to payments to a specified fund; requires off-site constructed residential dwellings to be permitted as of right in certain zoning districts; requires local government regulations to be reasonable and uniformly enforced."
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-fl-2026-hb399"
+    }
+  ],
   "actions": [
     {
       "description": "Filed",
@@ -683,6 +686,18 @@
       "_processing": {
         "log_file_created": "2026-03-15T12:34:41Z"
       }
+    },
+    {
+      "description": "Signed by Officers and presented to Governor",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-20T12:39:39Z"
+      }
     }
   ],
   "sponsorships": [
@@ -770,6 +785,28 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/399/BillText/e1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "H 399 e2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/399/BillText/e2/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "H 399 er",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/399/BillText/er/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -888,6 +925,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-15T12:34:41Z"
+    "logs_latest_update": "2026-03-20T12:39:39Z"
   }
 }

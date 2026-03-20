@@ -7,8 +7,9 @@
     "bill"
   ],
   "subject": [
+    "(adopted)",
+    "civil practice and procedure",
     "relations",
-    "subject index",
     "t"
   ],
   "abstracts": [
@@ -18,7 +19,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-fl-2026-hb313"
+    }
+  ],
   "actions": [
     {
       "description": "Filed",
@@ -160,7 +165,7 @@
       }
     },
     {
-      "description": "Referred to Ways & Means Committee",
+      "description": "Referred to Intergovernmental Affairs Subcommittee",
       "date": "2026-01-16",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -172,7 +177,7 @@
       }
     },
     {
-      "description": "Referred to Intergovernmental Affairs Subcommittee",
+      "description": "Referred to Ways & Means Committee",
       "date": "2026-01-16",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -204,6 +209,18 @@
       "_processing": {
         "log_file_created": "2026-01-19T12:32:00Z"
       }
+    },
+    {
+      "description": "Died in Intergovernmental Affairs Subcommittee",
+      "date": "2026-03-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-20T12:39:39Z"
+      }
     }
   ],
   "sponsorships": [
@@ -221,6 +238,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Nix\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Basabe",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Basabe\"}",
       "organization_id": null
     }
   ],
@@ -316,6 +341,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-19T12:32:00Z"
+    "logs_latest_update": "2026-03-20T12:39:39Z"
   }
 }

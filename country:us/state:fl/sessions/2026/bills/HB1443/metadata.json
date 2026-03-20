@@ -12,11 +12,15 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Parkinson's Disease Registry ;  Requires physicians & advanced practice registered nurses to report certain information to Parkinson's disease registry; provides limited liability for physicians & advanced practice registered nurses; requires President of Senate & Speaker of House of Representatives to each appoint one member to Parkinson's Disease Research Board; revises membership qualifications & terms; revises report requirements; requires Institute for Parkinson's Disease within University of South Florida, subject to appropriation, to establish & maintain statewide Parkinson's disease registry; provides requirements for such registry; requires institute to create & maintain Parkinson's disease registry-specific website; provides requirements for such website."
+      "abstract": "Parkinson's Disease Registry ;  Requires physicians & advanced practice registered nurses to report certain information to Parkinson's disease registry; provides limited liability for physicians & advanced practice registered nurses under certain circumstances; requires President of Senate & Speaker of House of Representatives to each appoint one member to Parkinson's Disease Research Board; revises membership qualifications & terms; revises report requirements; requires Institute for Parkinson's Disease within University of South Florida, subject to appropriation, to establish & maintain statewide Parkinson's disease registry; provides requirements for such registry; requires institute to create & maintain Parkinson's disease registry-specific website; provides requirements for such website."
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-fl-2026-hb1443"
+    }
+  ],
   "actions": [
     {
       "description": "Filed",
@@ -580,6 +584,18 @@
       "_processing": {
         "log_file_created": "2026-03-14T12:32:49Z"
       }
+    },
+    {
+      "description": "Signed by Officers and presented to Governor",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-20T12:39:39Z"
+      }
     }
   ],
   "sponsorships": [
@@ -693,6 +709,28 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 1443 e1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1443/BillText/e1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "H 1443 er",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1443/BillText/er/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -771,6 +809,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-14T12:32:49Z"
+    "logs_latest_update": "2026-03-20T12:39:39Z"
   }
 }

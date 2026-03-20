@@ -13,11 +13,15 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Military Affairs;  Revising the authorization to be granted a leave of absence for military service to include the Coast Guard; revising the authorization to be granted a leave of absence for reserve or guard training to include members of the Florida State Guard; specifying that an authorization for a leave of absence for all employees of the state and the counties, municipalities, and political subdivisions of the state to perform active military service for a specified timeframe is based on a single order; revising the list of military positions required to participate in the Senior Management Service Class of the Florida Retirement System, etc."
+      "abstract": "Military Affairs;  Revising the authorization to be granted a leave of absence for military service to include the Coast Guard; clarifying a provision relating to leaves of absence for all officers and employees of the state and the counties, municipalities, and political subdivisions of the state for reserve or guard training; specifying that an authorization for a leave of absence for all employees of the state and the counties, municipalities, and political subdivisions of the state to perform active military service for a specified timeframe is based on a single order; revising the list of military positions required to participate in the Senior Management Service Class of the Florida Retirement System, etc."
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-fl-2026-sb474"
+    }
+  ],
   "actions": [
     {
       "description": "Filed",
@@ -416,6 +420,18 @@
       "_processing": {
         "log_file_created": "2026-03-14T12:32:49Z"
       }
+    },
+    {
+      "description": "Ordered engrossed, then enrolled",
+      "date": "2026-03-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "enrolled"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-20T12:39:39Z"
+      }
     }
   ],
   "sponsorships": [
@@ -477,6 +493,36 @@
         },
         {
           "url": "https://flsenate.gov/Session/Bill/2026/474/BillText/e1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S 474 e2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/474/BillText/e2/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/474/BillText/e2/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S 474 er",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/474/BillText/er/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/474/BillText/er/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -711,6 +757,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-14T12:32:49Z"
+    "logs_latest_update": "2026-03-20T12:39:39Z"
   }
 }

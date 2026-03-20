@@ -8,21 +8,19 @@
   ],
   "subject": [
     "(adopted)",
+    "and solicitations",
     "aviation",
     "civil practice and procedure",
     "commercial relations",
     "electors and elections",
     "industry",
-    "k",
     "municipalities",
     "public business",
     "public lands and property",
-    "public officers, employees, and records",
+    "public transportation",
     "real and personal property",
     "relations",
-    "state organization",
     "subject index",
-    "taxation and finance",
     "vessels"
   ],
   "abstracts": [
@@ -32,7 +30,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-fl-2026-sb104"
+    }
+  ],
   "actions": [
     {
       "description": "Filed",
@@ -266,6 +268,18 @@
       "_processing": {
         "log_file_created": "2026-03-12T12:39:52Z"
       }
+    },
+    {
+      "description": "Ordered enrolled",
+      "date": "2026-03-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "enrolled"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-20T12:39:39Z"
+      }
     }
   ],
   "sponsorships": [
@@ -289,6 +303,21 @@
         },
         {
           "url": "https://flsenate.gov/Session/Bill/2026/104/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S 104 er",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/104/BillText/er/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/104/BillText/er/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -880,6 +909,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-12T12:39:52Z"
+    "logs_latest_update": "2026-03-20T12:39:39Z"
   }
 }

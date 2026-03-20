@@ -18,7 +18,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-fl-2026-hb675"
+    }
+  ],
   "actions": [
     {
       "description": "Filed",
@@ -192,6 +196,18 @@
       "_processing": {
         "log_file_created": "2026-02-04T12:39:55Z"
       }
+    },
+    {
+      "description": "Died in Ways & Means Committee",
+      "date": "2026-03-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-20T12:39:39Z"
+      }
     }
   ],
   "sponsorships": [
@@ -212,11 +228,43 @@
       "organization_id": null
     },
     {
+      "name": "Bartleman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bartleman\"}",
+      "organization_id": null
+    },
+    {
       "name": "Campbell",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Campbell\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Cross",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Cross\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Daley",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Daley\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Edmonds",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Edmonds\"}",
       "organization_id": null
     },
     {
@@ -228,11 +276,51 @@
       "organization_id": null
     },
     {
+      "name": "Gantt",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Gantt\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gottlieb",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Gottlieb\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Harris",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Harris\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hinson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Hinson\"}",
+      "organization_id": null
+    },
+    {
       "name": "Hunschofsky",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Hunschofsky\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Joseph",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Joseph\"}",
       "organization_id": null
     },
     {
@@ -244,6 +332,14 @@
       "organization_id": null
     },
     {
+      "name": "Robinson, F.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Robinson, F.\"}",
+      "organization_id": null
+    },
+    {
       "name": "Rosenwald",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -252,11 +348,27 @@
       "organization_id": null
     },
     {
+      "name": "Skidmore",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Skidmore\"}",
+      "organization_id": null
+    },
+    {
       "name": "Spencer",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Spencer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tant",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tant\"}",
       "organization_id": null
     }
   ],
@@ -376,6 +488,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-04T12:39:55Z"
+    "logs_latest_update": "2026-03-20T12:39:39Z"
   }
 }

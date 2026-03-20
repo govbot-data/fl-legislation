@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 182",
-  "title": "School Teacher Training and Mentoring Program",
+  "title": "Education",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -12,11 +12,15 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "School Teacher Training and Mentoring Program;  Establishing the School Teacher Training and Mentoring Program within the Department of Education; providing the purpose of the program; authorizing school districts and charter schools to place certain classroom teachers as teacher mentors in specified schools for specified purposes; providing requirements for teacher mentors and mentees; authorizing teacher mentors to receive a stipend, etc."
+      "abstract": "Education;  Providing that students may not be dismissed from certain charter schools based on academic performance; requiring students in specified grades to receive instruction in cursive writing; requiring, subject to legislative appropriation, each district school board to adopt rules to require the display of portraits of George Washington and Abraham Lincoln at each public school in the district; establishing the School Teacher Training and Mentoring Program within the Department of Education, etc."
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-fl-2026-sb182"
+    }
+  ],
   "actions": [
     {
       "description": "Filed",
@@ -413,6 +417,18 @@
       "_processing": {
         "log_file_created": "2026-03-14T12:32:49Z"
       }
+    },
+    {
+      "description": "Ordered engrossed, then enrolled",
+      "date": "2026-03-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "enrolled"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-20T12:39:39Z"
+      }
     }
   ],
   "sponsorships": [
@@ -514,6 +530,36 @@
         },
         {
           "url": "https://flsenate.gov/Session/Bill/2026/182/BillText/c2/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S 182 e1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/182/BillText/e1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/182/BillText/e1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S 182 er",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/182/BillText/er/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/182/BillText/er/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -644,6 +690,46 @@
   "citations": [
     {
       "publication": "Florida Statues",
+      "citation": "1002.33",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/1002.33"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "1002.395",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/1002.395"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "1002.42",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/1002.42"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "1003.42",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/1003.42"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "1003.44",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/1003.44"
+    },
+    {
+      "publication": "Florida Statues",
       "citation": "1011.62",
       "citation_type": "proposed",
       "effective": null,
@@ -665,6 +751,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-14T12:32:49Z"
+    "logs_latest_update": "2026-03-20T12:39:39Z"
   }
 }

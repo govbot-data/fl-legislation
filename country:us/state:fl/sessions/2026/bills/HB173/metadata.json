@@ -16,7 +16,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-fl-2026-hb173"
+    }
+  ],
   "actions": [
     {
       "description": "Filed",
@@ -224,6 +228,18 @@
       "_processing": {
         "log_file_created": "2026-02-25T12:43:57Z"
       }
+    },
+    {
+      "description": "Died on Second Reading Calendar",
+      "date": "2026-03-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-20T12:39:39Z"
+      }
     }
   ],
   "sponsorships": [
@@ -273,6 +289,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Partington\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Plakon",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Plakon\"}",
       "organization_id": null
     },
     {
@@ -461,6 +485,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-25T12:43:57Z"
+    "logs_latest_update": "2026-03-20T12:39:39Z"
   }
 }
