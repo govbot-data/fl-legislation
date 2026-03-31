@@ -16,7 +16,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-fl-2026-hb13"
+    }
+  ],
   "actions": [
     {
       "description": "Filed",
@@ -314,6 +318,18 @@
       "_processing": {
         "log_file_created": "2026-02-28T12:29:17Z"
       }
+    },
+    {
+      "description": "Died in Rules",
+      "date": "2026-03-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-31T12:57:46Z"
+      }
     }
   ],
   "sponsorships": [
@@ -331,6 +347,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Campbell\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Cross",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Cross\"}",
       "organization_id": null
     },
     {
@@ -355,6 +379,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Franklin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Harris",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Harris\"}",
       "organization_id": null
     },
     {
@@ -503,6 +535,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-28T12:29:17Z"
+    "logs_latest_update": "2026-03-31T12:57:46Z"
   }
 }

@@ -7,7 +7,8 @@
     "bill"
   ],
   "subject": [
-    "subject index"
+    "subject index",
+    "t"
   ],
   "abstracts": [
     {
@@ -16,7 +17,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-fl-2026-sb920"
+    }
+  ],
   "actions": [
     {
       "description": "Filed",
@@ -87,13 +92,25 @@
       }
     },
     {
-      "description": "On Committee agenda-- Appropriations Committee on Pre-K - 12 Education, 02/04/26, 1:00 pm, 37 Senate Building",
+      "description": "On Committee agenda-- Appropriations Committee on Pre-K - 12 Education, 02/04/26, 1:00 pm, 37 Senate Building --Temporarily Postponed",
       "date": "2026-01-30",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-01-31T12:29:57Z"
+        "log_file_created": "2026-03-31T12:57:46Z"
+      }
+    },
+    {
+      "description": "Died in Appropriations Committee on Pre-K - 12 Education",
+      "date": "2026-03-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-31T12:57:46Z"
       }
     }
   ],
@@ -147,6 +164,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Appropriations Committee on Pre-K - 12 Education (Pre-Meeting) (2/3/2026 1:04 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/920/Analyses/2026s00920.pre.aed.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [
@@ -173,6 +201,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-31T12:29:57Z"
+    "logs_latest_update": "2026-03-31T12:57:46Z"
   }
 }

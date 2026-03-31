@@ -9,7 +9,6 @@
   "subject": [
     "(adopted)",
     "banks and banking",
-    "labor",
     "subject index"
   ],
   "abstracts": [
@@ -19,7 +18,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-fl-2026-sb1380"
+    }
+  ],
   "actions": [
     {
       "description": "Filed",
@@ -58,13 +61,25 @@
       }
     },
     {
-      "description": "On Committee agenda-- Banking and Insurance, 02/11/26, 9:00 am, 412 Knott Building",
+      "description": "On Committee agenda-- Banking and Insurance, 02/11/26, 9:00 am, 412 Knott Building --Temporarily Postponed",
       "date": "2026-02-06",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-02-08T12:31:04Z"
+        "log_file_created": "2026-03-31T12:57:46Z"
+      }
+    },
+    {
+      "description": "Died in Banking and Insurance",
+      "date": "2026-03-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-31T12:57:46Z"
       }
     }
   ],
@@ -96,7 +111,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Banking and Insurance (Pre-Meeting) (2/10/2026 8:54 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1380/Analyses/2026s01380.pre.bi.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -112,6 +139,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-08T12:31:04Z"
+    "logs_latest_update": "2026-03-31T12:57:46Z"
   }
 }

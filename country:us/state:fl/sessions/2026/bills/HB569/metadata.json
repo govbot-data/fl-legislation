@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Forensic Client Services;  Revises definition of \"forensic client\" to include person committed to involuntary residential services in a secure facility of the Agency for Persons with Disabilities, republishing s. 916.303, F.S., relating to determination of incompetency."
+      "abstract": "Forensic Client Services;  Revising the definition of \"forensic client\" to include a defendant committed to involuntary residential services in a secure facility of the Agency for Persons with Disabilities; republishing s. 916.303, F.S., relating to determination of incompetency, etc."
     }
   ],
   "other_titles": [],
@@ -420,6 +420,18 @@
       "_processing": {
         "log_file_created": "2026-03-20T12:39:39Z"
       }
+    },
+    {
+      "description": "Approved by Governor",
+      "date": "2026-03-27",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-31T12:57:46Z"
+      }
     }
   ],
   "sponsorships": [
@@ -540,6 +552,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-20T12:39:39Z"
+    "logs_latest_update": "2026-03-31T12:57:46Z"
   }
 }

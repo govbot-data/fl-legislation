@@ -7,7 +7,7 @@
     "bill"
   ],
   "subject": [
-    "subject index"
+    "torts"
   ],
   "abstracts": [
     {
@@ -16,7 +16,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-fl-2026-hb289"
+    }
+  ],
   "actions": [
     {
       "description": "Filed",
@@ -388,6 +392,18 @@
       "_processing": {
         "log_file_created": "2026-01-31T12:29:56Z"
       }
+    },
+    {
+      "description": "Died in Rules",
+      "date": "2026-03-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-31T12:57:46Z"
+      }
     }
   ],
   "sponsorships": [
@@ -424,6 +440,14 @@
       "organization_id": null
     },
     {
+      "name": "Benarroch",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Benarroch\"}",
+      "organization_id": null
+    },
+    {
       "name": "Kincart Jonsson",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -437,6 +461,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Nix\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Overdorf",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Overdorf\"}",
       "organization_id": null
     },
     {
@@ -660,6 +692,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-31T12:29:56Z"
+    "logs_latest_update": "2026-03-31T12:57:46Z"
   }
 }

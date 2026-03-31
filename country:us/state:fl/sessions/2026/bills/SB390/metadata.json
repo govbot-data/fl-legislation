@@ -7,6 +7,7 @@
     "bill"
   ],
   "subject": [
+    "public officers, employees, and records",
     "subject index"
   ],
   "abstracts": [
@@ -16,7 +17,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-fl-2026-sb390"
+    }
+  ],
   "actions": [
     {
       "description": "Filed",
@@ -53,6 +58,18 @@
       "_processing": {
         "log_file_created": "2026-01-15T12:29:12Z"
       }
+    },
+    {
+      "description": "Died in Commerce and Tourism",
+      "date": "2026-03-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-31T12:57:46Z"
+      }
     }
   ],
   "sponsorships": [
@@ -62,6 +79,22 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Harrell\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rodriguez",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rodriguez\"}",
+      "organization_id": null
+    },
+    {
+      "name": "DiCeglie",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"DiCeglie\"}",
       "organization_id": null
     }
   ],
@@ -99,6 +132,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-15T12:29:12Z"
+    "logs_latest_update": "2026-03-31T12:57:46Z"
   }
 }

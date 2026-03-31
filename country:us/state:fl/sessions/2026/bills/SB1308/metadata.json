@@ -7,7 +7,7 @@
     "bill"
   ],
   "subject": [
-    "public business",
+    "civil rights",
     "subject index"
   ],
   "abstracts": [
@@ -17,7 +17,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-fl-2026-sb1308"
+    }
+  ],
   "actions": [
     {
       "description": "Filed",
@@ -54,6 +58,18 @@
       "_processing": {
         "log_file_created": "2026-01-31T12:29:57Z"
       }
+    },
+    {
+      "description": "Died in Health Policy",
+      "date": "2026-03-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-31T12:57:46Z"
+      }
     }
   ],
   "sponsorships": [
@@ -63,6 +79,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Davis\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Arrington",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Arrington\"}",
       "organization_id": null
     }
   ],
@@ -109,6 +133,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-31T12:29:57Z"
+    "logs_latest_update": "2026-03-31T12:57:46Z"
   }
 }

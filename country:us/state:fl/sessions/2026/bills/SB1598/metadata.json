@@ -8,7 +8,6 @@
   ],
   "subject": [
     "electors and elections",
-    "executive branch",
     "subject index"
   ],
   "abstracts": [
@@ -18,7 +17,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-fl-2026-sb1598"
+    }
+  ],
   "actions": [
     {
       "description": "Filed",
@@ -55,6 +58,18 @@
       "_processing": {
         "log_file_created": "2026-01-31T12:29:56Z"
       }
+    },
+    {
+      "description": "Died in Ethics and Elections",
+      "date": "2026-03-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-31T12:57:46Z"
+      }
     }
   ],
   "sponsorships": [
@@ -64,6 +79,38 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Bracy Davis\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Berman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Berman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Arrington",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Arrington\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Davis",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Davis\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bernard",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bernard\"}",
       "organization_id": null
     }
   ],
@@ -142,6 +189,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-31T12:29:56Z"
+    "logs_latest_update": "2026-03-31T12:57:46Z"
   }
 }

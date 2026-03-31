@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Pub. Rec./Parkinson's Disease Registry;  Provides public records exemption for specified patient information for Parkinson's disease registry; authorizes certain information to be disclosed; provides for future legislative review & repeal of exemption; provides statement of public necessity."
+      "abstract": "Pub. Rec./Parkinson's Disease Registry;  Provides public records exemption for specified patient information for Parkinson's disease registry; authorizes certain information to be disclosed under certain circumstances; provides for future legislative review & repeal of exemption; provides statement of public necessity."
     }
   ],
   "other_titles": [],
@@ -480,6 +480,18 @@
       "_processing": {
         "log_file_created": "2026-03-20T12:39:39Z"
       }
+    },
+    {
+      "description": "Approved by Governor",
+      "date": "2026-03-27",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-31T12:57:46Z"
+      }
     }
   ],
   "sponsorships": [
@@ -590,16 +602,7 @@
       "classification": ""
     }
   ],
-  "citations": [
-    {
-      "publication": "Florida Statues",
-      "citation": "1004.4352",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/1004.4352"
-    }
-  ],
+  "citations": [],
   "sources": [
     {
       "url": "https://flsenate.gov/Session/Bill/2026/1445/ByCategory",
@@ -614,6 +617,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-20T12:39:39Z"
+    "logs_latest_update": "2026-03-31T12:57:46Z"
   }
 }

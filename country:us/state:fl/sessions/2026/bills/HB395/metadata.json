@@ -17,7 +17,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-fl-2026-hb395"
+    }
+  ],
   "actions": [
     {
       "description": "Filed",
@@ -321,6 +325,18 @@
       "_processing": {
         "log_file_created": "2026-02-28T12:29:17Z"
       }
+    },
+    {
+      "description": "Died in Rules",
+      "date": "2026-03-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-31T12:57:46Z"
+      }
     }
   ],
   "sponsorships": [
@@ -381,6 +397,14 @@
       "organization_id": null
     },
     {
+      "name": "Daniels",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Daniels\"}",
+      "organization_id": null
+    },
+    {
       "name": "Driskell",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -413,6 +437,14 @@
       "organization_id": null
     },
     {
+      "name": "Harris",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Harris\"}",
+      "organization_id": null
+    },
+    {
       "name": "Hunschofsky",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -421,11 +453,43 @@
       "organization_id": null
     },
     {
+      "name": "L\u00f3pez, J.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"L\\u00f3pez, J.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mooney",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mooney\"}",
+      "organization_id": null
+    },
+    {
       "name": "Rosenwald",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Rosenwald\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Salzman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Salzman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Skidmore",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Skidmore\"}",
       "organization_id": null
     },
     {
@@ -442,6 +506,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Tant\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Vald\u00e9s",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Vald\\u00e9s\"}",
       "organization_id": null
     }
   ],
@@ -518,6 +590,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-28T12:29:17Z"
+    "logs_latest_update": "2026-03-31T12:57:46Z"
   }
 }

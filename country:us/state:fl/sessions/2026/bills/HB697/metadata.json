@@ -501,6 +501,28 @@
       "_processing": {
         "log_file_created": "2026-03-20T12:39:39Z"
       }
+    },
+    {
+      "description": "Approved by Governor",
+      "date": "2026-03-24",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-31T12:57:46Z"
+      }
+    },
+    {
+      "description": "Chapter No. 2026-4",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-31T12:57:46Z"
+      }
     }
   ],
   "sponsorships": [
@@ -521,11 +543,67 @@
       "organization_id": null
     },
     {
+      "name": "Barnaby",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Barnaby\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Basabe",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Basabe\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Eskamani",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Eskamani\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gerwig",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Gerwig\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hunschofsky",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Hunschofsky\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mooney",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mooney\"}",
+      "organization_id": null
+    },
+    {
       "name": "Nix",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Nix\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rosenwald",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rosenwald\"}",
       "organization_id": null
     }
   ],
@@ -669,6 +747,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-20T12:39:39Z"
+    "logs_latest_update": "2026-03-31T12:57:46Z"
   }
 }

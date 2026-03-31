@@ -16,7 +16,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-fl-2026-sb356"
+    }
+  ],
   "actions": [
     {
       "description": "Filed",
@@ -87,13 +91,25 @@
       }
     },
     {
-      "description": "On Committee agenda-- Appropriations Committee on Transportation, Tourism, and Economic Development, 01/21/26, 11:00 am, 110 Senate Building",
+      "description": "On Committee agenda-- Appropriations Committee on Transportation, Tourism, and Economic Development, 01/21/26, 11:00 am, 110 Senate Building --Temporarily Postponed",
       "date": "2026-01-16",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-01-19T12:32:00Z"
+        "log_file_created": "2026-03-31T12:57:46Z"
+      }
+    },
+    {
+      "description": "Died in Appropriations Committee on Transportation, Tourism, and Economic Development",
+      "date": "2026-03-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-31T12:57:46Z"
       }
     }
   ],
@@ -147,6 +163,43 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Appropriations Committee on Transportation, Tourism, and Economic Development (Pre-Meeting) (1/20/2026 11:05 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/356/Analyses/2026s00356.pre.atd.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Appropriations Committee on Transportation, Tourism, and Economic Development (Post-Meeting) (1/21/2026 2:00 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/356/Analyses/2026s00356.atd.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "855132 - Amendment to S 356 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/356/Amendment/855132/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/356/Amendment/855132/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [],
@@ -164,6 +217,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-19T12:32:00Z"
+    "logs_latest_update": "2026-03-31T12:57:46Z"
   }
 }

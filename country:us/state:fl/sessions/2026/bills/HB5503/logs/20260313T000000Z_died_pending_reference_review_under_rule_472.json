@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Died pending reference review under Rule 4.7(2)",
+    "date": "2026-03-13",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 5503"
+}

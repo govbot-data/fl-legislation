@@ -8,7 +8,7 @@
   ],
   "subject": [
     "public business",
-    "subject index"
+    "public lands and property"
   ],
   "abstracts": [
     {
@@ -17,7 +17,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-fl-2026-sb7032"
+    }
+  ],
   "actions": [
     {
       "description": "Submitted for consideration by Governmental Oversight and Accountability",
@@ -83,6 +87,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-01-31T12:29:57Z"
+      }
+    },
+    {
+      "description": "Died in Appropriations Committee on Agriculture, Environment, and General Government",
+      "date": "2026-03-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-31T12:57:46Z"
       }
     }
   ],
@@ -201,6 +217,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-31T12:29:57Z"
+    "logs_latest_update": "2026-03-31T12:57:46Z"
   }
 }

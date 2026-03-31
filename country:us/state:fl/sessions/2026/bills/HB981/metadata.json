@@ -16,7 +16,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-fl-2026-hb981"
+    }
+  ],
   "actions": [
     {
       "description": "Filed",
@@ -420,6 +424,18 @@
       "_processing": {
         "log_file_created": "2026-03-06T12:36:22Z"
       }
+    },
+    {
+      "description": "Died in Rules",
+      "date": "2026-03-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-31T12:57:46Z"
+      }
     }
   ],
   "sponsorships": [
@@ -456,11 +472,27 @@
       "organization_id": null
     },
     {
+      "name": "Daniels",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Daniels\"}",
+      "organization_id": null
+    },
+    {
       "name": "Eskamani",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Eskamani\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mooney",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mooney\"}",
       "organization_id": null
     }
   ],
@@ -583,6 +615,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-06T12:36:22Z"
+    "logs_latest_update": "2026-03-31T12:57:46Z"
   }
 }

@@ -377,6 +377,18 @@
       "_processing": {
         "log_file_created": "2026-03-20T12:39:39Z"
       }
+    },
+    {
+      "description": "Approved by Governor",
+      "date": "2026-03-27",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-31T12:57:46Z"
+      }
     }
   ],
   "sponsorships": [
@@ -424,6 +436,17 @@
   ],
   "documents": [
     {
+      "note": "Bill Analysis -- Government Operations Subcommittee (Post-Meeting) (3/26/2026 4:03 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/7011/Analyses/h7011z.GOS.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Bill Analysis -- Housing, Agriculture & Tourism Subcommittee (Post-Meeting) (1/13/2026 5:09 PM)",
       "links": [
         {
@@ -470,6 +493,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-20T12:39:39Z"
+    "logs_latest_update": "2026-03-31T12:57:46Z"
   }
 }

@@ -17,7 +17,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-fl-2026-sb994"
+    }
+  ],
   "actions": [
     {
       "description": "Filed",
@@ -56,13 +60,25 @@
       }
     },
     {
-      "description": "On Committee agenda-- Commerce and Tourism, 01/21/26, 8:30 am, 110 Senate Building",
+      "description": "On Committee agenda-- Commerce and Tourism, 01/21/26, 8:30 am, 110 Senate Building --Temporarily Postponed",
       "date": "2026-01-16",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-01-19T12:32:00Z"
+        "log_file_created": "2026-03-31T12:57:46Z"
+      }
+    },
+    {
+      "description": "Died in Commerce and Tourism",
+      "date": "2026-03-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-31T12:57:46Z"
       }
     }
   ],
@@ -73,6 +89,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Gruters\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Martin",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Martin\"}",
       "organization_id": null
     }
   ],
@@ -94,7 +118,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Commerce and Tourism (Pre-Meeting) (1/20/2026 8:49 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/994/Analyses/2026s00994.pre.cm.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [
     {
       "publication": "Florida Statues",
@@ -119,6 +155,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-19T12:32:00Z"
+    "logs_latest_update": "2026-03-31T12:57:46Z"
   }
 }
