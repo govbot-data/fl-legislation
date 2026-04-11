@@ -13,11 +13,15 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Systems of Law and Terrorist Organizations;  Provides that person who willfully becomes member of domestic terrorist organization & serves under direction or control of such organization with specified intent commits specified crime; authorizes Chief of Domestic Security to designate organization domestic terrorist organization or foreign terrorist organization; requires Chief to provide specified written notice to Governor & Cabinet before making designation; provides Governor & Cabinet may by majority vote approve or reject designation; requires Chief to publish such designation in Florida Administrative Register; prohibits state agencies, political subdivisions, & public school districts from expending certain public funds to support organization designated domestic terrorist organization or foreign terrorist organization, or accepting funds from such organizations; requires that certain students of Florida College System institutions & state universities be immediately expelled & assessed out-of-state fees after determination has been made such students have promoted domestic terrorist organization or foreign terrorist organization."
+      "abstract": "Systems of Law and Terrorist Organizations;  Providing that the Department of State may administratively dissolve a corporation that has been designated as a terrorist organization in certain situations; providing that a person who receives military training from a domestic terrorist organization in certain situations commits a specified crime; providing a person who knowingly provides or attempts or conspires to provide material support or resources to a domestic terrorist organization commits a specified crime; providing that a person who willfully becomes a member of a domestic terrorist organization and serves under the direction or control of such organization with a specified intent commits a specified crime; authorizing the Chief of Domestic Security to designate an organization a domestic terrorist organization or a foreign terrorist organization if certain requirements are met; requiring the Chief to provide specified written notice to the Governor, the Cabinet, and the organization of the designation; providing that the Governor and the Cabinet may by a majority vote approve or reject the designation; requiring the Chief to publish such designation in the Florida Administrative Register within a specified time period after approval of the designation by the Governor and the Cabinet; providing that certain students of school districts and Florida College System institutions are ineligible for specified fee waivers; prohibiting students who promote domestic terrorist organization or foreign terrorist organizations from being awarded certain public institution funds, etc."
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-fl-2026-hb1471"
+    }
+  ],
   "actions": [
     {
       "description": "Filed",
@@ -551,6 +555,40 @@
       "_processing": {
         "log_file_created": "2026-03-14T12:32:49Z"
       }
+    },
+    {
+      "description": "Signed by Officers and presented to Governor",
+      "date": "2026-03-31",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-11T12:38:43Z"
+      }
+    },
+    {
+      "description": "Approved by Governor",
+      "date": "2026-04-06",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-11T12:38:43Z"
+      }
+    },
+    {
+      "description": "Chapter No. 2026-28",
+      "date": "2026-04-07",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-11T12:38:43Z"
+      }
     }
   ],
   "sponsorships": [
@@ -635,6 +673,14 @@
       "organization_id": null
     },
     {
+      "name": "Chaney",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Chaney\"}",
+      "organization_id": null
+    },
+    {
       "name": "Cobb",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -656,6 +702,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Esposito\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gossett-Seidman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Gossett-Seidman\"}",
       "organization_id": null
     },
     {
@@ -691,6 +745,14 @@
       "organization_id": null
     },
     {
+      "name": "Maggard",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Maggard\"}",
+      "organization_id": null
+    },
+    {
       "name": "Miller",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -704,6 +766,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Nix\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Partington",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Partington\"}",
       "organization_id": null
     },
     {
@@ -815,10 +885,10 @@
   ],
   "documents": [
     {
-      "note": "Bill Analysis -- Civil Justice & Claims Subcommittee (Post-Meeting) (1/29/2026 4:47 PM)",
+      "note": "Bill Analysis -- Civil Justice & Claims Subcommittee (Post-Meeting) (4/7/2026 10:48 AM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/1471/Analyses/h1471a.CIV.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/1471/Analyses/h1471z1.CIV.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -956,6 +1026,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-14T12:32:49Z"
+    "logs_latest_update": "2026-04-11T12:38:43Z"
   }
 }

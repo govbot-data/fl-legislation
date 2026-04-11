@@ -16,7 +16,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-fl-2026-hb445"
+    }
+  ],
   "actions": [
     {
       "description": "Filed",
@@ -500,6 +504,40 @@
       "_processing": {
         "log_file_created": "2026-03-12T12:39:52Z"
       }
+    },
+    {
+      "description": "Signed by Officers and presented to Governor",
+      "date": "2026-03-30",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-11T12:38:43Z"
+      }
+    },
+    {
+      "description": "Approved by Governor",
+      "date": "2026-03-31",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-11T12:38:43Z"
+      }
+    },
+    {
+      "description": "Chapter No. 2026-19",
+      "date": "2026-04-01",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-11T12:38:43Z"
+      }
     }
   ],
   "sponsorships": [
@@ -552,6 +590,14 @@
       "organization_id": null
     },
     {
+      "name": "Gerwig",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Gerwig\"}",
+      "organization_id": null
+    },
+    {
       "name": "Jacques",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -573,6 +619,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"L\\u00f3pez, J.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Maggard",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Maggard\"}",
       "organization_id": null
     },
     {
@@ -633,10 +687,10 @@
   ],
   "documents": [
     {
-      "note": "Bill Analysis -- Criminal Justice Subcommittee (Post-Meeting) (1/20/2026 7:04 PM)",
+      "note": "Bill Analysis -- Criminal Justice Subcommittee (Post-Meeting) (4/2/2026 10:37 AM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/445/Analyses/h0445a.CRM.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/445/Analyses/h0445z1.CRM.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -692,6 +746,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-12T12:39:52Z"
+    "logs_latest_update": "2026-04-11T12:38:43Z"
   }
 }

@@ -17,7 +17,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-fl-2026-hb1093"
+    }
+  ],
   "actions": [
     {
       "description": "Filed",
@@ -649,6 +653,18 @@
       "_processing": {
         "log_file_created": "2026-03-12T12:39:53Z"
       }
+    },
+    {
+      "description": "Signed by Officers and presented to Governor",
+      "date": "2026-04-09",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-11T12:38:43Z"
+      }
     }
   ],
   "sponsorships": [
@@ -793,10 +809,10 @@
   ],
   "documents": [
     {
-      "note": "Bill Analysis -- Economic Infrastructure Subcommittee (Post-Meeting) (1/28/2026 5:39 PM)",
+      "note": "Bill Analysis -- Economic Infrastructure Subcommittee (Post-Meeting) (3/13/2026 1:08 PM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/1093/Analyses/h1093a.EIS.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/1093/Analyses/h1093z.EIS.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -880,6 +896,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-12T12:39:53Z"
+    "logs_latest_update": "2026-04-11T12:38:43Z"
   }
 }

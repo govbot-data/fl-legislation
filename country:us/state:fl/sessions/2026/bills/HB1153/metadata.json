@@ -10,17 +10,20 @@
     "domestic relations",
     "executive branch",
     "judicial branch",
-    "public officers, employees, and records",
     "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Juvenile Justice;  Authorizes Governor to award Medal of Heroism to juvenile detention & juvenile probation officers; authorizes certain entities to establish award program to award Medal of Valor to juvenile detention officer or probation officer in certain circumstances; clarifies that certain reference to department is reference to DJJ; provides that child subject to proceedings under chapter 984 may only be placed in shelter in certain circumstances; requires DJJ to direct Department of Revenue to deduct specified amounts owed to DJJ upon certain determination; requires Department of Revenue to transfer such funds into certain trust fund; specifies requirements relating to such reductions in amounts distributed to counties."
+      "abstract": "Juvenile Justice;  Authorizing the Governor to award a Medal of Heroism to juvenile detention and juvenile probation officers; authorizing certain entities to establish an award program to award a Medal of Valor to a juvenile detention officer or probation officer in certain circumstances; revising the definition of the term \u201cofficer\u201d to include juvenile detention and juvenile probation officers; requiring the Department of Juvenile Justice to direct the Department of Revenue to deduct specified amounts owed to the Department of Juvenile Justice upon a certain determination; requiring the Department of Revenue to transfer such funds into a certain trust fund; specifying requirements relating to such reductions in amounts distributed to counties, etc."
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-fl-2026-hb1153"
+    }
+  ],
   "actions": [
     {
       "description": "Filed",
@@ -492,6 +495,40 @@
       "_processing": {
         "log_file_created": "2026-03-12T12:39:53Z"
       }
+    },
+    {
+      "description": "Signed by Officers and presented to Governor",
+      "date": "2026-03-30",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-11T12:38:43Z"
+      }
+    },
+    {
+      "description": "Approved by Governor",
+      "date": "2026-03-30",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-11T12:38:43Z"
+      }
+    },
+    {
+      "description": "Chapter No. 2026-16",
+      "date": "2026-03-31",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-11T12:38:43Z"
+      }
     }
   ],
   "sponsorships": [
@@ -541,6 +578,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"L\\u00f3pez, J.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Michael",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Michael\"}",
       "organization_id": null
     }
   ],
@@ -593,10 +638,10 @@
   ],
   "documents": [
     {
-      "note": "Bill Analysis -- Criminal Justice Subcommittee (Post-Meeting) (1/28/2026 2:34 PM)",
+      "note": "Bill Analysis -- Criminal Justice Subcommittee (Post-Meeting) (3/31/2026 4:30 PM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/1153/Analyses/h1153a.CRM.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/1153/Analyses/h1153z1.CRM.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -861,6 +906,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-12T12:39:53Z"
+    "logs_latest_update": "2026-04-11T12:38:43Z"
   }
 }

@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 628",
-  "title": "Transportation Facility Designations/Warrior Sacrifice Way",
+  "title": "Transportation Facility Designations",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -12,11 +12,15 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Transportation Facility Designations/Warrior Sacrifice Way;  Providing an honorary designation of a certain transportation facility in a specified county; directing the Department of Transportation to erect suitable markers, etc."
+      "abstract": "Transportation Facility Designations;  Providing honorary designations of certain transportation facilities in specified counties and a specified municipality; directing the Department of Transportation to erect suitable markers; revising a specified interchange designation, etc."
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-fl-2026-sb628"
+    }
+  ],
   "actions": [
     {
       "description": "Filed",
@@ -472,6 +476,18 @@
       "_processing": {
         "log_file_created": "2026-03-15T12:34:41Z"
       }
+    },
+    {
+      "description": "Signed by Officers and presented to Governor",
+      "date": "2026-04-09",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-11T12:38:43Z"
+      }
     }
   ],
   "sponsorships": [
@@ -495,6 +511,36 @@
         },
         {
           "url": "https://flsenate.gov/Session/Bill/2026/628/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S 628 e1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/628/BillText/e1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/628/BillText/e1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S 628 er",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/628/BillText/er/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/628/BillText/er/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -674,7 +720,16 @@
       "classification": ""
     }
   ],
-  "citations": [],
+  "citations": [
+    {
+      "publication": "Florida Chapter Law",
+      "citation": "2006-316",
+      "citation_type": "chapter",
+      "effective": null,
+      "expires": null,
+      "url": "http://laws.flrules.org/2006/316"
+    }
+  ],
   "sources": [
     {
       "url": "https://flsenate.gov/Session/Bill/2026/628/ByCategory",
@@ -689,6 +744,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-15T12:34:41Z"
+    "logs_latest_update": "2026-04-11T12:38:43Z"
   }
 }

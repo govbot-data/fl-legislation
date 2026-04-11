@@ -678,16 +678,6 @@
       }
     },
     {
-      "description": "In Messages",
-      "date": "2026-03-13",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-03-15T12:34:41Z"
-      }
-    },
-    {
       "description": "Signed by Officers and presented to Governor",
       "date": "2026-03-18",
       "organization_id": "~{\"classification\": \"legislature\"}",
@@ -697,6 +687,28 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-03-20T12:39:39Z"
+      }
+    },
+    {
+      "description": "Approved by Governor",
+      "date": "2026-03-27",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-11T12:38:43Z"
+      }
+    },
+    {
+      "description": "Chapter No. 2026-7",
+      "date": "2026-03-30",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-11T12:38:43Z"
       }
     }
   ],
@@ -816,10 +828,10 @@
   ],
   "documents": [
     {
-      "note": "Bill Analysis -- Intergovernmental Affairs Subcommittee (Post-Meeting) (1/28/2026 3:04 PM)",
+      "note": "Bill Analysis -- Intergovernmental Affairs Subcommittee (Post-Meeting) (3/30/2026 4:08 PM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/399/Analyses/h0399.IAS.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/399/Analyses/h0399z.IAS.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -925,6 +937,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-20T12:39:39Z"
+    "logs_latest_update": "2026-04-11T12:38:43Z"
   }
 }

@@ -17,7 +17,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-fl-2026-hb1103"
+    }
+  ],
   "actions": [
     {
       "description": "Filed",
@@ -513,6 +517,18 @@
       "_processing": {
         "log_file_created": "2026-03-12T12:39:53Z"
       }
+    },
+    {
+      "description": "Signed by Officers and presented to Governor",
+      "date": "2026-04-09",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-11T12:38:43Z"
+      }
     }
   ],
   "sponsorships": [
@@ -606,10 +622,10 @@
   ],
   "documents": [
     {
-      "note": "Bill Analysis -- Natural Resources & Disasters Subcommittee (Post-Meeting) (1/29/2026 5:37 PM)",
+      "note": "Bill Analysis -- Natural Resources & Disasters Subcommittee (Post-Meeting) (3/30/2026 12:53 PM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/1103/Analyses/h1103a.NRD.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/1103/Analyses/h1103z.NRD.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -714,6 +730,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-12T12:39:53Z"
+    "logs_latest_update": "2026-04-11T12:38:43Z"
   }
 }

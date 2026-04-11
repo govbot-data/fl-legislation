@@ -1,24 +1,27 @@
 {
   "legislative_session": "2026",
   "identifier": "HB 991",
-  "title": "Election Integrity",
+  "title": "Elections",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
   "subject": [
     "electors and elections",
-    "motor vehicles",
     "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Election Integrity;  Revising definitions; revising the information the Department of State is required to include in a specified report; requiring persons to swear or affirm they have reviewed the voter registration instructions, are a United States citizen, and understand the penalties for providing false information; requiring the voter registration application to elicit documentation required by the United States Election Assistance Commission or federal law; requiring that an applicant's citizenship status be verified by the records of the DHSMV; providing that an applicant will be registered as an unverified voter, and must vote with a provisional ballot that will not be counted if his or her legal status as a United States citizen cannot be verified through the DHSMV; requiring the online voter registration system to transmit certain information to the supervisor of elections and generate certain notices; requiring the supervisor of elections to verify the legal status of certain applicants and provide certain notice; providing that, under specified circumstances, the online voter registration system may populate the applicant's information into a printable voter registration application; requiring an applicant's legal status to be verified for a voter registration application to be valid; providing that an applicant will be deemed an unverified voter if his or her application fails to meet specified requirements."
+      "abstract": "Elections;  Revising definitions; revising the information the uniform statewide voter registration application is designed to elicit from an applicant to include a certain acknowledgment; requiring that the online voter registration system transmit specified information to the supervisor of elections under specified circumstances; requiring that the applicant's legal status as a United States citizen be recorded in the statewide voter registration system; requiring that if the records of the Department of Highway Safety and Motor Vehicles indicate that an applicant is not a United States citizen or has not provided acceptable evidence of citizenship, the online voter registration system must notify the supervisor of the applicant's legal status and transmit the application to the supervisor; requiring that the online voter registration system populate an applicant's information and direct the applicant to perform specified actions under specified conditions; requiring supervisors to verify a voter's legal status as a United States citizen using specified sources and initiate a certain notice if applicable; requiring that the voter's legal status as United States citizen and the type of document accepted as evidence of United States citizenship be recorded in the statewide voter registration system, etc."
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-fl-2026-hb991"
+    }
+  ],
   "actions": [
     {
       "description": "Filed",
@@ -620,6 +623,40 @@
       "_processing": {
         "log_file_created": "2026-03-14T12:32:49Z"
       }
+    },
+    {
+      "description": "Signed by Officers and presented to Governor",
+      "date": "2026-03-31",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-11T12:38:43Z"
+      }
+    },
+    {
+      "description": "Approved by Governor",
+      "date": "2026-04-01",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-11T12:38:43Z"
+      }
+    },
+    {
+      "description": "Chapter No. 2026-26",
+      "date": "2026-04-02",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-11T12:38:43Z"
+      }
     }
   ],
   "sponsorships": [
@@ -661,6 +698,22 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Anderson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Benarroch",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Benarroch\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Chamberlin",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Chamberlin\"}",
       "organization_id": null
     },
     {
@@ -741,14 +794,36 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 991 e2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/991/BillText/e2/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "H 991 er",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/991/BillText/er/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
     {
-      "note": "Bill Analysis -- Government Operations Subcommittee (Post-Meeting) (2/6/2026 4:12 PM)",
+      "note": "Bill Analysis -- Government Operations Subcommittee (Post-Meeting) (4/2/2026 3:18 PM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/991/Analyses/h0991.GOS.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/991/Analyses/h0991z1.GOS.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -987,22 +1062,6 @@
     },
     {
       "publication": "Florida Statues",
-      "citation": "97.022",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/97.022"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "97.051",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/97.051"
-    },
-    {
-      "publication": "Florida Statues",
       "citation": "97.052",
       "citation_type": "proposed",
       "effective": null,
@@ -1067,19 +1126,27 @@
     },
     {
       "publication": "Florida Statues",
-      "citation": "98.0755",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/98.0755"
-    },
-    {
-      "publication": "Florida Statues",
       "citation": "98.093",
       "citation_type": "proposed",
       "effective": null,
       "expires": null,
       "url": "https://flsenate.gov/laws/statutes/2025/98.093"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "99.012",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/99.012"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "99.021",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/99.021"
     }
   ],
   "sources": [
@@ -1096,6 +1163,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-14T12:32:49Z"
+    "logs_latest_update": "2026-04-11T12:38:43Z"
   }
 }

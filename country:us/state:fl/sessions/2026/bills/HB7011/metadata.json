@@ -389,6 +389,16 @@
       "_processing": {
         "log_file_created": "2026-03-31T12:57:46Z"
       }
+    },
+    {
+      "description": "Chapter No. 2026-11",
+      "date": "2026-03-30",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-11T12:38:43Z"
+      }
     }
   ],
   "sponsorships": [
@@ -436,10 +446,10 @@
   ],
   "documents": [
     {
-      "note": "Bill Analysis -- Government Operations Subcommittee (Post-Meeting) (3/26/2026 4:03 PM)",
+      "note": "Bill Analysis -- Government Operations Subcommittee (Post-Meeting) (4/1/2026 12:51 PM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/7011/Analyses/h7011z.GOS.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/7011/Analyses/h7011z1.GOS.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -493,6 +503,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-31T12:57:46Z"
+    "logs_latest_update": "2026-04-11T12:38:43Z"
   }
 }

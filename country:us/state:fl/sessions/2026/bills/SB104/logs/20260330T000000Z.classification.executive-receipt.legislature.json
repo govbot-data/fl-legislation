@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Signed by Officers and presented to Governor",
+    "date": "2026-03-30",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [
+      "executive-receipt"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 104"
+}

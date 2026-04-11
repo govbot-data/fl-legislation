@@ -12,11 +12,15 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Rural Electric Cooperatives;  Prohibiting a cooperative that sells electricity at retail from adopting, enacting, or enforcing a fee meeting specified criteria; revising the applicability of such prohibition on the types or fuel sources of energy production which may be used, delivered, converted, or supplied by specified entities, etc."
+      "abstract": "Rural Electric Cooperatives;  Prohibiting a cooperative that sells electricity at retail from adopting, enacting, or enforcing a fee meeting specified criteria, etc."
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-fl-2026-sb288"
+    }
+  ],
   "actions": [
     {
       "description": "Filed",
@@ -378,6 +382,40 @@
       "_processing": {
         "log_file_created": "2026-03-14T12:32:49Z"
       }
+    },
+    {
+      "description": "Signed by Officers and presented to Governor",
+      "date": "2026-03-31",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-11T12:38:43Z"
+      }
+    },
+    {
+      "description": "Approved by Governor",
+      "date": "2026-04-01",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-11T12:38:43Z"
+      }
+    },
+    {
+      "description": "Chapter No. 2026-21",
+      "date": "2026-04-02",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-11T12:38:43Z"
+      }
     }
   ],
   "sponsorships": [
@@ -401,6 +439,36 @@
         },
         {
           "url": "https://flsenate.gov/Session/Bill/2026/288/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S 288 e1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/288/BillText/e1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/288/BillText/e1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S 288 er",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/288/BillText/er/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/288/BillText/er/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -522,6 +590,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-14T12:32:49Z"
+    "logs_latest_update": "2026-04-11T12:38:43Z"
   }
 }

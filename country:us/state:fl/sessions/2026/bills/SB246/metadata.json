@@ -12,11 +12,15 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Specialty License Plates;  Increasing the annual use fee for the Florida Wildflower license plate and providing a discount for owners purchasing the plate for more than a specified number of vehicles; deleting a restriction on who may be issued the Fraternal Order of Police license plate; directing the Department of Highway Safety and Motor Vehicles to develop specified specialty license plates, etc."
+      "abstract": "Specialty License Plates;  Requiring certain organizations that have an approved specialty license plate to submit within a specified timeframe certain financial information to the Department of Highway Safety and Motor Vehicles; prohibiting specialty license plate annual use fees or interest earned from such fees from being distributed to certain entities; requiring the department to develop an Endless Summer motorcycle specialty license plate; revising provisions relating to the issuance and fee distribution for Fraternal Order of Police license plates; directing the department to develop specified specialty license plates, etc."
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-fl-2026-sb246"
+    }
+  ],
   "actions": [
     {
       "description": "Filed",
@@ -445,6 +449,18 @@
       "_processing": {
         "log_file_created": "2026-03-14T12:32:49Z"
       }
+    },
+    {
+      "description": "Signed by Officers and presented to Governor",
+      "date": "2026-04-09",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-11T12:38:43Z"
+      }
     }
   ],
   "sponsorships": [
@@ -783,6 +799,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-14T12:32:49Z"
+    "logs_latest_update": "2026-04-11T12:38:43Z"
   }
 }

@@ -11,8 +11,8 @@
     "criminal procedure and corrections",
     "evidence",
     "judicial branch",
-    "labor",
-    "regulation of professions and occupations"
+    "regulation of professions and occupations",
+    "subject index"
   ],
   "abstracts": [
     {
@@ -21,7 +21,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-fl-2026-hb245"
+    }
+  ],
   "actions": [
     {
       "description": "Filed",
@@ -521,6 +525,40 @@
       "_processing": {
         "log_file_created": "2026-03-14T12:32:49Z"
       }
+    },
+    {
+      "description": "Signed by Officers and presented to Governor",
+      "date": "2026-03-30",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-11T12:38:43Z"
+      }
+    },
+    {
+      "description": "Approved by Governor",
+      "date": "2026-03-31",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-11T12:38:43Z"
+      }
+    },
+    {
+      "description": "Chapter No. 2026-18",
+      "date": "2026-04-01",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-11T12:38:43Z"
+      }
     }
   ],
   "sponsorships": [
@@ -636,10 +674,10 @@
       "classification": ""
     },
     {
-      "note": "Bill Analysis -- Criminal Justice Subcommittee (Post-Meeting) (11/18/2025 6:14 PM)",
+      "note": "Bill Analysis -- Criminal Justice Subcommittee (Post-Meeting) (4/2/2026 10:37 AM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/245/Analyses/h0245a.CRM.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/245/Analyses/h0245z1.CRM.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -695,7 +733,96 @@
       "classification": ""
     }
   ],
-  "citations": [],
+  "citations": [
+    {
+      "publication": "Florida Statues",
+      "citation": "39.0138",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/39.0138"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "92.56",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/92.56"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "92.561",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/92.561"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "435.07",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/435.07"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "456.074",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/456.074"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "775.0847",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/775.0847"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "827.071",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/827.071"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "827.072",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/827.072"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "836.13",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/836.13"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "836.14",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/836.14"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "847.001",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/847.001"
+    }
+  ],
   "sources": [
     {
       "url": "https://flsenate.gov/Session/Bill/2026/245/ByCategory",
@@ -710,6 +837,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-14T12:32:49Z"
+    "logs_latest_update": "2026-04-11T12:38:43Z"
   }
 }
