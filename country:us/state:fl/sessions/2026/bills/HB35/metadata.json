@@ -16,7 +16,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-fl-2026-hb35"
+    }
+  ],
   "actions": [
     {
       "description": "Filed",
@@ -398,6 +402,18 @@
       "_processing": {
         "log_file_created": "2026-03-14T12:32:49Z"
       }
+    },
+    {
+      "description": "Signed by Officers and presented to Governor",
+      "date": "2026-04-21",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-24T13:03:43Z"
+      }
     }
   ],
   "sponsorships": [
@@ -456,10 +472,10 @@
   ],
   "documents": [
     {
-      "note": "Bill Analysis -- Criminal Justice Subcommittee (Post-Meeting) (11/18/2025 6:18 PM)",
+      "note": "Bill Analysis -- Criminal Justice Subcommittee (Post-Meeting) (3/25/2026 9:41 AM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/35/Analyses/h0035.CRM.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/35/Analyses/h0035z.CRM.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -502,6 +518,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-14T12:32:49Z"
+    "logs_latest_update": "2026-04-24T13:03:43Z"
   }
 }

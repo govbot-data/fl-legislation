@@ -7,7 +7,6 @@
     "bill"
   ],
   "subject": [
-    "insurance",
     "municipalities",
     "subject index"
   ],
@@ -18,7 +17,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-fl-2026-hb929"
+    }
+  ],
   "actions": [
     {
       "description": "Filed",
@@ -406,6 +409,18 @@
       "_processing": {
         "log_file_created": "2026-03-14T12:32:49Z"
       }
+    },
+    {
+      "description": "Signed by Officers and presented to Governor",
+      "date": "2026-04-21",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-24T13:03:43Z"
+      }
     }
   ],
   "sponsorships": [
@@ -477,10 +492,10 @@
   ],
   "documents": [
     {
-      "note": "Bill Analysis -- Industries & Professional Activities Subcommittee (Post-Meeting) (1/21/2026 3:50 PM)",
+      "note": "Bill Analysis -- Industries & Professional Activities Subcommittee (Post-Meeting) (3/13/2026 1:08 PM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/929/Analyses/h0929a.IPA.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/929/Analyses/h0929z.IPA.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -525,6 +540,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-14T12:32:49Z"
+    "logs_latest_update": "2026-04-24T13:03:43Z"
   }
 }

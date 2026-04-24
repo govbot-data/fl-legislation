@@ -8,7 +8,8 @@
   ],
   "subject": [
     "public lands and property",
-    "subject index"
+    "reclamation, and use",
+    "taxation and finance"
   ],
   "abstracts": [
     {
@@ -17,7 +18,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-fl-2026-hb441"
+    }
+  ],
   "actions": [
     {
       "description": "Filed",
@@ -475,6 +480,30 @@
       "_processing": {
         "log_file_created": "2026-02-28T12:29:18Z"
       }
+    },
+    {
+      "description": "Signed by Officers and presented to Governor",
+      "date": "2026-04-21",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-24T13:03:43Z"
+      }
+    },
+    {
+      "description": "Approved by Governor",
+      "date": "2026-04-22",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-24T13:03:43Z"
+      }
     }
   ],
   "sponsorships": [
@@ -567,6 +596,14 @@
       "organization_id": null
     },
     {
+      "name": "Hunschofsky",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Hunschofsky\"}",
+      "organization_id": null
+    },
+    {
       "name": "Tendrich",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -629,10 +666,10 @@
   ],
   "documents": [
     {
-      "note": "Bill Analysis -- Natural Resources & Disasters Subcommittee (Post-Meeting) (1/14/2026 11:23 AM)",
+      "note": "Bill Analysis -- Natural Resources & Disasters Subcommittee (Post-Meeting) (3/27/2026 12:14 PM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/441/Analyses/h0441a.NRD.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/441/Analyses/h0441z.NRD.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -721,6 +758,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-28T12:29:18Z"
+    "logs_latest_update": "2026-04-24T13:03:43Z"
   }
 }

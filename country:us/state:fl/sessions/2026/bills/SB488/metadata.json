@@ -1,25 +1,27 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 488",
-  "title": "Department of Highway Safety and Motor Vehicles",
+  "title": "Transportation",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
   ],
   "subject": [
-    "motor vehicles",
-    "public transportation",
     "subject index",
     "vessels"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Department of Highway Safety and Motor Vehicles;  Requiring licensure in lieu of registration of motor carriers operating certain qualified motor vehicles; revising due dates for motor fuel use tax returns submitted by licensed motor carriers; authorizing the department to inspect records necessary to verify the tax returns of motor carriers, motor fuel retail dealers, and motor fuel wholesale distributors; revising the apparent amount of property damage which requires the driver of a vehicle involved in a crash to notify law enforcement of the crash, etc."
+      "abstract": "Transportation;  Requiring licensing, rather than registration, of motor carriers; revising reporting periods and due dates for motor fuel use tax returns; revising the apparent amount of property damage that requires the driver of a vehicle involved in a crash to notify law enforcement of the crash; defining the term \u201cREAL ID driver license or identification card\u201d; providing that the use of a license plate frame or decorative border device is not prohibited under specified conditions, etc."
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-fl-2026-sb488"
+    }
+  ],
   "actions": [
     {
       "description": "Filed",
@@ -399,6 +401,40 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-03-14T12:32:49Z"
+      }
+    },
+    {
+      "description": "Signed by Officers and presented to Governor",
+      "date": "2026-04-21",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-24T13:03:43Z"
+      }
+    },
+    {
+      "description": "Approved by Governor",
+      "date": "2026-04-21",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-24T13:03:43Z"
+      }
+    },
+    {
+      "description": "Chapter No. 2026-39",
+      "date": "2026-04-22",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-24T13:03:43Z"
       }
     }
   ],
@@ -953,6 +989,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-14T12:32:49Z"
+    "logs_latest_update": "2026-04-24T13:03:43Z"
   }
 }

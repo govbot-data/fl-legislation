@@ -12,11 +12,15 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Trustee Settlement and Discharge;  Authorizes eligible trustee to obtain settlement of trust accounts & discharged in certain circumstances; requires such trustee send trust disclosure document containing specified information to certain persons; requires such document be sent in specified manner; provides that unless objections are received in specified time period, or if such objections are waived, trustee is discharged  from certain liability upon completion of specified tasks."
+      "abstract": "Trustee Settlement and Discharge;  Authorizing a trustee to obtain a settlement of his or her accounts and be discharged under certain circumstances; requiring a trustee seeking settlement and discharge to send a trust disclosure document to specified persons; providing that a trustee is discharged upon completion of distributions or transfers if no timely written objections are received and is discharged from all liability and claims arising out of any matter disclosed in the trust disclosure document, etc."
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-fl-2026-hb895"
+    }
+  ],
   "actions": [
     {
       "description": "Filed",
@@ -424,6 +428,18 @@
       "_processing": {
         "log_file_created": "2026-02-28T12:29:17Z"
       }
+    },
+    {
+      "description": "Signed by Officers and presented to Governor",
+      "date": "2026-04-21",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-24T13:03:43Z"
+      }
     }
   ],
   "sponsorships": [
@@ -498,10 +514,10 @@
   ],
   "documents": [
     {
-      "note": "Bill Analysis -- Civil Justice & Claims Subcommittee (Post-Meeting) (1/14/2026 6:14 PM)",
+      "note": "Bill Analysis -- Civil Justice & Claims Subcommittee (Post-Meeting) (3/23/2026 10:57 AM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/895/Analyses/h0895a.CIV.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/895/Analyses/h0895z.CIV.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -557,6 +573,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-28T12:29:17Z"
+    "logs_latest_update": "2026-04-24T13:03:43Z"
   }
 }

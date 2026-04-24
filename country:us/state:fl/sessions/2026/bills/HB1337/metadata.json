@@ -13,11 +13,15 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Estates;  Revises provisions related to estates including exemptions from filing fees, access to safe-deposit boxes, termination of leases, rights. responsibilities, & duties of personal representatives, summary administration, income tax refunds & attorney fees, payments to successors, administration of intestate small estates."
+      "abstract": "Estates;  Revising the issues a court may resolve for a personal representative; requiring the court to award taxable costs and attorney fees in certain proceedings; authorizing the court to direct such payment from certain persons; revising when summary administration proceedings may commence for either a resident or nonresident decedent\u2019s estate; revising the sum for funds certain financial institutions may make payable to a decedent\u2019s family member, etc."
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-fl-2026-hb1337"
+    }
+  ],
   "actions": [
     {
       "description": "Filed",
@@ -397,6 +401,18 @@
       "_processing": {
         "log_file_created": "2026-02-28T12:29:18Z"
       }
+    },
+    {
+      "description": "Signed by Officers and presented to Governor",
+      "date": "2026-04-21",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-24T13:03:43Z"
+      }
     }
   ],
   "sponsorships": [
@@ -471,10 +487,10 @@
   ],
   "documents": [
     {
-      "note": "Bill Analysis -- Civil Justice & Claims Subcommittee (Post-Meeting) (1/29/2026 4:46 PM)",
+      "note": "Bill Analysis -- Civil Justice & Claims Subcommittee (Post-Meeting) (3/23/2026 9:57 AM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/1337/Analyses/h1337a.CIV.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/1337/Analyses/h1337z.CIV.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -568,6 +584,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-28T12:29:18Z"
+    "logs_latest_update": "2026-04-24T13:03:43Z"
   }
 }

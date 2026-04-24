@@ -16,7 +16,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-fl-2026-hb1137"
+    }
+  ],
   "actions": [
     {
       "description": "Filed",
@@ -484,6 +488,40 @@
       "_processing": {
         "log_file_created": "2026-02-28T12:29:17Z"
       }
+    },
+    {
+      "description": "Signed by Officers and presented to Governor",
+      "date": "2026-04-21",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-24T13:03:43Z"
+      }
+    },
+    {
+      "description": "Approved by Governor",
+      "date": "2026-04-21",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-24T13:03:43Z"
+      }
+    },
+    {
+      "description": "Chapter No. 2026-41",
+      "date": "2026-04-22",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-24T13:03:43Z"
+      }
     }
   ],
   "sponsorships": [
@@ -520,11 +558,35 @@
       "organization_id": null
     },
     {
+      "name": "Mooney",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mooney\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Nix",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Nix\"}",
+      "organization_id": null
+    },
+    {
       "name": "Plakon",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Plakon\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Vald\u00e9s",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Vald\\u00e9s\"}",
       "organization_id": null
     }
   ],
@@ -566,10 +628,10 @@
   ],
   "documents": [
     {
-      "note": "Bill Analysis -- Ways & Means Committee (Post-Meeting) (1/27/2026 6:32 PM)",
+      "note": "Bill Analysis -- Ways & Means Committee (Post-Meeting) (3/3/2026 4:21 PM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/1137/Analyses/h1137a.WMC.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/1137/Analyses/h1137z.WMC.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -614,6 +676,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-28T12:29:17Z"
+    "logs_latest_update": "2026-04-24T13:03:43Z"
   }
 }

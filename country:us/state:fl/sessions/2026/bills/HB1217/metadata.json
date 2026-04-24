@@ -8,7 +8,7 @@
   ],
   "subject": [
     "municipalities",
-    "public business",
+    "reclamation, and use",
     "subject index"
   ],
   "abstracts": [
@@ -18,7 +18,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-fl-2026-hb1217"
+    }
+  ],
   "actions": [
     {
       "description": "Filed",
@@ -442,6 +446,40 @@
       "_processing": {
         "log_file_created": "2026-03-14T12:32:49Z"
       }
+    },
+    {
+      "description": "Signed by Officers and presented to Governor",
+      "date": "2026-04-21",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-24T13:03:43Z"
+      }
+    },
+    {
+      "description": "Approved by Governor",
+      "date": "2026-04-22",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-24T13:03:43Z"
+      }
+    },
+    {
+      "description": "Chapter No. 2026-45",
+      "date": "2026-04-23",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-24T13:03:43Z"
+      }
     }
   ],
   "sponsorships": [
@@ -467,6 +505,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Jacques\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tramont",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tramont\"}",
       "organization_id": null
     }
   ],
@@ -508,10 +554,10 @@
   ],
   "documents": [
     {
-      "note": "Bill Analysis -- Economic Infrastructure Subcommittee (Post-Meeting) (2/4/2026 5:46 PM)",
+      "note": "Bill Analysis -- Economic Infrastructure Subcommittee (Post-Meeting) (3/16/2026 2:37 PM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/1217/Analyses/h1217a.EIS.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/1217/Analyses/h1217z.EIS.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -592,6 +638,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-14T12:32:49Z"
+    "logs_latest_update": "2026-04-24T13:03:43Z"
   }
 }
