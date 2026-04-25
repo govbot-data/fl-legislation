@@ -130,5 +130,9 @@
   "2026D": {
     "name": "2026 Special Session D",
     "date_folder": "2026-2026"
+  },
+  "2026E": {
+    "name": "2026 Special Session E",
+    "date_folder": "2026-2026"
   }
 }
