@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Withdrawn from Rules",
+    "date": "2026-04-28",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "withdrawal"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 2D"
+}

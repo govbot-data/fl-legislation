@@ -47,6 +47,28 @@
       "_processing": {
         "log_file_created": "2026-04-25T12:43:17Z"
       }
+    },
+    {
+      "description": "On Committee agenda-- Rules, 04/28/26, 2:00 pm, 110 Senate Building --Temporarily Postponed",
+      "date": "2026-04-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-29T13:26:18Z"
+      }
+    },
+    {
+      "description": "Introduced",
+      "date": "2026-04-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-29T13:26:18Z"
+      }
     }
   ],
   "sponsorships": [
@@ -83,6 +105,21 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026D/6D/Analyses/2026s00006D.pre.rc.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "278732 - Amendment to S 6D Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026D/6/Amendment/278732/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026D/6/Amendment/278732/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -138,6 +175,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-25T12:43:17Z"
+    "logs_latest_update": "2026-04-29T13:26:18Z"
   }
 }

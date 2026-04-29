@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Bill added to Special Order Calendar (4/29/2026)",
+    "date": "2026-04-28",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 1D"
+}

@@ -1,4 +1,9 @@
 {
+  "SB8D": {
+    "session_id": "2026D",
+    "name": "2026 Special Session D",
+    "date_folder": "2026-2026"
+  },
   "SB2D": {
     "session_id": "2026D",
     "name": "2026 Special Session D",
@@ -9,7 +14,17 @@
     "name": "2026 Special Session D",
     "date_folder": "2026-2026"
   },
+  "HJR23D": {
+    "session_id": "2026D",
+    "name": "2026 Special Session D",
+    "date_folder": "2026-2026"
+  },
   "SB4D": {
+    "session_id": "2026D",
+    "name": "2026 Special Session D",
+    "date_folder": "2026-2026"
+  },
+  "HB1D": {
     "session_id": "2026D",
     "name": "2026 Special Session D",
     "date_folder": "2026-2026"
