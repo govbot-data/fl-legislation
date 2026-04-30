@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Laid on Table, refer to HB 1-D",
+    "date": "2026-04-29",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "deferral"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 8D"
+}

@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Substituted HB 1-D",
+    "date": "2026-04-29",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB 8D"
+}
