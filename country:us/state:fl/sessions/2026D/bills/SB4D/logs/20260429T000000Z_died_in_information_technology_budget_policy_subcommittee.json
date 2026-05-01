@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Died in Information Technology Budget & Policy Subcommittee",
+    "date": "2026-04-29",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 4D"
+}

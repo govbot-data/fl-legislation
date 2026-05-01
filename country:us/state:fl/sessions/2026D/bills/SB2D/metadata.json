@@ -173,6 +173,18 @@
       "_processing": {
         "log_file_created": "2026-04-29T13:26:18Z"
       }
+    },
+    {
+      "description": "Died in Information Technology Budget & Policy Subcommittee",
+      "date": "2026-04-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-01T12:59:47Z"
+      }
     }
   ],
   "sponsorships": [
@@ -240,6 +252,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-29T13:26:18Z"
+    "logs_latest_update": "2026-05-01T12:59:47Z"
   }
 }
