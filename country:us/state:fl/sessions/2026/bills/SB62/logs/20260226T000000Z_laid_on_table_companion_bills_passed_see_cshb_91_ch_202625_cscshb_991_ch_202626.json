@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Laid on Table, companion bill(s) passed, see CS/HB 91 (Ch. 2026-25), CS/CS/HB 991 (Ch. 2026-26)",
+    "occurred_at": "2026-02-26",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "deferral"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://flsenate.gov/Session/Bill/2026/62/ByCategory",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 62"
+}

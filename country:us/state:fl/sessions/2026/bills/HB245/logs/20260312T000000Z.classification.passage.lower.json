@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "CS passed as amended; YEAS 110, NAYS 0",
+    "occurred_at": "2026-03-12",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://flsenate.gov/Session/Bill/2026/245/ByCategory",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 245"
+}

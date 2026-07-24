@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Laid on Table, companion bill(s) passed, see CS/HB 1201 (Ch. 2026-75)",
+    "occurred_at": "2026-03-04",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "deferral"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://flsenate.gov/Session/Bill/2026/186/ByCategory",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 186"
+}

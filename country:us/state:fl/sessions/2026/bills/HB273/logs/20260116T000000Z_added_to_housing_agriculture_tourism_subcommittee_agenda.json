@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Added to Housing, Agriculture & Tourism Subcommittee agenda",
+    "occurred_at": "2026-01-16",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://flsenate.gov/Session/Bill/2026/273/ByCategory",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 273"
+}

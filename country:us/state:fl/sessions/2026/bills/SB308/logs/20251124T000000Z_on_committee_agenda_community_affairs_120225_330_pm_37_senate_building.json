@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "On Committee agenda-- Community Affairs, 12/02/25, 3:30 pm, 37 Senate Building",
+    "occurred_at": "2025-11-24",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://flsenate.gov/Session/Bill/2026/308/ByCategory",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 308"
+}

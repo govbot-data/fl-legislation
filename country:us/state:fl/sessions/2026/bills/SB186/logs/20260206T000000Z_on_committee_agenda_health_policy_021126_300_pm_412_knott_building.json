@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "On Committee agenda-- Health Policy, 02/11/26, 3:00 pm, 412 Knott Building",
+    "occurred_at": "2026-02-06",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://flsenate.gov/Session/Bill/2026/186/ByCategory",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 186"
+}

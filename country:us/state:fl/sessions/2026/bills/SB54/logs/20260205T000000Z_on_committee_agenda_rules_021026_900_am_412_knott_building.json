@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "On Committee agenda-- Rules, 02/10/26, 9:00 am, 412 Knott Building",
+    "occurred_at": "2026-02-05",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://flsenate.gov/Session/Bill/2026/54/ByCategory",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 54"
+}

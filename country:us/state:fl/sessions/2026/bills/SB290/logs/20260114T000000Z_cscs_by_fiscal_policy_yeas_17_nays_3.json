@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "CS/CS by Fiscal Policy; YEAS 17 NAYS 3",
+    "occurred_at": "2026-01-14",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://flsenate.gov/Session/Bill/2026/290/ByCategory",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 290"
+}

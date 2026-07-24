@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "On Committee agenda-- Education Postsecondary, 01/21/26, 8:30 am, 301 Senate Building",
+    "occurred_at": "2026-01-16",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://flsenate.gov/Session/Bill/2026/194/ByCategory",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 194"
+}

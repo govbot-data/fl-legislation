@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Chapter No. 2026-144",
+    "occurred_at": "2026-06-17",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://flsenate.gov/Session/Bill/2026/156/ByCategory",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 156"
+}

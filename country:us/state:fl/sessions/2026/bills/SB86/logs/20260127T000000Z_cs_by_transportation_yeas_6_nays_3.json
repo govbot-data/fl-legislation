@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "CS by Transportation; YEAS 6 NAYS 3",
+    "occurred_at": "2026-01-27",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://flsenate.gov/Session/Bill/2026/86/ByCategory",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 86"
+}

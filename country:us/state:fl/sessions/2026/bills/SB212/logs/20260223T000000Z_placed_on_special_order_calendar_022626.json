@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Placed on Special Order Calendar, 02/26/26",
+    "occurred_at": "2026-02-23",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://flsenate.gov/Session/Bill/2026/212/ByCategory",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 212"
+}

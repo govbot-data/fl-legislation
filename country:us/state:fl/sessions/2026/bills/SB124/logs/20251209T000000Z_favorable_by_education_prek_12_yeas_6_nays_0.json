@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Favorable by Education Pre-K - 12; YEAS 6 NAYS 0",
+    "occurred_at": "2025-12-09",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://flsenate.gov/Session/Bill/2026/124/ByCategory",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 124"
+}

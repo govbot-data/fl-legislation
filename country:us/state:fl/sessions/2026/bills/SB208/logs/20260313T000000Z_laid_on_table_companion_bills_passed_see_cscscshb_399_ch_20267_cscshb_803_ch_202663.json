@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Laid on Table, companion bill(s) passed, see CS/CS/CS/HB 399 (Ch. 2026-7), CS/CS/HB 803 (Ch. 2026-63)",
+    "occurred_at": "2026-03-13",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "deferral"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://flsenate.gov/Session/Bill/2026/208/ByCategory",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 208"
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "On Committee agenda-- Environment and Natural Resources, 11/04/25, 3:30 pm, 110 Senate Building",
+    "occurred_at": "2025-10-27",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://flsenate.gov/Session/Bill/2026/150/ByCategory",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 150"
+}

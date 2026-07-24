@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "CS by Military and Veterans Affairs, Space, and Domestic Security; YEAS 4 NAYS 1",
+    "occurred_at": "2025-11-04",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://flsenate.gov/Session/Bill/2026/96/ByCategory",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 96"
+}

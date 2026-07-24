@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Referred to Rules",
+    "occurred_at": "2026-02-12",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://flsenate.gov/Session/Bill/2026/89/ByCategory",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 89"
+}

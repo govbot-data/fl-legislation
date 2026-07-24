@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Now in Appropriations Committee on Criminal and Civil Justice",
+    "occurred_at": "2025-11-20",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://flsenate.gov/Session/Bill/2026/32/ByCategory",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 32"
+}

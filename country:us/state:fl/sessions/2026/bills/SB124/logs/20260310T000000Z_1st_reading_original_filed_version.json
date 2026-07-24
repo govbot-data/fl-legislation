@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "1st Reading (Original Filed Version)",
+    "occurred_at": "2026-03-10",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "filing",
+      "reading-1"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://flsenate.gov/Session/Bill/2026/124/ByCategory",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 124"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "CS passed; YEAS 31 NAYS 4",
+    "occurred_at": "2026-01-29",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://flsenate.gov/Session/Bill/2026/156/ByCategory",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 156"
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Amendment(s) adopted (625206)",
+    "occurred_at": "2026-03-06",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://flsenate.gov/Session/Bill/2026/273/ByCategory",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 273"
+}

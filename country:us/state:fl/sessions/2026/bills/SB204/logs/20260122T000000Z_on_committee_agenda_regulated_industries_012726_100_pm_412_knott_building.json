@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "On Committee agenda-- Regulated Industries, 01/27/26, 1:00 pm, 412 Knott Building",
+    "occurred_at": "2026-01-22",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://flsenate.gov/Session/Bill/2026/204/ByCategory",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 204"
+}

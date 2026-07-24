@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Signed by Officers and presented to Governor",
+    "occurred_at": "2026-03-30",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "executive-receipt"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://flsenate.gov/Session/Bill/2026/102/ByCategory",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 102"
+}
