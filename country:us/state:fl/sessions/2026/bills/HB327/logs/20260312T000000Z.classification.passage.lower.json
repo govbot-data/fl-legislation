@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Passed as amended; YEAS 103, NAYS 0",
+    "occurred_at": "2026-03-12",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://flsenate.gov/Session/Bill/2026/327/ByCategory",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 327"
+}

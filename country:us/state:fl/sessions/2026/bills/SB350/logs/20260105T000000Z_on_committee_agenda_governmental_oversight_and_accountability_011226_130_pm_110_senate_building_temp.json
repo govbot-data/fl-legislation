@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "On Committee agenda-- Governmental Oversight and Accountability, 01/12/26, 1:30 pm, 110 Senate Building --Temporarily Postponed",
+    "occurred_at": "2026-01-05",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://flsenate.gov/Session/Bill/2026/350/ByCategory",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 350"
+}

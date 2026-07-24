@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "On Committee agenda-- Community Affairs, 01/13/26, 1:30 pm, 37 Senate Building",
+    "occurred_at": "2026-01-08",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://flsenate.gov/Session/Bill/2026/330/ByCategory",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 330"
+}
