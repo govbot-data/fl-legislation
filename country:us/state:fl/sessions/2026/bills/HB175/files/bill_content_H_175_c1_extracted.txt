@@ -1,0 +1,1021 @@
+Title: 
+Official Title: 
+Source: versions - H 175 c1
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 175 2026
+1 A bill to be entitled
+2 An act relating to payment stablecoin; amending s.
+3 560.103, F.S.; revising the definition of the term
+4 "money services business"; defining terms; amending s.
+5 560.114, F.S.; revising the actions by a money
+6 services business which constitute grounds for
+7 disciplinary actions; amending s. 560.123, F.S.;
+8 revising the Florida Control of Money Laundering in
+9 Money Services Business Act to include payment
+10 stablecoins; requiring certain payment stablecoin
+11 issuers to comply with certain regulations; amending
+12 s. 560.125, F.S.; revising the prohibition regarding
+13 the business of money services businesses or deferred
+14 presentment providers; revising the circumstances
+15 relating to violations of certain provisions; creating
+16 part V of ch. 560, F.S., entitled "Payment Stablecoin
+17 Issuers"; creating s. 560.501, F.S.; prohibiting
+18 persons from engaging in the activity of a qualified
+19 payment stablecoin issuer without registering and
+20 receiving a specified notification; providing that
+21 certain money services businesses are exempt from
+22 registration requirements; specifying that certain
+23 payment stablecoins are not a security and are not
+24 subject to certain requirements; specifying that
+25 certain transactions are not regulated under certain
+Page 1 of 33
+CODING: Words stricken are deletions; words underlined are additions.
+hb175-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 175 2026
+26 provisions; requiring qualified payment stablecoin
+27 issuers with consolidated total outstanding payment
+28 stablecoin issuance that reaches a specified threshold
+29 to comply with certain requirements; specifying that
+30 qualified payment stablecoin issuers are subject to
+31 certain provisions under certain circumstances;
+32 specifying that the Office of Financial Regulation
+33 remains solely responsible for supervising qualified
+34 payment stablecoin issuers or is jointly responsible
+35 with the Office of the Comptroller of the Currency for
+36 such supervision under certain circumstances; creating
+37 s. 560.502, F.S.; requiring applicants seeking to be
+38 qualified payment stablecoin issuers to submit a
+39 specified application to the office; requiring
+40 applicants to resolve deficiencies found in their
+41 applications within a certain timeframe; requiring
+42 registrants to report changes in their information
+43 within a specified timeframe; requiring registrants to
+44 renew registration annually; requiring registrants to
+45 renew registration in a specified manner; specifying
+46 that the renewal registration becomes effective on a
+47 certain date; requiring the office to approve renewal
+48 registration within a specified timeframe; specifying
+49 that failure to submit an application within a
+50 specified timeframe results in the registration
+Page 2 of 33
+CODING: Words stricken are deletions; words underlined are additions.
+hb175-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 175 2026
+51 becoming expired; requiring a qualified payment
+52 stablecoin issuer with an expired registration to
+53 submit a new application to the office; providing that
+54 the office must issue a certification of registration
+55 before the qualified payment stablecoin issuer may
+56 conduct business in this state; authorizing the office
+57 to deny the prospective registrant's initial
+58 registration and registrant's renewal application
+59 under certain circumstances; requiring the office to
+60 deny the application of qualified payment stablecoin
+61 issuers under certain circumstances; specifying that
+62 any false statement in the application renders the
+63 registration void; providing construction; prohibiting
+64 registration and registration renewal fees; creating
+65 s. 560.503, F.S.; specifying that qualified payment
+66 stablecoin issuers may engage only in certain
+67 activities; creating s. 560.504, F.S.; requiring
+68 qualified payment stablecoin issuers to comply with
+69 certain requirements; prohibiting qualified payment
+70 stablecoin issuers from engaging in certain conduct;
+71 creating s. 560.505, F.S.; requiring the office to
+72 submit initial and additional certifications to a
+73 specified committee under certain circumstances;
+74 requiring the office to comply with certain
+75 requirements; creating s. 560.506, F.S.; requiring and
+Page 3 of 33
+CODING: Words stricken are deletions; words underlined are additions.
+hb175-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 175 2026
+76 authorizing the Financial Services Commission to adopt
+77 specified rules; creating s. 658.997, F.S.; defining
+78 terms; specifying that certain trust companies are
+79 exempt from registration as qualified payment
+80 stablecoin issuers but are subject to certain
+81 provisions; specifying that certain payment
+82 stablecoins are not securities and are not subject to
+83 certain requirements; specifying that certain
+84 transactions are not regulated by certain provisions;
+85 requiring qualified payment stablecoin issuers with
+86 consolidated total outstanding payment stablecoin
+87 issuance that reaches a specified threshold to comply
+88 with certain requirements; specifying that qualified
+89 payment stablecoin issuers remain subject to certain
+90 provisions under certain circumstances; authorizing
+91 the office to enter into an agreement with specified
+92 regulators for joint supervision of qualified payment
+93 stablecoin issuers; specifying that the office remains
+94 solely responsible for supervising qualified payment
+95 stablecoin issuers or is jointly responsible with the
+96 Office of the Comptroller of the Currency for such
+97 supervision under certain circumstances; specifying
+98 that qualified payment stablecoin issuers may engage
+99 only in certain activities; requiring qualified
+100 payment stablecoin issuers to comply with certain
+Page 4 of 33
+CODING: Words stricken are deletions; words underlined are additions.
+hb175-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 175 2026
+101 requirements; defining the term "registered public
+102 accounting firm"; prohibiting qualified payment
+103 stablecoin issuers from engaging in certain conduct;
+104 requiring that the office's initial certification and
+105 annual recertification include certain information;
+106 providing for certain rule adoption by the commission;
+107 providing effective dates.
+108
+109 Be It Enacted by the Legislature of the State of Florida:
+110
+111 Section 1. Present subsections (33), (34), and (35) and
+112 (36) through (39) of section 560.103, Florida Statutes, as
+113 amended by chapter 2025-100, Laws of Florida, are redesignated
+114 as subsections (34), (35), and (36) and (38) through (41),
+115 respectively, new subsections (33) and (37) are added to that
+116 section, and subsection (25) of that section is amended, to
+117 read:
+118 560.103 Definitions.—As used in this chapter, the term:
+119 (25) "Money services business" means any person located in
+120 or doing business in this state, from this state, or into this
+121 state from locations outside this state or country who acts as a
+122 payment instrument seller, foreign currency exchanger, check
+123 casher, or money transmitter, or qualified payment stablecoin
+124 issuer.
+125 (33)(a) "Payment stablecoin" means a digital asset that
+Page 5 of 33
+CODING: Words stricken are deletions; words underlined are additions.
+hb175-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 175 2026
+126 is, or is designed to be, used as a means of payment or
+127 settlement, and the issuer of which:
+128 1. Is obligated to convert, redeem, or repurchase the
+129 digital asset for a fixed amount of monetary value, not
+130 including a digital asset denominated in a fixed amount of
+131 monetary value.
+132 2. Represents that such issuer will maintain, or create
+133 the reasonable expectation that it will maintain, a stable value
+134 relative to the value of a fixed amount of monetary value.
+135 (b) The term does not include a digital asset that is any
+136 of the following:
+137 1. A national currency. For purposes of this subparagraph,
+138 the term "national currency" means each of the following:
+139 a. A Federal Reserve note as the term is used in the first
+140 undesignated paragraph of s. 16 of the Federal Reserve Act, 12
+141 U.S.C. s. 411.
+142 b. Money standing to the credit of an account with a
+143 Federal Reserve Bank.
+144 c. Money issued by a foreign central bank.
+145 d. Money issued by an intergovernmental organization
+146 pursuant to an agreement by two or more governments.
+147 2. A deposit as defined in s. 3 of the Federal Deposit
+148 Insurance Act, 12 U.S.C. s. 1813, including a deposit recorded
+149 using distributed ledger technology. For purposes of this
+150 subparagraph, the term "distributed ledger" means technology in
+Page 6 of 33
+CODING: Words stricken are deletions; words underlined are additions.
+hb175-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 175 2026
+151 which data is shared across a network that creates a public
+152 digital ledger of verified transactions or information among
+153 network participants and cryptography is used to link the data
+154 to maintain the integrity of the public ledger and execute other
+155 functions.
+156 3. A security, as defined in s. 517.021; s. 2 of the
+157 Securities Act of 1933, 15 U.S.C. s. 77b; s. 3 of the Securities
+158 and Exchange Act of 1934, 15 U.S.C. s. 78c; or s. 2 of the
+159 Investment Company Act of 1940, 15 U.S.C. s. 80a-2.
+160 (c) As used in this subsection, the term "digital asset"
+161 means any digital representation of value that is recorded on a
+162 cryptographically secured digital ledger.
+163 (37) "Qualified payment stablecoin issuer" means an entity
+164 legally established under the laws of a state and registered
+165 with the office to issue payment stablecoins.
+166 Section 2. Paragraph (w) of subsection (1) of section
+167 560.114, Florida Statutes, is amended to read:
+168 560.114 Disciplinary actions; penalties.—
+169 (1) The following actions by a money services business,
+170 authorized vendor, or affiliated party constitute grounds for
+171 the issuance of a cease and desist order; the issuance of a
+172 removal order; the denial, suspension, or revocation of a
+173 license; or taking any other action within the authority of the
+174 office pursuant to this chapter:
+175 (w) Engaging or advertising engagement in the business of
+Page 7 of 33
+CODING: Words stricken are deletions; words underlined are additions.
+hb175-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 175 2026
+176 a money services business or deferred presentment provider
+177 without a license or registration, unless exempted from
+178 licensure or registration.
+179 Section 3. Present subsection (9) of section 560.123,
+180 Florida Statutes, is redesignated as subsection (10), a new
+181 subsection (9) is added to that section, and subsections (2),
+182 (3), and (8) of that section are amended, to read:
+183 560.123 Florida Control of Money Laundering in Money
+184 Services Business Act.—
+185 (2) The purpose of this section is to require the
+186 maintenance of certain records of transactions involving
+187 currency, monetary value, payment instruments, or virtual
+188 currency, or payment stablecoins in order to deter the use of a
+189 money services business to conceal proceeds from criminal
+190 activity and to ensure the availability of such records for
+191 criminal, tax, or regulatory investigations or proceedings.
+192 (3) A money services business shall keep a record, as
+193 prescribed by the commission, of each financial transaction
+194 occurring in this state which it knows to involve currency,
+195 monetary value, a payment instrument, or virtual currency, or a
+196 payment stablecoin having a value greater than $10,000; to
+197 involve the proceeds of specified unlawful activity; or to be
+198 designed to evade the reporting requirements of this section or
+199 chapter 896. The money services business must maintain
+200 appropriate procedures to ensure compliance with this section
+Page 8 of 33
+CODING: Words stricken are deletions; words underlined are additions.
+hb175-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 175 2026
+201 and chapter 896.
+202 (a) Multiple financial transactions shall be treated as a
+203 single transaction if the money services business has knowledge
+204 that they are made by or on behalf of any one person and result
+205 in value in or value out totaling a value of more than $10,000
+206 during any day.
+207 (b) A money services business may keep a record of any
+208 financial transaction occurring in this state, regardless of the
+209 value, if it suspects that the transaction involves the proceeds
+210 of unlawful activity.
+211 (c) The money services business must file a report with
+212 the office of any records required by this subsection, at such
+213 time and containing such information as required by rule. The
+214 timely filing of the report required by 31 U.S.C. s. 5313 with
+215 the appropriate federal agency shall be deemed compliance with
+216 the reporting requirements of this subsection unless the reports
+217 are not regularly and comprehensively transmitted by the federal
+218 agency to the office.
+219 (d) A money services business, or control person,
+220 employee, or agent thereof, that files a report in good faith
+221 pursuant to this section is not liable to any person for loss or
+222 damage caused in whole or in part by the making, filing, or
+223 governmental use of the report, or any information contained
+224 therein.
+225 (8)(a) Except as provided in paragraph (b), a person who
+Page 9 of 33
+CODING: Words stricken are deletions; words underlined are additions.
+hb175-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 175 2026
+226 willfully violates any provision of this section commits a
+227 misdemeanor of the first degree, punishable as provided in s.
+228 775.082 or s. 775.083.
+229 (b) A person who willfully violates any provision of this
+230 section, if the violation involves:
+231 1. Currency, monetary value, payment instruments, or
+232 virtual currency, or payment stablecoins of a value exceeding
+233 $300 but less than $20,000 in any 12-month period, commits a
+234 felony of the third degree, punishable as provided in s.
+235 775.082, s. 775.083, or s. 775.084.
+236 2. Currency, monetary value, payment instruments, or
+237 virtual currency, or payment stablecoins of a value totaling or
+238 exceeding $20,000 but less than $100,000 in any 12-month period,
+239 commits a felony of the second degree, punishable as provided in
+240 s. 775.082, s. 775.083, or s. 775.084.
+241 3. Currency, monetary value, payment instruments, or
+242 virtual currency, or payment stablecoins of a value totaling or
+243 exceeding $100,000 in any 12-month period, commits a felony of
+244 the first degree, punishable as provided in s. 775.082, s.
+245 775.083, or s. 775.084.
+246 (c) In addition to the penalties authorized by s. 775.082,
+247 s. 775.083, or s. 775.084, a person who has been convicted of,
+248 or entered a plea of guilty or nolo contendere, regardless of
+249 adjudication, to having violated paragraph (b) may be sentenced
+250 to pay a fine of up to the greater of $250,000 or twice the
+Page 10 of 33
+CODING: Words stricken are deletions; words underlined are additions.
+hb175-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 175 2026
+251 value of the currency, monetary value, payment instruments, or
+252 virtual currency, or payment stablecoins, except that on a
+253 second or subsequent conviction for or plea of guilty or nolo
+254 contendere, regardless of adjudication, to a violation of
+255 paragraph (b), the fine may be up to the greater of $500,000 or
+256 quintuple the value of the currency, monetary value, payment
+257 instruments, or virtual currency, or payment stablecoins.
+258 (d) A person who violates this section is also liable for
+259 a civil penalty of up to the greater of the value of the
+260 currency, monetary value, payment instruments, or virtual
+261 currency, or payment stablecoins involved or $25,000.
+262 (9) A state qualified payment stablecoin issuer must
+263 comply with any anti-money laundering regulation provided in the
+264 GENIUS Act under Pub. L. No. 119-27, which includes, but is not
+265 limited to, provisions relating to economic sanctions,
+266 prevention of money laundering, customer identification, and due
+267 diligence in the Bank Secrecy Act; s. 21 of the Federal Deposit
+268 Insurance Act, 12 U.S.C. s. 1813; chapter 2 of Title I of Pub.
+269 L. No. 91-508; and subchapter II of chapter 53 of Title 31,
+270 United States Code.
+271 Section 4. Subsection (1), paragraph (a) of subsection
+272 (5), and subsection (6) of section 560.125, Florida Statutes,
+273 are amended to read:
+274 560.125 Unlicensed activity; penalties.—
+275 (1) A person may not engage in the business of a money
+Page 11 of 33
+CODING: Words stricken are deletions; words underlined are additions.
+hb175-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 175 2026
+276 services business or deferred presentment provider in this state
+277 unless the person is licensed, registered, or exempted from
+278 licensure or registration under this chapter. A deferred
+279 presentment transaction conducted by a person not authorized to
+280 conduct such transaction under this chapter is void, and the
+281 unauthorized person has no right to collect, receive, or retain
+282 any principal, interest, or charges relating to such
+283 transaction.
+284 (5) A person who violates this section, if the violation
+285 involves:
+286 (a) Currency, monetary value, payment instruments, or
+287 virtual currency, or payment stablecoins of a value exceeding
+288 $300 but less than $20,000 in any 12-month period, commits a
+289 felony of the third degree, punishable as provided in s.
+290 775.082, s. 775.083, or s. 775.084.
+291 (6) In addition to the penalties authorized by s. 775.082,
+292 s. 775.083, or s. 775.084, a person who has been convicted of,
+293 or entered a plea of guilty or nolo contendere to, having
+294 violated this section may be sentenced to pay a fine of up to
+295 the greater of $250,000 or twice the value of the currency,
+296 monetary value, payment instruments, or virtual currency, or
+297 payment stablecoins, except that on a second or subsequent
+298 violation of this section the fine may be up to the greater of
+299 $500,000 or quintuple the value of the currency, monetary value,
+300 payment instruments, or virtual currency, or payment
+Page 12 of 33
+CODING: Words stricken are deletions; words underlined are additions.
+hb175-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 175 2026
+301 stablecoins.
+302 Section 5. Part V of chapter 560, Florida Statutes,
+303 consisting of ss. 560.501-560.506, Florida Statutes, is created
+304 and entitled "Payment Stablecoin Issuers."
+305 Section 6. Section 560.501, Florida Statutes, is created
+306 to read:
+307 560.501 Registration required; exemptions; transition to
+308 federal oversight.—
+309 (1) REGISTRATION REQUIREMENT.—Unless exempted, a person
+310 may not engage in the activity of a qualified payment stablecoin
+311 issuer as authorized in s. 560.503 in this state without first
+312 registering, or renewing registration, with the office in
+313 accordance with s. 560.502 and receiving notification from the
+314 office that such person is approved as a qualified payment
+315 stablecoin issuer. The office shall give written notice to such
+316 person that the agency has approved or denied the application
+317 for registration.
+318 (2) EXEMPTIONS.—
+319 (a) A payment instrument seller, foreign currency
+320 exchanger, check casher, or money transmitter that is licensed
+321 as a money services business pursuant to s. 560.141 and issues
+322 payment stablecoins with a consolidated total outstanding
+323 issuance of $10 billion or less is exempt from registration as a
+324 qualified payment stablecoin issuer but is subject to ss.
+325 560.503 and 560.504.
+Page 13 of 33
+CODING: Words stricken are deletions; words underlined are additions.
+hb175-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 175 2026
+326 (b) A payment stablecoin that meets the requirements of
+327 this part is not a security and is not subject to the
+328 requirements of chapter 517.
+329 (c) The following transactions are not regulated under
+330 this part:
+331 1. The direct transfer of payment stablecoin between two
+332 individuals acting on their own behalf and for their own lawful
+333 purposes, without the involvement of an intermediary.
+334 2. Any transaction involving the receipt of payment
+335 stablecoins by an individual between an account owned by the
+336 individual in the United States and an account owned by the
+337 individual abroad which are offered by the same parent company.
+338 3. Any transaction by means of a software or hardware
+339 wallet that facilitates an individual's own custody of payment
+340 stablecoins.
+341 (3) TRANSITION TO FEDERAL OVERSIGHT.—
+342 (a) Unless a federal waiver is obtained, a qualified
+343 payment stablecoin issuer with a consolidated total outstanding
+344 payment stablecoin issuance that reaches the $10 billion
+345 threshold must comply with one of the following requirements:
+346 1. Not later than 360 days after the payment stablecoin
+347 issuance reaches such threshold, transition to the applicable
+348 federal regulatory framework administered jointly by the office
+349 and the Office of the Comptroller of the Currency; or
+350 2. Beginning on the date the payment stablecoin issuance
+Page 14 of 33
+CODING: Words stricken are deletions; words underlined are additions.
+hb175-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 175 2026
+351 reaches such threshold, cease issuing new payment stablecoins
+352 until the payment stablecoin falls below the $10 billion
+353 consolidated total outstanding issuance threshold.
+354 (b) A qualified payment stablecoin issuer remains subject
+355 to this part if a federal waiver of the transition requirements
+356 in paragraph (a) is obtained pursuant to the GENIUS Act, Pub. L.
+357 No. 119-27, and the office remains solely responsible for
+358 supervising the qualified payment stablecoin issuer, or if the
+359 office is jointly responsible with the Office of the Comptroller
+360 of the Currency to supervise the qualified payment stablecoin
+361 issuer pursuant to subparagraph (a)1. The office may enter into
+362 an agreement with the relevant primary federal payment
+363 stablecoin regulator for the joint supervision of any qualified
+364 payment stablecoin issuer.
+365 Section 7. Section 560.502, Florida Statutes, is created
+366 to read:
+367 560.502 Registration applications.—
+368 (1) To apply to be a qualified payment stablecoin issuer
+369 under this part, the applicant must submit a completed
+370 registration application on forms prescribed by rule of the
+371 commission. The application must include the following
+372 information:
+373 (a) The legal name of the applicant, including any
+374 fictitious or trade names used by the applicant in the conduct
+375 of its business, and the physical and mailing addresses of the
+Page 15 of 33
+CODING: Words stricken are deletions; words underlined are additions.
+hb175-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 175 2026
+376 applicant.
+377 (b) The date of the applicant's formation and the state in
+378 which the applicant was formed, if applicable.
+379 (c) The name, social security number, alien identification
+380 number or taxpayer identification number, business and residence
+381 addresses, and employment history for the past 5 years for each
+382 control person.
+383 (d) A description of the organizational structure of the
+384 applicant, including the identity of any parent or subsidiary of
+385 the applicant, and a disclosure of whether any parent or
+386 subsidiary is publicly traded.
+387 (e) The name and mailing address of the registered agent
+388 in this state for service of process.
+389 (f) An attestation that the applicant has developed
+390 clearly documented policies, processes, and procedures regarding
+391 the use of blockchain analytics to prevent transfers to wallet
+392 addresses linked to known criminal activity, including the
+393 manner in which such blockchain analytics activity will
+394 integrate into its compliance controls, and that the applicant
+395 will maintain and comply with such blockchain analytics
+396 policies, processes, and procedures.
+397 (g) Any other information as required by this chapter or
+398 commission rule.
+399 (2) Any information needed to resolve deficiencies found
+400 in the application must be provided within a time period
+Page 16 of 33
+CODING: Words stricken are deletions; words underlined are additions.
+hb175-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 175 2026
+401 prescribed by rule of the commission.
+402 (3) A registrant shall report, on a form prescribed by
+403 rule of the commission, any change in the information contained
+404 in an initial application form or an amendment thereto within 30
+405 days after the change is effective.
+406 (4) A registrant must renew its registration annually on
+407 or before December 31 of the year preceding the expiration date
+408 of the registration. To renew such registration, the registrant
+409 must submit a renewal application that provides the information
+410 required in subsection (1) if there are changes in the
+411 application information, or an affidavit signed by the
+412 registrant that the information remains the same as the prior
+413 year's information.
+414 (5) Any renewal registration made pursuant to this section
+415 becomes effective upon the date the office approves the
+416 application for registration. The office shall approve the
+417 renewal registration within a timeframe prescribed by rule.
+418 (6) Failure to submit an application to renew a qualified
+419 payment stablecoin issuer's registration within 60 days after
+420 the registration becomes inactive will result in the
+421 registration becoming expired. If the registration is expired, a
+422 new application to register the qualified payment stablecoin
+423 issuer pursuant to subsection (1) must be submitted to the
+424 office, and a new registration must be issued by the office
+425 before the qualified payment stablecoin issuer may conduct
+Page 17 of 33
+CODING: Words stricken are deletions; words underlined are additions.
+hb175-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 175 2026
+426 business in this state.
+427 (7) If a control person of a registrant or prospective
+428 registrant has engaged in any unlawful business practice, or has
+429 been convicted or found guilty of, or pled guilty or nolo
+430 contendere to, regardless of adjudication, a crime involving
+431 dishonest dealing, fraud, acts of moral turpitude, or other acts
+432 that reflect an inability to engage lawfully in the business of
+433 a registered qualified payment stablecoin issuer, the office may
+434 deny the prospective registrant's initial registration
+435 application or the registrant's renewal application.
+436 (8) The office shall deny the application of a qualified
+437 payment stablecoin issuer that submits a renewal application
+438 that fails to comply with subsection (1).
+439 (9) Any false statement made by a qualified payment
+440 stablecoin issuer in an application for registration under this
+441 section renders the registration void. A void registration may
+442 not be construed as creating a defense to any prosecution for
+443 violation of this chapter.
+444 (10) The office may not charge any registration or
+445 registration renewal fees and also may not charge any
+446 application fees to register or renew a registration.
+447 Section 8. Section 560.503, Florida Statutes, is created
+448 to read:
+449 560.503 Limitation on payment stablecoin activities.—
+450 Unless licensed under this chapter or chapter 655 to conduct
+Page 18 of 33
+CODING: Words stricken are deletions; words underlined are additions.
+hb175-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 175 2026
+451 other financial business activities, a qualified payment
+452 stablecoin issuer may engage only in the following activities:
+453 (1) Issue payment stablecoins.
+454 (2) Redeem payment stablecoins.
+455 (3) Manage related reserves, including purchasing,
+456 selling, and holding reserve assets or providing custodial
+457 services for reserve assets, consistent with federal law and the
+458 laws of this state.
+459 (4) Undertake other activities that directly support any
+460 of the activities described in this section.
+461 Section 9. Section 560.504, Florida Statutes, is created
+462 to read:
+463 560.504 Minimum prudential requirements.—
+464 (1) In accordance with the GENIUS Act, Pub. L. No. 119-27,
+465 a qualified payment stablecoin issuer must comply with all of
+466 the following requirements:
+467 (a) Maintain identifiable reserves backing the outstanding
+468 payment stablecoins of the qualified payment stablecoin issuer
+469 on at least a one-to-one basis, with reserves consisting of any
+470 of the following:
+471 1. United States coin or currency or money standing to the
+472 credit of an account with a Federal Reserve Bank.
+473 2. Funds held as demand deposits or insured shares at an
+474 insured depository institution, subject to limitations
+475 established by the Federal Deposit Insurance Corporation and the
+Page 19 of 33
+CODING: Words stricken are deletions; words underlined are additions.
+hb175-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 175 2026
+476 National Credit Union Administration.
+477 3. United States Treasury bills, notes, or bonds with a
+478 remaining maturity or issued with a maturity of 93 days or less.
+479 4. Money received under repurchase agreements, with the
+480 qualified payment stablecoin issuer acting as a seller of
+481 securities and with an overnight maturity, which are backed by
+482 United States Treasury bills with a maturity of 93 days or less.
+483 5. Reverse purchase agreements, with the qualified payment
+484 stablecoin issuer acting as a purchaser of securities and with
+485 an overnight maturity, which are collateralized by United States
+486 Treasury bills, notes, or bonds on an overnight basis, subject
+487 to overcollateralization in line with standard market terms that
+488 meet federal requirements in the GENIUS Act, Pub. L. No. 119-27.
+489 6. Securities that are issued by an investment company
+490 registered under s. 8(a) of the Investment Company Act of 1940,
+491 15 U.S.C. s. 80a-8(a), or other registered government money
+492 market fund, and that are invested solely in underlying assets
+493 described in subparagraphs 1.-5.
+494 7. Any other similarly liquid Federal Government-issued
+495 asset approved by the primary federal payment stablecoin
+496 regulator, in consultation with the office.
+497 8. Any reserve described in subparagraphs 1.-3. or
+498 subparagraph 6. or subparagraph 7. in tokenized form, provided
+499 that such reserves comply with all applicable laws and
+500 regulations.
+Page 20 of 33
+CODING: Words stricken are deletions; words underlined are additions.
+hb175-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 175 2026
+501 (b) Publicly disclose the issuer's redemption policy,
+502 which must comply with all of the following requirements:
+503 1. Establish clear and conspicuous procedures for timely
+504 redemption of outstanding payment stablecoins.
+505 2. Publicly, clearly, and conspicuously disclose in plain
+506 language all fees associated with purchasing or redeeming the
+507 payment stablecoins, provided that such fees can be changed only
+508 upon not less than 7 days' prior notice to consumers.
+509 (c) Publish on the issuer's website a monthly reserve
+510 composition of the issuer's reserve which must contain all of
+511 the following information:
+512 1. The total number of outstanding payment stablecoins
+513 issued by the issuer.
+514 2. The amount and composition of the reserves described in
+515 paragraph (a), including the average tenor and geographic
+516 location of custody of each category of reserve instruments.
+517 (d) Comply with all federal prohibitions on pledging,
+518 rehypothecating, or reusing reserve assets, either directly or
+519 indirectly, except for any of the following purposes:
+520 1. Satisfying margin obligations in connection with
+521 investments in permitted reserves under subparagraph (a)4. or
+522 subparagraph (a)5.
+523 2. Satisfying obligations associated with the use,
+524 receipt, or provision of standard custodial services.
+525 3. Creating liquidity to meet reasonable expectations of
+Page 21 of 33
+CODING: Words stricken are deletions; words underlined are additions.
+hb175-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 175 2026
+526 requests to redeem payment stablecoins, such that reserves in
+527 the form of United States Treasury bills may be sold as
+528 purchased securities for repurchase agreements with a maturity
+529 of 93 days or less, provided that either:
+530 a. The repurchase agreements are cleared by a clearing
+531 agency registered with the Securities and Exchange Commission;
+532 or
+533 b. The qualified payment stablecoin issuer receives prior
+534 approval from the office.
+535 (e) Engage a registered public accounting firm to conduct
+536 a monthly examination of the previous month-end reserve report.
+537 For purposes of this paragraph, the term "registered public
+538 accounting firm" means a public accounting firm registered with
+539 the Public Company Accounting Oversight Board.
+540 (f) Submit to the office each month a certification as to
+541 the accuracy of the month-end reserve report by the qualified
+542 payment stablecoin issuer's chief executive officer and chief
+543 financial officer.
+544 (g) Comply with any federal regulations or state rules
+545 prescribed by commission rule relating to capital, liquidity,
+546 and risk management requirements.
+547 (h) Engage only custodians or safekeepers that comply with
+548 s. 10 of the GENIUS Act, Pub. L. No. 119-27.
+549 (i) Comply with any other federal requirements of s. 4(a)
+550 of the GENIUS Act, Pub. L. No. 119-27, and any implementing
+Page 22 of 33
+CODING: Words stricken are deletions; words underlined are additions.
+hb175-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 175 2026
+551 federal regulations.
+552 (2) A qualified payment stablecoin issuer may not engage
+553 in any of the following conduct:
+554 (a) Except as may be authorized under federal law, tying
+555 arrangements that condition access to stablecoin services on the
+556 purchase of unrelated products or services from such qualified
+557 payment stablecoin issuer or an agreement not to obtain products
+558 or services from a competitor.
+559 (b) Using deceptive names, which includes, but is not
+560 limited to, any of the following:
+561 1. Using any combination of terms relating to the United
+562 States Government, except abbreviations directly related to the
+563 currency to which a payment stablecoin is pegged, such as "USD."
+564 2. Marketing a payment stablecoin in such a way that a
+565 reasonable person would perceive the payment stablecoin to be
+566 legal tender, as described in 31 U.S.C. s. 5103, issued by the
+567 United States, or guaranteed or approved by the United States
+568 Government.
+569 (c) Unless authorized by federal law, paying the holder of
+570 any payment stablecoin any form of interest or yield solely in
+571 connection with holding, use, or retention of such payment
+572 stablecoin.
+573 Section 10. Effective upon becoming a law, section
+574 560.505, Florida Statutes, is created to read:
+575 560.505 State certification.—
+Page 23 of 33
+CODING: Words stricken are deletions; words underlined are additions.
+hb175-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 175 2026
+576 (1) No later than 20 days after the federal Stablecoin
+577 Certification Review Committee begins accepting certifications
+578 or no later than 20 days after this act becomes a law, whichever
+579 is later, the office must submit an initial certification to
+580 such committee on a form prescribed by the committee attesting
+581 that the state regulatory regime meets the criteria for
+582 substantial similarity established pursuant to the GENIUS Act.
+583 (2) No later than the date to be determined by the United
+584 States Secretary of the Treasury each year, the office must
+585 submit to the Stablecoin Certification Review Committee an
+586 additional certification that confirms the accuracy of the
+587 initial certification submitted.
+588 (3) The office must comply with the requirements of s.
+589 4(c)(4) of the GENIUS Act to ensure the state receives
+590 certification and annual recertification by the Stablecoin
+591 Certification Review Committee of the state regulatory regime.
+592 Section 11. Section 560.506, Florida Statutes, is created
+593 to read:
+594 560.506 Rulemaking authority.—The commission shall adopt
+595 rules to administer this part as required in s. 13 of the GENIUS
+596 Act, Pub. L. No. 119-27. The commission shall also adopt rules
+597 relating to capital, liquidity, and risk management which are
+598 consistent with s. 4(a)(4) of the GENIUS Act, Pub. L. No. 119-
+599 27. The commission may adopt rules establishing standards for
+600 the conduct, supervision, examination, and regulation of
+Page 24 of 33
+CODING: Words stricken are deletions; words underlined are additions.
+hb175-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 175 2026
+601 qualified payment stablecoin issuers, including requirements
+602 relating to reserves, customer-asset protection, reporting, and
+603 compliance, in order to meet the minimum requirements
+604 established by the Stablecoin Certification Review Committee.
+605 Section 12. Section 658.997, Florida Statutes, is created
+606 to read:
+607 658.997 Qualified payment stablecoin issuers.—
+608 (1) DEFINITIONS.—As used in this section, the term:
+609 (a) "Payment stablecoin" has the same meaning as in s.
+610 560.103.
+611 (b) "Qualified payment stablecoin issuer" has the same
+612 meaning as in s. 560.103. The term does not include an insured
+613 depository institution, an uninsured national bank, a federal
+614 branch of a foreign bank, or a subsidiary of such entities. For
+615 purposes of this paragraph, the term:
+616 1. "Federal branch of a foreign bank" means a branch of a
+617 foreign bank established and operating under 12 U.S.C. s. 3102.
+618 2. "Insured depository institution" means:
+619 a. A bank or savings association the deposits of which are
+620 insured by the Federal Deposit Insurance Corporation; or
+621 b. A credit union insured by the National Credit Union
+622 Administration Board.
+623 3. "Subsidiary" means a company that is owned or
+624 controlled directly or indirectly by another company and
+625 includes any service corporation owned in whole or in part by an
+Page 25 of 33
+CODING: Words stricken are deletions; words underlined are additions.
+hb175-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 175 2026
+626 insured depository institution or any subsidiary of such a
+627 service corporation.
+628 (2) EXEMPTIONS.—
+629 (a) A trust company that is organized pursuant to this
+630 section and issues payment stablecoins with a consolidated total
+631 outstanding issuance of $10 billion or less is exempt from
+632 registration as a qualified payment stablecoin issuer but is
+633 subject to the provisions of this section.
+634 (b) A payment stablecoin that meets the requirements of
+635 this part is not a security and is not subject to the
+636 requirements of chapter 517.
+637 (c) The following transactions are not regulated under
+638 this part:
+639 1. The direct transfer of payment stablecoin between two
+640 individuals acting on their own behalf and for their own lawful
+641 purposes, without the involvement of an intermediary.
+642 2. Any transaction involving the receipt of payment
+643 stablecoin by an individual between an account owned by the
+644 individual in the United States and an account owned by the
+645 individual abroad which are offered by the same parent company.
+646 3. Any transaction by means of a software or hardware
+647 wallet that facilitates an individual's own custody of payment
+648 stablecoin.
+649 (3) TRANSITION TO FEDERAL OVERSIGHT.—
+650 (a) Unless a federal waiver is obtained, a qualified
+Page 26 of 33
+CODING: Words stricken are deletions; words underlined are additions.
+hb175-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 175 2026
+651 payment stablecoin issuer with a consolidated total outstanding
+652 payment stablecoin issuance that reaches the $10 billion
+653 threshold must comply with one of the following requirements:
+654 1. Not later than 360 days after the payment stablecoin
+655 issuance reaches such threshold, transition to the applicable
+656 federal regulatory framework administered jointly by the office
+657 and the Office of the Comptroller of the Currency; or
+658 2. Beginning on the date the payment stablecoin issuance
+659 reaches such threshold, cease issuing new payment stablecoins
+660 until the payment stablecoin falls below the $10 billion
+661 consolidated total outstanding issuance threshold.
+662 (b) A qualified payment stablecoin issuer remains subject
+663 to this part if a federal waiver of the transition requirements
+664 in paragraph (a) is obtained pursuant to the GENIUS Act, Pub. L.
+665 No. 119-27, and the office remains solely responsible for
+666 supervising the qualified payment stablecoin issuer, or if the
+667 office is jointly responsible with the Office of the Comptroller
+668 of the Currency to supervise the qualified payment stablecoin
+669 issuer pursuant to subparagraph (a)1. The office may enter into
+670 an agreement with the relevant primary federal payment
+671 stablecoin regulator for the joint supervision of any qualified
+672 payment stablecoin issuer.
+673 (4) LIMITATION ON PAYMENT STABLECOIN ACTIVITIES.—Unless
+674 licensed under chapter 560 or chapter 655 to conduct other
+675 financial business activities, a qualified payment stablecoin
+Page 27 of 33
+CODING: Words stricken are deletions; words underlined are additions.
+hb175-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 175 2026
+676 issuer may engage only in the following activities:
+677 (a) Issue payment stablecoins.
+678 (b) Redeem payment stablecoins.
+679 (c) Manage related reserves, including purchasing,
+680 selling, and holding reserve assets or providing custodial
+681 services for reserve assets, consistent with federal law and the
+682 laws of this state.
+683 (d) Undertake other activities that directly support any
+684 of the activities described in this section.
+685 (5) MINIMUM PRUDENTIAL REQUIREMENTS.—
+686 (a) In accordance with the GENIUS Act, Pub. L. No. 119-27,
+687 a qualified payment stablecoin issuer must comply with all of
+688 the following requirements:
+689 1. Maintain identifiable reserves backing the outstanding
+690 payment stablecoins of the qualified payment stablecoin issuer
+691 on at least a one-to-one basis, with reserves consisting of any
+692 of the following:
+693 a. United States coin or currency or money standing to the
+694 credit of an account with a Federal Reserve Bank.
+695 b. Funds held as demand deposits or insured shares at an
+696 insured depository institution, subject to limitations
+697 established by the Federal Deposit Insurance Corporation and the
+698 National Credit Union Administration.
+699 c. United States Treasury bills, notes, or bonds with a
+700 remaining maturity or issued with a maturity of 93 days or less.
+Page 28 of 33
+CODING: Words stricken are deletions; words underlined are additions.
+hb175-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 175 2026
+701 d. Money received under repurchase agreements, with the
+702 qualified payment stablecoin issuer acting as a seller of
+703 securities and with an overnight maturity, which are backed by
+704 United States Treasury bills with a maturity of 93 days or less.
+705 e. Reverse purchase agreements, with the qualified payment
+706 stablecoin issuer acting as a purchaser of securities and with
+707 an overnight maturity, which are collateralized by United States
+708 Treasury bills, notes, or bonds on an overnight basis, subject
+709 to overcollateralization in line with standard market terms that
+710 meet federal requirements in the GENIUS Act, Pub. L. No. 119-27.
+711 f. Securities that are issued by an investment company
+712 registered under s. 8(a) of the Investment Company Act of 1940,
+713 15 U.S.C. s. 80a-8(a), or other registered government money
+714 market fund, and that are invested solely in underlying assets
+715 described in sub-subparagraphs a.-e.
+716 g. Any other similarly liquid Federal Government-issued
+717 asset approved by the primary federal payment stablecoin
+718 regulator, in consultation with the office.
+719 h. Any reserve described in sub-subparagraphs a.-c. or
+720 sub-subparagraph f. or sub-subparagraph g. in tokenized form,
+721 provided that such reserves comply with all applicable laws and
+722 regulations.
+723 2. Publicly disclose the issuer's redemption policy, which
+724 must comply with all of the following requirements:
+725 a. Establish clear and conspicuous procedures for timely
+Page 29 of 33
+CODING: Words stricken are deletions; words underlined are additions.
+hb175-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 175 2026
+726 redemption of outstanding payment stablecoins.
+727 b. Publicly, clearly, and conspicuously disclose in plain
+728 language all fees associated with purchasing or redeeming the
+729 payment stablecoins, provided that such fees can be changed only
+730 upon not less than 7 days' prior notice to consumers.
+731 3. Publish on the issuer's website a monthly reserve
+732 composition of the issuer's reserve which must contain all of
+733 the following information:
+734 a. The total number of outstanding payment stablecoins
+735 issued by the issuer.
+736 b. The amount and composition of the reserves described in
+737 subparagraph 1., including the average tenor and geographic
+738 location of custody of each category of reserve instruments.
+739 4. Comply with all federal prohibitions on pledging,
+740 rehypothecating, or reusing reserve assets, either directly or
+741 indirectly, except for any of the following purposes:
+742 a. Satisfying margin obligations in connection with
+743 investments in permitted reserves under sub-subparagraph 1.d. or
+744 sub-subparagraph 1.e.
+745 b. Satisfying obligations associated with the use,
+746 receipt, or provision of standard custodial services.
+747 c. Creating liquidity to meet reasonable expectations of
+748 requests to redeem payment stablecoins, such that reserves in
+749 the form of United States Treasury bills may be sold as
+750 purchased securities for repurchase agreements with a maturity
+Page 30 of 33
+CODING: Words stricken are deletions; words underlined are additions.
+hb175-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 175 2026
+751 of 93 days or less, provided that either:
+752 (I) The repurchase agreements are cleared by a clearing
+753 agency registered with the Securities and Exchange Commission;
+754 or
+755 (II) The qualified payment stablecoin issuer receives
+756 prior approval from the office.
+757 5. Engage a registered public accounting firm to conduct a
+758 monthly examination of the previous month-end reserve report.
+759 For purposes of this subparagraph, the term "registered public
+760 accounting firm" means a public accounting firm registered with
+761 the Public Company Accounting Oversight Board.
+762 6. Submit to the office each month a certification as to
+763 the accuracy of the month-end reserve report by the qualified
+764 payment stablecoin issuer's chief executive officer and chief
+765 financial officer.
+766 7. Comply with any federal regulations or state rules
+767 prescribed by commission rule relating to capital, liquidity,
+768 and risk management requirements.
+769 8. Engage only custodians or safekeepers that comply with
+770 s. 10 of the GENIUS Act, Pub. L. No. 119-27.
+771 9. Comply with any other federal requirements of s. 4(a)
+772 of the GENIUS Act, Pub. L. No. 119-27, and any implementing
+773 federal regulations.
+774 (b) A qualified payment stablecoin issuer may not engage
+775 in any of the following conduct:
+Page 31 of 33
+CODING: Words stricken are deletions; words underlined are additions.
+hb175-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 175 2026
+776 1. Except as may be authorized under federal law, tying
+777 arrangements that condition access to stablecoin services on the
+778 purchase of unrelated products or services from such qualified
+779 payment stablecoin issuer or an agreement not to obtain products
+780 or services from a competitor.
+781 2. Using deceptive names, which includes, but is not
+782 limited to, any of the following:
+783 a. Using any combination of terms relating to the United
+784 States Government, except abbreviations directly related to the
+785 currency to which a payment stablecoin is pegged, such as "USD."
+786 b. Marketing a payment stablecoin in such a way that a
+787 reasonable person would perceive the payment stablecoin to be
+788 legal tender, as described in 31 U.S.C. s. 5103, issued by the
+789 United States, or guaranteed or approved by the United States
+790 Government.
+791 3. Unless authorized by federal law, paying the holder of
+792 any payment stablecoin any form of interest or yield solely in
+793 connection with holding, use, or retention of such payment
+794 stablecoin.
+795 (6) CERTIFICATION.—The office's initial certification and
+796 annual recertification submission to the federal Stablecoin
+797 Certification Review Committee pursuant to s. 560.505 must
+798 include any relevant information related to the provisions of
+799 this chapter in the office's request for certification or
+800 recertification of the state regulatory regime of payment
+Page 32 of 33
+CODING: Words stricken are deletions; words underlined are additions.
+hb175-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 175 2026
+801 stablecoins.
+802 (7) RULEMAKING.—The commission may adopt rules to
+803 administer this section as required in s. 13 of the GENIUS Act,
+804 Pub. L. No. 119-27. The commission must adopt rules relating to
+805 capital, liquidity, and risk management which are consistent
+806 with s. 4(a)(4) of the GENIUS Act, Pub. L. No. 119-27. The
+807 commission may adopt rules establishing standards for the
+808 conduct, supervision, examination, and regulation of qualified
+809 payment stablecoin issuers, including requirements relating to
+810 reserves, customer-asset protection, reporting, and compliance
+811 in order to meet the minimum requirements established by the
+812 Stablecoin Certification Review Committee.
+813 Section 13. Except as otherwise expressly provided in this
+814 act and except for this section, which shall take effect upon
+815 this act becoming a law, this act shall take effect January 1,
+816 2027.
+Page 33 of 33
+CODING: Words stricken are deletions; words underlined are additions.
+hb175-01-c1

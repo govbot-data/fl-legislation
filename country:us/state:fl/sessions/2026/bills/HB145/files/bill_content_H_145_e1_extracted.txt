@@ -1,0 +1,3394 @@
+Title: 
+Official Title: 
+Source: versions - H 145 e1
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 145, Engrossed 1 2026
+1 A bill to be entitled
+2 An act relating to claims against the government;
+3 amending s. 768.28, F.S.; increasing the statutory
+4 limits on the liability of the state and its agencies
+5 and subdivisions for tort claims; revising exceptions
+6 relating to instituting actions on tort claims against
+7 the state or one of its agencies or subdivisions;
+8 revising the period after which the failure of certain
+9 entities to make a final disposition of a claim shall
+10 be deemed a final denial of the claim for certain
+11 purposes; revising the statute of limitations for tort
+12 claims against the state or one of its agencies or
+13 subdivisions and exceptions thereto; deleting obsolete
+14 language; making technical changes; providing
+15 applicability; amending ss. 29.0081, 39.8297, 343.811,
+16 and 944.713, F.S.; conforming cross references;
+17 conforming provisions to changes made by the act;
+18 reenacting ss. 45.061(5), 95.11(6)(f), 110.504(4),
+19 111.071(1)(a), 125.01015(2)(b), 163.01(3)(h) and
+20 (15)(k), 190.043, 213.015(13), 252.51, 252.89,
+21 252.944, 260.0125(2), 284.31, 284.38, 322.13(1)(b),
+22 337.19(1), 341.302(17), 343.811(3), 351.03(4)(c),
+23 373.1395(6), 375.251(3)(a), 381.0056(9), 393.075(3),
+24 394.9085(7), 395.1055(10)(g), 403.706(17)(c),
+25 409.175(15)(b), 409.993(1), (2)(a), and (3)(a),
+Page 1 of 110
+CODING: Words stricken are deletions; words underlined are additions.
+hb145 -01-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 145, Engrossed 1 2026
+26 420.504(8), 455.221(3), 455.32(5), 456.009(3),
+27 456.076(15)(a), 471.038(3), 472.006(11)(b),
+28 497.167(7), 513.118(2), 548.046(1), 556.106(8),
+29 589.19(4)(e), 627.7491(3) and (4), 723.0611(2)(c),
+30 760.11(5), 766.1115(4), 766.112(2), 768.1355(3),
+31 768.1382(7), 768.295(4), 946.5026, 946.514(3),
+32 961.06(8), 984.09(3), 1002.33(12)(h), 1002.333(6)(b),
+33 1002.34(17), 1002.37(2), 1002.55(3)(l), 1002.83(10),
+34 1002.88(1)(p), 1006.24(1), and 1006.261(2)(b), F.S.,
+35 relating to offers of settlement; limitations other
+36 than for the recovery of real property; volunteer
+37 benefits; payment of judgments or settlements against
+38 certain public officers or employees; office of the
+39 sheriff; the Florida Interlocal Cooperation Act of
+40 1969; suits against community development districts;
+41 taxpayer rights; liability; tort liability; tort
+42 liability; limitation on liability of private
+43 landowners whose property is designated as part of the
+44 statewide system of greenways and trails; scope and
+45 types of coverages; effect of waiver of sovereign
+46 immunity; driver license examiners; suits by and
+47 against the Department of Transportation; rail
+48 program; power to assume indemnification and insurance
+49 obligations; railroad-highway grade-crossing warning
+50 signs and signals; limitation on liability of a water
+Page 2 of 110
+CODING: Words stricken are deletions; words underlined are additions.
+hb145 -01-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 145, Engrossed 1 2026
+51 management district with respect to areas made
+52 available to the public for recreational purposes
+53 without charge; limitation on liability of persons
+54 making available to the public certain areas for
+55 recreational purposes without charge; school health
+56 services program; general liability coverage;
+57 behavioral provider liability; rules and enforcement;
+58 local government solid waste responsibilities;
+59 licensure of family foster homes, residential child-
+60 caring agencies, and child-placing agencies; lead
+61 agencies and subcontractor liability; the Florida
+62 Housing Finance Corporation; legal and investigative
+63 services; the Management Privatization Act; legal and
+64 investigative services; impaired practitioner
+65 programs; the Florida Engineers Management
+66 Corporation; the Department of Agriculture and
+67 Consumer Services; administrative matters; conduct on
+68 premises and refusal of service; physician's
+69 attendance at match; liability of the member operator,
+70 excavator, and system; creation of certain state
+71 forests, naming of certain state forests, and the
+72 Operation Outdoor Freedom Program; official law
+73 enforcement vehicles and motor vehicle insurance
+74 requirements; the Florida Mobile Home Relocation
+75 Corporation; administrative and civil remedies and
+Page 3 of 110
+CODING: Words stricken are deletions; words underlined are additions.
+hb145 -01-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 145, Engrossed 1 2026
+76 construction; health care providers and creation of
+77 agency relationship with governmental contractors;
+78 comparative fault; the Florida Volunteer Protection
+79 Act; streetlights, security lights, and other similar
+80 illumination and limitation on liability; Strategic
+81 Lawsuits Against Public Participation (SLAPP)
+82 prohibited; sovereign immunity in tort actions;
+83 liability of corporation for inmate injuries;
+84 compensation for wrongful incarceration; punishment
+85 for contempt of court and alternative sanctions;
+86 charter schools; persistently low-performing schools;
+87 charter technical career centers; the Florida Virtual
+88 School; school-year prekindergarten program delivered
+89 by private prekindergarten providers; early learning
+90 coalitions; school readiness program provider
+91 standards and eligibility to deliver the school
+92 readiness program; tort liability and liability
+93 insurance; and use of school buses for public
+94 purposes, respectively, to incorporate changes made to
+95 s. 768.28, F.S., in references thereto; providing an
+96 effective date.
+97
+98 Be It Enacted by the Legislature of the State of Florida:
+99
+100 Section 1. Section 768.28, Florida Statutes, is amended to
+Page 4 of 110
+CODING: Words stricken are deletions; words underlined are additions.
+hb145 -01-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 145, Engrossed 1 2026
+101 read:
+102 768.28 Waiver of sovereign immunity in tort actions;
+103 recovery limits; civil liability for damages caused during a
+104 riot; limitation on attorney fees; statute of limitations;
+105 exclusions; indemnification; risk management programs.—
+106 (1) In accordance with s. 13, Art. X of the State
+107 Constitution, the state, for itself and for its agencies or
+108 subdivisions, hereby waives sovereign immunity for liability for
+109 torts, but only to the extent specified in this section act.
+110 Actions at law against the state or any of its agencies or
+111 subdivisions to recover damages in tort for money damages
+112 against the state or its agencies or subdivisions for injury or
+113 loss of property, personal injury, or death caused by the
+114 negligent or wrongful act or omission of any employee of the
+115 agency or subdivision while acting within the scope of the
+116 employee's office or employment under circumstances in which the
+117 state or such agency or subdivision, if a private person, would
+118 be liable to the claimant, in accordance with the general laws
+119 of this state, may be prosecuted subject to the limitations
+120 specified in this section act. Any authorized such action may be
+121 brought in the county where the property in litigation is
+122 located or, if the affected agency or subdivision has an office
+123 in the such county for the transaction of its customary
+124 business, where the cause of action accrued. However, an any
+125 such action against a state university board of trustees must
+Page 5 of 110
+CODING: Words stricken are deletions; words underlined are additions.
+hb145 -01-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 145, Engrossed 1 2026
+126 shall be brought in the county in which that university's main
+127 campus is located or in the county in which the cause of action
+128 accrued if the university maintains therein a substantial
+129 presence for the transaction of its customary business in that
+130 county.
+131 (2) As used in this act, "state agencies or subdivisions"
+132 include the executive departments, the Legislature, the judicial
+133 branch (including public defenders), and the independent
+134 establishments of the state, including state university boards
+135 of trustees; counties and municipalities; and corporations
+136 primarily acting as instrumentalities or agencies of the state,
+137 counties, or municipalities, including the Florida Space
+138 Authority.
+139 (3) Except for a municipality and the Florida Space
+140 Authority, the affected agency or subdivision may, at its
+141 discretion, request the assistance of the Department of
+142 Financial Services in the consideration, adjustment, and
+143 settlement of any claim under this section act.
+144 (4) Subject to the provisions of this section, any state
+145 agency or subdivision may shall have the right to appeal any
+146 award, compromise, settlement, or determination to the court of
+147 appropriate jurisdiction.
+148 (5)(a) The state and its agencies and subdivisions are
+149 shall be liable for tort claims in the same manner and to the
+150 same extent as a private individual under like circumstances,
+Page 6 of 110
+CODING: Words stricken are deletions; words underlined are additions.
+hb145 -01-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 145, Engrossed 1 2026
+151 but liability may shall not include punitive damages or interest
+152 for the period before judgment. Neither The state and nor its
+153 agencies or subdivisions are not shall be liable to pay a claim
+154 or a judgment by any one person which exceeds the sum of
+155 $350,000 $200,000 or any claim or judgment, or portions of a
+156 claim or judgment thereof, which, when totaled with all other
+157 claims or judgments paid by the state or its agencies or
+158 subdivisions arising out of the same incident or occurrence,
+159 exceeds the sum of $500,000 $300,000. However, a judgment or
+160 judgments may be claimed and rendered in excess of these amounts
+161 and may be settled and paid pursuant to this section act up to
+162 $350,000 $200,000 or $500,000. Any $300,000, as the case may be;
+163 and that portion of the judgment that exceeds these amounts may
+164 be reported to the Legislature, but may be paid in part or in
+165 whole only by further act of the Legislature.
+166 (b) Notwithstanding the limited waiver of sovereign
+167 immunity in paragraph (a) provided herein, the state or an
+168 agency or subdivision of the state thereof may agree, within the
+169 limits of insurance coverage provided, to settle a claim made or
+170 a judgment rendered against it without further action by the
+171 Legislature, but the state or agency or subdivision of the state
+172 may thereof shall not be deemed to have waived any defense of
+173 sovereign immunity or to have increased the limits of its
+174 liability as a result of its obtaining insurance coverage for
+175 tortious acts in excess of the $350,000 $200,000 or $500,000
+Page 7 of 110
+CODING: Words stricken are deletions; words underlined are additions.
+hb145 -01-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 145, Engrossed 1 2026
+176 $300,000 waiver in paragraph (a) provided above.
+177 (c) The limitations of liability set forth in this
+178 subsection shall apply to the state and its agencies and
+179 subdivisions whether or not the state or its agencies or
+180 subdivisions possessed sovereign immunity before July 1, 1974.
+181 (d)(b) A municipality has a duty to allow the municipal
+182 law enforcement agency to respond appropriately to protect
+183 persons and property during a riot or an unlawful assembly based
+184 on the availability of adequate equipment to its municipal law
+185 enforcement officers and relevant state and federal laws. If the
+186 governing body of a municipality or a person authorized by the
+187 governing body of the municipality breaches that duty, the
+188 municipality is civilly liable for any damages, including
+189 damages arising from personal injury, wrongful death, or
+190 property damages proximately caused by the municipality's breach
+191 of duty. The sovereign immunity recovery limits in paragraph (a)
+192 do not apply to an action under this paragraph.
+193 (6)(a) An action may not be instituted on a claim against
+194 the state or one of its agencies or subdivisions unless the
+195 claimant presents the claim in writing to the appropriate
+196 agency, and also, except as to any claim against a municipality,
+197 county, or the Florida Space Authority, presents the such claim
+198 in writing to the Department of Financial Services, within 18
+199 months 3 years after the such claim accrues and the Department
+200 of Financial Services or the appropriate agency denies the claim
+Page 8 of 110
+CODING: Words stricken are deletions; words underlined are additions.
+hb145 -01-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 145, Engrossed 1 2026
+201 in writing; except that, if:
+202 1. The Such claim is for contribution pursuant to s.
+203 768.31, it must be so presented within 6 months after the
+204 judgment against the tortfeasor seeking contribution has become
+205 final by lapse of time for appeal or after appellate review or,
+206 if there is no final such judgment, within 6 months after the
+207 tortfeasor seeking contribution has either discharged the common
+208 liability by payment or agreed, while the action is pending
+209 against her or him, to discharge the common liability; or
+210 2. The Such action arises from a violation of s. 794.011
+211 involving a victim who was younger than 16 years of age at the
+212 time of the act, the claimant may present the claim in writing
+213 at any time. This subparagraph applies to any action other than
+214 an action that would have been time barred on or before October
+215 1, 2026 is for wrongful death, the claimant must present the
+216 claim in writing to the Department of Financial Services within
+217 2 years after the claim accrues.
+218 (b) For purposes of this section, the requirements of
+219 notice to the agency and denial of the claim pursuant to
+220 paragraph (a) are conditions precedent to maintaining an action
+221 but may shall not be deemed to be elements of the cause of
+222 action and do shall not affect the date on which the cause of
+223 action accrues.
+224 (c) The claimant shall also provide to the agency the
+225 claimant's date and place of birth and social security number if
+Page 9 of 110
+CODING: Words stricken are deletions; words underlined are additions.
+hb145 -01-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 145, Engrossed 1 2026
+226 the claimant is an individual, or a federal identification
+227 number if the claimant is not an individual. The claimant shall
+228 also state the case style, tribunal, the nature and amount of
+229 all adjudicated penalties, fines, fees, victim restitution fund,
+230 and other judgments in excess of $200, whether imposed by a
+231 civil, criminal, or administrative tribunal, owed by the
+232 claimant to the state, its agency, officer or subdivision. If
+233 there exists no prior adjudicated unpaid claim in excess of
+234 $200, the claimant shall so state.
+235 (d) For purposes of this section, complete, accurate, and
+236 timely compliance with the requirements of paragraph (c) must
+237 shall occur before prior to settlement payment, close of
+238 discovery, or commencement of trial, whichever is earlier
+239 sooner; provided the ability to plead setoff is not precluded by
+240 the delay. This setoff applies shall apply only against that
+241 part of the settlement or judgment payable to the claimant,
+242 minus claimant's reasonable attorney attorney's fees and costs.
+243 Incomplete or inaccurate disclosure of unpaid adjudicated claims
+244 due the state, or, its agency, officer, or subdivision, may be
+245 excused by the court upon a showing by the preponderance of the
+246 evidence of the claimant's lack of knowledge of an adjudicated
+247 claim and reasonable inquiry by, or on behalf of, the claimant
+248 to obtain the information from public records. Unless the
+249 appropriate agency had actual notice of the information required
+250 to be disclosed by paragraph (c) in time to assert a setoff, an
+Page 10 of 110
+CODING: Words stricken are deletions; words underlined are additions.
+hb145 -01-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 145, Engrossed 1 2026
+251 unexcused failure to disclose shall, upon hearing and order of
+252 court, cause the claimant to be liable for double the original
+253 undisclosed judgment and, upon further motion, the court shall
+254 enter judgment for the agency in that amount. Except as provided
+255 otherwise in this subsection, the failure of the Department of
+256 Financial Services or the appropriate agency to make final
+257 disposition of a claim within 4 6 months after it is filed shall
+258 be deemed a final denial of the claim for purposes of this
+259 section. For purposes of this subsection, in medical malpractice
+260 actions and in wrongful death actions, the failure of the
+261 Department of Financial Services or the appropriate agency to
+262 make final disposition of a claim within 90 days after it is
+263 filed shall be deemed a final denial of the claim. The statute
+264 of limitations for medical malpractice actions and wrongful
+265 death actions is tolled as to all prospective defendants for the
+266 period of time taken by the Department of Financial Services or
+267 the appropriate agency to deny the claim. The provisions of This
+268 subsection does do not apply to such claims that as may be
+269 asserted by counterclaim pursuant to s. 768.14.
+270 (7) In actions brought pursuant to this section, process
+271 must shall be served upon the head of the agency concerned and
+272 also, except as to a defendant municipality, county, or the
+273 Florida Space Authority, upon the Department of Financial
+274 Services.; and The department or the agency served has concerned
+275 shall have 30 days within which to file responsive pleadings
+Page 11 of 110
+CODING: Words stricken are deletions; words underlined are additions.
+hb145 -01-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 145, Engrossed 1 2026
+276 plead thereto.
+277 (8) An No attorney may not charge, demand, receive, or
+278 collect, for services rendered, fees in excess of 25 percent of
+279 any funds recovered as a result of judgment or settlement.
+280 (9)(a) An officer, employee, or agent of the state or of
+281 any of its subdivisions may not be held personally liable in
+282 tort or named as a party defendant in any action for any injury
+283 or damage suffered as a result of any act, event, or omission of
+284 action in the scope of her or his employment or function, unless
+285 the such officer, employee, or agent acted in bad faith or with
+286 malicious purpose or in a manner exhibiting wanton and willful
+287 disregard of human rights, safety, or property. However, the
+288 such officer, employee, or agent shall be considered an adverse
+289 witness in a tort action for any injury or damage suffered as a
+290 result of any act, event, or omission of action in the scope of
+291 her or his employment or function. The exclusive remedy for
+292 injury or damage suffered as a result of an act, event, or
+293 omission of an officer, employee, or agent of the state or any
+294 of its subdivisions or constitutional officers is by action
+295 against the governmental entity, or the head of such entity in
+296 her or his official capacity, or the constitutional officer of
+297 which the officer, employee, or agent is an employee, unless the
+298 such act or omission was committed in bad faith or with
+299 malicious purpose or in a manner exhibiting wanton and willful
+300 disregard of human rights, safety, or property. The state or its
+Page 12 of 110
+CODING: Words stricken are deletions; words underlined are additions.
+hb145 -01-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 145, Engrossed 1 2026
+301 subdivisions are not liable in tort for the acts or omissions of
+302 an officer, employee, or agent committed while acting outside
+303 the course and scope of her or his employment or committed in
+304 bad faith or with malicious purpose or in a manner exhibiting
+305 wanton and willful disregard of human rights, safety, or
+306 property.
+307 (b) As used in this subsection, the term:
+308 1. "Employee" includes any volunteer firefighter.
+309 2. "Officer, employee, or agent" includes, but is not
+310 limited to, any health care provider when providing services
+311 pursuant to s. 766.1115; any nonprofit independent college or
+312 university located and chartered in this state which owns or
+313 operates an accredited medical school, and its employees or
+314 agents, when providing patient services pursuant to paragraph
+315 (10)(f); any public defender or her or his employee or agent,
+316 including an assistant public defender or an investigator; and
+317 any member of a Child Protection Team, as defined in s. 39.01,
+318 or any member of a threat management team, as described in s.
+319 1006.07(7), when carrying out her or his duties as a team member
+320 under the control, direction, and supervision of the state or
+321 any of its agencies or subdivisions.
+322 (c) For purposes of the waiver of sovereign immunity only,
+323 a member of the Florida National Guard is not acting within the
+324 scope of state employment when performing duty under the
+325 provisions of Title 10 or Title 32 of the United States Code or
+Page 13 of 110
+CODING: Words stricken are deletions; words underlined are additions.
+hb145 -01-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 145, Engrossed 1 2026
+326 other applicable federal law; and neither the state or nor any
+327 individual may not be named in any action under this chapter
+328 arising from the performance of such federal duty.
+329 (d) The employing agency of a law enforcement officer as
+330 defined in s. 943.10 is not liable for injury, death, or
+331 property damage effected or caused by a person fleeing from a
+332 law enforcement officer in a motor vehicle if:
+333 1. The pursuit is conducted in a manner that does not
+334 involve conduct by the officer which is so reckless or wanting
+335 in care as to constitute disregard of human life, human rights,
+336 safety, or the property of another;
+337 2. At the time the law enforcement officer initiates the
+338 pursuit, the officer reasonably believes that the person fleeing
+339 has committed a forcible felony as defined in s. 776.08; and
+340 3. The pursuit is conducted by the officer pursuant to a
+341 written policy governing high-speed pursuit adopted by the
+342 employing agency. The policy must contain specific procedures
+343 concerning the proper method to initiate and terminate high-
+344 speed pursuit. The law enforcement officer must have received
+345 instructional training from the employing agency on the written
+346 policy governing high-speed pursuit.
+347 (10)(a) Health care providers or vendors, or any of their
+348 employees or agents, that have contractually agreed to act as
+349 agents of the Department of Corrections to provide health care
+350 services to inmates of the state correctional system shall be
+Page 14 of 110
+CODING: Words stricken are deletions; words underlined are additions.
+hb145 -01-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 145, Engrossed 1 2026
+351 considered agents of the State of Florida, Department of
+352 Corrections, for the purposes of this section, while acting
+353 within the scope of and pursuant to guidelines established in
+354 their contracts said contract or by rule. The contracts must
+355 shall provide for the indemnification of the state by the agent
+356 for any liabilities incurred up to the limits set out in this
+357 chapter.
+358 (b) This subsection may shall not be construed as
+359 designating persons providing contracted health care services to
+360 inmates as employees or agents of the state for the purposes of
+361 chapter 440.
+362 (c) For purposes of this section, regional poison control
+363 centers created in accordance with s. 395.1027 and coordinated
+364 and supervised under the Division of Children's Medical Services
+365 Prevention and Intervention of the Department of Health, or any
+366 of their employees or agents, shall be considered agents of the
+367 State of Florida, Department of Health. Any contracts with
+368 poison control centers must provide, to the extent permitted by
+369 law, for the indemnification of the state by the agency for any
+370 liabilities incurred up to the limits set out in this chapter.
+371 (d) For the purposes of this section, operators,
+372 dispatchers, and providers of security for rail services and
+373 rail facility maintenance providers in the South Florida Rail
+374 Corridor, or any of their employees or agents, performing such
+375 services under contract with and on behalf of the South Florida
+Page 15 of 110
+CODING: Words stricken are deletions; words underlined are additions.
+hb145 -01-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 145, Engrossed 1 2026
+376 Regional Transportation Authority or the Department of
+377 Transportation shall be considered agents of the state while
+378 acting within the scope of and pursuant to guidelines
+379 established in their contracts said contract or by rule.
+380 (e) For purposes of this section, a professional firm that
+381 provides monitoring and inspection services of the work required
+382 for state roadway, bridge, or other transportation facility
+383 construction projects, or any employee of a firm performing
+384 those such services, is considered an agent of the Department of
+385 Transportation while acting within the scope of the firm's
+386 contract with the Department of Transportation to ensure that
+387 the project is constructed in conformity with the project's
+388 plans, specifications, and contract provisions. This paragraph
+389 applies to a professional firm that is in direct contract with
+390 the Department of Transportation, as well as any professional
+391 firm providing monitoring and inspection services as a
+392 consultant to the professional firm that is in direct contract
+393 with the Department of Transportation. Any contract with a
+394 professional firm must, to the extent permitted by law, provide
+395 for the indemnification of the Department of Transportation for
+396 any liability, including reasonable attorney fees, incurred up
+397 to the limits set out in this chapter to the extent caused by
+398 the negligence of the firm or its employees. This paragraph may
+399 not be construed as designating persons who provide monitoring
+400 and inspection services as employees or agents of the state for
+Page 16 of 110
+CODING: Words stricken are deletions; words underlined are additions.
+hb145 -01-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 145, Engrossed 1 2026
+401 purposes of chapter 440. This paragraph is not applicable to the
+402 professional firm or its employees if involved in an accident
+403 while operating a motor vehicle. This paragraph is not
+404 applicable to a firm engaged by the Department of Transportation
+405 for the design or construction of a state roadway, bridge, or
+406 other transportation facility construction project or to its
+407 employees, agents, or subcontractors.
+408 (f) For purposes of this section, any nonprofit
+409 independent college or university located and chartered in this
+410 state which owns or operates an accredited medical school, or
+411 any of its employees or agents, and which has agreed in an
+412 affiliation agreement or other contract to provide, or permit
+413 its employees or agents to provide, patient services as agents
+414 of a teaching hospital, is considered an agent of the teaching
+415 hospital while acting within the scope of and pursuant to
+416 guidelines established in the affiliation agreement or other
+417 contract. To the extent allowed by law, the contract must
+418 provide for the indemnification of the teaching hospital, up to
+419 the limits set out in this chapter, by the agent for any
+420 liability incurred which was caused by the negligence of the
+421 college or university or its employees or agents. The contract
+422 must also provide that those limited portions of the college,
+423 university, or medical school which are directly providing
+424 services pursuant to the contract and which are considered an
+425 agent of the teaching hospital for purposes of this section are
+Page 17 of 110
+CODING: Words stricken are deletions; words underlined are additions.
+hb145 -01-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 145, Engrossed 1 2026
+426 deemed to be acting on behalf of a public agency as defined in
+427 s. 119.011(2).
+428 1. For purposes of this paragraph, the term:
+429 a. "Employee or agent" means an officer, employee, agent,
+430 or servant of a nonprofit independent college or university
+431 located and chartered in this state which owns or operates an
+432 accredited medical school, including, but not limited to, the
+433 faculty of the medical school, any health care practitioner or
+434 licensee as defined in s. 456.001 for which the college or
+435 university is vicariously liable, and the staff or
+436 administrators of the medical school.
+437 b. "Patient services" means:
+438 (I) Comprehensive health care services as defined in s.
+439 641.19, including any related administrative service, provided
+440 to patients in a teaching hospital;
+441 (II) Training and supervision of interns, residents, and
+442 fellows providing patient services in a teaching hospital; or
+443 (III) Training and supervision of medical students in a
+444 teaching hospital.
+445 c. "Teaching hospital" means a teaching hospital as
+446 defined in s. 408.07 which is owned or operated by the state, a
+447 county or municipality, a public health trust, a special taxing
+448 district, a governmental entity having health care
+449 responsibilities, or a not-for-profit entity that operates such
+450 facility as an agent of the state, or a political subdivision of
+Page 18 of 110
+CODING: Words stricken are deletions; words underlined are additions.
+hb145 -01-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 145, Engrossed 1 2026
+451 the state, under a lease or other contract.
+452 2. The teaching hospital or the medical school, or its
+453 employees or agents, must provide notice to each patient, or the
+454 patient's legal representative, that the college or university
+455 that owns or operates the medical school and the employees or
+456 agents of that college or university are acting as agents of the
+457 teaching hospital and that the exclusive remedy for injury or
+458 damage suffered as the result of any act or omission of the
+459 teaching hospital, the college or university that owns or
+460 operates the medical school, or the employees or agents of the
+461 college or university, while acting within the scope of duties
+462 pursuant to the affiliation agreement or other contract with a
+463 teaching hospital, is by commencement of an action pursuant to
+464 the provisions of this section. This notice requirement may be
+465 met by posting the notice in a place conspicuous to all persons.
+466 3. This paragraph does not designate any employee
+467 providing contracted patient services in a teaching hospital as
+468 an employee or agent of the state for purposes of chapter 440.
+469 (g) For the purposes of this section, the executive
+470 director of the Board of Nursing, when serving as the state
+471 administrator of the Nurse Licensure Compact pursuant to s.
+472 464.0095, and any administrator, officer, executive director,
+473 employee, or representative of the Interstate Commission of
+474 Nurse Licensure Compact Administrators, when acting within the
+475 scope of their employment, duties, or responsibilities in this
+Page 19 of 110
+CODING: Words stricken are deletions; words underlined are additions.
+hb145 -01-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 145, Engrossed 1 2026
+476 state, are considered agents of the state. The commission shall
+477 pay any claims or judgments pursuant to this section and may
+478 maintain insurance coverage to pay any such claims or judgments.
+479 (h) For purposes of this section, the individual appointed
+480 under s. 491.004(8) as the state's delegate on the Counseling
+481 Compact Commission, when serving in that capacity pursuant to s.
+482 491.017, and any administrator, officer, executive director,
+483 employee, or representative of the commission, when acting
+484 within the scope of his or her employment, duties, or
+485 responsibilities in this state, is considered an agent of the
+486 state. The commission shall pay any claims or judgments pursuant
+487 to this section and may maintain insurance coverage to pay those
+488 any such claims or judgments.
+489 (i) For purposes of this section, the individual appointed
+490 under s. 490.004(7) as the state's commissioner on the
+491 Psychology Interjurisdictional Compact Commission, when serving
+492 in that capacity pursuant to s. 490.0075, and any administrator,
+493 officer, executive director, employee, or representative of the
+494 Psychology Interjurisdictional Compact Commission, when acting
+495 within the scope of his or her employment, duties, or
+496 responsibilities in this state, is considered an agent of the
+497 state. The commission shall pay any claims or judgments pursuant
+498 to this section and may maintain insurance coverage to pay those
+499 any such claims or judgments.
+500 (j) For purposes of this section, the representative
+Page 20 of 110
+CODING: Words stricken are deletions; words underlined are additions.
+hb145 -01-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 145, Engrossed 1 2026
+501 appointed from the Board of Medicine and the representative
+502 appointed from the Board of Osteopathic Medicine, when serving
+503 as commissioners of the Interstate Medical Licensure Compact
+504 Commission pursuant to s. 456.4501, and any administrator,
+505 officer, executive director, employee, or representative of the
+506 Interstate Medical Licensure Compact Commission, when acting
+507 within the scope of their employment, duties, or
+508 responsibilities in this state, are considered agents of the
+509 state. The commission shall pay any claims or judgments pursuant
+510 to this section and may maintain insurance coverage to pay those
+511 any such claims or judgments.
+512 (k) For purposes of this section, the individuals
+513 appointed under s. 468.1135(4) as the state's delegates on the
+514 Audiology and Speech-Language Pathology Interstate Compact
+515 Commission, when serving in that capacity pursuant to s.
+516 468.1335, and any administrator, officer, executive director,
+517 employee, or representative of the commission, when acting
+518 within the scope of his or her employment, duties, or
+519 responsibilities in this state, is considered an agent of the
+520 state. The commission shall pay any claims or judgments pursuant
+521 to this section and may maintain insurance coverage to pay those
+522 any such claims or judgments.
+523 (l) For purposes of this section, the individual appointed
+524 under s. 486.023(5) as the state's delegate on the Physical
+525 Therapy Compact Commission, when serving in that capacity
+Page 21 of 110
+CODING: Words stricken are deletions; words underlined are additions.
+hb145 -01-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 145, Engrossed 1 2026
+526 pursuant to s. 486.112, and any administrator, officer,
+527 executive director, employee, or representative of the Physical
+528 Therapy Compact Commission, when acting within the scope of his
+529 or her employment, duties, or responsibilities in this state, is
+530 considered an agent of the state. The commission shall pay any
+531 claims or judgments pursuant to this section and may maintain
+532 insurance coverage to pay those any such claims or judgments.
+533 (11)(a) Providers or vendors, or any of their employees or
+534 agents, that have contractually agreed to act on behalf of the
+535 state as agents of the Department of Juvenile Justice to provide
+536 services to children in need of services, families in need of
+537 services, or juvenile offenders are, solely with respect to such
+538 services, agents of the state for purposes of this section while
+539 acting within the scope of and pursuant to guidelines
+540 established in the contract or by rule. A contract must provide
+541 for the indemnification of the state by the agent for any
+542 liabilities incurred up to the limits set out in this chapter.
+543 (b) This subsection does not designate a person who
+544 provides contracted services to juvenile offenders as an
+545 employee or agent of the state for purposes of chapter 440.
+546 (12)(a) A health care practitioner, as defined in s.
+547 456.001(4), who has contractually agreed to act as an agent of a
+548 state university board of trustees to provide medical services
+549 to a student athlete for participation in or as a result of
+550 intercollegiate athletics, to include team practices, training,
+Page 22 of 110
+CODING: Words stricken are deletions; words underlined are additions.
+hb145 -01-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 145, Engrossed 1 2026
+551 and competitions, shall be considered an agent of the respective
+552 state university board of trustees, for the purposes of this
+553 section, while acting within the scope of and pursuant to
+554 guidelines established in that contract. The contracts must
+555 shall provide for the indemnification of the state by the agent
+556 for any liabilities incurred up to the limits set out in this
+557 chapter.
+558 (b) This subsection may shall not be construed as
+559 designating persons providing contracted health care services to
+560 athletes as employees or agents of a state university board of
+561 trustees for the purposes of chapter 440.
+562 (13) Laws allowing the state or its agencies or
+563 subdivisions to buy insurance are still in force and effect and
+564 are not restricted in any way by the terms of this section act.
+565 (14) A Every claim against the state or one of its
+566 agencies or subdivisions for damages for a negligent or wrongful
+567 act or omission pursuant to this section is shall be forever
+568 barred unless the civil action is commenced by filing a
+569 complaint in the court of appropriate jurisdiction:
+570 (a) Within 2 years for an action founded on negligence.
+571 (b) Within the limitations provided in s. 768.31(4) for an
+572 action for contribution.
+573 (c) Within the limitations provided in s. 95.11(5) for an
+574 action for damages arising from medical malpractice or wrongful
+575 death.
+Page 23 of 110
+CODING: Words stricken are deletions; words underlined are additions.
+hb145 -01-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 145, Engrossed 1 2026
+576 (d) At any time for an action arising from an act
+577 constituting a violation of s. 794.011 involving a victim who
+578 was under the age of 16 years at the time of the act. This
+579 paragraph applies to any such action other than an action that
+580 would have been time barred on or before October 1, 2026.
+581 (e) Within 4 years for any other action not specified in
+582 this subsection 4 years after the such claim accrues; except
+583 that an action for contribution must be commenced within the
+584 limitations provided in s. 768.31(4), and an action for damages
+585 arising from medical malpractice or wrongful death must be
+586 commenced within the limitations for such actions in s.
+587 95.11(5).
+588 (15) An No action may not be brought against the state or
+589 any of its agencies or subdivisions by anyone who unlawfully
+590 participates in a riot, unlawful assembly, public demonstration,
+591 mob violence, or civil disobedience if the claim arises out of
+592 the such riot, unlawful assembly, public demonstration, mob
+593 violence, or civil disobedience. Nothing in This subsection does
+594 not act shall abridge traditional immunities pertaining to
+595 statements made in court.
+596 (16)(a) The state and its agencies and subdivisions are
+597 authorized to be self-insured, to enter into risk management
+598 programs, or to purchase liability insurance for whatever
+599 coverage they may choose, or to have any combination thereof, in
+600 anticipation of any claim, judgment, and claims bill that which
+Page 24 of 110
+CODING: Words stricken are deletions; words underlined are additions.
+hb145 -01-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 145, Engrossed 1 2026
+601 they may be liable to pay pursuant to this section. Agencies or
+602 subdivisions, and sheriffs, that are subject to homogeneous
+603 risks may purchase insurance jointly or may join together as
+604 self-insurers to provide other means of protection against tort
+605 claims, any charter provisions or laws to the contrary
+606 notwithstanding.
+607 (b) Claims files maintained by any risk management program
+608 administered by the state, its agencies, and its subdivisions
+609 are confidential and exempt from the provisions of s. 119.07(1)
+610 and s. 24(a), Art. I of the State Constitution until termination
+611 of all litigation and settlement of all claims arising out of
+612 the same incident, although portions of the claims files may
+613 remain exempt, as otherwise provided by law. Claims files
+614 records may be released to other governmental agencies upon
+615 written request and demonstration of need. Any; such records
+616 held by the receiving agency remain confidential and exempt as
+617 provided for in this paragraph.
+618 (c) Portions of meetings and proceedings conducted
+619 pursuant to any risk management program administered by the
+620 state, its agencies, or its subdivisions, which relate solely to
+621 the evaluation of claims filed with the risk management program
+622 or which relate solely to offers of compromise of claims filed
+623 with the risk management program are exempt from the provisions
+624 of s. 286.011 and s. 24(b), Art. I of the State Constitution.
+625 Until termination of all litigation and settlement of all claims
+Page 25 of 110
+CODING: Words stricken are deletions; words underlined are additions.
+hb145 -01-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 145, Engrossed 1 2026
+626 arising out of the same incident, persons privy to discussions
+627 pertinent to the evaluation of a filed claim are shall not be
+628 subject to subpoena in any administrative or civil proceeding
+629 with regard to the content of those discussions.
+630 (d) Minutes of the meetings and proceedings of any risk
+631 management program administered by the state, its agencies, or
+632 its subdivisions, which relate solely to the evaluation of
+633 claims filed with the risk management program or which relate
+634 solely to offers of compromise of claims filed with the risk
+635 management program are exempt from the provisions of s.
+636 119.07(1) and s. 24(a), Art. I of the State Constitution until
+637 termination of all litigation and settlement of all claims
+638 arising out of the same incident.
+639 (17) This section, as amended by chapter 81-317, Laws of
+640 Florida, shall apply only to causes of actions which accrue on
+641 or after October 1, 1981.
+642 (18) A No provision of this section, or of any other
+643 section of the Florida Statutes, whether read separately or in
+644 conjunction with any other provision, may not shall be construed
+645 to waive the immunity of the state or any of its agencies from
+646 suit in federal court, as that such immunity is guaranteed by
+647 the Eleventh Amendment to the Constitution of the United States,
+648 unless the such waiver is explicitly and definitely stated to be
+649 a waiver of the immunity of the state and its agencies from suit
+650 in federal court. This subsection may shall not be construed to
+Page 26 of 110
+CODING: Words stricken are deletions; words underlined are additions.
+hb145 -01-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 145, Engrossed 1 2026
+651 mean that the state has at any time previously waived, by
+652 implication, its immunity, or that of any of its agencies, from
+653 suit in federal court through any statute in existence before
+654 prior to June 24, 1984.
+655 (18)(19) Neither The state or an nor any agency or
+656 subdivision of the state does not waive waives any defense of
+657 sovereign immunity, or increase increases the limits of its
+658 liability, upon entering into a contract contractual
+659 relationship with another agency or subdivision of the state.
+660 The Such a contract may must not contain any provision that
+661 requires one party to indemnify or insure the other party for
+662 the other party's negligence or to assume any liability for the
+663 other party's negligence. This does not preclude a party from
+664 requiring a nongovernmental entity to provide such
+665 indemnification or insurance. The restrictions of this
+666 subsection do not prohibit prevent a regional water supply
+667 authority from indemnifying and assuming the liabilities of its
+668 member governments for obligations arising from past acts or
+669 omissions at or with property acquired from a member government
+670 by the authority and arising from the acts or omissions of the
+671 authority in performing activities contemplated by an interlocal
+672 agreement. The Such indemnification may not be considered to
+673 increase or otherwise waive the limits of liability to third-
+674 party claimants established by this section.
+675 (19)(20) Every municipality, and any of its agencies
+Page 27 of 110
+CODING: Words stricken are deletions; words underlined are additions.
+hb145 -01-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 145, Engrossed 1 2026
+676 agency thereof, may is authorized to undertake to indemnify
+677 those employees who that are exposed to personal liability
+678 pursuant to the Clean Air Act Amendments of 1990, 42 U.S.C.A.
+679 ss. 7401 et seq., and all rules and regulations adopted to
+680 implement that act, for acts performed within the course and
+681 scope of their employment with the municipality or its agency,
+682 including, but not limited to, indemnification pertaining to the
+683 holding, transfer, or disposition of allowances allocated to the
+684 municipality's or its agency's electric generating units, and
+685 the monitoring, submission, certification, and compliance with
+686 permits, permit applications, records, compliance plans, and
+687 reports for those units, when those such acts are performed
+688 within the course and scope of their employment with the
+689 municipality or its agency. The authority to indemnify under
+690 this section covers every act by an employee which is when such
+691 act is performed within the course and scope of her or his
+692 employment with the municipality or its agency, but does not
+693 cover any act of willful misconduct or any intentional or
+694 knowing violation of any law by the employee. The authority to
+695 indemnify under this section includes, but is not limited to,
+696 the authority to pay any fine and provide legal representation
+697 in any action.
+698 Section 2. This act applies to causes of action that
+699 accrue on or after October 1, 2026.
+700 Section 3. Paragraph (b) of subsection (2) of section
+Page 28 of 110
+CODING: Words stricken are deletions; words underlined are additions.
+hb145 -01-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 145, Engrossed 1 2026
+701 29.0081, Florida Statutes, is amended to read:
+702 29.0081 County funding of additional court personnel.—
+703 (2) The agreement shall, at a minimum, provide that:
+704 (b) The personnel whose employment is funded under the
+705 agreement are hired, supervised, managed, and fired by personnel
+706 of the judicial circuit. The county shall be considered the
+707 employer for purposes of s. 440.10 and chapter 443. Employees
+708 funded by the county under this section and other county
+709 employees may be aggregated for purposes of a flexible benefits
+710 plan pursuant to s. 125 of the Internal Revenue Code of 1986.
+711 The judicial circuit shall supervise the personnel whose
+712 employment is funded under the agreement; be responsible for
+713 compliance with all requirements of federal and state employment
+714 laws, including, but not limited to, Title VII of the Civil
+715 Rights Act of 1964, Title I of the Americans with Disabilities
+716 Act, 42 U.S.C. s. 1983, the Family Medical Leave Act, the Fair
+717 Labor Standards Act, chapters 447 and 760, and ss. 112.3187,
+718 440.105, and 440.205; and fully indemnify the county from any
+719 liability under such laws, as authorized by s. 768.28(18) s.
+720 768.28(19), to the extent such liability is the result of the
+721 acts or omissions of the judicial circuit or its agents or
+722 employees.
+723 Section 4. Paragraph (b) of subsection (2) of section
+724 39.8297, Florida Statutes, is amended to read:
+725 39.8297 County funding for guardian ad litem employees.—
+Page 29 of 110
+CODING: Words stricken are deletions; words underlined are additions.
+hb145 -01-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 145, Engrossed 1 2026
+726 (2) The agreement, at a minimum, must provide that:
+727 (b) The persons who are employed will be hired,
+728 supervised, managed, and terminated by the executive director of
+729 the Statewide Guardian ad Litem Office. The statewide office is
+730 responsible for compliance with all requirements of federal and
+731 state employment laws, and shall fully indemnify the county from
+732 any liability under such laws, as authorized by s. 768.28(18) s.
+733 768.28(19), to the extent such liability is the result of the
+734 acts or omissions of the Statewide Guardian ad Litem Office or
+735 its agents or employees.
+736 Section 5. Paragraph (a) of subsection (3) of section
+737 343.811, Florida Statutes, is amended to read:
+738 343.811 Power to assume indemnification and insurance
+739 obligations.—
+740 (3) ASSUMPTION OF OBLIGATIONS; PURCHASE OF INSURANCE.—In
+741 conjunction with the development or operation of a commuter rail
+742 service on the Coastal Link corridor, an agency may:
+743 (a) Assume obligations pursuant to the following:
+744 1.a. The agency may assume the obligation by contract to
+745 protect, defend, indemnify, and hold harmless FECR and its
+746 officers, agents, and employees from and against:
+747 (I) Any liability, cost, and expense, including, but not
+748 limited to, the agency's passengers and other rail corridor
+749 invitees in, on, or about the Coastal Link corridor, regardless
+750 of whether the loss, damage, destruction, injury, or death
+Page 30 of 110
+CODING: Words stricken are deletions; words underlined are additions.
+hb145 -01-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 145, Engrossed 1 2026
+751 giving rise to any such liability, cost, or expense is caused in
+752 whole or in part, and to whatever nature or degree, by the
+753 fault, failure, negligence, misconduct, nonfeasance, or
+754 misfeasance of such freight rail operator, its successors, or
+755 its officers, agents, and employees, or any other person or
+756 persons whomsoever.
+757 (II) Any loss, injury, or damage incurred by other rail
+758 corridor invitees up to the amount of the self-insurance
+759 retention amount with respect to limited covered accidents
+760 caused by the agency.
+761 b. The agency may assume the obligation by contract to
+762 protect, defend, indemnify, and hold harmless Brightline and its
+763 officers, agents, and employees from and against:
+764 (I) Any liability, cost, and expense, including, but not
+765 limited to, the agency's passengers and rail corridor invitees
+766 in the Coastal Link corridor, regardless of whether the loss,
+767 damage, destruction, injury, or death giving rise to any such
+768 liability, cost, or expense is caused in whole or in part, and
+769 to whatever nature or degree, by the fault, failure, negligence,
+770 misconduct, nonfeasance, or misfeasance of Brightline, its
+771 successors, or its officers, agents, and employees, or any other
+772 person or persons whomsoever.
+773 (II) Any loss, injury, or damage incurred by other rail
+774 corridor invitees up to the amount of the self-insurance
+775 retention amount with respect to limited covered accidents
+Page 31 of 110
+CODING: Words stricken are deletions; words underlined are additions.
+hb145 -01-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 145, Engrossed 1 2026
+776 caused by the agency.
+777 2. The assumption of liability of the agency by contract
+778 pursuant to sub-subparagraph 1.a. or sub-subparagraph 1.b. may
+779 not in any instance exceed the following parameters of
+780 allocation of risk:
+781 a. The agency may be solely responsible for any loss,
+782 injury, or damage to the agency's passengers, or rail corridor
+783 invitees, third parties, or trespassers, regardless of
+784 circumstances or cause, subject to sub-subparagraph b. and
+785 subparagraphs 3., 4., and 5.
+786 b.(I) In the event of a limited covered accident caused by
+787 FECR, the authority of an agency to protect, defend, and
+788 indemnify FECR for all liability, cost, and expense, including
+789 punitive or exemplary damages, in excess of the self-insurance
+790 retention amount exists only if FECR agrees, with respect to
+791 such limited covered accident caused by FECR, to protect,
+792 defend, and indemnify the agency for the amount of the self-
+793 insurance retention amount.
+794 (II) In the event of a limited covered accident caused by
+795 Brightline, the authority of an agency to protect, defend, and
+796 indemnify Brightline for all liability, cost, and expense,
+797 including punitive or exemplary damages, in excess of the self-
+798 insurance retention amount exists only if Brightline agrees,
+799 with respect to such limited covered accident, to protect,
+800 defend, and indemnify the agency for the amount of the self-
+Page 32 of 110
+CODING: Words stricken are deletions; words underlined are additions.
+hb145 -01-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 145, Engrossed 1 2026
+801 insurance retention amount.
+802 3. When only one train is involved in an incident and:
+803 a. The train is an agency's train, including an incident
+804 with trespassers or at-grade crossings, the agency may be solely
+805 responsible for any loss, injury, or damage.
+806 b. The train is FECR's train, including an incident with
+807 trespassers or at-grade crossings, FECR is solely responsible
+808 for any loss, injury, or damage, except for the agency's
+809 passengers and other rail corridor invitees, which are the
+810 responsibility of the agency, and Brightline's passengers and
+811 other rail corridor invitees, which are the responsibility of
+812 Brightline.
+813 c. The train is Brightline's train, including an incident
+814 with trespassers or at-grade crossings, Brightline is solely
+815 responsible for any loss, injury, or damage, except for the
+816 agency's passengers or rail corridor invitees, which are the
+817 responsibility of the agency, and FECR's rail corridor invitees,
+818 which are the responsibility of FECR.
+819 4. When an incident involves more than one operator, each
+820 operator is responsible for:
+821 a. Its property; passengers; employees, excluding
+822 employees who are, at the time of the incident, rail corridor
+823 invitees of another operator; and other rail corridor invitees.
+824 b. Its proportionate share of any loss or damage to the
+825 joint infrastructure.
+Page 33 of 110
+CODING: Words stricken are deletions; words underlined are additions.
+hb145 -01-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 145, Engrossed 1 2026
+826 c. Its proportionate share of any loss, injury, or damage
+827 to:
+828 (I) Rail corridor invitees who are not rail corridor
+829 invitees of operators, provided that the agency shall always be
+830 responsible for its passengers and its rail corridor invitees
+831 regardless of whether the agency was involved in the incident.
+832 (II) Trespassers or third parties outside the Coastal Link
+833 corridor as a result of the incident.
+834 5. Any such contractual duty to protect, defend,
+835 indemnify, and hold harmless FECR or Brightline with respect to
+836 claims by rail passengers shall expressly include a specific cap
+837 on the amount of the contractual duty, which amount may not
+838 exceed $323 million per occurrence and shall be adjusted so that
+839 the per-occurrence insurance requirement is equal to the
+840 aggregate allowable awards to all rail passengers, against all
+841 defendants, for all claims, including claims for punitive
+842 damages, arising from a single accident or incident in
+843 accordance with 49 U.S.C. s. 28103, or any successor provision,
+844 without prior legislative approval.
+845 6. Notwithstanding any provision of this section to the
+846 contrary, the liabilities of the agency to the state or any
+847 other agency shall be as set forth in an agreement among such
+848 entities and limited by s. 768.28(18) s. 768.28(19).
+849
+850 Neither the assumption by contract to protect, defend,
+Page 34 of 110
+CODING: Words stricken are deletions; words underlined are additions.
+hb145 -01-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 145, Engrossed 1 2026
+851 indemnify, and hold harmless; the purchase of insurance; nor the
+852 establishment of a self-insurance retention fund shall be deemed
+853 to be a waiver of any defense of sovereign immunity for tort
+854 claims or deemed to increase the limits of the agency's
+855 liability for tort claims as provided in s. 768.28.
+856 Section 6. Subsection (2) of section 944.713, Florida
+857 Statutes, is amended to read:
+858 944.713 Insurance against liability.—
+859 (2) The contract shall provide for indemnification of the
+860 state by the private vendor for any liabilities incurred up to
+861 the limits provided under s. 768.28(5). The contract shall
+862 provide that the private vendor, or the insurer of the private
+863 vendor, is liable to pay any claim or judgment for any one
+864 person which does not exceed the applicable maximum amount
+865 provided in s. 768.28(5) sum of $100,000 or any claim or
+866 judgment, or portions thereof, which, when totaled with all
+867 other claims or judgments arising out of the same incident or
+868 occurrence, does not exceed the sum of $200,000. In addition,
+869 the contractor must agree to defend, hold harmless, and
+870 indemnify the department against any and all actions, claims,
+871 damages and losses, including costs and attorney's fees.
+872 Section 7. For the purpose of incorporating the amendment
+873 made by this act to section 768.28, Florida Statutes, in a
+874 reference thereto, subsection (5) of section 45.061, Florida
+875 Statutes, is reenacted to read:
+Page 35 of 110
+CODING: Words stricken are deletions; words underlined are additions.
+hb145 -01-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 145, Engrossed 1 2026
+876 45.061 Offers of settlement.—
+877 (5) Sanctions authorized under this section may be imposed
+878 notwithstanding any limitation on recovery of costs or expenses
+879 which may be provided by contract or in other provisions of
+880 Florida law. This section shall not be construed to waive the
+881 limits of sovereign immunity set forth in s. 768.28.
+882 Section 8. For the purpose of incorporating the amendment
+883 made by this act to section 768.28, Florida Statutes, in a
+884 reference thereto, paragraph (f) of subsection (6) of section
+885 95.11, Florida Statutes, is reenacted to read:
+886 95.11 Limitations other than for the recovery of real
+887 property.—Actions other than for recovery of real property shall
+888 be commenced as follows:
+889 (6) WITHIN ONE YEAR.—
+890 (f) Except for actions described in subsection (9), or a
+891 petition challenging a criminal conviction, all petitions;
+892 extraordinary writs; tort actions, including those under s.
+893 768.28(14); or other actions which concern any condition of
+894 confinement of a prisoner filed by or on behalf of a prisoner as
+895 defined in s. 57.085. Any petition, writ, or action brought
+896 under this paragraph must be commenced within 1 year after the
+897 time the incident, conduct, or conditions occurred or within 1
+898 year after the time the incident, conduct, or conditions were
+899 discovered, or should have been discovered.
+900 Section 9. For the purpose of incorporating the amendment
+Page 36 of 110
+CODING: Words stricken are deletions; words underlined are additions.
+hb145 -01-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 145, Engrossed 1 2026
+901 made by this act to section 768.28, Florida Statutes, in a
+902 reference thereto, subsection (4) of section 110.504, Florida
+903 Statutes, is reenacted to read:
+904 110.504 Volunteer benefits.—
+905 (4) Volunteers shall be covered by state liability
+906 protection in accordance with the definition of a volunteer and
+907 the provisions of s. 768.28.
+908 Section 10. For the purpose of incorporating the amendment
+909 made by this act to section 768.28, Florida Statutes, in a
+910 reference thereto, paragraph (a) of subsection (1) of section
+911 111.071, Florida Statutes, is reenacted to read:
+912 111.071 Payment of judgments or settlements against
+913 certain public officers or employees.—
+914 (1) Any county, municipality, political subdivision, or
+915 agency of the state which has been excluded from participation
+916 in the Insurance Risk Management Trust Fund is authorized to
+917 expend available funds to pay:
+918 (a) Any final judgment, including damages, costs, and
+919 attorney's fees, arising from a complaint for damages or injury
+920 suffered as a result of any act or omission of action of any
+921 officer, employee, or agent in a civil or civil rights lawsuit
+922 described in s. 111.07. If the civil action arises under s.
+923 768.28 as a tort claim, the limitations and provisions of s.
+924 768.28 governing payment shall apply. If the action is a civil
+925 rights action arising under 42 U.S.C. s. 1983, or similar
+Page 37 of 110
+CODING: Words stricken are deletions; words underlined are additions.
+hb145 -01-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 145, Engrossed 1 2026
+926 federal statutes, payments for the full amount of the judgment
+927 may be made unless the officer, employee, or agent has been
+928 determined in the final judgment to have caused the harm
+929 intentionally.
+930 Section 11. For the purpose of incorporating the amendment
+931 made by this act to section 768.28, Florida Statutes, in a
+932 reference thereto, paragraph (b) of subsection (2) of section
+933 125.01015, Florida Statutes, is reenacted to read:
+934 125.01015 Office of the sheriff.—
+935 (2) To ensure the successful transfer of the exclusive
+936 policing responsibility and authority to the sheriff in a
+937 county, as defined in s. 125.011(1), the board of county
+938 commissioners shall:
+939 (b) After the election of the sheriff is certified:
+940 1. Provide funding for all of the necessary staff and
+941 office space for the sheriff-elect to establish an independent
+942 office of the sheriff, so that the office may effectively
+943 operate and perform all of the functions required by general law
+944 when the sheriff-elect takes office.
+945 2. Provide funding for the sheriff-elect to select any
+946 necessary insurances not provided by the county through the
+947 interlocal agreement required under sub-subparagraph 6.d. to
+948 allow the sheriff to effectively operate and perform all of the
+949 functions required by general law when he or she takes office.
+950 3. Provide funding for the sheriff-elect to establish bank
+Page 38 of 110
+CODING: Words stricken are deletions; words underlined are additions.
+hb145 -01-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 145, Engrossed 1 2026
+951 and other accounts, as necessary, in his or her official
+952 capacity as sheriff, so that such accounts become operational
+953 when he or she takes office.
+954 4. Unless otherwise transferable based on existing surety
+955 bonds for the sheriff's deputies, provide funding for and
+956 facilitate procurement of the required surety bonds for deputy
+957 sheriffs pursuant to s. 30.09, so that such bonds are in place
+958 when the sheriff-elect takes office.
+959 5. Prepare and deliver to the office of the sheriff all
+960 documents, property, and other items listed in subsection (4).
+961 6. Notwithstanding any provision to the contrary, for a
+962 term commencing on January 7, 2025, and ending on or after
+963 September 30, 2028, provide the sheriff-elect taking office
+964 with, and require the sheriff-elect taking office to use, not
+965 less than the substantially and materially same support
+966 services, facilities, office space, and information technology
+967 infrastructure provided to county offices or departments
+968 performing the duties to be performed by the sheriff-elect upon
+969 taking office in the 1-year period before he or she takes
+970 office.
+971 a. As used in this subparagraph, the term "support
+972 services" includes:
+973 (I) Property and facilities, and the management and
+974 maintenance for such property and facilities.
+975 (II) Communications infrastructure, including telephone
+Page 39 of 110
+CODING: Words stricken are deletions; words underlined are additions.
+hb145 -01-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 145, Engrossed 1 2026
+976 and Internet connectivity.
+977 (III) Risk management, including processing, adjusting,
+978 and payment of all claims and demands, including those made
+979 under s. 768.28. The county shall provide the sheriff with all
+980 required general liability, property, and other insurance
+981 coverage through its self-insurance program, a self-insurance
+982 risk pool, or commercial insurance. If the county provides
+983 insurance through a self-insurance program, the county must also
+984 provide the sheriff with commercial stop-loss coverage in an
+985 amount and with a self-insured retention agreed upon by the
+986 sheriff and the county.
+987 (IV) Legal representation and advice through the office of
+988 the county attorney for all claims, demands, and causes of
+989 action brought against the sheriff, his or her deputies, or
+990 other personnel in their official and individual capacities,
+991 while acting in their official and individual capacities,
+992 including any required outside counsel due to conflicts of
+993 interest. This sub-sub-subparagraph does not prohibit the
+994 sheriff from employing or retaining his or her own legal
+995 representation as he or she deems necessary.
+996 (V) Purchasing and procurement services using procedures
+997 under the laws and ordinances applicable to the county for
+998 purchases requiring competitive procurement.
+999 (VI) Budget and fiscal software and budget development
+1000 services.
+Page 40 of 110
+CODING: Words stricken are deletions; words underlined are additions.
+hb145 -01-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 145, Engrossed 1 2026
+1001 (VII) Human resource services, including, but not limited
+1002 to, facilitation of the hiring process, including employee
+1003 applicant screening and employee applicant background checks,
+1004 and employee benefit administration. The county may provide
+1005 human resource services to the sheriff. However, the sheriff is
+1006 the employer of his or her employees, and the sheriff retains
+1007 full and complete control and authority over the hiring of his
+1008 or her employees and the terms and conditions of employment,
+1009 including employee discipline and termination of employment. The
+1010 provision of human resource services by the county to the
+1011 sheriff does not create a joint-employer relationship. The
+1012 sheriff's employees shall remain members of the county's health
+1013 insurance and workers' compensation plans for at least the term
+1014 set forth in this subparagraph.
+1015 (VIII) Fleet management, including procurement of all
+1016 vehicles and other mobile assets such as boats and aircraft, and
+1017 all vehicle repair and maintenance.
+1018 b. As used in this subparagraph, the term "information
+1019 technology infrastructure" includes:
+1020 (I) All hardware, including computers.
+1021 (II) Budget and fiscal software, including payroll and
+1022 purchasing software.
+1023 (III) Computer-aided dispatch.
+1024 c. Under a cost allocation plan agreed to by the county
+1025 and the sheriff, the sheriff shall pay the county for such
+Page 41 of 110
+CODING: Words stricken are deletions; words underlined are additions.
+hb145 -01-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 145, Engrossed 1 2026
+1026 support services and information technology infrastructure from
+1027 his or her general fund budget, except for any support services
+1028 and information technology infrastructure costs that general law
+1029 otherwise and expressly requires the county to fund outside the
+1030 sheriff's budget.
+1031 d. To satisfy compliance with this subsection and to
+1032 establish the office of the sheriff in a manner that minimizes
+1033 unnecessary financial expenditures, the county and the sheriff
+1034 shall execute an interlocal agreement addressing the
+1035 requirements of this subsection and other expenditures,
+1036 including an appropriate phase-in period for identification of
+1037 the sheriff's assets with the sheriff's markings to minimize the
+1038 cost to taxpayers. The interlocal agreement shall have a term
+1039 that ends no earlier than September 30, 2028, and may be
+1040 amended, renewed, extended, or newly adopted at any time
+1041 following the expiration or termination of the agreement. After
+1042 the initial period ending no earlier than September 30, 2028, an
+1043 interlocal agreement may be entered into between the county and
+1044 the sheriff which provides for the same or different
+1045 requirements as set forth in this subsection.
+1046 Section 12. For the purpose of incorporating the amendment
+1047 made by this act to section 768.28, Florida Statutes, in
+1048 references thereto, paragraph (h) of subsection (3) and
+1049 paragraph (k) of subsection (15) of section 163.01, Florida
+1050 Statutes, are reenacted to read:
+Page 42 of 110
+CODING: Words stricken are deletions; words underlined are additions.
+hb145 -01-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 145, Engrossed 1 2026
+1051 163.01 Florida Interlocal Cooperation Act of 1969.—
+1052 (3) As used in this section:
+1053 (h) "Local government liability pool" means a reciprocal
+1054 insurer as defined in s. 629.011 or any self-insurance program
+1055 created pursuant to s. 768.28(16), formed and controlled by
+1056 counties or municipalities of this state to provide liability
+1057 insurance coverage for counties, municipalities, or other public
+1058 agencies of this state, which pool may contract with other
+1059 parties for the purpose of providing claims administration,
+1060 processing, accounting, and other administrative facilities.
+1061 (15) Notwithstanding any other provision of this section
+1062 or of any other law except s. 361.14, any public agency of this
+1063 state which is an electric utility, or any separate legal entity
+1064 created pursuant to the provisions of this section, the
+1065 membership of which consists only of electric utilities, and
+1066 which exercises or proposes to exercise the powers granted by
+1067 part II of chapter 361, the Joint Power Act, may exercise any or
+1068 all of the following powers:
+1069 (k) The limitations on waiver in the provisions of s.
+1070 768.28 or any other law to the contrary notwithstanding, the
+1071 Legislature, in accordance with s. 13, Art. X of the State
+1072 Constitution, hereby declares that any such legal entity or any
+1073 public agency of this state that participates in any electric
+1074 project waives its sovereign immunity to:
+1075 1. All other persons participating therein; and
+Page 43 of 110
+CODING: Words stricken are deletions; words underlined are additions.
+hb145 -01-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 145, Engrossed 1 2026
+1076 2. Any person in any manner contracting with a legal
+1077 entity of which any such public agency is a member, with
+1078 relation to:
+1079 a. Ownership, operation, or any other activity set forth
+1080 in sub-subparagraph (b)2.d. with relation to any electric
+1081 project; or
+1082 b. The supplying or purchasing of services, output,
+1083 capacity, energy, or any combination thereof.
+1084 Section 13. For the purpose of incorporating the amendment
+1085 made by this act to section 768.28, Florida Statutes, in a
+1086 reference thereto, section 190.043, Florida Statutes, is
+1087 reenacted to read:
+1088 190.043 Suits against the district.—Any suit or action
+1089 brought or maintained against the district for damages arising
+1090 out of tort, including, without limitation, any claim arising
+1091 upon account of an act causing an injury or loss of property,
+1092 personal injury, or death, shall be subject to the limitations
+1093 provided in s. 768.28.
+1094 Section 14. For the purpose of incorporating the amendment
+1095 made by this act to section 768.28, Florida Statutes, in a
+1096 reference thereto, subsection (13) of section 213.015, Florida
+1097 Statutes, is reenacted to read:
+1098 213.015 Taxpayer rights.—There is created a Florida
+1099 Taxpayer's Bill of Rights to guarantee that the rights, privacy,
+1100 and property of Florida taxpayers are adequately safeguarded and
+Page 44 of 110
+CODING: Words stricken are deletions; words underlined are additions.
+hb145 -01-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 145, Engrossed 1 2026
+1101 protected during tax assessment, collection, and enforcement
+1102 processes administered under the revenue laws of this state. The
+1103 Taxpayer's Bill of Rights compiles, in one document, brief but
+1104 comprehensive statements which explain, in simple, nontechnical
+1105 terms, the rights and obligations of the Department of Revenue
+1106 and taxpayers. Section 192.0105 provides additional rights
+1107 afforded to payors of property taxes and assessments. The rights
+1108 afforded taxpayers to ensure that their privacy and property are
+1109 safeguarded and protected during tax assessment and collection
+1110 are available only insofar as they are implemented in other
+1111 parts of the Florida Statutes or rules of the Department of
+1112 Revenue. The rights so guaranteed Florida taxpayers in the
+1113 Florida Statutes and the departmental rules are:
+1114 (13) The right to an action at law within the limitations
+1115 of s. 768.28, relating to sovereign immunity, to recover damages
+1116 against the state or the Department of Revenue for injury caused
+1117 by the wrongful or negligent act or omission of a department
+1118 officer or employee (see s. 768.28).
+1119 Section 15. For the purpose of incorporating the amendment
+1120 made by this act to section 768.28, Florida Statutes, in a
+1121 reference thereto, section 252.51, Florida Statutes, is
+1122 reenacted to read:
+1123 252.51 Liability.—Any person or organization, public or
+1124 private, owning or controlling real estate or other premises who
+1125 voluntarily and without compensation, other than payment or
+Page 45 of 110
+CODING: Words stricken are deletions; words underlined are additions.
+hb145 -01-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 145, Engrossed 1 2026
+1126 reimbursement of costs and expenses, grants a license or
+1127 privilege or otherwise permits the designation by the local
+1128 emergency management agency or use of the whole or any part of
+1129 such real estate or premises for the purpose of sheltering
+1130 persons during an actual, impending, mock, or practice
+1131 emergency, together with her or his successor in interest, if
+1132 any, shall not be liable for the death of, or injury to, any
+1133 person on or about such real estate or premises during the
+1134 actual, impending, mock, or practice emergency, or for loss of,
+1135 or damage to, the property of such person, solely by reason or
+1136 as a result of such license, privilege, designation, or use,
+1137 unless the gross negligence or the willful and wanton misconduct
+1138 of such person owning or controlling such real estate or
+1139 premises or her or his successor in interest is the proximate
+1140 cause of such death, injury, loss, or damage occurring during
+1141 such sheltering period. Any such person or organization who
+1142 provides such shelter space for compensation shall be deemed to
+1143 be an instrumentality of the state or its applicable agency or
+1144 subdivision for the purposes of s. 768.28.
+1145 Section 16. For the purpose of incorporating the amendment
+1146 made by this act to section 768.28, Florida Statutes, in a
+1147 reference thereto, section 252.89, Florida Statutes, is
+1148 reenacted to read:
+1149 252.89 Tort liability.—The commission and the committees
+1150 shall be state agencies, and the members of the commission and
+Page 46 of 110
+CODING: Words stricken are deletions; words underlined are additions.
+hb145 -01-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 145, Engrossed 1 2026
+1151 committees shall be officers, employees, or agents of the state
+1152 for the purposes of s. 768.28.
+1153 Section 17. For the purpose of incorporating the amendment
+1154 made by this act to section 768.28, Florida Statutes, in a
+1155 reference thereto, section 252.944, Florida Statutes, is
+1156 reenacted to read:
+1157 252.944 Tort liability.—The commission and the committees
+1158 are state agencies, and the members of the commission and
+1159 committees are officers, employees, or agents of the state for
+1160 the purpose of s. 768.28.
+1161 Section 18. For the purpose of incorporating the amendment
+1162 made by this act to section 768.28, Florida Statutes, in a
+1163 reference thereto, subsection (2) of section 260.0125, Florida
+1164 Statutes, is reenacted to read:
+1165 260.0125 Limitation on liability of private landowners
+1166 whose property is designated as part of the statewide system of
+1167 greenways and trails.—
+1168 (2) Any private landowner who consents to designation of
+1169 his or her land as part of the statewide system of greenways and
+1170 trails pursuant to s. 260.016(2)(d) without compensation shall
+1171 be considered a volunteer, as defined in s. 110.501, and shall
+1172 be covered by state liability protection pursuant to s. 768.28,
+1173 including s. 768.28(9).
+1174 Section 19. For the purpose of incorporating the amendment
+1175 made by this act to section 768.28, Florida Statutes, in a
+Page 47 of 110
+CODING: Words stricken are deletions; words underlined are additions.
+hb145 -01-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 145, Engrossed 1 2026
+1176 reference thereto, section 284.31, Florida Statutes, is
+1177 reenacted to read:
+1178 284.31 Scope and types of coverages; separate accounts.—
+1179 The Insurance Risk Management Trust Fund must, unless
+1180 specifically excluded by the Department of Financial Services,
+1181 cover all departments of the State of Florida and their
+1182 employees, agents, and volunteers and must provide separate
+1183 accounts for workers' compensation, general liability, fleet
+1184 automotive liability, federal civil rights actions under 42
+1185 U.S.C. s. 1983 or similar federal statutes, state agency
+1186 firefighter cancer benefits payable under s. 112.1816(2), and
+1187 court-awarded attorney fees in other proceedings against the
+1188 state except for such awards in eminent domain or for inverse
+1189 condemnation or for awards by the Public Employees Relations
+1190 Commission. Unless specifically excluded by the Department of
+1191 Financial Services, the Insurance Risk Management Trust Fund
+1192 must provide fleet automotive liability coverage to motor
+1193 vehicles titled to the state, or to any department of the state,
+1194 when such motor vehicles are used by community transportation
+1195 coordinators performing, under contract to the appropriate
+1196 department of the state, services for the transportation
+1197 disadvantaged under part I of chapter 427. Such fleet automotive
+1198 liability coverage is primary and is subject to s. 768.28 and
+1199 parts II and III of chapter 284, and applicable rules adopted
+1200 thereunder, and the terms and conditions of the certificate of
+Page 48 of 110
+CODING: Words stricken are deletions; words underlined are additions.
+hb145 -01-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 145, Engrossed 1 2026
+1201 coverage issued by the Department of Financial Services.
+1202 Section 20. For the purpose of incorporating the amendment
+1203 made by this act to section 768.28, Florida Statutes, in
+1204 references thereto, section 284.38, Florida Statutes, is
+1205 reenacted to read:
+1206 284.38 Waiver of sovereign immunity; effect.—The insurance
+1207 programs developed herein shall provide limits as established by
+1208 the provisions of s. 768.28 if a tort claim. The limits provided
+1209 in s. 768.28 shall not apply to a civil rights action arising
+1210 under 42 U.S.C. s. 1983 or similar federal statute. Payment of a
+1211 pending or future claim or judgment arising under any of said
+1212 statutes may be made upon this act becoming a law, unless the
+1213 officer, employee, or agent has been determined in the final
+1214 judgment to have caused the harm intentionally; however, the
+1215 fund is authorized to pay all other court-ordered attorney's
+1216 fees as provided under s. 284.31.
+1217 Section 21. For the purpose of incorporating the amendment
+1218 made by this act to section 768.28, Florida Statutes, in a
+1219 reference thereto, paragraph (b) of subsection (1) of section
+1220 322.13, Florida Statutes, is reenacted to read:
+1221 322.13 Driver license examiners.—
+1222 (1)
+1223 (b) Those persons serving as driver license examiners are
+1224 not liable for actions taken within the scope of their
+1225 employment or designation, except as provided by s. 768.28.
+Page 49 of 110
+CODING: Words stricken are deletions; words underlined are additions.
+hb145 -01-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 145, Engrossed 1 2026
+1226 Section 22. For the purpose of incorporating the amendment
+1227 made by this act to section 768.28, Florida Statutes, in a
+1228 reference thereto, subsection (1) of section 337.19, Florida
+1229 Statutes, is reenacted to read:
+1230 337.19 Suits by and against department; limitation of
+1231 actions; forum.—
+1232 (1) Suits at law and in equity may be brought and
+1233 maintained by and against the department on any contract claim
+1234 arising from breach of an express provision or an implied
+1235 covenant of a written agreement or a written directive issued by
+1236 the department pursuant to the written agreement. In any such
+1237 suit, the department and the contractor shall have all of the
+1238 same rights and obligations as a private person under a like
+1239 contract except that no liability may be based on an oral
+1240 modification of either the written contract or written
+1241 directive. Nothing herein shall be construed to waive the
+1242 sovereign immunity of the state and its political subdivisions
+1243 from equitable claims and equitable remedies. Notwithstanding
+1244 anything to the contrary contained in this section, no employee
+1245 or agent of the department may be held personally liable to an
+1246 extent greater than that pursuant to s. 768.28 provided that no
+1247 suit sounding in tort shall be maintained against the
+1248 department.
+1249 Section 23. For the purpose of incorporating the amendment
+1250 made by this act to section 768.28, Florida Statutes, in a
+Page 50 of 110
+CODING: Words stricken are deletions; words underlined are additions.
+hb145 -01-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 145, Engrossed 1 2026
+1251 reference thereto, subsection (17) of section 341.302, Florida
+1252 Statutes, is reenacted to read:
+1253 341.302 Rail program; duties and responsibilities of the
+1254 department.—The department, in conjunction with other
+1255 governmental entities, including the rail enterprise and the
+1256 private sector, shall develop and implement a rail program of
+1257 statewide application designed to ensure the proper maintenance,
+1258 safety, revitalization, and expansion of the rail system to
+1259 assure its continued and increased availability to respond to
+1260 statewide mobility needs. Within the resources provided pursuant
+1261 to chapter 216, and as authorized under federal law, the
+1262 department shall:
+1263 (17) In conjunction with the acquisition, ownership,
+1264 construction, operation, maintenance, and management of a rail
+1265 corridor, have the authority to:
+1266 (a) Assume obligations pursuant to the following:
+1267 1.a. The department may assume the obligation by contract
+1268 to forever protect, defend, indemnify, and hold harmless the
+1269 freight rail operator, or its successors, from whom the
+1270 department has acquired a real property interest in the rail
+1271 corridor, and that freight rail operator's officers, agents, and
+1272 employees, from and against any liability, cost, and expense,
+1273 including, but not limited to, commuter rail passengers and rail
+1274 corridor invitees in the rail corridor, regardless of whether
+1275 the loss, damage, destruction, injury, or death giving rise to
+Page 51 of 110
+CODING: Words stricken are deletions; words underlined are additions.
+hb145 -01-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 145, Engrossed 1 2026
+1276 any such liability, cost, or expense is caused in whole or in
+1277 part, and to whatever nature or degree, by the fault, failure,
+1278 negligence, misconduct, nonfeasance, or misfeasance of such
+1279 freight rail operator, its successors, or its officers, agents,
+1280 and employees, or any other person or persons whomsoever; or
+1281 b. The department may assume the obligation by contract to
+1282 forever protect, defend, indemnify, and hold harmless National
+1283 Railroad Passenger Corporation, or its successors, and officers,
+1284 agents, and employees of National Railroad Passenger
+1285 Corporation, from and against any liability, cost, and expense,
+1286 including, but not limited to, commuter rail passengers and rail
+1287 corridor invitees in the rail corridor, regardless of whether
+1288 the loss, damage, destruction, injury, or death giving rise to
+1289 any such liability, cost, or expense is caused in whole or in
+1290 part, and to whatever nature or degree, by the fault, failure,
+1291 negligence, misconduct, nonfeasance, or misfeasance of National
+1292 Railroad Passenger Corporation, its successors, or its officers,
+1293 agents, and employees, or any other person or persons
+1294 whomsoever.
+1295 2. The assumption of liability of the department by
+1296 contract pursuant to sub-subparagraph 1.a. or sub-subparagraph
+1297 1.b. may not in any instance exceed the following parameters of
+1298 allocation of risk:
+1299 a. The department may be solely responsible for any loss,
+1300 injury, or damage to commuter rail passengers, or rail corridor
+Page 52 of 110
+CODING: Words stricken are deletions; words underlined are additions.
+hb145 -01-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 145, Engrossed 1 2026
+1301 invitees, or trespassers, regardless of circumstances or cause,
+1302 subject to sub-subparagraph b. and subparagraphs 3., 4., 5., and
+1303 6.
+1304 b.(I) In the event of a limited covered accident, the
+1305 authority of the department to protect, defend, and indemnify
+1306 the freight operator for all liability, cost, and expense,
+1307 including punitive or exemplary damages, in excess of the
+1308 deductible or self-insurance retention fund established under
+1309 paragraph (b) and actually in force at the time of the limited
+1310 covered accident exists only if the freight operator agrees,
+1311 with respect to the limited covered accident, to protect,
+1312 defend, and indemnify the department for the amount of the
+1313 deductible or self-insurance retention fund established under
+1314 paragraph (b) and actually in force at the time of the limited
+1315 covered accident.
+1316 (II) In the event of a limited covered accident, the
+1317 authority of the department to protect, defend, and indemnify
+1318 National Railroad Passenger Corporation for all liability, cost,
+1319 and expense, including punitive or exemplary damages, in excess
+1320 of the deductible or self-insurance retention fund established
+1321 under paragraph (b) and actually in force at the time of the
+1322 limited covered accident exists only if National Railroad
+1323 Passenger Corporation agrees, with respect to the limited
+1324 covered accident, to protect, defend, and indemnify the
+1325 department for the amount of the deductible or self-insurance
+Page 53 of 110
+CODING: Words stricken are deletions; words underlined are additions.
+hb145 -01-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 145, Engrossed 1 2026
+1326 retention fund established under paragraph (b) and actually in
+1327 force at the time of the limited covered accident.
+1328 3. When only one train is involved in an incident, the
+1329 department may be solely responsible for any loss, injury, or
+1330 damage if the train is a department train or other train
+1331 pursuant to subparagraph 4., but only if:
+1332 a. When an incident occurs with only a freight train
+1333 involved, including incidents with trespassers or at grade
+1334 crossings, the freight rail operator is solely responsible for
+1335 any loss, injury, or damage, except for commuter rail passengers
+1336 and rail corridor invitees; or
+1337 b. When an incident occurs with only a National Railroad
+1338 Passenger Corporation train involved, including incidents with
+1339 trespassers or at grade crossings, National Railroad Passenger
+1340 Corporation is solely responsible for any loss, injury, or
+1341 damage, except for commuter rail passengers and rail corridor
+1342 invitees.
+1343 4. For the purposes of this subsection:
+1344 a. Any train involved in an incident that is neither the
+1345 department's train nor the freight rail operator's train,
+1346 hereinafter referred to in this subsection as an "other train,"
+1347 may be treated as a department train, solely for purposes of any
+1348 allocation of liability between the department and the freight
+1349 rail operator only, but only if the department and the freight
+1350 rail operator share responsibility equally as to third parties
+Page 54 of 110
+CODING: Words stricken are deletions; words underlined are additions.
+hb145 -01-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 145, Engrossed 1 2026
+1351 outside the rail corridor who incur loss, injury, or damage as a
+1352 result of any incident involving both a department train and a
+1353 freight rail operator train, and the allocation as between the
+1354 department and the freight rail operator, regardless of whether
+1355 the other train is treated as a department train, shall remain
+1356 one-half each as to third parties outside the rail corridor who
+1357 incur loss, injury, or damage as a result of the incident. The
+1358 involvement of any other train shall not alter the sharing of
+1359 equal responsibility as to third parties outside the rail
+1360 corridor who incur loss, injury, or damage as a result of the
+1361 incident; or
+1362 b. Any train involved in an incident that is neither the
+1363 department's train nor the National Railroad Passenger
+1364 Corporation's train, hereinafter referred to in this subsection
+1365 as an "other train," may be treated as a department train,
+1366 solely for purposes of any allocation of liability between the
+1367 department and National Railroad Passenger Corporation only, but
+1368 only if the department and National Railroad Passenger
+1369 Corporation share responsibility equally as to third parties
+1370 outside the rail corridor who incur loss, injury, or damage as a
+1371 result of any incident involving both a department train and a
+1372 National Railroad Passenger Corporation train, and the
+1373 allocation as between the department and National Railroad
+1374 Passenger Corporation, regardless of whether the other train is
+1375 treated as a department train, shall remain one-half each as to
+Page 55 of 110
+CODING: Words stricken are deletions; words underlined are additions.
+hb145 -01-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 145, Engrossed 1 2026
+1376 third parties outside the rail corridor who incur loss, injury,
+1377 or damage as a result of the incident. The involvement of any
+1378 other train shall not alter the sharing of equal responsibility
+1379 as to third parties outside the rail corridor who incur loss,
+1380 injury, or damage as a result of the incident.
+1381 5. When more than one train is involved in an incident:
+1382 a.(I) If only a department train and freight rail
+1383 operator's train, or only an other train as described in sub-
+1384 subparagraph 4.a. and a freight rail operator's train, are
+1385 involved in an incident, the department may be responsible for
+1386 its property and all of its people, all commuter rail
+1387 passengers, and rail corridor invitees, but only if the freight
+1388 rail operator is responsible for its property and all of its
+1389 people, and the department and the freight rail operator each
+1390 share one-half responsibility as to trespassers or third parties
+1391 outside the rail corridor who incur loss, injury, or damage as a
+1392 result of the incident; or
+1393 (II) If only a department train and a National Railroad
+1394 Passenger Corporation train, or only an other train as described
+1395 in sub-subparagraph 4.b. and a National Railroad Passenger
+1396 Corporation train, are involved in an incident, the department
+1397 may be responsible for its property and all of its people, all
+1398 commuter rail passengers, and rail corridor invitees, but only
+1399 if National Railroad Passenger Corporation is responsible for
+1400 its property and all of its people, all National Railroad
+Page 56 of 110
+CODING: Words stricken are deletions; words underlined are additions.
+hb145 -01-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 145, Engrossed 1 2026
+1401 Passenger Corporation's rail passengers, and the department and
+1402 National Railroad Passenger Corporation each share one-half
+1403 responsibility as to trespassers or third parties outside the
+1404 rail corridor who incur loss, injury, or damage as a result of
+1405 the incident.
+1406 b.(I) If a department train, a freight rail operator
+1407 train, and any other train are involved in an incident, the
+1408 allocation of liability between the department and the freight
+1409 rail operator, regardless of whether the other train is treated
+1410 as a department train, shall remain one-half each as to third
+1411 parties outside the rail corridor who incur loss, injury, or
+1412 damage as a result of the incident; the involvement of any other
+1413 train shall not alter the sharing of equal responsibility as to
+1414 third parties outside the rail corridor who incur loss, injury,
+1415 or damage as a result of the incident; and, if the owner,
+1416 operator, or insurer of the other train makes any payment to
+1417 injured third parties outside the rail corridor who incur loss,
+1418 injury, or damage as a result of the incident, the allocation of
+1419 credit between the department and the freight rail operator as
+1420 to such payment shall not in any case reduce the freight rail
+1421 operator's third-party-sharing allocation of one-half under this
+1422 paragraph to less than one-third of the total third party
+1423 liability; or
+1424 (II) If a department train, a National Railroad Passenger
+1425 Corporation train, and any other train are involved in an
+Page 57 of 110
+CODING: Words stricken are deletions; words underlined are additions.
+hb145 -01-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 145, Engrossed 1 2026
+1426 incident, the allocation of liability between the department and
+1427 National Railroad Passenger Corporation, regardless of whether
+1428 the other train is treated as a department train, shall remain
+1429 one-half each as to third parties outside the rail corridor who
+1430 incur loss, injury, or damage as a result of the incident; the
+1431 involvement of any other train shall not alter the sharing of
+1432 equal responsibility as to third parties outside the rail
+1433 corridor who incur loss, injury, or damage as a result of the
+1434 incident; and, if the owner, operator, or insurer of the other
+1435 train makes any payment to injured third parties outside the
+1436 rail corridor who incur loss, injury, or damage as a result of
+1437 the incident, the allocation of credit between the department
+1438 and National Railroad Passenger Corporation as to such payment
+1439 shall not in any case reduce National Railroad Passenger
+1440 Corporation's third-party-sharing allocation of one-half under
+1441 this sub-subparagraph to less than one-third of the total third
+1442 party liability.
+1443 6. Any such contractual duty to protect, defend,
+1444 indemnify, and hold harmless such a freight rail operator or
+1445 National Railroad Passenger Corporation shall expressly include
+1446 a specific cap on the amount of the contractual duty, which
+1447 amount shall not exceed $200 million without prior legislative
+1448 approval, and the department to purchase liability insurance and
+1449 establish a self-insurance retention fund in the amount of the
+1450 specific cap established under this subparagraph, provided that:
+Page 58 of 110
+CODING: Words stricken are deletions; words underlined are additions.
+hb145 -01-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 145, Engrossed 1 2026
+1451 a. No such contractual duty shall in any case be effective
+1452 nor otherwise extend the department's liability in scope and
+1453 effect beyond the contractual liability insurance and self-
+1454 insurance retention fund required pursuant to this paragraph;
+1455 and
+1456 b.(I) The freight rail operator's compensation to the
+1457 department for future use of the department's rail corridor
+1458 shall include a monetary contribution to the cost of such
+1459 liability coverage for the sole benefit of the freight rail
+1460 operator.
+1461 (II) National Railroad Passenger Corporation's
+1462 compensation to the department for future use of the
+1463 department's rail corridor shall include a monetary contribution
+1464 to the cost of such liability coverage for the sole benefit of
+1465 National Railroad Passenger Corporation.
+1466 (b) Purchase liability insurance, which amount shall not
+1467 exceed $200 million, and establish a self-insurance retention
+1468 fund for the purpose of paying the deductible limit established
+1469 in the insurance policies it may obtain, including coverage for
+1470 the department, any freight rail operator as described in
+1471 paragraph (a), National Railroad Passenger Corporation, commuter
+1472 rail service providers, governmental entities, or any ancillary
+1473 development, which self-insurance retention fund or deductible
+1474 shall not exceed $10 million. The insureds shall pay a
+1475 reasonable monetary contribution to the cost of such liability
+Page 59 of 110
+CODING: Words stricken are deletions; words underlined are additions.
+hb145 -01-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 145, Engrossed 1 2026
+1476 coverage for the sole benefit of the insured. Such insurance and
+1477 self-insurance retention fund may provide coverage for all
+1478 damages, including, but not limited to, compensatory, special,
+1479 and exemplary, and be maintained to provide an adequate fund to
+1480 cover claims and liabilities for loss, injury, or damage arising
+1481 out of or connected with the ownership, operation, maintenance,
+1482 and management of a rail corridor.
+1483 (c) Incur expenses for the purchase of advertisements,
+1484 marketing, and promotional items.
+1485 (d) Without altering any of the rights granted to the
+1486 department under this section, agree to assume the obligations
+1487 to indemnify and insure, pursuant to s. 343.545, freight rail
+1488 service, intercity passenger rail service, and commuter rail
+1489 service on a department-owned rail corridor, whether ownership
+1490 is in fee or by easement, or on a rail corridor where the
+1491 department has the right to operate.
+1492
+1493 Neither the assumption by contract to protect, defend,
+1494 indemnify, and hold harmless; the purchase of insurance; nor the
+1495 establishment of a self-insurance retention fund shall be deemed
+1496 to be a waiver of any defense of sovereign immunity for torts
+1497 nor deemed to increase the limits of the department's or the
+1498 governmental entity's liability for torts as provided in s.
+1499 768.28. The requirements of s. 287.022(1) shall not apply to the
+1500 purchase of any insurance under this subsection. The provisions
+Page 60 of 110
+CODING: Words stricken are deletions; words underlined are additions.
+hb145 -01-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 145, Engrossed 1 2026
+1501 of this subsection shall apply and inure fully as to any other
+1502 governmental entity providing commuter rail service and
+1503 constructing, operating, maintaining, or managing a rail
+1504 corridor on publicly owned right-of-way under contract by the
+1505 governmental entity with the department or a governmental entity
+1506 designated by the department. Notwithstanding any law to the
+1507 contrary, procurement for the construction, operation,
+1508 maintenance, and management of any rail corridor described in
+1509 this subsection, whether by the department, a governmental
+1510 entity under contract with the department, or a governmental
+1511 entity designated by the department, shall be pursuant to s.
+1512 287.057 and shall include, but not be limited to, criteria for
+1513 the consideration of qualifications, technical aspects of the
+1514 proposal, and price. Further, any such contract for design-build
+1515 shall be procured pursuant to the criteria in s. 337.11(7).
+1516 Section 24. For the purpose of incorporating the amendment
+1517 made by this act to section 768.28, Florida Statutes, in a
+1518 reference thereto, subsection (3) of section 343.811, Florida
+1519 Statutes, is reenacted to read:
+1520 343.811 Power to assume indemnification and insurance
+1521 obligations.—
+1522 (3) ASSUMPTION OF OBLIGATIONS; PURCHASE OF INSURANCE.—In
+1523 conjunction with the development or operation of a commuter rail
+1524 service on the Coastal Link corridor, an agency may:
+1525 (a) Assume obligations pursuant to the following:
+Page 61 of 110
+CODING: Words stricken are deletions; words underlined are additions.
+hb145 -01-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 145, Engrossed 1 2026
+1526 1.a. The agency may assume the obligation by contract to
+1527 protect, defend, indemnify, and hold harmless FECR and its
+1528 officers, agents, and employees from and against:
+1529 (I) Any liability, cost, and expense, including, but not
+1530 limited to, the agency's passengers and other rail corridor
+1531 invitees in, on, or about the Coastal Link corridor, regardless
+1532 of whether the loss, damage, destruction, injury, or death
+1533 giving rise to any such liability, cost, or expense is caused in
+1534 whole or in part, and to whatever nature or degree, by the
+1535 fault, failure, negligence, misconduct, nonfeasance, or
+1536 misfeasance of such freight rail operator, its successors, or
+1537 its officers, agents, and employees, or any other person or
+1538 persons whomsoever.
+1539 (II) Any loss, injury, or damage incurred by other rail
+1540 corridor invitees up to the amount of the self-insurance
+1541 retention amount with respect to limited covered accidents
+1542 caused by the agency.
+1543 b. The agency may assume the obligation by contract to
+1544 protect, defend, indemnify, and hold harmless Brightline and its
+1545 officers, agents, and employees from and against:
+1546 (I) Any liability, cost, and expense, including, but not
+1547 limited to, the agency's passengers and rail corridor invitees
+1548 in the Coastal Link corridor, regardless of whether the loss,
+1549 damage, destruction, injury, or death giving rise to any such
+1550 liability, cost, or expense is caused in whole or in part, and
+Page 62 of 110
+CODING: Words stricken are deletions; words underlined are additions.
+hb145 -01-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 145, Engrossed 1 2026
+1551 to whatever nature or degree, by the fault, failure, negligence,
+1552 misconduct, nonfeasance, or misfeasance of Brightline, its
+1553 successors, or its officers, agents, and employees, or any other
+1554 person or persons whomsoever.
+1555 (II) Any loss, injury, or damage incurred by other rail
+1556 corridor invitees up to the amount of the self-insurance
+1557 retention amount with respect to limited covered accidents
+1558 caused by the agency.
+1559 2. The assumption of liability of the agency by contract
+1560 pursuant to sub-subparagraph 1.a. or sub-subparagraph 1.b. may
+1561 not in any instance exceed the following parameters of
+1562 allocation of risk:
+1563 a. The agency may be solely responsible for any loss,
+1564 injury, or damage to the agency's passengers, or rail corridor
+1565 invitees, third parties, or trespassers, regardless of
+1566 circumstances or cause, subject to sub-subparagraph b. and
+1567 subparagraphs 3., 4., and 5.
+1568 b.(I) In the event of a limited covered accident caused by
+1569 FECR, the authority of an agency to protect, defend, and
+1570 indemnify FECR for all liability, cost, and expense, including
+1571 punitive or exemplary damages, in excess of the self-insurance
+1572 retention amount exists only if FECR agrees, with respect to
+1573 such limited covered accident caused by FECR, to protect,
+1574 defend, and indemnify the agency for the amount of the self-
+1575 insurance retention amount.
+Page 63 of 110
+CODING: Words stricken are deletions; words underlined are additions.
+hb145 -01-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 145, Engrossed 1 2026
+1576 (II) In the event of a limited covered accident caused by
+1577 Brightline, the authority of an agency to protect, defend, and
+1578 indemnify Brightline for all liability, cost, and expense,
+1579 including punitive or exemplary damages, in excess of the self-
+1580 insurance retention amount exists only if Brightline agrees,
+1581 with respect to such limited covered accident, to protect,
+1582 defend, and indemnify the agency for the amount of the self-
+1583 insurance retention amount.
+1584 3. When only one train is involved in an incident and:
+1585 a. The train is an agency's train, including an incident
+1586 with trespassers or at-grade crossings, the agency may be solely
+1587 responsible for any loss, injury, or damage.
+1588 b. The train is FECR's train, including an incident with
+1589 trespassers or at-grade crossings, FECR is solely responsible
+1590 for any loss, injury, or damage, except for the agency's
+1591 passengers and other rail corridor invitees, which are the
+1592 responsibility of the agency, and Brightline's passengers and
+1593 other rail corridor invitees, which are the responsibility of
+1594 Brightline.
+1595 c. The train is Brightline's train, including an incident
+1596 with trespassers or at-grade crossings, Brightline is solely
+1597 responsible for any loss, injury, or damage, except for the
+1598 agency's passengers or rail corridor invitees, which are the
+1599 responsibility of the agency, and FECR's rail corridor invitees,
+1600 which are the responsibility of FECR.
+Page 64 of 110
+CODING: Words stricken are deletions; words underlined are additions.
+hb145 -01-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 145, Engrossed 1 2026
+1601 4. When an incident involves more than one operator, each
+1602 operator is responsible for:
+1603 a. Its property; passengers; employees, excluding
+1604 employees who are, at the time of the incident, rail corridor
+1605 invitees of another operator; and other rail corridor invitees.
+1606 b. Its proportionate share of any loss or damage to the
+1607 joint infrastructure.
+1608 c. Its proportionate share of any loss, injury, or damage
+1609 to:
+1610 (I) Rail corridor invitees who are not rail corridor
+1611 invitees of operators, provided that the agency shall always be
+1612 responsible for its passengers and its rail corridor invitees
+1613 regardless of whether the agency was involved in the incident.
+1614 (II) Trespassers or third parties outside the Coastal Link
+1615 corridor as a result of the incident.
+1616 5. Any such contractual duty to protect, defend,
+1617 indemnify, and hold harmless FECR or Brightline with respect to
+1618 claims by rail passengers shall expressly include a specific cap
+1619 on the amount of the contractual duty, which amount may not
+1620 exceed $323 million per occurrence and shall be adjusted so that
+1621 the per-occurrence insurance requirement is equal to the
+1622 aggregate allowable awards to all rail passengers, against all
+1623 defendants, for all claims, including claims for punitive
+1624 damages, arising from a single accident or incident in
+1625 accordance with 49 U.S.C. s. 28103, or any successor provision,
+Page 65 of 110
+CODING: Words stricken are deletions; words underlined are additions.
+hb145 -01-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 145, Engrossed 1 2026
+1626 without prior legislative approval.
+1627 6. Notwithstanding any provision of this section to the
+1628 contrary, the liabilities of the agency to the state or any
+1629 other agency shall be as set forth in an agreement among such
+1630 entities and limited by s. 768.28(19).
+1631 (b) Purchase liability insurance, which amount may not
+1632 exceed $323 million per occurrence, which amount shall be
+1633 adjusted so that the per-occurrence insurance requirement is
+1634 equal to the aggregate allowable awards to all rail passengers,
+1635 against all defendants, for all claims, including claims for
+1636 punitive damages, arising from a single accident or incident in
+1637 accordance with 49 U.S.C. s. 28103, or any successor provision,
+1638 and establish a self-insurance retention fund for the purpose of
+1639 paying the deductible limit established in the insurance
+1640 policies it may obtain, including coverage for a county agency,
+1641 any freight rail operator as described in paragraph (a),
+1642 Brightline, commuter rail service providers, governmental
+1643 entities, or any ancillary development, which self-insurance
+1644 retention fund or deductible shall not exceed the self-insurance
+1645 retention amount.
+1646 1. Such insurance and self-insurance retention fund may
+1647 provide coverage for all damages, including, but not limited to,
+1648 compensatory, special, and exemplary, and be maintained to
+1649 provide an adequate fund to cover claims and liabilities for
+1650 loss, injury, or damage arising out of or connected with the
+Page 66 of 110
+CODING: Words stricken are deletions; words underlined are additions.
+hb145 -01-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 145, Engrossed 1 2026
+1651 ownership, operation, maintenance, and management of the Coastal
+1652 Link corridor.
+1653 2. Any self-insured retention account shall be a
+1654 segregated account of the agency and shall be subject to the
+1655 same conditions, restrictions, exclusions, obligations, and
+1656 duties included in any and all of the policies of liability
+1657 insurance purchased under this paragraph.
+1658 3. Unless otherwise specifically provided by general law,
+1659 FECR and Brightline, and their respective officers, agents, and
+1660 employees, are not officers, agents, employees, or subdivisions
+1661 of the state and are not entitled to sovereign immunity.
+1662
+1663 Neither the assumption by contract to protect, defend,
+1664 indemnify, and hold harmless; the purchase of insurance; nor the
+1665 establishment of a self-insurance retention fund shall be deemed
+1666 to be a waiver of any defense of sovereign immunity for tort
+1667 claims or deemed to increase the limits of the agency's
+1668 liability for tort claims as provided in s. 768.28.
+1669 Section 25. For the purpose of incorporating the amendment
+1670 made by this act to section 768.28, Florida Statutes, in a
+1671 reference thereto, paragraph (c) of subsection (4) of section
+1672 351.03, Florida Statutes, is reenacted to read:
+1673 351.03 Railroad-highway grade-crossing warning signs and
+1674 signals; audible warnings; exercise of reasonable care; blocking
+1675 highways, roads, and streets during darkness.—
+Page 67 of 110
+CODING: Words stricken are deletions; words underlined are additions.
+hb145 -01-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 145, Engrossed 1 2026
+1676 (4)
+1677 (c) Nothing in this subsection shall be construed to
+1678 nullify the liability provisions of s. 768.28.
+1679 Section 26. For the purpose of incorporating the amendment
+1680 made by this act to section 768.28, Florida Statutes, in a
+1681 reference thereto, subsection (6) of section 373.1395, Florida
+1682 Statutes, is reenacted to read:
+1683 373.1395 Limitation on liability of water management
+1684 district with respect to areas made available to the public for
+1685 recreational purposes without charge.—
+1686 (6) This section does not relieve any water management
+1687 district of any liability that would otherwise exist for gross
+1688 negligence or a deliberate, willful, or malicious injury to a
+1689 person or property. This section does not create or increase the
+1690 liability of any water management district or person beyond that
+1691 which is authorized by s. 768.28.
+1692 Section 27. For the purpose of incorporating the amendment
+1693 made by this act to section 768.28, Florida Statutes, in a
+1694 reference thereto, paragraph (a) of subsection (3) of section
+1695 375.251, Florida Statutes, is reenacted to read:
+1696 375.251 Limitation on liability of persons making
+1697 available to public certain areas for recreational purposes
+1698 without charge.—
+1699 (3)(a) An owner of an area who enters into a written
+1700 agreement concerning the area with a state agency for outdoor
+Page 68 of 110
+CODING: Words stricken are deletions; words underlined are additions.
+hb145 -01-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 145, Engrossed 1 2026
+1701 recreational purposes, where such agreement recognizes that the
+1702 state agency is responsible for personal injury, loss, or damage
+1703 resulting in whole or in part from the state agency's use of the
+1704 area under the terms of the agreement subject to the limitations
+1705 and conditions specified in s. 768.28, owes no duty of care to
+1706 keep the area safe for entry or use by others, or to give
+1707 warning to persons entering or going on the area of any
+1708 hazardous conditions, structures, or activities thereon. An
+1709 owner who enters into a written agreement concerning the area
+1710 with a state agency for outdoor recreational purposes:
+1711 1. Is not presumed to extend any assurance that the area
+1712 is safe for any purpose;
+1713 2. Does not incur any duty of care toward a person who
+1714 goes on the area that is subject to the agreement; or
+1715 3. Is not liable or responsible for any injury to persons
+1716 or property caused by the act or omission of a person who goes
+1717 on the area that is subject to the agreement.
+1718 Section 28. For the purpose of incorporating the amendment
+1719 made by this act to section 768.28, Florida Statutes, in a
+1720 reference thereto, subsection (9) of section 381.0056, Florida
+1721 Statutes, is reenacted to read:
+1722 381.0056 School health services program.—
+1723 (9) Any health care entity that provides school health
+1724 services under contract with the department pursuant to a school
+1725 health services plan developed under this section, and as part
+Page 69 of 110
+CODING: Words stricken are deletions; words underlined are additions.
+hb145 -01-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 145, Engrossed 1 2026
+1726 of a school nurse services public-private partnership, is deemed
+1727 to be a corporation acting primarily as an instrumentality of
+1728 the state solely for the purpose of limiting liability pursuant
+1729 to s. 768.28(5). The limitations on tort actions contained in s.
+1730 768.28(5) shall apply to any action against the entity with
+1731 respect to the provision of school health services, if the
+1732 entity is acting within the scope of and pursuant to guidelines
+1733 established in the contract or by rule of the department. The
+1734 contract must require the entity, or the partnership on behalf
+1735 of the entity, to obtain general liability insurance coverage,
+1736 with any additional endorsement necessary to insure the entity
+1737 for liability assumed by its contract with the department. The
+1738 Legislature intends that insurance be purchased by entities, or
+1739 by partnerships on behalf of the entity, to cover all liability
+1740 claims, and under no circumstances shall the state or the
+1741 department be responsible for payment of any claims or defense
+1742 costs for claims brought against the entity or its subcontractor
+1743 for services performed under the contract with the department.
+1744 This subsection does not preclude consideration by the
+1745 Legislature for payment by the state of any claims bill
+1746 involving an entity contracting with the department pursuant to
+1747 this section.
+1748 Section 29. For the purpose of incorporating the amendment
+1749 made by this act to section 768.28, Florida Statutes, in a
+1750 reference thereto, subsection (3) of section 393.075, Florida
+Page 70 of 110
+CODING: Words stricken are deletions; words underlined are additions.
+hb145 -01-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 145, Engrossed 1 2026
+1751 Statutes, is reenacted to read:
+1752 393.075 General liability coverage.—
+1753 (3) This section shall not be construed as designating or
+1754 not designating that a person who owns or operates a foster care
+1755 facility or group home facility as described in this section or
+1756 any other person is an employee or agent of the state. Nothing
+1757 in this section amends, expands, or supersedes the provisions of
+1758 s. 768.28.
+1759 Section 30. For the purpose of incorporating the amendment
+1760 made by this act to section 768.28, Florida Statutes, in a
+1761 reference thereto, subsection (7) of section 394.9085, Florida
+1762 Statutes, is reenacted to read:
+1763 394.9085 Behavioral provider liability.—
+1764 (7) This section shall not be construed to waive sovereign
+1765 immunity for any governmental unit or other entity protected by
+1766 sovereign immunity. Section 768.28 shall continue to apply to
+1767 all governmental units and such entities.
+1768 Section 31. For the purpose of incorporating the amendment
+1769 made by this act to section 768.28, Florida Statutes, in a
+1770 reference thereto, paragraph (g) of subsection (10) of section
+1771 395.1055, Florida Statutes, is reenacted to read:
+1772 395.1055 Rules and enforcement.—
+1773 (10) The agency shall establish a pediatric cardiac
+1774 technical advisory panel, pursuant to s. 20.052, to develop
+1775 procedures and standards for measuring outcomes of pediatric
+Page 71 of 110
+CODING: Words stricken are deletions; words underlined are additions.
+hb145 -01-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 145, Engrossed 1 2026
+1776 cardiac catheterization programs and pediatric cardiovascular
+1777 surgery programs.
+1778 (g) Panel members are agents of the state for purposes of
+1779 s. 768.28 throughout the good faith performance of the duties
+1780 assigned to them by the Secretary of Health Care Administration.
+1781 Section 32. For the purpose of incorporating the amendment
+1782 made by this act to section 768.28, Florida Statutes, in a
+1783 reference thereto, paragraph (c) of subsection (17) of section
+1784 403.706, Florida Statutes, is reenacted to read:
+1785 403.706 Local government solid waste responsibilities.—
+1786 (17) To effect the purposes of this part, counties and
+1787 municipalities are authorized, in addition to other powers
+1788 granted pursuant to this part:
+1789 (c) To waive sovereign immunity and immunity from suit in
+1790 federal court by vote of the governing body of the county or
+1791 municipality to the extent necessary to carry out the authority
+1792 granted in paragraphs (a) and (b), notwithstanding the
+1793 limitations prescribed in s. 768.28.
+1794 Section 33. For the purpose of incorporating the amendment
+1795 made by this act to section 768.28, Florida Statutes, in a
+1796 reference thereto, paragraph (b) of subsection (15) of section
+1797 409.175, Florida Statutes, is reenacted to read:
+1798 409.175 Licensure of family foster homes, residential
+1799 child-caring agencies, and child-placing agencies; public
+1800 records exemption.—
+Page 72 of 110
+CODING: Words stricken are deletions; words underlined are additions.
+hb145 -01-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 145, Engrossed 1 2026
+1801 (15)
+1802 (b) This subsection may not be construed as designating or
+1803 not designating that a person who owns or operates a family
+1804 foster home as described in this subsection or any other person
+1805 is an employee or agent of the state. Nothing in this subsection
+1806 amends, expands, or supersedes the provisions of s. 768.28.
+1807 Section 34. For the purpose of incorporating the amendment
+1808 made by this act to section 768.28, Florida Statutes, in
+1809 references thereto, subsection (1), paragraph (a) of subsection
+1810 (2), and paragraph (a) of subsection (3) of section 409.993,
+1811 Florida Statutes, are reenacted to read:
+1812 409.993 Lead agencies and subcontractor liability.—
+1813 (1) FINDINGS.—
+1814 (a) The Legislature finds that the state has traditionally
+1815 provided foster care services to children who are the
+1816 responsibility of the state. As such, foster children have not
+1817 had the right to recover for injuries beyond the limitations
+1818 specified in s. 768.28. The Legislature has determined that
+1819 foster care and related services should be outsourced pursuant
+1820 to this section and that the provision of such services is of
+1821 paramount importance to the state. The purpose of such
+1822 outsourcing is to increase the level of safety, security, and
+1823 stability of children who are or become the responsibility of
+1824 the state. One of the components necessary to secure a safe and
+1825 stable environment for such children is the requirement that
+Page 73 of 110
+CODING: Words stricken are deletions; words underlined are additions.
+hb145 -01-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 145, Engrossed 1 2026
+1826 private providers maintain liability insurance. As such,
+1827 insurance needs to be available and remain available to
+1828 nongovernmental foster care and related services providers
+1829 without the resources of such providers being significantly
+1830 reduced by the cost of maintaining such insurance.
+1831 (b) The Legislature further finds that, by requiring the
+1832 following minimum levels of insurance, children in outsourced
+1833 foster care and related services will gain increased protection
+1834 and rights of recovery in the event of injury than currently
+1835 provided in s. 768.28.
+1836 (2) LEAD AGENCY LIABILITY.—
+1837 (a) Other than an entity to which s. 768.28 applies, an
+1838 eligible community-based care lead agency, or its employees or
+1839 officers, except as otherwise provided in paragraph (b), shall,
+1840 as a part of its contract, obtain a minimum of $1 million per
+1841 occurrence with a policy period aggregate limit of $3 million in
+1842 general liability insurance coverage. The lead agency must also
+1843 require that staff who transport client children and families in
+1844 their personal automobiles in order to carry out their job
+1845 responsibilities obtain minimum bodily injury liability
+1846 insurance in the amount of $100,000 per person per any one
+1847 automobile accident, and subject to such limits for each person,
+1848 $300,000 for all damages resulting from any one automobile
+1849 accident, on their personal automobiles. In lieu of personal
+1850 motor vehicle insurance, the lead agency's casualty, liability,
+Page 74 of 110
+CODING: Words stricken are deletions; words underlined are additions.
+hb145 -01-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 145, Engrossed 1 2026
+1851 or motor vehicle insurance carrier may provide nonowned
+1852 automobile liability coverage. This insurance provides liability
+1853 insurance for an automobile that the lead agency uses in
+1854 connection with the lead agency's business but does not own,
+1855 lease, rent, or borrow. This coverage includes an automobile
+1856 owned by an employee of the lead agency or a member of the
+1857 employee's household but only while the automobile is used in
+1858 connection with the lead agency's business. The nonowned
+1859 automobile coverage for the lead agency applies as excess
+1860 coverage over any other collectible insurance. The personal
+1861 automobile policy for the employee of the lead agency shall be
+1862 primary insurance, and the nonowned automobile coverage of the
+1863 lead agency acts as excess insurance to the primary insurance.
+1864 The lead agency shall provide a minimum limit of $1 million in
+1865 nonowned automobile coverage. In a tort action brought against
+1866 such a lead agency or employee, net economic damages shall be
+1867 limited to $2 million per liability claim and $200,000 per
+1868 automobile claim, including, but not limited to, past and future
+1869 medical expenses, wage loss, and loss of earning capacity,
+1870 offset by any collateral source payment paid or payable. In any
+1871 tort action brought against a lead agency, noneconomic damages
+1872 shall be limited to $400,000 per claim. A claims bill may be
+1873 brought on behalf of a claimant pursuant to s. 768.28 for any
+1874 amount exceeding the limits specified in this paragraph. Any
+1875 offset of collateral source payments made as of the date of the
+Page 75 of 110
+CODING: Words stricken are deletions; words underlined are additions.
+hb145 -01-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 145, Engrossed 1 2026
+1876 settlement or judgment shall be in accordance with s. 768.76.
+1877 The lead agency is not liable in tort for the acts or omissions
+1878 of its subcontractors or the officers, agents, or employees of
+1879 its subcontractors.
+1880 (3) SUBCONTRACTOR LIABILITY.—
+1881 (a) A subcontractor of an eligible community-based care
+1882 lead agency that is a direct provider of foster care and related
+1883 services to children and families, and its employees or
+1884 officers, except as otherwise provided in paragraph (c), must,
+1885 as a part of its contract, obtain a minimum of $1 million per
+1886 occurrence with a policy period aggregate limit of $3 million in
+1887 general liability insurance coverage. The subcontractor of a
+1888 lead agency must also require that staff who transport client
+1889 children and families in their personal automobiles in order to
+1890 carry out their job responsibilities obtain minimum bodily
+1891 injury liability insurance in the amount of $100,000 per person
+1892 in any one automobile accident, and subject to such limits for
+1893 each person, $300,000 for all damages resulting from any one
+1894 automobile accident, on their personal automobiles. In lieu of
+1895 personal motor vehicle insurance, the subcontractor's casualty,
+1896 liability, or motor vehicle insurance carrier may provide
+1897 nonowned automobile liability coverage. This insurance provides
+1898 liability insurance for automobiles that the subcontractor uses
+1899 in connection with the subcontractor's business but does not
+1900 own, lease, rent, or borrow. This coverage includes automobiles
+Page 76 of 110
+CODING: Words stricken are deletions; words underlined are additions.
+hb145 -01-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 145, Engrossed 1 2026
+1901 owned by the employees of the subcontractor or a member of the
+1902 employee's household but only while the automobiles are used in
+1903 connection with the subcontractor's business. The nonowned
+1904 automobile coverage for the subcontractor applies as excess
+1905 coverage over any other collectible insurance. The personal
+1906 automobile policy for the employee of the subcontractor shall be
+1907 primary insurance, and the nonowned automobile coverage of the
+1908 subcontractor acts as excess insurance to the primary insurance.
+1909 The subcontractor shall provide a minimum limit of $1 million in
+1910 nonowned automobile coverage. In a tort action brought against
+1911 such subcontractor or employee, net economic damages shall be
+1912 limited to $2 million per liability claim and $200,000 per
+1913 automobile claim, including, but not limited to, past and future
+1914 medical expenses, wage loss, and loss of earning capacity,
+1915 offset by any collateral source payment paid or payable. In a
+1916 tort action brought against such subcontractor, noneconomic
+1917 damages shall be limited to $400,000 per claim. A claims bill
+1918 may be brought on behalf of a claimant pursuant to s. 768.28 for
+1919 any amount exceeding the limits specified in this paragraph. Any
+1920 offset of collateral source payments made as of the date of the
+1921 settlement or judgment shall be in accordance with s. 768.76.
+1922 Section 35. For the purpose of incorporating the amendment
+1923 made by this act to section 768.28, Florida Statutes, in a
+1924 reference thereto, subsection (8) of section 420.504, Florida
+1925 Statutes, is reenacted to read:
+Page 77 of 110
+CODING: Words stricken are deletions; words underlined are additions.
+hb145 -01-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 145, Engrossed 1 2026
+1926 420.504 Public corporation; creation, membership, terms,
+1927 expenses.—
+1928 (8) The corporation is a corporation primarily acting as
+1929 an instrumentality of the state, within the meaning of s.
+1930 768.28.
+1931 Section 36. For the purpose of incorporating the amendment
+1932 made by this act to section 768.28, Florida Statutes, in a
+1933 reference thereto, subsection (3) of section 455.221, Florida
+1934 Statutes, is reenacted to read:
+1935 455.221 Legal and investigative services.—
+1936 (3) Any person retained by the department under contract
+1937 to review materials, make site visits, or provide expert
+1938 testimony regarding any complaint or application filed with the
+1939 department relating to a profession under the jurisdiction of
+1940 the department shall be considered an agent of the department in
+1941 determining the state insurance coverage and sovereign immunity
+1942 protection applicability of ss. 284.31 and 768.28.
+1943 Section 37. For the purpose of incorporating the amendment
+1944 made by this act to section 768.28, Florida Statutes, in a
+1945 reference thereto, subsection (5) of section 455.32, Florida
+1946 Statutes, is reenacted to read:
+1947 455.32 Management Privatization Act.—
+1948 (5) Any such corporation may hire staff as necessary to
+1949 carry out its functions. Such staff are not public employees for
+1950 the purposes of chapter 110 or chapter 112, except that the
+Page 78 of 110
+CODING: Words stricken are deletions; words underlined are additions.
+hb145 -01-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 145, Engrossed 1 2026
+1951 board of directors and the employees of the corporation are
+1952 subject to the provisions of s. 112.061 and part III of chapter
+1953 112. The provisions of s. 768.28 apply to each such corporation,
+1954 which is deemed to be a corporation primarily acting as an
+1955 instrumentality of the state but which is not an agency within
+1956 the meaning of s. 20.03(1).
+1957 Section 38. For the purpose of incorporating the amendment
+1958 made by this act to section 768.28, Florida Statutes, in a
+1959 reference thereto, subsection (3) of section 456.009, Florida
+1960 Statutes, is reenacted to read:
+1961 456.009 Legal and investigative services.—
+1962 (3) Any person retained by the department under contract
+1963 to review materials, make site visits, or provide expert
+1964 testimony regarding any complaint or application filed with the
+1965 department relating to a profession under the jurisdiction of
+1966 the department shall be considered an agent of the department in
+1967 determining the state insurance coverage and sovereign immunity
+1968 protection applicability of ss. 284.31 and 768.28.
+1969 Section 39. For the purpose of incorporating the amendment
+1970 made by this act to section 768.28, Florida Statutes, in a
+1971 reference thereto, paragraph (a) of subsection (15) of section
+1972 456.076, Florida Statutes, is reenacted to read:
+1973 456.076 Impaired practitioner programs.—
+1974 (15)(a) A consultant retained pursuant to this section and
+1975 a consultant's directors, officers, employees, or agents shall
+Page 79 of 110
+CODING: Words stricken are deletions; words underlined are additions.
+hb145 -01-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 145, Engrossed 1 2026
+1976 be considered agents of the department for purposes of s. 768.28
+1977 while acting within the scope of the consultant's duties under
+1978 the contract with the department.
+1979 Section 40. For the purpose of incorporating the amendment
+1980 made by this act to section 768.28, Florida Statutes, in a
+1981 reference thereto, subsection (3) of section 471.038, Florida
+1982 Statutes, is reenacted to read:
+1983 471.038 Florida Engineers Management Corporation.—
+1984 (3) The Florida Engineers Management Corporation is
+1985 created to provide administrative, investigative, and
+1986 prosecutorial services to the board in accordance with the
+1987 provisions of chapter 455 and this chapter. The management
+1988 corporation may hire staff as necessary to carry out its
+1989 functions. Such staff are not public employees for the purposes
+1990 of chapter 110 or chapter 112, except that the board of
+1991 directors and the staff are subject to the provisions of s.
+1992 112.061. The provisions of s. 768.28 apply to the management
+1993 corporation, which is deemed to be a corporation primarily
+1994 acting as an instrumentality of the state, but which is not an
+1995 agency within the meaning of s. 20.03(1). The management
+1996 corporation shall:
+1997 (a) Be a Florida corporation not for profit, incorporated
+1998 under the provisions of chapter 617.
+1999 (b) Provide administrative, investigative, and
+2000 prosecutorial services to the board in accordance with the
+Page 80 of 110
+CODING: Words stricken are deletions; words underlined are additions.
+hb145 -01-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 145, Engrossed 1 2026
+2001 provisions of chapter 455, this chapter, and the contract
+2002 required by this section.
+2003 (c) Receive, hold, and administer property and make only
+2004 prudent expenditures directly related to the responsibilities of
+2005 the board, and in accordance with the contract required by this
+2006 section.
+2007 (d) Be approved by the board, and the department, to
+2008 operate for the benefit of the board and in the best interest of
+2009 the state.
+2010 (e) Operate under a fiscal year that begins on July 1 of
+2011 each year and ends on June 30 of the following year.
+2012 (f) Have a seven-member board of directors, five of whom
+2013 are to be appointed by the board and must be registrants
+2014 regulated by the board and two of whom are to be appointed by
+2015 the secretary and must be laypersons not regulated by the board.
+2016 All appointments shall be for 4-year terms. No member shall
+2017 serve more than two consecutive terms. Failure to attend three
+2018 consecutive meetings shall be deemed a resignation from the
+2019 board, and the vacancy shall be filled by a new appointment.
+2020 (g) Select its officers in accordance with its bylaws. The
+2021 members of the board of directors who were appointed by the
+2022 board may be removed by the board.
+2023 (h) Select the president of the management corporation,
+2024 who shall also serve as executive director to the board, subject
+2025 to approval of the board.
+Page 81 of 110
+CODING: Words stricken are deletions; words underlined are additions.
+hb145 -01-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 145, Engrossed 1 2026
+2026 (i) Use a portion of the interest derived from the
+2027 management corporation account to offset the costs associated
+2028 with the use of credit cards for payment of fees by applicants
+2029 or licensees.
+2030 (j) Operate under a written contract with the department
+2031 which is approved by the board. The contract must provide for,
+2032 but is not limited to:
+2033 1. Submission by the management corporation of an annual
+2034 budget that complies with board rules for approval by the board
+2035 and the department.
+2036 2. Annual certification by the board and the department
+2037 that the management corporation is complying with the terms of
+2038 the contract in a manner consistent with the goals and purposes
+2039 of the board and in the best interest of the state. This
+2040 certification must be reported in the board's minutes. The
+2041 contract must also provide for methods and mechanisms to resolve
+2042 any situation in which the certification process determines
+2043 noncompliance.
+2044 3. Funding of the management corporation through
+2045 appropriations allocated to the regulation of professional
+2046 engineers from the Professional Regulation Trust Fund.
+2047 4. The reversion to the board, or the state if the board
+2048 ceases to exist, of moneys, records, data, and property held in
+2049 trust by the management corporation for the benefit of the
+2050 board, if the management corporation is no longer approved to
+Page 82 of 110
+CODING: Words stricken are deletions; words underlined are additions.
+hb145 -01-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 145, Engrossed 1 2026
+2051 operate for the board or the board ceases to exist. All records
+2052 and data in a computerized database shall be returned to the
+2053 department in a form that is compatible with the computerized
+2054 database of the department.
+2055 5. The securing and maintaining by the management
+2056 corporation, during the term of the contract and for all acts
+2057 performed during the term of the contract, of all liability
+2058 insurance coverages in an amount to be approved by the board to
+2059 defend, indemnify, and hold harmless the management corporation
+2060 and its officers and employees, the department and its
+2061 employees, and the state against all claims arising from state
+2062 and federal laws. Such insurance coverage must be with insurers
+2063 qualified and doing business in the state. The management
+2064 corporation must provide proof of insurance to the department.
+2065 The department and its employees and the state are exempt from
+2066 and are not liable for any sum of money which represents a
+2067 deductible, which sums shall be the sole responsibility of the
+2068 management corporation. Violation of this subparagraph shall be
+2069 grounds for terminating the contract.
+2070 6. Payment by the management corporation, out of its
+2071 allocated budget, to the department of all costs of
+2072 representation by the board counsel, including salary and
+2073 benefits, travel, and any other compensation traditionally paid
+2074 by the department to other board counsel.
+2075 7. Payment by the management corporation, out of its
+Page 83 of 110
+CODING: Words stricken are deletions; words underlined are additions.
+hb145 -01-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 145, Engrossed 1 2026
+2076 allocated budget, to the department of all costs incurred by the
+2077 management corporation or the board for the Division of
+2078 Administrative Hearings of the Department of Management Services
+2079 and any other cost for utilization of these state services.
+2080 8. Payment by the management corporation, out of its
+2081 allocated budget, to the department of reasonable costs
+2082 associated with the contract monitor.
+2083 (k) Provide for an annual financial audit of its financial
+2084 accounts and records by an independent certified public
+2085 accountant. The annual audit report shall include a management
+2086 letter in accordance with s. 11.45 and a detailed supplemental
+2087 schedule of expenditures for each expenditure category. The
+2088 annual audit report must be submitted to the board, the
+2089 department, and the Auditor General for review.
+2090 (l) Provide for persons not employed by the corporation
+2091 who are charged with the responsibility of receiving and
+2092 depositing fee and fine revenues to have a faithful performance
+2093 bond in such an amount and according to such terms as shall be
+2094 determined in the contract.
+2095 (m) Submit to the secretary, the board, and the
+2096 Legislature, on or before October 1 of each year, a report on
+2097 the status of the corporation which includes, but is not limited
+2098 to, information concerning the programs and funds that have been
+2099 transferred to the corporation. The report must include: the
+2100 number of license applications received; the number approved and
+Page 84 of 110
+CODING: Words stricken are deletions; words underlined are additions.
+hb145 -01-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 145, Engrossed 1 2026
+2101 denied and the number of licenses issued; the number of
+2102 examinations administered and the number of applicants who
+2103 passed or failed the examination; the number of complaints
+2104 received; the number determined to be legally sufficient; the
+2105 number dismissed; the number determined to have probable cause;
+2106 the number of administrative complaints issued and the status of
+2107 the complaints; and the number and nature of disciplinary
+2108 actions taken by the board.
+2109 (n) Develop and submit to the department, performance
+2110 standards and measurable outcomes for the board to adopt by rule
+2111 in order to facilitate efficient and cost-effective regulation.
+2112 Section 41. For the purpose of incorporating the amendment
+2113 made by this act to section 768.28, Florida Statutes, in a
+2114 reference thereto, paragraph (b) of subsection (11) of section
+2115 472.006, Florida Statutes, is reenacted to read:
+2116 472.006 Department; powers and duties.—The department
+2117 shall:
+2118 (11) Provide legal counsel for the board by contracting
+2119 with the Department of Legal Affairs, by retaining private
+2120 counsel pursuant to s. 287.059, or by providing department staff
+2121 counsel. The board shall periodically review and evaluate the
+2122 services provided by its board counsel. Fees and costs of such
+2123 counsel shall be paid from the General Inspection Trust Fund,
+2124 subject to ss. 215.37 and 472.011. All contracts for independent
+2125 legal counsel must provide for periodic review and evaluation by
+Page 85 of 110
+CODING: Words stricken are deletions; words underlined are additions.
+hb145 -01-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 145, Engrossed 1 2026
+2126 the board and the department of services provided.
+2127 (b) Any person retained by the department under contract
+2128 to review materials, make site visits, or provide expert
+2129 testimony regarding any complaint or application filed with the
+2130 department relating to the practice of surveying and mapping
+2131 shall be considered an agent of the department in determining
+2132 the state insurance coverage and sovereign immunity protection
+2133 applicability of ss. 284.31 and 768.28.
+2134 Section 42. For the purpose of incorporating the amendment
+2135 made by this act to section 768.28, Florida Statutes, in a
+2136 reference thereto, subsection (7) of section 497.167, Florida
+2137 Statutes, is reenacted to read:
+2138 497.167 Administrative matters.—
+2139 (7) Any person retained by the department under contract
+2140 to review materials, make site visits, or provide expert
+2141 testimony regarding any complaint or application filed with the
+2142 department, relating to regulation under this chapter, shall be
+2143 considered an agent of the department in determining the state
+2144 insurance coverage and sovereign immunity protection
+2145 applicability of ss. 284.31 and 768.28.
+2146 Section 43. For the purpose of incorporating the amendment
+2147 made by this act to section 768.28, Florida Statutes, in a
+2148 reference thereto, subsection (2) of section 513.118, Florida
+2149 Statutes, is reenacted to read:
+2150 513.118 Conduct on premises; refusal of service.—
+Page 86 of 110
+CODING: Words stricken are deletions; words underlined are additions.
+hb145 -01-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 145, Engrossed 1 2026
+2151 (2) The operator of a recreational vehicle park may
+2152 request that a transient guest or visitor who violates
+2153 subsection (1) leave the premises immediately. A person who
+2154 refuses to leave the premises commits the offense of trespass as
+2155 provided in s. 810.08, and the operator may call a law
+2156 enforcement officer to have the person and his or her property
+2157 removed under the supervision of the officer. A law enforcement
+2158 officer is not liable for any claim involving the removal of the
+2159 person or property from the recreational vehicle park under this
+2160 section, except as provided in s. 768.28. If conditions do not
+2161 allow for immediate removal of the person's property, he or she
+2162 may arrange a reasonable time, not to exceed 48 hours, with the
+2163 operator to come remove the property, accompanied by a law
+2164 enforcement officer.
+2165 Section 44. For the purpose of incorporating the amendment
+2166 made by this act to section 768.28, Florida Statutes, in a
+2167 reference thereto, subsection (1) of section 548.046, Florida
+2168 Statutes, is reenacted to read:
+2169 548.046 Physician's attendance at match; examinations;
+2170 cancellation of match.—
+2171 (1) The commission, or the commission representative,
+2172 shall assign to each match at least one physician who shall
+2173 observe the physical condition of the participants and advise
+2174 the commissioner or commission representative in charge and the
+2175 referee of the participants' conditions before, during, and
+Page 87 of 110
+CODING: Words stricken are deletions; words underlined are additions.
+hb145 -01-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 145, Engrossed 1 2026
+2176 after the match. The commission shall establish a schedule of
+2177 fees for the physician's services. The physician's fee shall be
+2178 paid by the promoter of the match attended by the physician. The
+2179 physician shall be considered an agent of the commission in
+2180 determining the state insurance coverage and sovereign immunity
+2181 protection applicability of ss. 284.31 and 768.28.
+2182 Section 45. For the purpose of incorporating the amendment
+2183 made by this act to section 768.28, Florida Statutes, in a
+2184 reference thereto, subsection (8) of section 556.106, Florida
+2185 Statutes, is reenacted to read:
+2186 556.106 Liability of the member operator, excavator, and
+2187 system.—
+2188 (8) Any liability of the state, its agencies, or its
+2189 subdivisions which arises out of this chapter is subject to the
+2190 provisions of s. 768.28.
+2191 Section 46. For the purpose of incorporating the amendment
+2192 made by this act to section 768.28, Florida Statutes, in a
+2193 reference thereto, paragraph (e) of subsection (4) of section
+2194 589.19, Florida Statutes, is reenacted to read:
+2195 589.19 Creation of certain state forests; naming of
+2196 certain state forests; Operation Outdoor Freedom Program.—
+2197 (4)
+2198 (e)1. A private landowner who provides land for
+2199 designation and use as an Operation Outdoor Freedom Program
+2200 hunting site shall have limited liability pursuant to s.
+Page 88 of 110
+CODING: Words stricken are deletions; words underlined are additions.
+hb145 -01-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 145, Engrossed 1 2026
+2201 375.251.
+2202 2. A private landowner who consents to the designation and
+2203 use of land as part of the Operation Outdoor Freedom Program
+2204 without compensation shall be considered a volunteer, as defined
+2205 in s. 110.501, and shall be covered by state liability
+2206 protection pursuant to s. 768.28, including s. 768.28(9).
+2207 3. This subsection does not:
+2208 a. Relieve any person of liability that would otherwise
+2209 exist for deliberate, willful, or malicious injury to persons or
+2210 property.
+2211 b. Create or increase the liability of any person.
+2212 Section 47. For the purpose of incorporating the amendment
+2213 made by this act to section 768.28, Florida Statutes, in
+2214 references thereto, subsections (3) and (4) of section 627.7491,
+2215 Florida Statutes, are reenacted to read:
+2216 627.7491 Official law enforcement vehicles; motor vehicle
+2217 insurance requirements.—
+2218 (3) Any suit or action brought or maintained against an
+2219 employing agency for damages arising out of tort pursuant to
+2220 this section, including, without limitation, any claim arising
+2221 upon account of an act causing loss of property, personal
+2222 injury, or death, shall be subject to the limitations provided
+2223 in s. 768.28(5).
+2224 (4) The requirements of this section may be met by any
+2225 method authorized by s. 768.28(16).
+Page 89 of 110
+CODING: Words stricken are deletions; words underlined are additions.
+hb145 -01-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 145, Engrossed 1 2026
+2226 Section 48. For the purpose of incorporating the amendment
+2227 made by this act to section 768.28, Florida Statutes, in a
+2228 reference thereto, paragraph (c) of subsection (2) of section
+2229 723.0611, Florida Statutes, is reenacted to read:
+2230 723.0611 Florida Mobile Home Relocation Corporation.—
+2231 (2)
+2232 (c) The corporation shall, for purposes of s. 768.28, be
+2233 considered an agency of the state. Agents or employees of the
+2234 corporation, members of the board of directors of the
+2235 corporation, or representatives of the Division of Florida
+2236 Condominiums, Timeshares, and Mobile Homes shall be considered
+2237 officers, employees, or agents of the state, and actions against
+2238 them and the corporation shall be governed by s. 768.28.
+2239 Section 49. For the purpose of incorporating the amendment
+2240 made by this act to section 768.28, Florida Statutes, in a
+2241 reference thereto, subsection (5) of section 760.11, Florida
+2242 Statutes, is reenacted to read:
+2243 760.11 Administrative and civil remedies; construction.—
+2244 (5) In any civil action brought under this section, the
+2245 court may issue an order prohibiting the discriminatory practice
+2246 and providing affirmative relief from the effects of the
+2247 practice, including back pay. The court may also award
+2248 compensatory damages, including, but not limited to, damages for
+2249 mental anguish, loss of dignity, and any other intangible
+2250 injuries, and punitive damages. The provisions of ss. 768.72 and
+Page 90 of 110
+CODING: Words stricken are deletions; words underlined are additions.
+hb145 -01-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 145, Engrossed 1 2026
+2251 768.73 do not apply to this section. The judgment for the total
+2252 amount of punitive damages awarded under this section to an
+2253 aggrieved person shall not exceed $100,000. In any action or
+2254 proceeding under this subsection, the court, in its discretion,
+2255 may allow the prevailing party a reasonable attorney's fee as
+2256 part of the costs. It is the intent of the Legislature that this
+2257 provision for attorney's fees be interpreted in a manner
+2258 consistent with federal case law involving a Title VII action.
+2259 The right to trial by jury is preserved in any such private
+2260 right of action in which the aggrieved person is seeking
+2261 compensatory or punitive damages, and any party may demand a
+2262 trial by jury. The commission's determination of reasonable
+2263 cause is not admissible into evidence in any civil proceeding,
+2264 including any hearing or trial, except to establish for the
+2265 court the right to maintain the private right of action. A civil
+2266 action brought under this section shall be commenced no later
+2267 than 1 year after the date of determination of reasonable cause
+2268 by the commission. The commencement of such action shall divest
+2269 the commission of jurisdiction of the complaint, except that the
+2270 commission may intervene in the civil action as a matter of
+2271 right. Notwithstanding the above, the state and its agencies and
+2272 subdivisions shall not be liable for punitive damages. The total
+2273 amount of recovery against the state and its agencies and
+2274 subdivisions shall not exceed the limitation as set forth in s.
+2275 768.28(5).
+Page 91 of 110
+CODING: Words stricken are deletions; words underlined are additions.
+hb145 -01-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 145, Engrossed 1 2026
+2276 Section 50. For the purpose of incorporating the amendment
+2277 made by this act to section 768.28, Florida Statutes, in a
+2278 reference thereto, subsection (4) of section 766.1115, Florida
+2279 Statutes, is reenacted to read:
+2280 766.1115 Health care providers; creation of agency
+2281 relationship with governmental contractors.—
+2282 (4) CONTRACT REQUIREMENTS.—A health care provider that
+2283 executes a contract with a governmental contractor to deliver
+2284 health care services on or after April 17, 1992, as an agent of
+2285 the governmental contractor is an agent for purposes of s.
+2286 768.28(9), while acting within the scope of duties under the
+2287 contract, if the contract complies with the requirements of this
+2288 section and regardless of whether the individual treated is
+2289 later found to be ineligible. A health care provider shall
+2290 continue to be an agent for purposes of s. 768.28(9) for 30 days
+2291 after a determination of ineligibility to allow for treatment
+2292 until the individual transitions to treatment by another health
+2293 care provider. A health care provider under contract with the
+2294 state may not be named as a defendant in any action arising out
+2295 of medical care or treatment provided on or after April 17,
+2296 1992, under contracts entered into under this section. The
+2297 contract must provide that:
+2298 (a) The right of dismissal or termination of any health
+2299 care provider delivering services under the contract is retained
+2300 by the governmental contractor.
+Page 92 of 110
+CODING: Words stricken are deletions; words underlined are additions.
+hb145 -01-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 145, Engrossed 1 2026
+2301 (b) The governmental contractor has access to the patient
+2302 records of any health care provider delivering services under
+2303 the contract.
+2304 (c) Adverse incidents and information on treatment
+2305 outcomes must be reported by any health care provider to the
+2306 governmental contractor if the incidents and information pertain
+2307 to a patient treated under the contract. The health care
+2308 provider shall submit the reports required by s. 395.0197. If an
+2309 incident involves a professional licensed by the Department of
+2310 Health or a facility licensed by the Agency for Health Care
+2311 Administration, the governmental contractor shall submit such
+2312 incident reports to the appropriate department or agency, which
+2313 shall review each incident and determine whether it involves
+2314 conduct by the licensee that is subject to disciplinary action.
+2315 All patient medical records and any identifying information
+2316 contained in adverse incident reports and treatment outcomes
+2317 which are obtained by governmental entities under this paragraph
+2318 are confidential and exempt from the provisions of s. 119.07(1)
+2319 and s. 24(a), Art. I of the State Constitution.
+2320 (d) Patient selection and initial referral must be made by
+2321 the governmental contractor or the provider. Patients may not be
+2322 transferred to the provider based on a violation of the
+2323 antidumping provisions of the Omnibus Budget Reconciliation Act
+2324 of 1989, the Omnibus Budget Reconciliation Act of 1990, or
+2325 chapter 395.
+Page 93 of 110
+CODING: Words stricken are deletions; words underlined are additions.
+hb145 -01-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 145, Engrossed 1 2026
+2326 (e) If emergency care is required, the patient need not be
+2327 referred before receiving treatment, but must be referred within
+2328 48 hours after treatment is commenced or within 48 hours after
+2329 the patient has the mental capacity to consent to treatment,
+2330 whichever occurs later.
+2331 (f) The provider is subject to supervision and regular
+2332 inspection by the governmental contractor.
+2333 (g) As an agent of the governmental contractor for
+2334 purposes of s. 768.28(9), while acting within the scope of
+2335 duties under the contract, a health care provider licensed under
+2336 chapter 466 may allow a patient, or a parent or guardian of the
+2337 patient, to voluntarily contribute a monetary amount to cover
+2338 costs of dental laboratory work related to the services provided
+2339 to the patient. This contribution may not exceed the actual cost
+2340 of the dental laboratory charges.
+2341
+2342 A governmental contractor that is also a health care provider is
+2343 not required to enter into a contract under this section with
+2344 respect to the health care services delivered by its employees.
+2345 Section 51. For the purpose of incorporating the amendment
+2346 made by this act to section 768.28, Florida Statutes, in a
+2347 reference thereto, subsection (2) of section 766.112, Florida
+2348 Statutes, is reenacted to read:
+2349 766.112 Comparative fault.—
+2350 (2) In an action for damages for personal injury or
+Page 94 of 110
+CODING: Words stricken are deletions; words underlined are additions.
+hb145 -01-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 145, Engrossed 1 2026
+2351 wrongful death arising out of medical negligence, whether in
+2352 contract or tort, when an apportionment of damages pursuant to
+2353 s. 768.81 is attributed to a board of trustees of a state
+2354 university, the court shall enter judgment against the board of
+2355 trustees on the basis of the board's percentage of fault and not
+2356 on the basis of the doctrine of joint and several liability. The
+2357 sole remedy available to a claimant to collect a judgment or
+2358 settlement against a board of trustees, subject to the
+2359 provisions of this subsection, shall be pursuant to s. 768.28.
+2360 Section 52. For the purpose of incorporating the amendment
+2361 made by this act to section 768.28, Florida Statutes, in a
+2362 reference thereto, subsection (3) of section 768.1355, Florida
+2363 Statutes, is reenacted to read:
+2364 768.1355 Florida Volunteer Protection Act.—
+2365 (3) Members of elected or appointed boards, councils, and
+2366 commissions of the state, counties, municipalities, authorities,
+2367 and special districts shall incur no civil liability and shall
+2368 have immunity from suit as provided in s. 768.28 for acts or
+2369 omissions by members relating to members' conduct of their
+2370 official duties. It is the intent of the Legislature to
+2371 encourage our best and brightest people to serve on elected and
+2372 appointed boards, councils, and commissions.
+2373 Section 53. For the purpose of incorporating the amendment
+2374 made by this act to section 768.28, Florida Statutes, in a
+2375 reference thereto, subsection (7) of section 768.1382, Florida
+Page 95 of 110
+CODING: Words stricken are deletions; words underlined are additions.
+hb145 -01-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 145, Engrossed 1 2026
+2376 Statutes, is reenacted to read:
+2377 768.1382 Streetlights, security lights, and other similar
+2378 illumination; limitation on liability.—
+2379 (7) In the event that there is any conflict between this
+2380 section and s. 768.81, or any other section of the Florida
+2381 Statutes, this section shall control. Further, nothing in this
+2382 section shall impact or waive any provision of s. 768.28.
+2383 Section 54. For the purpose of incorporating the amendment
+2384 made by this act to section 768.28, Florida Statutes, in a
+2385 reference thereto, subsection (4) of section 768.295, Florida
+2386 Statutes, is reenacted to read:
+2387 768.295 Strategic Lawsuits Against Public Participation
+2388 (SLAPP) prohibited.—
+2389 (4) A person or entity sued by a governmental entity or
+2390 another person in violation of this section has a right to an
+2391 expeditious resolution of a claim that the suit is in violation
+2392 of this section. A person or entity may move the court for an
+2393 order dismissing the action or granting final judgment in favor
+2394 of that person or entity. The person or entity may file a motion
+2395 for summary judgment, together with supplemental affidavits,
+2396 seeking a determination that the claimant's or governmental
+2397 entity's lawsuit has been brought in violation of this section.
+2398 The claimant or governmental entity shall thereafter file a
+2399 response and any supplemental affidavits. As soon as
+2400 practicable, the court shall set a hearing on the motion, which
+Page 96 of 110
+CODING: Words stricken are deletions; words underlined are additions.
+hb145 -01-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 145, Engrossed 1 2026
+2401 shall be held at the earliest possible time after the filing of
+2402 the claimant's or governmental entity's response. The court may
+2403 award, subject to the limitations in s. 768.28, the party sued
+2404 by a governmental entity actual damages arising from a
+2405 governmental entity's violation of this section. The court shall
+2406 award the prevailing party reasonable attorney fees and costs
+2407 incurred in connection with a claim that an action was filed in
+2408 violation of this section.
+2409 Section 55. For the purpose of incorporating the amendment
+2410 made by this act to section 768.28, Florida Statutes, in a
+2411 reference thereto, section 946.5026, Florida Statutes, is
+2412 reenacted to read:
+2413 946.5026 Sovereign immunity in tort actions.—The
+2414 provisions of s. 768.28 shall be applicable to the corporation
+2415 established under this part, which is deemed to be a corporation
+2416 primarily acting as an instrumentality of the state.
+2417 Section 56. For the purpose of incorporating the amendment
+2418 made by this act to section 768.28, Florida Statutes, in a
+2419 reference thereto, subsection (3) of section 946.514, Florida
+2420 Statutes, is reenacted to read:
+2421 946.514 Civil rights of inmates; inmates not state
+2422 employees; liability of corporation for inmate injuries.—
+2423 (3) The corporation is liable for inmate injury to the
+2424 extent specified in s. 768.28; however, the members of the board
+2425 of directors are not individually liable to any inmate for any
+Page 97 of 110
+CODING: Words stricken are deletions; words underlined are additions.
+hb145 -01-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 145, Engrossed 1 2026
+2426 injury sustained in any correctional work program operated by
+2427 the corporation.
+2428 Section 57. For the purpose of incorporating the amendment
+2429 made by this act to section 768.28, Florida Statutes, in a
+2430 reference thereto, subsection (8) of section 961.06, Florida
+2431 Statutes, is reenacted to read:
+2432 961.06 Compensation for wrongful incarceration.—
+2433 (8) Any payment made under this act does not constitute a
+2434 waiver of any defense of sovereign immunity or an increase in
+2435 the limits of liability on behalf of the state or any person
+2436 subject to s. 768.28 or any other law.
+2437 Section 58. For the purpose of incorporating the amendment
+2438 made by this act to section 768.28, Florida Statutes, in a
+2439 reference thereto, subsection (3) of section 984.09, Florida
+2440 Statutes, is reenacted to read:
+2441 984.09 Punishment for contempt of court; alternative
+2442 sanctions.—
+2443 (3) ALTERNATIVE SANCTIONS.—Upon determining that a child
+2444 has committed direct contempt of court or indirect contempt of a
+2445 valid court order, the court may immediately request the circuit
+2446 alternative sanctions coordinator to recommend the most
+2447 appropriate available alternative sanction and shall order the
+2448 child to perform up to 50 hours of community service or a
+2449 similar alternative sanction, unless an alternative sanction is
+2450 unavailable or inappropriate, or unless the child has failed to
+Page 98 of 110
+CODING: Words stricken are deletions; words underlined are additions.
+hb145 -01-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 145, Engrossed 1 2026
+2451 comply with a prior alternative sanction. Alternative contempt
+2452 sanctions may be provided by local industry or by any nonprofit
+2453 organization or any public or private business or service entity
+2454 that has entered into a contract with the department to act as
+2455 an agent of the state to provide voluntary supervision of
+2456 children on behalf of the state in exchange for the labor of
+2457 children and limited immunity in accordance with s. 768.28(11).
+2458 Section 59. For the purpose of incorporating the amendment
+2459 made by this act to section 768.28, Florida Statutes, in a
+2460 reference thereto, paragraph (h) of subsection (12) of section
+2461 1002.33, Florida Statutes, is reenacted to read:
+2462 1002.33 Charter schools.—
+2463 (12) EMPLOYEES OF CHARTER SCHOOLS.—
+2464 (h) For the purposes of tort liability, the charter
+2465 school, including its governing body and employees, shall be
+2466 governed by s. 768.28. This paragraph does not include any for-
+2467 profit entity contracted by the charter school or its governing
+2468 body.
+2469 Section 60. For the purpose of incorporating the amendment
+2470 made by this act to section 768.28, Florida Statutes, in a
+2471 reference thereto, paragraph (b) of subsection (6) of section
+2472 1002.333, Florida Statutes, is reenacted to read:
+2473 1002.333 Persistently low-performing schools.—
+2474 (6) STATUTORY AUTHORITY.—
+2475 (b) For the purposes of tort liability, the hope operator,
+Page 99 of 110
+CODING: Words stricken are deletions; words underlined are additions.
+hb145 -01-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 145, Engrossed 1 2026
+2476 the school of hope, and its employees or agents shall be
+2477 governed by s. 768.28. The sponsor shall not be liable for civil
+2478 damages under state law for the employment actions or personal
+2479 injury, property damage, or death resulting from an act or
+2480 omission of a hope operator, the school of hope, or its
+2481 employees or agents. This paragraph does not include any for-
+2482 profit entity contracted by the charter school or its governing
+2483 body.
+2484 Section 61. For the purpose of incorporating the amendment
+2485 made by this act to section 768.28, Florida Statutes, in a
+2486 reference thereto, subsection (17) of section 1002.34, Florida
+2487 Statutes, is reenacted to read:
+2488 1002.34 Charter technical career centers.—
+2489 (17) IMMUNITY.—For the purposes of tort liability, the
+2490 governing body and employees of a center are governed by s.
+2491 768.28.
+2492 Section 62. For the purpose of incorporating the amendment
+2493 made by this act to section 768.28, Florida Statutes, in a
+2494 reference thereto, subsection (2) of section 1002.37, Florida
+2495 Statutes, is reenacted to read:
+2496 1002.37 The Florida Virtual School.—
+2497 (2) The Florida Virtual School shall be governed by a
+2498 board of trustees comprised of seven members appointed by the
+2499 Governor to 4-year staggered terms. The board of trustees shall
+2500 be a public agency entitled to sovereign immunity pursuant to s.
+Page 100 of 110
+CODING: Words stricken are deletions; words underlined are additions.
+hb145 -01-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 145, Engrossed 1 2026
+2501 768.28, and board members shall be public officers who shall
+2502 bear fiduciary responsibility for the Florida Virtual School.
+2503 The board of trustees shall have the following powers and
+2504 duties:
+2505 (a)1. The board of trustees shall meet at least 4 times
+2506 each year, upon the call of the chair, or at the request of a
+2507 majority of the membership.
+2508 2. The fiscal year for the Florida Virtual School shall be
+2509 the state fiscal year as provided in s. 216.011(1)(q).
+2510 (b) The board of trustees shall be responsible for the
+2511 Florida Virtual School's development of a state-of-the-art
+2512 technology-based education delivery system that is cost-
+2513 effective, educationally sound, marketable, and capable of
+2514 sustaining a self-sufficient delivery system through the Florida
+2515 Education Finance Program.
+2516 (c) The board of trustees shall aggressively seek avenues
+2517 to generate revenue to support its future endeavors, and shall
+2518 enter into agreements with distance learning providers. The
+2519 board of trustees may acquire, enjoy, use, and dispose of
+2520 patents, copyrights, and trademarks and any licenses and other
+2521 rights or interests thereunder or therein. Ownership of all such
+2522 patents, copyrights, trademarks, licenses, and rights or
+2523 interests thereunder or therein shall vest in the state, with
+2524 the board of trustees having full right of use and full right to
+2525 retain the revenues derived therefrom. Any funds realized from
+Page 101 of 110
+CODING: Words stricken are deletions; words underlined are additions.
+hb145 -01-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 145, Engrossed 1 2026
+2526 patents, copyrights, trademarks, or licenses shall be considered
+2527 internal funds as provided in s. 1011.07. Such funds shall be
+2528 used to support the school's marketing and research and
+2529 development activities in order to improve courseware and
+2530 services to its students.
+2531 (d) The board of trustees shall be responsible for the
+2532 administration and control of all local school funds derived
+2533 from all activities or sources and shall prescribe the
+2534 principles and procedures to be followed in administering these
+2535 funds.
+2536 (e) The Florida Virtual School may accrue supplemental
+2537 revenue from supplemental support organizations, which include,
+2538 but are not limited to, alumni associations, foundations,
+2539 parent-teacher associations, and booster associations. The
+2540 governing body of each supplemental support organization shall
+2541 recommend the expenditure of moneys collected by the
+2542 organization for the benefit of the school. Such expenditures
+2543 shall be contingent upon the review of the executive director.
+2544 The executive director may override any proposed expenditure of
+2545 the organization that would violate Florida law or breach sound
+2546 educational management.
+2547 (f) In accordance with law and rules of the State Board of
+2548 Education, the board of trustees shall administer and maintain
+2549 personnel programs for all employees of the board of trustees
+2550 and the Florida Virtual School. The board of trustees may adopt
+Page 102 of 110
+CODING: Words stricken are deletions; words underlined are additions.
+hb145 -01-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 145, Engrossed 1 2026
+2551 rules, policies, and procedures related to the appointment,
+2552 employment, and removal of personnel.
+2553 1. The board of trustees shall determine the compensation,
+2554 including salaries and fringe benefits, and other conditions of
+2555 employment for such personnel.
+2556 2. The board of trustees may establish and maintain a
+2557 personnel loan or exchange program by which persons employed by
+2558 the board of trustees for the Florida Virtual School as academic
+2559 administrative and instructional staff may be loaned to, or
+2560 exchanged with persons employed in like capacities by, public
+2561 agencies either within or without this state, or by private
+2562 industry. With respect to public agency employees, the program
+2563 authorized by this subparagraph shall be consistent with the
+2564 requirements of part II of chapter 112. The salary and benefits
+2565 of board of trustees personnel participating in the loan or
+2566 exchange program shall be continued during the period of time
+2567 they participate in a loan or exchange program, and such
+2568 personnel shall be deemed to have no break in creditable or
+2569 continuous service or employment during such time. The salary
+2570 and benefits of persons participating in the personnel loan or
+2571 exchange program who are employed by public agencies or private
+2572 industry shall be paid by the originating employers of those
+2573 participants, and such personnel shall be deemed to have no
+2574 break in creditable or continuous service or employment during
+2575 such time.
+Page 103 of 110
+CODING: Words stricken are deletions; words underlined are additions.
+hb145 -01-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 145, Engrossed 1 2026
+2576 3. The employment of all Florida Virtual School academic
+2577 administrative and instructional personnel shall be subject to
+2578 rejection for cause by the board of trustees, and shall be
+2579 subject to policies of the board of trustees relative to
+2580 certification, tenure, leaves of absence, sabbaticals,
+2581 remuneration, and such other conditions of employment as the
+2582 board of trustees deems necessary and proper, not inconsistent
+2583 with law.
+2584 4. Each person employed by the board of trustees in an
+2585 academic administrative or instructional capacity with the
+2586 Florida Virtual School shall be entitled to a contract as
+2587 provided by rules of the board of trustees.
+2588 5. All employees except temporary, seasonal, and student
+2589 employees may be state employees for the purpose of being
+2590 eligible to participate in the Florida Retirement System and
+2591 receive benefits. The classification and pay plan, including
+2592 terminal leave and other benefits, and any amendments thereto,
+2593 shall be subject to review and approval by the Department of
+2594 Management Services and the Executive Office of the Governor
+2595 prior to adoption.
+2596 (g) The board of trustees shall establish priorities for
+2597 admission of students in accordance with paragraph (1)(b).
+2598 (h) The board of trustees shall establish and distribute
+2599 to all school districts and high schools in the state procedures
+2600 for enrollment of students in courses offered by the Florida
+Page 104 of 110
+CODING: Words stricken are deletions; words underlined are additions.
+hb145 -01-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 145, Engrossed 1 2026
+2601 Virtual School.
+2602 (i) The board of trustees shall establish criteria
+2603 defining the elements of an approved franchise. The board of
+2604 trustees may enter into franchise agreements with Florida
+2605 district school boards and may establish the terms and
+2606 conditions governing such agreements. The board of trustees
+2607 shall establish the performance and accountability measures and
+2608 report the performance of each school district franchise to the
+2609 Commissioner of Education.
+2610 (j) The board of trustees shall submit to the State Board
+2611 of Education both forecasted and actual enrollments and credit
+2612 completions for the Florida Virtual School, according to
+2613 procedures established by the State Board of Education. At a
+2614 minimum, such procedures must include the number of public,
+2615 private, and home education students served by program and by
+2616 county of residence.
+2617 (k) The board of trustees shall provide for the content
+2618 and custody of student and employee personnel records. Student
+2619 records shall be subject to the provisions of s. 1002.22.
+2620 Employee records shall be subject to the provisions of s.
+2621 1012.31.
+2622 (l) The financial records and accounts of the Florida
+2623 Virtual School shall be maintained under the direction of the
+2624 board of trustees and under rules adopted by the State Board of
+2625 Education for the uniform system of financial records and
+Page 105 of 110
+CODING: Words stricken are deletions; words underlined are additions.
+hb145 -01-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 145, Engrossed 1 2026
+2626 accounts for the schools of the state.
+2627
+2628 The Governor shall designate the initial chair of the board of
+2629 trustees to serve a term of 4 years. Members of the board of
+2630 trustees shall serve without compensation, but may be reimbursed
+2631 for per diem and travel expenses pursuant to s. 112.061. The
+2632 board of trustees shall be a body corporate with all the powers
+2633 of a body corporate and such authority as is needed for the
+2634 proper operation and improvement of the Florida Virtual School.
+2635 The board of trustees is specifically authorized to adopt rules,
+2636 policies, and procedures, consistent with law and rules of the
+2637 State Board of Education related to governance, personnel,
+2638 budget and finance, administration, programs, curriculum and
+2639 instruction, travel and purchasing, technology, students,
+2640 contracts and grants, and property as necessary for optimal,
+2641 efficient operation of the Florida Virtual School. Tangible
+2642 personal property owned by the board of trustees shall be
+2643 subject to the provisions of chapter 273.
+2644 Section 63. For the purpose of incorporating the amendment
+2645 made by this act to section 768.28, Florida Statutes, in a
+2646 reference thereto, paragraph (l) of subsection (3) of section
+2647 1002.55, Florida Statutes, is reenacted to read:
+2648 1002.55 School-year prekindergarten program delivered by
+2649 private prekindergarten providers.—
+2650 (3) To be eligible to deliver the prekindergarten program,
+Page 106 of 110
+CODING: Words stricken are deletions; words underlined are additions.
+hb145 -01-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 145, Engrossed 1 2026
+2651 a private prekindergarten provider must meet each of the
+2652 following requirements:
+2653 (l) Notwithstanding paragraph (j), for a private
+2654 prekindergarten provider that is a state agency or a subdivision
+2655 thereof, as defined in s. 768.28(2), the provider must agree to
+2656 notify the coalition of any additional liability coverage
+2657 maintained by the provider in addition to that otherwise
+2658 established under s. 768.28. The provider shall indemnify the
+2659 coalition to the extent permitted by s. 768.28. Notwithstanding
+2660 paragraph (j), for a child development program that is
+2661 accredited by a national accrediting body and operates on a
+2662 military installation that is certified by the United States
+2663 Department of Defense, the provider may demonstrate liability
+2664 coverage by affirming that it is subject to the Federal Tort
+2665 Claims Act, 28 U.S.C. ss. 2671 et seq.
+2666 Section 64. For the purpose of incorporating the amendment
+2667 made by this act to section 768.28, Florida Statutes, in a
+2668 reference thereto, subsection (10) of section 1002.83, Florida
+2669 Statutes, is reenacted to read:
+2670 1002.83 Early learning coalitions.—
+2671 (10) For purposes of tort liability, each member or
+2672 employee of an early learning coalition shall be governed by s.
+2673 768.28.
+2674 Section 65. For the purpose of incorporating the amendment
+2675 made by this act to section 768.28, Florida Statutes, in a
+Page 107 of 110
+CODING: Words stricken are deletions; words underlined are additions.
+hb145 -01-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 145, Engrossed 1 2026
+2676 reference thereto, paragraph (p) of subsection (1) of section
+2677 1002.88, Florida Statutes, is reenacted to read:
+2678 1002.88 School readiness program provider standards;
+2679 eligibility to deliver the school readiness program.—
+2680 (1) To be eligible to deliver the school readiness
+2681 program, a school readiness program provider must:
+2682 (p) Notwithstanding paragraph (m), for a provider that is
+2683 a state agency or a subdivision thereof, as defined in s.
+2684 768.28(2), agree to notify the coalition of any additional
+2685 liability coverage maintained by the provider in addition to
+2686 that otherwise established under s. 768.28. The provider shall
+2687 indemnify the coalition to the extent permitted by s. 768.28.
+2688 Notwithstanding paragraph (m), for a child development program
+2689 that is accredited by a national accrediting body and operates
+2690 on a military installation that is certified by the United
+2691 States Department of Defense, the provider may demonstrate
+2692 liability coverage by affirming that it is subject to the
+2693 Federal Tort Claims Act, 28 U.S.C. ss. 2671 et seq.
+2694 Section 66. For the purpose of incorporating the amendment
+2695 made by this act to section 768.28, Florida Statutes, in a
+2696 reference thereto, subsection (1) of section 1006.24, Florida
+2697 Statutes, is reenacted to read:
+2698 1006.24 Tort liability; liability insurance.—
+2699 (1) Each district school board shall be liable for tort
+2700 claims arising out of any incident or occurrence involving a
+Page 108 of 110
+CODING: Words stricken are deletions; words underlined are additions.
+hb145 -01-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 145, Engrossed 1 2026
+2701 school bus or other motor vehicle owned, maintained, operated,
+2702 or used by the district school board to transport persons, to
+2703 the same extent and in the same manner as the state or any of
+2704 its agencies or subdivisions is liable for tort claims under s.
+2705 768.28, except that the total liability to persons being
+2706 transported for all claims or judgments of such persons arising
+2707 out of the same incident or occurrence shall not exceed an
+2708 amount equal to $5,000 multiplied by the rated seating capacity
+2709 of the school bus or other vehicle, as determined by rules of
+2710 the State Board of Education, or $100,000, whichever is greater.
+2711 The provisions of s. 768.28 apply to all claims or actions
+2712 brought against district school boards, as authorized in this
+2713 subsection.
+2714 Section 67. For the purpose of incorporating the amendment
+2715 made by this act to section 768.28, Florida Statutes, in a
+2716 reference thereto, paragraph (b) of subsection (2) of section
+2717 1006.261, Florida Statutes, is reenacted to read:
+2718 1006.261 Use of school buses for public purposes.—
+2719 (2)
+2720 (b) For purposes of liability for negligence, state
+2721 agencies or subdivisions as defined in s. 768.28(2) shall be
+2722 covered by s. 768.28. Every other corporation or organization
+2723 shall provide liability insurance coverage in the minimum
+2724 amounts of $100,000 on any claim or judgment and $200,000 on all
+2725 claims and judgments arising from the same incident or
+Page 109 of 110
+CODING: Words stricken are deletions; words underlined are additions.
+hb145 -01-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 145, Engrossed 1 2026
+2726 occurrence.
+2727 Section 68. This act shall take effect October 1, 2026.
+Page 110 of 110
+CODING: Words stricken are deletions; words underlined are additions.
+hb145 -01-e1
