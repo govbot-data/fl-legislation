@@ -1,0 +1,823 @@
+Title: 
+Official Title: 
+Source: versions - H 1377 Filed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1377 2026
+1 A bill to be entitled
+2 An act relating to water safety for cooling towers,
+3 domestic water holding tanks, and supplemental
+4 disinfection systems; creating part III of ch. 386,
+5 F.S., entitled "Water Safety for Cooling Towers,
+6 Domestic Water Holding Tanks, and Supplemental
+7 Disinfection Systems"; creating s. 386.301, F.S.;
+8 providing legislative intent; creating s. 386.302,
+9 F.S.; providing definitions; creating s. 386.303,
+10 F.S.; requiring that owners of cooling towers,
+11 domestic water holding tanks, and supplemental
+12 disinfection systems register them with the Department
+13 of Health; requiring the department to create a
+14 statewide electronic system for such registrations;
+15 providing minimum requirements for the registration
+16 system; requiring that owners of cooling towers,
+17 domestic water holding tanks, or supplemental
+18 disinfection systems report specified information to
+19 the department beginning on a specified date;
+20 providing department responsibilities regarding the
+21 registration system; requiring that owners of cooling
+22 towers maintain certain records for a specified
+23 timeframe; requiring that a copy of the maintenance
+24 program and plan be kept on the cooling tower
+25 premises; providing construction; creating s. 386.304,
+Page 1 of 27
+CODING: Words stricken are deletions; words underlined are additions.
+hb1377-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1377 2026
+26 F.S.; requiring that owners of cooling towers obtain
+27 or update a maintenance program and plan for existing
+28 and newly installed cooling towers by a specified
+29 date; providing requirements for the maintenance
+30 program and plan; creating s. 386.305, F.S.; requiring
+31 that certain culture analyses be conducted by
+32 certified environmental laboratories; providing
+33 requirements for interpreting the results of such
+34 analyses; creating s. 386.306, F.S.; requiring that
+35 owners of cooling towers provide notification to the
+36 county health department and the public within a
+37 specified timeframe under specified circumstances;
+38 requiring county health departments to provide certain
+39 notification to the department; requiring the county
+40 health department or, at its discretion, the
+41 department to determine the method of certain
+42 notifications; creating s. 386.307, F.S.; providing
+43 cooling tower disinfection standards; requiring that
+44 the person conducting the disinfection meet certain
+45 qualifications; specifying the types of products that
+46 may be used during a disinfection; providing cooling
+47 tower efficiency standards; creating s. 386.308, F.S.;
+48 requiring that owners of cooling towers have the
+49 cooling towers inspected before initial startup and,
+50 thereafter, at specified intervals; providing
+Page 2 of 27
+CODING: Words stricken are deletions; words underlined are additions.
+hb1377-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1377 2026
+51 inspection requirements; requiring that persons
+52 conducting inspections report deficiencies to the
+53 owner for corrective action; requiring initial and
+54 annual certification of cooling towers by a specified
+55 date; providing requirements for certification;
+56 requiring that all inspection findings, deficiencies,
+57 corrective actions, and certifications be reported to
+58 the department and maintained by the owner; creating
+59 s. 386.309, F.S.; authorizing the department or a
+60 county health department to require an owner to
+61 conduct a Legionella culture sampling and analysis
+62 under certain circumstances; authorizing an officer,
+63 employee, or agent of the department or county health
+64 department to enter a property to inspect a cooling
+65 tower; specifying that certain actions by the owner of
+66 a cooling tower may constitute a nuisance; providing
+67 for civil and criminal penalties; requiring the State
+68 Surgeon General to submit a report to the Legislature
+69 by a specified date; providing requirements for the
+70 report; creating s. 386.3101, F.S.; authorizing county
+71 health departments or the department to issue waivers
+72 if the waiver does not present a danger to the public
+73 health; providing requirements for the waivers;
+74 authorizing county health departments to issue
+75 variances under certain circumstances for a specified
+Page 3 of 27
+CODING: Words stricken are deletions; words underlined are additions.
+hb1377-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1377 2026
+76 period of time; providing an effective date.
+77
+78 Be It Enacted by the Legislature of the State of Florida:
+79
+80 Section 1. Part III of chapter 386, Florida Statutes,
+81 consisting of ss. 386.301-386.3101, Florida Statutes, is created
+82 and entitled "Water Safety for Cooling Towers, Domestic Water
+83 Holding Tanks, and Supplemental Disinfection Systems."
+84 Section 2. Section 386.301, Florida Statutes, is created
+85 to read:
+86 386.301 Legislative intent.—The purpose of this part is to
+87 protect people from the health hazards of Legionella, a
+88 bacterium that is known to originate in improperly sanitized
+89 cooling towers, domestic water holding tanks, and building
+90 piping systems.
+91 Section 3. Section 386.302, Florida Statutes, is created
+92 to read:
+93 386.302 Definitions.—As used in this part, the term:
+94 (1) "Bacteriological culture sampling and analysis" means
+95 the collection of a water sample for the purpose of measuring
+96 the live culture growth of aerobic bacterial populations using
+97 heterotrophic plate count, dip slides, or a similar method
+98 employed by the industry in accordance with the manufacturer's
+99 directions for use.
+100 (2) "Building," unless otherwise expressly indicated by
+Page 4 of 27
+CODING: Words stricken are deletions; words underlined are additions.
+hb1377-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1377 2026
+101 the text, means all or part of a structure, premises, or lot
+102 which is used or is intended to support or shelter a use or
+103 occupancy.
+104 (3) "Cleaning" means physical, mechanical, or other
+105 removal of biofilm, scale, debris, rust, other corrosion
+106 products, sludge, algae, and other potential sources of
+107 contamination.
+108 (4) "Compliance inspection" means the inspection, testing,
+109 and other activities that are required on a regular basis in
+110 accordance with s. 386.308.
+111 (5) "Cooling tower" means an evaporative condenser, a
+112 fluid cooler, or another wet cooling device that is capable of
+113 aerosolizing water; that contains or is part of a recirculated
+114 water system; and that is incorporated into a building's cooling
+115 process, industrial process, refrigeration system, or energy
+116 production system.
+117 (6) "Cooling tower cells" means the smallest subdivisions
+118 of a tower which can function independently with regard to air
+119 and water flow. Each cell may have one or more fans and one or
+120 more distribution systems.
+121 (7) "Cooling tower water system" means one or more cooling
+122 towers and all of the recirculating water system components,
+123 process instruments, and appurtenances through which water flows
+124 or comes into contact with chemical applicators, valves, pumps,
+125 condensers, heat exchangers, and other related components.
+Page 5 of 27
+CODING: Words stricken are deletions; words underlined are additions.
+hb1377-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1377 2026
+126 (8) "Corrective action" means disinfection, cleaning,
+127 flushing, and other activities to remedy biofilm growth,
+128 Legionella proliferation, or other system mechanical problems
+129 identified through monitoring, inspections, or other means, as
+130 determined by the department.
+131 (9) "Cycles of concentration" means the ratio of make-up
+132 water volume to blowdown water volume which may be approximated
+133 from the ratio of the conductivity of the blowdown water to the
+134 conductivity of the make-up water.
+135 (10) "Department" means the Department of Health.
+136 (11) "Dip slide" means a method to test for microorganisms
+137 which consists of a sterile culture medium affixed to a sterile
+138 slide that is dipped directly into the sampled liquid.
+139 (12) "Disinfection" means the use of one or more biocides
+140 at a defined concentration, under specified conditions, for an
+141 established period of time to kill or inactivate pathogenic
+142 microorganisms. The term does not include the cleaning of a
+143 cooling tower through the application of detergents, penetrants,
+144 brushes or other tools, highly pressurized water, or any other
+145 method that does not involve the use of a pesticide or economic
+146 poison, as defined in s. 482.021(23); the use of a pesticide, as
+147 defined in s. 487.021(49); or the use of a restricted-use
+148 pesticide, as defined in s. 487.021(58).
+149 (13) "Domestic water holding tank" means a fixed,
+150 enclosed, above-ground or below-ground vessel that is designed,
+Page 6 of 27
+CODING: Words stricken are deletions; words underlined are additions.
+hb1377-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1377 2026
+151 constructed, and installed to store potable water intended for
+152 human consumption, household use, or sanitary purposes within a
+153 residential or mixed-use building.
+154 (14) "Drift eliminator" means a system of baffles that
+155 causes separation of entrained water designed to remove aerosols
+156 from cooling tower exhaust.
+157 (15) "Heterotrophic plate count" means a measure of the
+158 concentration of microorganisms that require an external source
+159 of organic carbon for growth, including bacteria, yeasts, and
+160 mold, in water samples.
+161 (16) "Legionella" means the genus of bacteria that is
+162 ubiquitous in aqueous environments, including the recirculated
+163 water of cooling tower water systems that are not properly or
+164 regularly maintained.
+165 (17) "Legionella culture sampling and analysis" means the
+166 collection of a water sample for the measurement of the live
+167 culture of Legionella involving the use of specialized media and
+168 laboratory methods for growth to determine the species and
+169 serogroup.
+170 (18) "Maintenance program and plan" means a written
+171 document, developed by a qualified person, which specifies
+172 required monitoring, cleaning, disinfection, and other practices
+173 for the prevention and control of Legionella growth in a cooling
+174 tower water system, and is in accordance with sections 5, 6, and
+175 7.2 of ANSI/ASHRAE Standard 188-2018, Legionellosis: Risk
+Page 7 of 27
+CODING: Words stricken are deletions; words underlined are additions.
+hb1377-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1377 2026
+176 Management for Building Water Systems and the manufacturer's
+177 instructions.
+178 (19) "Owner" means all of the following:
+179 (a) A person, agent, firm, partnership, corporation, or
+180 other legal entity that has a legal or equitable interest in, or
+181 control of, a cooling tower or the premises of the cooling
+182 tower.
+183 (b) The legal owner of the building.
+184 (c) A tenant, if the tenant:
+185 1. Owns a cooling tower that services the tenant's leased
+186 premises; or
+187 2. Does not own the cooling tower but has a lease or
+188 contractual arrangement to maintain the cooling tower.
+189 (20) "Qualified person" means a professional engineer
+190 licensed and registered in this state; a Class E water treatment
+191 operator licensed and registered in this state; a certified
+192 industrial hygienist; a certified water technologist; a
+193 professional with training and experience in developing
+194 management plans and performing inspections in accordance with
+195 industry protocols, including, but not limited to, NSF Protocol
+196 453-2017: Cooling Towers – Treatment, Operation, and Maintenance
+197 to Prevent Legionellosis; or an environmental consultant who has
+198 at least 2 years of operational experience in water management
+199 planning and operation.
+200 (21) "Supplemental disinfection system" means a
+Page 8 of 27
+CODING: Words stricken are deletions; words underlined are additions.
+hb1377-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1377 2026
+201 permanently installed treatment system designed to provide
+202 additional microbial protection for potable water supplied to a
+203 residence or residential facility. The system:
+204 (a) May include chlorine, chlorine dioxide, or
+205 monochloramine for chlorination or chloramine injection systems
+206 and disinfection processes approved by the Department of
+207 Environmental Protection for potable water use.
+208 (b) Must be constructed of materials certified for contact
+209 with drinking water and designed to operate within the
+210 manufacturer's specified flow, pressure, and water quality
+211 parameters.
+212 (c) Must be installed in accordance with applicable
+213 plumbing, electrical, and public health codes.
+214 (d) Must incorporate appropriate monitoring; control; and
+215 safety features, including alarms; dosage controls; fail-safe
+216 shutdown mechanisms; and provisions to prevent contamination or
+217 backflow into the potable water supply.
+218 Section 4. Section 386.303, Florida Statutes, is created
+219 to read:
+220 386.303 Registration; reporting; recordkeeping.—
+221 (1) REGISTRATION.—Before initial operation, and upon any
+222 change in ownership, the owner of a cooling tower water system,
+223 domestic water holding tank, or supplemental disinfection system
+224 shall register each of his or her cooling tower water systems,
+225 domestic water holding tanks, or supplemental disinfection
+Page 9 of 27
+CODING: Words stricken are deletions; words underlined are additions.
+hb1377-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1377 2026
+226 systems with the department using a statewide electronic system
+227 designated by the department. The registration system must
+228 require, at a minimum, all of the following information:
+229 (a) The street address of the building at which the
+230 cooling tower is located.
+231 (b) The name, address, telephone number, and e-mail
+232 address of each cooling tower owner.
+233 (c) The total number of cooling towers, domestic water
+234 holding tanks, or supplemental disinfection systems.
+235 (d) The name of the manufacturer of the system.
+236 (e) The model number of the system.
+237 (f) The specific unit serial number of the system, if
+238 available.
+239 (g) The cooling capacity of the cooling tower in tons, the
+240 volume of the domestic water holding tank in gallons, and the
+241 total gallons treated yearly for the supplemental disinfection
+242 system.
+243 (h) The volume of the cooling tower water system,
+244 inclusive of any piping, basin, or sump.
+245 (i) The intended use of the cooling tower.
+246 (j) Whether systematic disinfection in accordance with s.
+247 386.307 is maintained manually, through timed injection, or
+248 through continuous delivery.
+249 (k) Whether maintenance is performed by an employee, a
+250 contractor, or another party.
+Page 10 of 27
+CODING: Words stricken are deletions; words underlined are additions.
+hb1377-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1377 2026
+251 (l) The year the cooling tower was placed into service.
+252 (2) REPORTING.—
+253 (a) Beginning July 1, 2027, a cooling tower, domestic
+254 water holding tank, or supplemental disinfection system owner
+255 shall report through the statewide electronic system all of the
+256 following information to the department at least every 90 days
+257 while the cooling tower, domestic water holding tank, or
+258 supplemental disinfection system is in use:
+259 1. The date of the last bacteriological culture sample
+260 collection, the results of the analysis, and the designated due
+261 date of any remedial action that is required pursuant to s.
+262 386.304(2)(a).
+263 2. The date of the last Legionella culture sample
+264 collection, the results of the sample analysis, and the date
+265 that any remedial action was taken as required by s.
+266 386.304(2)(b)-(e).
+267 3. The date of the last compliance inspection performed
+268 pursuant to s. 386.308 and the resulting standardized inspection
+269 report.
+270 4. The date of the lowest daily cycles of concentration
+271 recorded, and the target number of cycles.
+272 5. The average daily make-up water volume and blowdown
+273 water volume.
+274 6. The percentage of make-up water that is delivered to
+275 the cooling tower versus the blowdown water volume.
+Page 11 of 27
+CODING: Words stricken are deletions; words underlined are additions.
+hb1377-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1377 2026
+276 7. The date of most recent certification pursuant to s.
+277 386.308.
+278 8. The date of removal or permanent discontinuation of use
+279 of the cooling tower, if applicable.
+280 9. Any other information deemed necessary by the
+281 department.
+282 (b) If a landlord and a tenant are considered to be owners
+283 of a cooling tower, as defined in s. 386.302, only one of the
+284 parties is required to register the cooling tower. However, both
+285 parties are responsible for ensuring that registration and
+286 reporting are completed as required by this part.
+287 (3) STATEWIDE SYSTEM.—
+288 (a) The department shall make the data in the statewide
+289 electronic system:
+290 1. Publicly available, as appropriate.
+291 2. Fully accessible to and searchable by county health
+292 departments.
+293 (b) This part does not prohibit a county health department
+294 or the Department of Agriculture and Consumer Services from
+295 requiring registration with and reporting to a county system or
+296 collecting fees associated with the administration of such a
+297 system.
+298 (c) The department shall provide owners with a mobile data
+299 collection platform that is compatible with Android and Apple
+300 devices and that electronically collects, and allows owners to
+Page 12 of 27
+CODING: Words stricken are deletions; words underlined are additions.
+hb1377-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1377 2026
+301 electronically submit, the information required by this part.
+302 (4) RECORDKEEPING.—A cooling tower owner shall:
+303 (a) Maintain for at least 3 years all of the following
+304 records:
+305 1. Required sampling and analyses.
+306 2. Disinfection schedules and applications.
+307 3. Inspection findings, deficiencies, and corrective
+308 actions.
+309 4. Required certifications.
+310 (b) Maintain on the premises of the cooling tower a copy
+311 of the current maintenance program and plan required by this
+312 part.
+313 (c) Make the records and plan required under this
+314 subsection immediately available to the department or county
+315 health department upon request.
+316 Section 5. Section 386.304, Florida Statutes, is created
+317 to read:
+318 386.304 Maintenance program and plan.—
+319 (1) The owner of a cooling tower shall:
+320 (a) By September 1, 2027, develop or update a maintenance
+321 program and plan for each existing cooling tower which must be
+322 consistent with section 7.2 of ANSI/ASHRAE Standard 188-2018,
+323 Legionellosis: Risk Management for Building Water Systems.
+324 (b) After September 1, 2027, maintain such a maintenance
+325 program and plan for each newly installed cooling tower.
+Page 13 of 27
+CODING: Words stricken are deletions; words underlined are additions.
+hb1377-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1377 2026
+326 (2) The maintenance program and plan must include all of
+327 the following elements:
+328 (a) A schedule for routine bacteriological culture
+329 sampling and analysis to assess microbiological activity. The
+330 sampling and analysis must be conducted at intervals of not more
+331 than 28 days while the cooling tower is in use and must require
+332 additional bacteriological culture sampling and analysis, as
+333 needed, to validate process adjustments.
+334 (b) A schedule for routine Legionella culture sampling and
+335 analysis within 14 days after startup and, thereafter, while the
+336 cooling tower is in use, at monthly intervals. Cooling towers in
+337 use year-round must conduct sampling and analysis at intervals
+338 of not more than 30 days and within 2 weeks after startup
+339 following maintenance.
+340 (c) A procedure for achieving water efficiency by
+341 maintaining a minimum of three cycles of concentration using
+342 automatic conductivity control or for estimating the percentage
+343 of water savings through the installation of water meters on
+344 make-up and blowdown lines.
+345 (d) A requirement that, in addition to development of the
+346 routine Legionella culture sampling and analysis schedule
+347 required by paragraph (b), immediate Legionella culture sampling
+348 and analysis be conducted in the event of any of the following:
+349 1. A mechanical breakdown of the cooling tower water
+350 system for more than 72 hours.
+Page 14 of 27
+CODING: Words stricken are deletions; words underlined are additions.
+hb1377-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1377 2026
+351 2. A power failure affecting the cooling tower system for
+352 more than 72 hours.
+353 3. A loss of biocide treatment of the cooling tower system
+354 for more than 72 hours.
+355 4. Failure of conductivity control or any other control
+356 methods for more than 72 hours.
+357 5. A determination by the department or a county health
+358 department that one or more cases of legionellosis are or may be
+359 associated with the cooling tower, based on epidemiologic data
+360 or laboratory testing.
+361 6. Any other conditions specified by the department or a
+362 county health department.
+363 (e) A requirement that an owner take immediate and
+364 appropriate action, including remedial action, in response to a
+365 bacteriological or Legionella culture analysis. For
+366 bacteriological analysis results, the response must include, but
+367 need not be limited to, taking action as required by s.
+368 386.305(2). For Legionella culture analysis results, the
+369 response must include, but need not be limited to, taking action
+370 as required by s. 386.305(3) and contacting the county health
+371 department as required by s. 386.306.
+372 (f) A requirement that any Legionella culture analyses be
+373 performed pursuant to s. 386.305(1).
+374 (g) A shutdown and disinfection plan for removing or
+375 permanently discontinuing use of a cooling tower.
+Page 15 of 27
+CODING: Words stricken are deletions; words underlined are additions.
+hb1377-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1377 2026
+376 (h) Requirements for treatment and manual or automated
+377 flushing of any piping, basin, sump, or wetted surface during
+378 idle conditions.
+379 Section 6. Section 386.305, Florida Statutes, is created
+380 to read:
+381 386.305 Culture analyses.—
+382 (1) LABORATORY REQUIREMENTS.—A culture analysis must be
+383 performed by an environmental laboratory certified pursuant to
+384 s. 403.0625 which is approved to perform such an analysis.
+385 (2) INTERPRETATION OF BACTERIOLOGICAL ANALYSIS RESULTS
+386 FROM COOLING TOWERS.—
+387 (a) Level 1.—Samples with a culture result that is less
+388 than 10,000 colony-forming units per milliliter (CFU/mL). The
+389 cooling tower owner shall maintain the treatment program and
+390 bacteriological monitoring in accordance with the cooling
+391 tower's maintenance program and plan.
+392 (b) Level 2.—Samples with a culture result that is greater
+393 than or equal to 10,000 CFU/mL but less than 100,000 CFU/mL. The
+394 cooling tower owner shall do all of the following until the
+395 water sample culture results meet the Level 1 criteria:
+396 1. Review the treatment program.
+397 2. Initiate immediate disinfection by increasing biocide
+398 concentration or using a different biocide within 24 hours after
+399 receiving the analysis results.
+400 3. Retest the water within 3 to 7 days after receiving the
+Page 16 of 27
+CODING: Words stricken are deletions; words underlined are additions.
+hb1377-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1377 2026
+401 analysis results.
+402 (c) Level 3.—Samples with a culture result that is greater
+403 than or equal to 100,000 CFU/mL but less than 1,000,000 CFU/mL.
+404 The cooling tower owner shall do all of the following until the
+405 water sample culture results meet the Level 1 criteria:
+406 1. Review the treatment program and provide notification
+407 as required by s. 386.306.
+408 2. Increase biocides within 24 hours after receiving the
+409 analysis results.
+410 3. Perform a visual inspection to evaluate the need to
+411 perform cleaning and additional disinfection.
+412 4. Retest the water within 3 to 7 days after receiving the
+413 analysis results.
+414 (d) Level 4.—Samples with a culture result that is greater
+415 than or equal to 1,000,000 CFU/mL. The cooling tower owner shall
+416 do all of the following until the water sample culture results
+417 meet the Level 1 criteria:
+418 1. Review the treatment program and provide notification
+419 as required by s. 386.306.
+420 2. Increase biocides within 2 hours after receiving the
+421 analysis results.
+422 3. Within 48 hours after receiving the analysis results,
+423 perform remediation of the tower by hyper halogenating,
+424 cleaning, and flushing the tower.
+425 4. Retest the water within 3 to 7 days after receiving the
+Page 17 of 27
+CODING: Words stricken are deletions; words underlined are additions.
+hb1377-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1377 2026
+426 analysis results.
+427 (3) INTERPRETATION OF LEGIONELLA CULTURE RESULTS FROM
+428 COOLING TOWERS.—
+429 (a) Level 1.—Legionella culture sample results of less
+430 than 20 CFU/mL. The cooling tower owner shall maintain the
+431 treatment program and monitoring in accordance with the
+432 maintenance program and plan for the cooling tower.
+433 (b) Level 2.—Legionella culture sample results of more
+434 than or equal to 20 CFU/mL but less than 1,000 CFU/mL. The
+435 cooling tower owner shall do all of the following until the
+436 water sample culture results meet the Level 1 criteria:
+437 1. Review the treatment program.
+438 2. Perform immediate online disinfection.
+439 3. Retest the water within 3 to 7 days after receiving the
+440 analysis results.
+441 a. If the retest indicates a presence of Legionella of
+442 more than or equal to 20 CFU/mL but less than 100 CFU/mL, the
+443 cooling tower owner must repeat the online disinfection.
+444 b. If the subsequent retest indicates a presence of
+445 Legionella of more than or equal to 100 CFU/mL but less than
+446 1,000 CFU/mL, the cooling tower owner must further investigate
+447 the water treatment program and immediately perform online
+448 disinfection.
+449 (c) Level 3.—Legionella culture sample results of more
+450 than or equal to 1,000 CFU/mL. The cooling tower owner shall do
+Page 18 of 27
+CODING: Words stricken are deletions; words underlined are additions.
+hb1377-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1377 2026
+451 all of the following until the water sample culture results meet
+452 the Level 1 criteria:
+453 1. Review the treatment program.
+454 2. Provide notification as required by s. 386.306.
+455 3. Institute immediate system decontamination.
+456 4. Retest the water within 3 to 7 days after receiving the
+457 analysis results.
+458 a. If the retest indicates a presence of Legionella of
+459 more than or equal to 20 CFU/mL but less than 1,000 CFU/mL, the
+460 cooling tower owner must take the actions required under
+461 paragraph (b).
+462 b. If the subsequent retest indicates a presence of
+463 Legionella of more than or equal to 1,000 CFU/mL, the owner must
+464 perform system decontamination.
+465 Section 7. Section 386.306, Florida Statutes, is created
+466 to read:
+467 386.306 Notification.—A cooling tower owner shall:
+468 (1) Notify the county health department within 24 hours
+469 after receiving a Legionella water sample culture result that
+470 exceeds 1,000 colony-forming units per milliliter. The county
+471 health department shall notify the department within 24 hours
+472 after receiving such a report.
+473 (2) Notify the public of such test results in a manner
+474 determined by the county health department or, at the discretion
+475 of the department, by the department.
+Page 19 of 27
+CODING: Words stricken are deletions; words underlined are additions.
+hb1377-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1377 2026
+476 Section 8. Section 386.307, Florida Statutes, is created
+477 to read:
+478 386.307 Cooling tower standards.—
+479 (1) DISINFECTION.—
+480 (a) A person who disinfects a cooling tower must be a
+481 commercial applicator or a certified applicator as defined in s.
+482 487.021 who is licensed to apply biocide in a cooling tower and
+483 who is certified in accordance with the requirements of the
+484 Florida Pesticide Law, or be an apprentice who is under the
+485 direct supervision of a licensed applicator, as defined in s.
+486 487.021.
+487 (b) The cooling tower owner shall maintain the name and
+488 certification number of the applicator who disinfects the
+489 cooling tower under paragraph (a) or the business name and
+490 number of the company providing onsite disinfection.
+491 (c) Only biocide products registered by the Department of
+492 Environmental Protection for use in cooling towers or pesticidal
+493 devices produced in an establishment registered by the
+494 Environmental Protection Agency may be used to disinfect a
+495 cooling tower.
+496 (2) EFFICIENCY.—
+497 (a) Each cooling tower owner shall install make-up and
+498 blowdown meters on each of his, her, or its cooling towers to
+499 monitor the total volume of water used by the cooling tower and
+500 shall ensure that the cooling tower has an automatic
+Page 20 of 27
+CODING: Words stricken are deletions; words underlined are additions.
+hb1377-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1377 2026
+501 conductivity controller, a high-efficiency drift eliminator, and
+502 an overflow alarm to prevent overflow of the sump in case of
+503 make-up water valve failure. The overflow alarm must provide an
+504 alert through an energy management control system to the cooling
+505 tower operators in the event of an overflow of the sump.
+506 (b) All cooling towers must achieve at least eight cycles
+507 of concentration using automatic conductivity control.
+508 (c) The efficiency of the cooling tower water system must
+509 be measured by the percentage of water that is delivered to the
+510 cooling tower versus the blowdown water volume.
+511 (d) If the local water utility supplies water to the
+512 property, water meters must meet the requirements of the
+513 utility.
+514 Section 9. Section 386.308, Florida Statutes, is created
+515 to read:
+516 386.308 Compliance inspection and certification.—
+517 (1) COMPLIANCE INSPECTION.—
+518 (a) Each cooling tower owner shall ensure that each of
+519 his, her, or its cooling towers is inspected before initial
+520 startup and at intervals of not more than every 90 days while in
+521 use.
+522 (b) A compliance inspection must be performed by a
+523 qualified person who is unaffiliated with the water treatment
+524 company; a professional engineer licensed in this state; an
+525 industrial hygienist; a water technologist; or an environmental
+Page 21 of 27
+CODING: Words stricken are deletions; words underlined are additions.
+hb1377-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1377 2026
+526 consultant, any of whom must have training and experience in
+527 performing inspections in accordance with current standard
+528 industry protocols, including, but not limited to, ANSI/ASHRAE
+529 Standard 188-2018, Legionellosis: Risk Management for Building
+530 Water Systems.
+531 (c) Each compliance inspection must include an evaluation,
+532 on a standardized inspection form created by the department, of
+533 all of the following:
+534 1. The cooling tower and associated equipment for the
+535 presence of organic material, biofilm, algae, debris, and other
+536 visible contaminants.
+537 2. The general condition of the cooling tower basin,
+538 remote sump, packing material, and drift eliminators.
+539 3. The water make-up connections and control, including
+540 backflow protection or air gaps, as needed.
+541 4. Whether the conductivity control and the make-up and
+542 blowdown meters are functioning properly.
+543 5. Whether the water treatment equipment, including, but
+544 not limited to, pumps, timers, valves, and strain gauges, are
+545 functioning properly.
+546 (d) Information collected during compliance inspections
+547 must be collected and entered into the department's mobile data
+548 collection platform, must include the standardized inspection
+549 form, and must be submitted to the registration portal by a
+550 qualified person as specified in paragraph (b).
+Page 22 of 27
+CODING: Words stricken are deletions; words underlined are additions.
+hb1377-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1377 2026
+551 (e) The person performing the inspection shall report any
+552 deficiencies found to the owner so that corrective action may be
+553 taken and document all completed corrective actions using the
+554 department's mobile data collection platform.
+555 (2) CERTIFICATION.—By November 1, 2026, and by each
+556 November 1 thereafter, a cooling tower owner shall obtain an
+557 annual certification from a qualified person which certifies
+558 that a maintenance program and plan is in place for the cooling
+559 tower and that all actions required under that plan and this
+560 part have been taken, including, but not limited to, all of the
+561 following:
+562 (a) All required bacteriological culture sampling and
+563 analyses.
+564 (b) All Legionella culture sampling and analyses,
+565 including any immediate Legionella culture sampling and analyses
+566 performed pursuant to s. 386.304(2)(d) and (e).
+567 (c) Any disinfection performed pursuant to the standards
+568 specified in s. 386.307(1).
+569 (d) All compliance inspections performed pursuant to
+570 subsection (1).
+571 (3) REPORTING.—All inspection findings, deficiencies,
+572 corrective actions, and certifications must be reported to the
+573 department and maintained by the owner as required by s.
+574 386.303.
+575 Section 10. Section 386.309, Florida Statutes, is created
+Page 23 of 27
+CODING: Words stricken are deletions; words underlined are additions.
+hb1377-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1377 2026
+576 to read:
+577 386.309 Enforcement.—
+578 (1) The department or a county health department may
+579 require an owner to conduct Legionella culture sampling and
+580 analysis following a determination, based on epidemiologic data
+581 or laboratory testing, that one or more cases of legionellosis
+582 are or may be associated with a cooling tower.
+583 (2) An officer, employee, or agent of the department or
+584 the county health department may enter onto any property to
+585 inspect a cooling tower for compliance with this part and may
+586 take water samples as part of such inspections. Such inspections
+587 must be conducted as provided in s. 487.071.
+588 (3) If an owner fails to register a cooling tower, develop
+589 and maintain a maintenance program and plan for a cooling tower,
+590 obtain certification for a cooling tower, disinfect a cooling
+591 tower, perform or obtain required culture sampling and analysis,
+592 or conduct inspections of a cooling tower as required in this
+593 part, the department or the county health department may
+594 determine that such failure constitutes a nuisance pursuant to
+595 this chapter.
+596 (4) An owner who violates this part is subject to civil
+597 and criminal penalties as provided in s. 386.051. Each day that
+598 an owner remains in violation of this part constitutes a
+599 separate offense.
+600 (5) The State Surgeon General shall submit a report to the
+Page 24 of 27
+CODING: Words stricken are deletions; words underlined are additions.
+hb1377-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1377 2026
+601 President of the Senate and the Speaker of the House of
+602 Representatives by each January 1 which includes all of the
+603 following information:
+604 (a) For the prior year:
+605 1. The number of new cooling tower registrations issued
+606 and the number of notifications of discontinued use of a cooling
+607 tower received by the department pursuant to s. 386.303 as of
+608 November 1.
+609 2. The number of annual certifications that a cooling
+610 tower was inspected, tested, cleaned, and disinfected received
+611 by the department pursuant to s. 386.308 as of November 1.
+612 3. The number of reports of tests for the presence of
+613 Legionella which reported levels above 1,000 CFU/mL received by
+614 the department.
+615 4. The number of inspections of cooling towers conducted
+616 by the department, or a county health department on behalf of
+617 the department, along with the number and types of any
+618 violations cited during such inspections.
+619 5. The number of cleanings, disinfections, or other
+620 actions performed by or on behalf of the department.
+621 6. The number of persons diagnosed with legionellosis in
+622 this state to the extent known or reasonably discoverable by the
+623 department.
+624 (b) Recommendations as to whether department rules should
+625 be amended to include requirements for any of the building water
+Page 25 of 27
+CODING: Words stricken are deletions; words underlined are additions.
+hb1377-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1377 2026
+626 systems described in ANSI/ASHRAE Standard 188-2018,
+627 Legionellosis: Risk Management for Building Water Systems.
+628 (c) Information regarding the implementation of any such
+629 requirements, their effectiveness in preventing outbreaks of
+630 legionellosis, and recommendations for improvements or
+631 modifications to department rules to further the control of
+632 Legionella.
+633 Section 11. Section 386.3101, Florida Statutes, is created
+634 to read:
+635 386.3101 Waivers.—The department may issue a written
+636 general or specific waiver with respect to this part if the
+637 department determines that such waiver will not present a danger
+638 to public health. The department may revoke the waiver upon a
+639 determination that the waiver may present a danger to public
+640 health.
+641 Section 12. Until December 31, 2027, an owner may submit a
+642 written application to a county health department for a variance
+643 from any requirement of this part for additional time to come
+644 into compliance with this act. A variance may not exceed 90
+645 days. The application must include an explanation as to why the
+646 variance will not present a danger to public health. With the
+647 approval of the Department of Health, the county health
+648 department may approve such application for a variance in
+649 writing, subject to any conditions that the department or county
+650 health department may deem appropriate to protect public health.
+Page 26 of 27
+CODING: Words stricken are deletions; words underlined are additions.
+hb1377-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1377 2026
+651 The department or the county health department may revoke a
+652 variance upon a determination that the variance may present a
+653 danger to public health.
+654 Section 13. This act shall take effect July 1, 2026.
+Page 27 of 27
+CODING: Words stricken are deletions; words underlined are additions.
+hb1377-00

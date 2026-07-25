@@ -1,0 +1,215 @@
+Title: 
+Official Title: 
+Source: versions - H 1517 Filed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1517 2026
+1 A bill to be entitled
+2 An act relating to the approval of data center
+3 facilities; providing a short title; creating s.
+4 377.714, F.S.; requiring applications for the approval
+5 of data center facilities to include specified
+6 disclosures; requiring the Department of Environmental
+7 Protection to make such information publicly available
+8 on its website; providing that such applications may
+9 not be approved before such information is posted for
+10 a specified period of time; requiring certain local
+11 governments to make such information publicly
+12 available on local government websites; requiring that
+13 written notice be provided to certain residential and
+14 commercial landowners and renters; requiring existing
+15 data centers to disclose specified information;
+16 requiring data centers to comply with specified
+17 standards; providing a penalty; prohibiting tax
+18 credits for certain facilities; prohibiting certain
+19 exemptions, protections, and restrictions for such
+20 information; requiring the department to adopt rules;
+21 providing an effective date.
+22
+23 Be It Enacted by the Legislature of the State of Florida:
+24
+25 Section 1. This act may be cited as the "Data Center
+Page 1 of 7
+CODING: Words stricken are deletions; words underlined are additions.
+hb1517-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1517 2026
+26 Transparency Act."
+27 Section 2. Section 377.714, Florida Statutes, is created
+28 to read:
+29 377.714 Approval of data center facilities.—
+30 (1) Any application for the approval of a data center
+31 facility must require a detailed disclosure of the following:
+32 (a) A plan for energy management of the electricity or
+33 power supply for the data center, including but not limited to:
+34 1. The energy sources, such as full or partial self-power.
+35 2. If connected to a regulated utility, include impact on
+36 the grid.
+37 3. Any renewable energy.
+38 4. Energy use efficiency, conservation, and use
+39 management.
+40 5. The carbon footprint from servers.
+41 6. Storage equipment.
+42 7. Networking devices.
+43 8. Uninterruptible power supplies.
+44 9. Heating, ventilation, and air conditioning systems and
+45 other essential infrastructure, and cost-sharing with other
+46 users on the grid, such as nearby residential and commercial
+47 consumers for both the operation of electronic information
+48 technology equipment and cooling.
+49 10. A statement of actual or anticipated greenhouse gas
+50 emissions, including direct emissions, such as emissions from
+Page 2 of 7
+CODING: Words stricken are deletions; words underlined are additions.
+hb1517-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1517 2026
+51 onsite equipment and power generators, and indirect emissions,
+52 such as emissions from electricity suppliers, in accordance with
+53 the United States Greenhouse Gas Reporting Program. Anticipated
+54 versus actual figures should be based on existing measurements
+55 by substantially similar data centers under similar climate
+56 conditions for the area.
+57 11. For those data centers connecting to a public utility
+58 grid, an energy cost-sharing statement that includes:
+59 a. The results of any agreement negotiated through the
+60 rate or tariff setting process with the Public Service
+61 Commission regarding large load customers with a demand greater
+62 than 75 megawatts who pay monthly minimums equal to 80 percent
+63 of their capacity or transmission costs.
+64 b. Any collateral requirements.
+65 c. Contract termination fees to prevent data centers costs
+66 from being laid onto residential and other low load consumers.
+67 (b) For data centers using water for cooling or any other
+68 purpose, a detailed description of the plan for water management
+69 and cooling, including but not limited to:
+70 1. The water sources, including whether the water is
+71 fresh, purchased from a local water utility, purchased from
+72 onsite reservoirs, or from some other source.
+73 2. The cooling method, such as moving chilled air through
+74 large ductwork, moving chilled water in a piped cooling loop, or
+75 room-scale air conditioners.
+Page 3 of 7
+CODING: Words stricken are deletions; words underlined are additions.
+hb1517-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1517 2026
+76 3. The amount of water in gallons that is being consumed
+77 daily.
+78 4. Cost sharing for water resources with local residents
+79 and businesses.
+80 (c) To proactively avoid any toxic substances being
+81 released into the environment, a plan for waste management to
+82 dispose of or recycle electronic waste such as racks, computing
+83 equipment, monitors, circuits, and other electrical components.
+84 (d) A statement of the presence of any emissions from
+85 hydrofluorocarbons, which are commonly used as refrigerants for
+86 cooling systems.
+87 (e) Any agreements with the local, state, or federal
+88 governments regarding any zoning treatment or economic
+89 incentives, such as tax credits or other favorable tax
+90 treatment, or other special considerations.
+91 (f) An environmental impact study. If not included in
+92 environmental impact assessments, state data centers shall
+93 provide a statement regarding compliance with the Clean Air Act
+94 and the National Environmental Policy Act.
+95 (g) Any agreements with local governments for economic
+96 incentives, tax credits, or other special considerations.
+97 (h) A plan for worker safety, including but not limited
+98 to, compliance with the United States Occupational Safety and
+99 Health Administration permissible exposure limit of 90 dBa for
+100 employees working for 8 hours per day. The plan must specify any
+Page 4 of 7
+CODING: Words stricken are deletions; words underlined are additions.
+hb1517-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1517 2026
+101 safety equipment or personal protective equipment required to be
+102 used by and provided to workers, procedures limiting employees
+103 from working in close proximity to electrical hazard areas, and
+104 compliance with the National Fire Prevention Standard 70 and 70E
+105 to manage electrical hazards appropriately.
+106 (i) A statement of any preventative mitigation measures
+107 for harmful noise emissions, such as maximum sound levels of 60
+108 dBa during the daytime and 55 dBa at night, or any other amount
+109 based on a sound study, for residents and businesses within one-
+110 quarter mile of the proposed data center location.
+111 (2)(a) The Department of Environmental Protection must
+112 post the information in subsection (1) on its website. An
+113 application for a new data center facility may not be approved
+114 before such information is posted on the department website for
+115 no less than 30 calendar days.
+116 (b) Each local government within the proposed data center
+117 location and each local government within 100 square miles of
+118 the proposed location shall post the information in subsection
+119 (1) on its website.
+120 (c) In addition to publication through the government
+121 websites, written notices shall be provided to all residential
+122 and commercial landowners and renters within a 5-mile radius of
+123 the proposed data center location.
+124 (d) An existing data center facility must disclose the
+125 information in subsection (1) to the department no later than
+Page 5 of 7
+CODING: Words stricken are deletions; words underlined are additions.
+hb1517-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1517 2026
+126 August 1, 2026. The department must post the information on its
+127 website.
+128 (3)(a) Data centers shall state adherence to industry
+129 security standards, which may be updated over time, but in 2026
+130 should include whether or not the data center complies with the
+131 International Organization for Standardization No. 27001; the
+132 Statement on Standards for Attestation Engagements No. 16; the
+133 International Standard on Assurance Engagements No. 3402; and
+134 the Federal Information Security Modernization Act of 2014.
+135 (b) Data centers that deal with personal information of
+136 any potential European users shall state whether they comply
+137 with privacy standards set forth in the General Data Protection
+138 Regulation.
+139 (c) Data centers that deal with payment information must
+140 comply with state adherence to the Payment Card Industry Data
+141 Security Standard, commonly referred to as PCI DSS, or any other
+142 applicable industry standard designed to secure financial data
+143 against breaches during credit, debit, or any other financial
+144 transactions.
+145 (d) Data centers that provide services to entities covered
+146 by the Health Insurance Portability and Accountability Act
+147 (HIPAA), such as healthcare providers and clearinghouses, must
+148 have a plan to comply with all 19 standards set forth by HIPAA
+149 to secure electronic protected health information. The plan must
+150 include, but is not limited to, any technical, physical, and
+Page 6 of 7
+CODING: Words stricken are deletions; words underlined are additions.
+hb1517-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1517 2026
+151 administrative safeguards to ensure the security and privacy of
+152 data and measures like encryption for safe transmission of
+153 identifiable health information.
+154 (4) Data centers that fail to comply with the reporting
+155 requirements under this section may be subject to fines of up to
+156 $10,000 per violation. A high resource use facility may not
+157 receive any tax incentive if the owner or operator fails to
+158 properly submit a disclosure report pursuant to the section.
+159 (5) The information in subsection (1) may not be granted
+160 an exemption or protection from disclosure based on trade
+161 secrets, confidentiality agreements, or any other restriction
+162 that would impinge on the public policy interest in full
+163 transparency.
+164 (6) The department shall adopt rules to implement this
+165 section.
+166 Section 3. This act shall take effect July 1, 2026.
+Page 7 of 7
+CODING: Words stricken are deletions; words underlined are additions.
+hb1517-00

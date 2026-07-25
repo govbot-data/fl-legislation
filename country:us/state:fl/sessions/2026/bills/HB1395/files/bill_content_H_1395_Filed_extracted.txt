@@ -1,0 +1,808 @@
+Title: 
+Official Title: 
+Source: versions - H 1395 Filed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1395 2026
+1 A bill to be entitled
+2 An act relating to artificial intelligence; amending
+3 s. 287.138, F.S.; defining the term "artificial
+4 intelligence"; prohibiting a governmental entity from
+5 extending or renewing a contract with specified
+6 entities; prohibiting a local governmental entity from
+7 taking certain actions relating to contracting with an
+8 entity to provide artificial intelligence technology,
+9 software, or products unless certain requirements are
+10 completed; prohibiting a governmental entity from
+11 entering into a contract with an entity for artificial
+12 intelligence technology, software, or products if
+13 certain conditions are met; providing a directive to
+14 the Division of Law Revision; creating part IX of ch.
+15 501, F.S., to be entitled the "Artificial Intelligence
+16 Bill of Rights"; creating s. 501.9981, F.S.; providing
+17 a short title; creating s. 501.9982, F.S.; providing
+18 the rights of Floridians relating to the use of
+19 artificial intelligence; authorizing Floridians to
+20 exercise certain rights; providing construction;
+21 creating s. 501.9983, F.S.; defining terms; creating
+22 s. 501.9984, F.S.; requiring companion chatbot
+23 platforms to prohibit a minor from creating new or
+24 maintaining existing accounts unless the minor's
+25 parent or guardian consents; requiring companion
+Page 1 of 26
+CODING: Words stricken are deletions; words underlined are additions.
+hb1395-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1395 2026
+26 chatbot platforms to provide the minor's parent or
+27 guardian certain options; requiring companion chatbot
+28 platforms to terminate certain accounts and provide
+29 certain options; requiring companion chatbot platforms
+30 to make certain disclosures and institute certain
+31 measures to prevent their companion chatbots from
+32 producing or sharing materials harmful to minors;
+33 providing that violations are deceptive or unfair
+34 trade practices; authorizing the Department of Legal
+35 Affairs to bring actions under the Florida Deceptive
+36 and Unfair Trade Practices Act for knowing or reckless
+37 violations; authorizing the department to issue and
+38 enforce civil investigative demands under certain
+39 circumstances; providing civil penalties; authorizing
+40 punitive damages under certain circumstances;
+41 providing for private causes of action; requiring that
+42 such actions be brought within a specified timeframe;
+43 providing that certain companion chatbot platforms are
+44 subject to the jurisdiction of state courts;
+45 specifying requirements for contract formation;
+46 providing construction; authorizing the department to
+47 adopt rules; creating s. 501.9985, F.S.; requiring bot
+48 operators to periodically provide a certain
+49 notification to a user; authorizing the department to
+50 bring actions under the Florida Deceptive and Unfair
+Page 2 of 26
+CODING: Words stricken are deletions; words underlined are additions.
+hb1395-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1395 2026
+51 Trade Practices Act for violations; authorizing the
+52 department to issue and enforce civil investigative
+53 demands under certain circumstances; providing civil
+54 penalties; providing construction; providing that
+55 certain bot operators are subject to the jurisdiction
+56 of state courts; authorizing the department to adopt
+57 rules; creating s. 501.9986, F.S.; prohibiting
+58 artificial intelligence technology companies from
+59 selling or disclosing the personal information of
+60 users unless the information is deidentified data;
+61 requiring artificial intelligence technology companies
+62 in possession of deidentified data to take certain
+63 measures to ensure such data remains deidentified;
+64 authorizing the Department of Legal Affairs to bring
+65 actions under the Florida Deceptive and Unfair Trade
+66 Practices Act for violations; authorizing the
+67 department to issue and enforce civil investigative
+68 demands under certain circumstances; providing civil
+69 penalties; providing that certain artificial
+70 intelligence technology companies are subject to the
+71 jurisdiction of state courts; authorizing the
+72 department to adopt rules; creating s. 501.9987, F.S.;
+73 authorizing the department to take certain
+74 investigative and compliance actions in connection
+75 with potential violations of part IX of ch. 501, F.S.;
+Page 3 of 26
+CODING: Words stricken are deletions; words underlined are additions.
+hb1395-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1395 2026
+76 authorizing the department to adopt rules; amending s.
+77 540.08, F.S.; defining terms; prohibiting the
+78 commercial use of an individual's name, image, or
+79 likeness created through artificial intelligence
+80 without the individual's or an authorized individual's
+81 consent; providing requirements for the use of the
+82 name, image, or likeness of deceased persons;
+83 providing penalties for the use of the name, image, or
+84 likeness of a servicemember; conforming provisions to
+85 changes made by the act; reenacting ss. 540.10 and
+86 743.08(1)(c), F.S., relating to the exemption of news
+87 media from liability and contracts entered into by
+88 minors, respectively, to incorporate the amendments
+89 made to s. 540.08, F.S., in references thereto;
+90 providing an effective date.
+91
+92 Be It Enacted by the Legislature of the State of Florida:
+93
+94 Section 1. Present paragraphs (a) through (d) of
+95 subsection (1) and present subsection (7) of section 287.138,
+96 Florida Statutes, are redesignated as paragraphs (b) through (e)
+97 of subsection (1) and subsection (8), respectively, a new
+98 paragraph (a) is added to subsection (1), a new subsection (7)
+99 is added to that section, and subsection (3) of that section is
+100 amended, to read:
+Page 4 of 26
+CODING: Words stricken are deletions; words underlined are additions.
+hb1395-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1395 2026
+101 287.138 Contracting with entities of foreign countries of
+102 concern prohibited.—
+103 (1) As used in this section, the term:
+104 (a) "Artificial intelligence" means an engineered or
+105 machine-based system that varies in its level of autonomy and
+106 that can, for explicit or implicit objectives, infer from the
+107 input it receives how to generate outputs that influence
+108 physical or virtual environments.
+109 (3)(a) Beginning July 1, 2025, a governmental entity may
+110 not extend or renew a contract with an entity listed in
+111 paragraphs (2)(a)-(c) if the contract would give such entity
+112 access to an individual's personal identifying information.
+113 Beginning July 1, 2026, a governmental entity may not extend or
+114 renew a contract with an entity listed in paragraph (7)(a),
+115 paragraph (7)(b), or paragraph (7)(c).
+116 (b) Beginning July 1, 2026, a governmental entity may not
+117 accept a bid on, a proposal for, or a reply to, or enter into a
+118 contract with, an entity to provide artificial intelligence
+119 technology, software, or products, including as a portion or an
+120 option to the products or services provided under the contract,
+121 unless the entity provides the governmental entity with an
+122 affidavit signed by an officer or a representative of the entity
+123 under penalty of perjury attesting that the entity does not meet
+124 any of the criteria in paragraph (7)(a), paragraph (7)(b), or
+125 paragraph (7)(c).
+Page 5 of 26
+CODING: Words stricken are deletions; words underlined are additions.
+hb1395-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1395 2026
+126 (7) A governmental entity may not knowingly enter into a
+127 contract with an entity for artificial intelligence technology,
+128 software, or products, including as a portion or an option to
+129 the products or services provided under the contract, if:
+130 (a) The entity is owned by the government of a foreign
+131 country of concern;
+132 (b) A government of a foreign country of concern has a
+133 controlling interest in the entity; or
+134 (c) The entity is organized under the laws of or has its
+135 principal place of business in a foreign country of concern.
+136 Section 2. The Division of Law Revision is directed to
+137 create part IX of chapter 501, Florida Statutes, consisting of
+138 ss. 501.9981, 501.9982, 501.9983, 501.9984, 501.9985, 501.9986,
+139 and 501.9987, Florida Statutes, to be entitled the "Artificial
+140 Intelligence Bill of Rights."
+141 Section 3. Section 501.9981, Florida Statutes, is created
+142 to read:
+143 501.9981 Short title.—This part may be cited as the
+144 "Artificial Intelligence Bill of Rights."
+145 Section 4. Section 501.9982, Florida Statutes, is created
+146 to read:
+147 501.9982 Rights relating to the use of artificial
+148 intelligence.—
+149 (1) Floridians are entitled to certain rights with respect
+150 to the use of artificial intelligence, including, but not
+Page 6 of 26
+CODING: Words stricken are deletions; words underlined are additions.
+hb1395-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1395 2026
+151 limited to:
+152 (a) The right to use artificial intelligence to improve
+153 their own lives and the lives of family members, fellow
+154 residents, and the world at large in accordance with the law.
+155 (b) The right to supervise, access, limit, and control
+156 their minor children's use of artificial intelligence.
+157 (c) The right to know whether they are communicating with
+158 a human being or an artificial intelligence system, program, or
+159 chatbot.
+160 (d) The right to know if artificial intelligence
+161 technology companies are collecting personal information or
+162 biometric data, and the right to expect artificial intelligence
+163 technology companies to protect and deidentify that information
+164 or data in accordance with the law.
+165 (e) The right to pursue civil remedies authorized by law
+166 against persons who use artificial intelligence to appropriate
+167 the name, image, or likeness of others for commercial purposes
+168 without their consent.
+169 (f) The right to be protected by law from criminal acts,
+170 such as fraud, exploitation, identity theft, stalking, and
+171 cyberbullying, regardless of whether artificial intelligence is
+172 used in the commission of those acts.
+173 (g) The right to be protected by law from criminal acts
+174 relating to the alteration of existing images to create sexual
+175 or lewd or lascivious images or child pornography, regardless of
+Page 7 of 26
+CODING: Words stricken are deletions; words underlined are additions.
+hb1395-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1395 2026
+176 whether artificial intelligence is used in the commission of
+177 those acts.
+178 (h) The right to know whether political advertisements,
+179 electioneering communications, or similar advertisements were
+180 created in whole or in part with the use of artificial
+181 intelligence.
+182 (i) The right to pursue civil remedies authorized by law
+183 against others who use artificial intelligence to slander,
+184 libel, or defame them.
+185 (2) Floridians may exercise the rights described in this
+186 section in accordance with existing law. This section may not be
+187 construed as creating new or independent rights or entitlements.
+188 Section 5. Section 501.9983, Florida Statutes, is created
+189 to read:
+190 501.9983 Definitions.—As used in this part, the term:
+191 (1) "Account holder" means an individual who opens an
+192 account or creates a profile or is identified by the companion
+193 chatbot platform by a unique identifier while he or she is using
+194 or accessing the platform, if the platform knows or has reason
+195 to believe the individual is a resident of this state.
+196 (2) "Artificial intelligence" means an engineered or
+197 machine-based system that varies in its level of autonomy and
+198 that can, for explicit or implicit objectives, infer from the
+199 input it receives how to generate outputs that influence
+200 physical or virtual environments.
+Page 8 of 26
+CODING: Words stricken are deletions; words underlined are additions.
+hb1395-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1395 2026
+201 (3) "Artificial intelligence technology company" means a
+202 business or organization that produces, develops, creates,
+203 designs, or manufactures artificial intelligence technology or
+204 products, collects data for use in artificial intelligence
+205 products, or implements artificial intelligence technology.
+206 (4) "Bot" means an automated online software application
+207 in which all or substantially all of the actions or posts of the
+208 account are not the result of a natural person.
+209 (5) "Companion chatbot" means an artificial intelligence
+210 system with a natural language interface that provides adaptive,
+211 human-like responses to user inputs and is capable of meeting a
+212 user's social needs, including by exhibiting anthropomorphic
+213 features and being able to sustain a relationship across
+214 multiple interactions. The term does not include:
+215 (a) A chatbot used only for customer service, a business's
+216 operational purposes, productivity and analysis related to
+217 source information, internal research, or technical assistance;
+218 (b) A chatbot that is a feature of a video game and is
+219 limited to replies related to the video game and does not
+220 discuss topics related to mental health, self-harm, or material
+221 harmful to minors or maintain a dialogue on other topics
+222 unrelated to the video game; or
+223 (c) A stand-alone consumer electronic device that
+224 functions as a speaker and voice command interface, acts as a
+225 voice-activated virtual assistant, and does not sustain a
+Page 9 of 26
+CODING: Words stricken are deletions; words underlined are additions.
+hb1395-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1395 2026
+226 relationship across multiple interactions or generate outputs
+227 likely to elicit emotional responses in the user.
+228 (6) "Companion chatbot platform" means a platform that
+229 allows a user to engage with companion chatbots.
+230 (7) "Deidentified data" means data that cannot reasonably
+231 be linked to an identified or identifiable individual or a
+232 device linked to that individual.
+233 (8) "Department" means the Department of Legal Affairs.
+234 (9) "Material harmful to minors" has the same meaning as
+235 in s. 501.1737(1).
+236 (10) "Minor" means any person 17 years of age or younger.
+237 (11) "Operator" means a person who owns, operates, or
+238 otherwise makes available a bot to individuals in this state.
+239 (12) "Pop-up" means a visible notification on the
+240 computer, tablet, or smartphone screen of a user which may be
+241 resolved if the user interacts with or responds to the
+242 notification.
+243 (13) "Resident" means an individual who has resided in
+244 this state for more than 6 months during the preceding 12-month
+245 period.
+246 (14) "User" means an individual who resides or is
+247 domiciled in this state and who accesses an Internet website,
+248 online or cloud-computing service, online application, or mobile
+249 application.
+250 (15) "Video game" means a game played on an electronic
+Page 10 of 26
+CODING: Words stricken are deletions; words underlined are additions.
+hb1395-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1395 2026
+251 amusement device that uses a computer, microprocessor, or
+252 similar electronic circuitry and its own monitor, or is designed
+253 to be used with a television set or a computer monitor, to
+254 interact with the user of the device.
+255 Section 6. Section 501.9984, Florida Statutes, is created
+256 to read:
+257 501.9984 Companion chatbot use for minors.—
+258 (1) A companion chatbot platform shall prohibit a minor
+259 from entering into a contract with the platform to become an
+260 account holder or from maintaining an existing account, unless
+261 the minor's parent or guardian provides consent for the minor to
+262 become an account holder or maintain an existing account.
+263 (a) If the minor's parent or guardian provides consent for
+264 the minor to become an account holder or maintain an existing
+265 account, the companion chatbot platform must allow the
+266 consenting parent or guardian of the minor account holder to:
+267 1. Receive copies of all past or present interactions
+268 between the account holder and the companion chatbot;
+269 2. Limit the amount of time that the account holder may
+270 interact with the companion chatbot each day;
+271 3. Limit the days of the week and the times during the day
+272 when the account holder may interact with the companion chatbot;
+273 4. Disable any of the interactions between the account
+274 holder and third-party account holders on the companion chatbot
+275 platform; and
+Page 11 of 26
+CODING: Words stricken are deletions; words underlined are additions.
+hb1395-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1395 2026
+276 5. Receive timely notifications if the account holder
+277 expresses to the companion chatbot a desire or an intent to
+278 engage in self-harm or to harm others.
+279 (b) A companion chatbot platform shall do all of the
+280 following:
+281 1. Terminate any account belonging to an account holder
+282 who is a minor if the companion chatbot platform treats or
+283 categorizes the account as belonging to a minor for purposes of
+284 targeting content or advertising and if the minor's parent or
+285 guardian has not provided consent for the minor to become an
+286 account holder or to maintain an existing account. The companion
+287 chatbot platform shall provide 90 days for the account holder to
+288 dispute the termination. Termination must be effective upon the
+289 expiration of the 90 days if the account holder fails to
+290 effectively dispute the termination.
+291 2. Allow an account holder who is a minor to request to
+292 terminate the account. Termination must be effective within 5
+293 business days after the request.
+294 3. Allow the consenting parent or guardian of an account
+295 holder who is a minor to request that the minor's account be
+296 terminated. Termination must be effective within 10 business
+297 days after the request.
+298 4. Permanently delete all personal information held by the
+299 companion chatbot platform relating to the terminated account,
+300 unless state or federal law requires the platform to maintain
+Page 12 of 26
+CODING: Words stricken are deletions; words underlined are additions.
+hb1395-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1395 2026
+301 the information.
+302 (2) In connection with all accounts held by account
+303 holders who are minors, the companion chatbot platform shall do
+304 all of the following:
+305 (a) Disclose to the account holder that he or she is
+306 interacting with artificial intelligence.
+307 (b) Provide by default a clear and conspicuous
+308 notification to the account holder, at the beginning of
+309 companion chatbot interactions and at least once every hour
+310 during continuing interactions, reminding the minor to take a
+311 break and that the companion chatbot is artificially generated
+312 and not human.
+313 (c) Institute reasonable measures to prevent its companion
+314 chatbot from producing or sharing materials harmful to minors or
+315 encouraging the account holder to engage in any of the conduct
+316 described or depicted in materials harmful to minors.
+317 (3) A knowing or reckless violation of this section is
+318 deemed a deceptive or unfair trade practice or act actionable
+319 under part II of this chapter solely by the department against a
+320 companion chatbot platform. If the department has reason to
+321 believe that a companion chatbot platform is in violation of
+322 this section, the department, as the enforcing authority, may
+323 bring an action against such platform for a deceptive or unfair
+324 trade practice or act. For the purpose of bringing an action
+325 pursuant to this section, ss. 501.211 and 501.212 do not apply.
+Page 13 of 26
+CODING: Words stricken are deletions; words underlined are additions.
+hb1395-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1395 2026
+326 In addition to other remedies under part II of this chapter, the
+327 department may collect a civil penalty of up to $50,000 per
+328 violation and reasonable attorney fees and court costs. If the
+329 companion chatbot platform's failure to comply with this section
+330 is part of a consistent pattern of knowing or reckless conduct,
+331 punitive damages may be assessed against the companion chatbot
+332 platform.
+333 (4)(a) A companion chatbot platform that knowingly or
+334 recklessly violates this section is liable to a minor account
+335 holder for up to $10,000 in damages plus court costs and
+336 reasonable attorney fees as ordered by the court.
+337 (b) A civil action for a claim under this subsection must
+338 be brought within 1 year after the date the complainant knew, or
+339 reasonably should have known, of the alleged violation.
+340 (c) An action brought under this subsection may be brought
+341 only on behalf of a minor account holder.
+342 (5) For purposes of bringing an action under this section,
+343 a companion chatbot platform that allows a minor account holder
+344 in this state to create an account on the platform is considered
+345 to be both engaged in substantial and not isolated activities
+346 within this state and operating, conducting, engaging in, or
+347 carrying on a business and doing business in this state, and is
+348 therefore subject to the jurisdiction of the courts of this
+349 state.
+350 (6) If a companion chatbot platform allows a minor account
+Page 14 of 26
+CODING: Words stricken are deletions; words underlined are additions.
+hb1395-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1395 2026
+351 holder to use the companion chatbot platform, the parties have
+352 entered into a contract.
+353 (7) This section does not preclude any other available
+354 remedy at law or equity.
+355 (8) The department may adopt rules to implement this
+356 section.
+357 Section 7. Section 501.9985, Florida Statutes, is created
+358 to read:
+359 501.9985 Consumer protections regarding bots.—
+360 (1) At the beginning of an interaction between a user and
+361 a bot, and at least once every hour during the interaction, an
+362 operator shall display a pop-up message notifying users that
+363 they are not engaging in dialogue with a human counterpart.
+364 (2) A violation of this section is deemed a deceptive or
+365 unfair trade practice or act actionable under part II of this
+366 chapter solely by the department on behalf of a user of a bot.
+367 If the department has reason to believe that an operator is in
+368 violation of this section, the department, as the enforcing
+369 authority, may bring an action against the operator for a
+370 deceptive or unfair trade practice or act. For the purpose of
+371 bringing an action pursuant to this section, ss. 501.211 and
+372 501.212 do not apply. In addition to any other remedy under part
+373 II of this chapter, the department may collect a civil penalty
+374 of up to $50,000 per violation and reasonable attorney fees and
+375 court costs.
+Page 15 of 26
+CODING: Words stricken are deletions; words underlined are additions.
+hb1395-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1395 2026
+376 (3) This section does not preclude any other available
+377 remedy at law or equity.
+378 (4) For purposes of bringing an action pursuant to this
+379 section, a person who meets the definition of an operator that
+380 owns, operates, or otherwise makes available a bot to
+381 individuals in this state is considered to be both engaged in
+382 substantial and not isolated activities within this state and
+383 operating, conducting, engaging in, or carrying on a business,
+384 and doing business in this state, and is therefore subject to
+385 the jurisdiction of the courts of this state.
+386 (5) The department may adopt rules to implement this
+387 section.
+388 Section 8. Section 501.9986, Florida Statutes, is created
+389 to read:
+390 501.9986 Consumer protections regarding deidentified
+391 data.—
+392 (1) An artificial intelligence technology company may not
+393 sell or disclose personal information of users unless the
+394 information is deidentified data.
+395 (2) An artificial intelligence technology company in
+396 possession of deidentified data shall do all of the following:
+397 (a) Take reasonable measures to ensure that the data
+398 cannot be associated with an individual.
+399 (b) Maintain and use the data in deidentified form. An
+400 artificial intelligence technology company may not attempt to
+Page 16 of 26
+CODING: Words stricken are deletions; words underlined are additions.
+hb1395-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1395 2026
+401 reidentify the data, except that the artificial intelligence
+402 technology company may attempt to reidentify the data solely for
+403 the purpose of determining whether its deidentification
+404 processes satisfy the requirements of this section.
+405 (c) Contractually obligate a recipient of the deidentified
+406 data to comply with this section.
+407 (d) Implement business processes to prevent the
+408 inadvertent release of deidentified data.
+409 (3) A violation of this section is deemed a deceptive or
+410 unfair trade practice or act actionable under part II of this
+411 chapter solely by the department. If the department has reason
+412 to believe that an artificial intelligence technology company is
+413 in violation of this section, the department, as the enforcing
+414 authority, may bring an action against the artificial
+415 intelligence technology company for a deceptive or unfair trade
+416 practice or act. For the purpose of bringing an action pursuant
+417 to this section, ss. 501.211 and 501.212 do not apply. In
+418 addition to any other remedy under part II of this chapter, the
+419 department may collect a civil penalty of up to $50,000 per
+420 violation and reasonable attorney fees and court costs.
+421 (4) For purposes of bringing an action pursuant to this
+422 section, a person who meets the definition of an artificial
+423 intelligence technology company that produces, develops,
+424 creates, designs, or manufactures artificial intelligence
+425 technology or products, collects data for use in artificial
+Page 17 of 26
+CODING: Words stricken are deletions; words underlined are additions.
+hb1395-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1395 2026
+426 intelligence products, or implements artificial intelligence
+427 technology in this state is considered to be both engaged in
+428 substantial and not isolated activities within this state and
+429 operating, conducting, engaging in, or carrying on a business,
+430 and doing business in this state, and is therefore subject to
+431 the jurisdiction of the courts of this state.
+432 (5) The department may adopt rules to implement this
+433 section.
+434 Section 9. Section 501.9987, Florida Statutes, is created
+435 to read:
+436 501.9987 Investigations.—
+437 (1) If, by its own inquiry or as a result of complaints,
+438 the department has reason to believe that a person has engaged
+439 in, or is engaging in, a practice or an act that violates this
+440 part, the department may administer oaths and affirmations,
+441 subpoena witnesses or matter, and collect evidence. Within 5
+442 days, excluding weekends and legal holidays, after service of a
+443 subpoena or at any time before the return date specified in the
+444 subpoena, whichever time period is longer, the party served may
+445 file in the circuit court in the county in which it resides or
+446 in which it transacts business and serve upon the enforcing
+447 authority a petition for an order modifying or setting aside the
+448 subpoena. The petitioner may raise any objection or privilege
+449 that would be available upon service of a subpoena in a civil
+450 action. The subpoena must inform the party served of the party's
+Page 18 of 26
+CODING: Words stricken are deletions; words underlined are additions.
+hb1395-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1395 2026
+451 rights under this subsection.
+452 (2) If the matter that the department seeks to obtain by
+453 subpoena is located outside this state, the person subpoenaed
+454 may make the matter available to the department or its
+455 representative at the place where it is located. The department
+456 may designate representatives, including officials of the state
+457 in which the matter is located, to inspect the matter on its
+458 behalf and may respond to similar requests from officials of
+459 other states.
+460 (3) Upon the failure of a person, without lawful excuse,
+461 to obey a subpoena and upon reasonable notice to all persons
+462 affected, the department may apply to the circuit court for an
+463 order compelling compliance.
+464 (4) The department may request that a person who refuses
+465 to comply with a subpoena on the grounds that the testimony or
+466 matter may be self-incriminating be ordered by the court to
+467 provide the testimony or matter. Except in a prosecution for
+468 perjury, a person who complies with a court order to provide
+469 testimony or matter after asserting a valid privilege against
+470 self-incrimination may not have the testimony or matter so
+471 provided, or evidence derived from the testimony or matter,
+472 received against the person in any criminal investigation or
+473 proceeding.
+474 (5) A person upon whom a subpoena is served pursuant to
+475 this part must comply with its terms unless otherwise provided
+Page 19 of 26
+CODING: Words stricken are deletions; words underlined are additions.
+hb1395-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1395 2026
+476 by order of the court. A person who fails to appear, with the
+477 intent to avoid, evade, or prevent compliance in whole or in
+478 part with an investigation under this part, or who removes from
+479 any place, conceals, withholds, mutilates, alters, or destroys,
+480 or by any other means falsifies any documentary material in the
+481 possession, custody, or control of a person subject to a
+482 subpoena, or who knowingly conceals relevant information with
+483 the intent to avoid, evade, or prevent compliance, is liable for
+484 a civil penalty of not more than $5,000 per week in violation,
+485 reasonable attorney fees, and costs.
+486 (6) The department may adopt rules to implement this
+487 section.
+488 Section 10. Section 540.08, Florida Statutes, is amended
+489 to read:
+490 540.08 Unauthorized publication of name, image, or
+491 likeness.—
+492 (1) As used in this section, the term:
+493 (a) "Generative artificial intelligence" means a machine-
+494 based system that can, for a given set of human-defined
+495 objectives, emulate the structure and characteristics of input
+496 data in order to generate derived synthetic content, including
+497 images, videos, audio, text, and other digital content.
+498 (b) "Person" has the same meaning as in s. 1.01(3) but
+499 also includes a government or a governmental subdivision,
+500 agency, instrumentality, or public corporation.
+Page 20 of 26
+CODING: Words stricken are deletions; words underlined are additions.
+hb1395-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1395 2026
+501 (c) "Servicemember" has the same meaning as in s. 250.01
+502 and includes any officer or enlisted member who died from
+503 service-connected causes while on active duty.
+504 (d) "Surviving children" means an individual's immediate
+505 offspring and any children legally adopted by the individual.
+506 (e) "Surviving spouse" means an individual's surviving
+507 spouse under the law of the individual's domicile at the time of
+508 the individual's death, regardless of whether the spouse later
+509 remarried.
+510 (2) A person may not publish, print, display, or otherwise
+511 publicly use for trade or for any commercial or advertising
+512 purpose the name, portrait, photograph, image, or other likeness
+513 of an individual created through generative artificial
+514 intelligence without the express written or oral consent to such
+515 use given by any of the following:
+516 (a) The individual.
+517 (b) Any other person authorized in writing by the
+518 individual to license the commercial use of the individual's
+519 name, image, or likeness.
+520 (c) If the individual is deceased:
+521 1. A person authorized in writing to license the
+522 commercial use of the individual's name, image, or likeness; or
+523 2. If a person is not authorized, any one individual from
+524 a class composed of the deceased individual's surviving spouse
+525 and surviving children. A legal parent or guardian may give
+Page 21 of 26
+CODING: Words stricken are deletions; words underlined are additions.
+hb1395-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1395 2026
+526 consent on behalf of a minor surviving child.
+527 (3) A No person may not shall publish, print, display or
+528 otherwise publicly use for purposes of trade or for any
+529 commercial or advertising purpose the name, portrait,
+530 photograph, image, or other likeness of an individual any
+531 natural person without the express written or oral consent to
+532 such use given by any of the following:
+533 (a) The individual. Such person; or
+534 (b) Any other person, firm or corporation authorized in
+535 writing by the individual such person to license the commercial
+536 use of the individual's her or his name, image, or likeness.; or
+537 (c) If the individual such person is deceased:,
+538 1. A any person, firm or corporation authorized in writing
+539 to license the commercial use of the deceased individual's her
+540 or his name, image, or likeness;, or
+541 2. If a no person, firm or corporation is not so
+542 authorized, then by any one individual from among a class
+543 composed of the individual's her or his surviving spouse and
+544 surviving children. A legal parent or guardian may give consent
+545 on behalf of a minor surviving child.
+546 (4)(2) If In the event the consent required in subsection
+547 (2) or subsection (3) (1) is not obtained, the individual person
+548 whose name, portrait, photograph, image, or other likeness is so
+549 used, or a any person, firm, or corporation authorized by the
+550 individual such person in writing to license the commercial use
+Page 22 of 26
+CODING: Words stricken are deletions; words underlined are additions.
+hb1395-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1395 2026
+551 of the individual's her or his name, image, or likeness, or, if
+552 the individual person whose likeness is used is deceased, a any
+553 person, firm, or corporation having the right to give such
+554 consent, as provided in subsection (2) or subsection (3)
+555 hereinabove, may bring an action to enjoin the such unauthorized
+556 publication, printing, display, or other public use, and to
+557 recover damages for any loss or injury resulting from the
+558 unauthorized publication sustained by reason thereof, including
+559 an amount that which would have been a reasonable royalty, and
+560 punitive or exemplary damages.
+561 (5)(3) If a person uses the name, portrait, photograph,
+562 image, or other likeness of a servicemember member of the armed
+563 forces without obtaining the consent required in subsection (2)
+564 or subsection (3) (1) and the such use is not subject to an any
+565 exception listed in this section, a court may impose a civil
+566 penalty of up to $1,000 per violation in addition to the civil
+567 remedies contained in subsection (4) (2). Each commercial
+568 transaction constitutes a violation under this section. As used
+569 in this section, the term "member of the armed forces" means an
+570 officer or enlisted member of the Army, Navy, Air Force, Marine
+571 Corps, Space Force, or Coast Guard of the United States, the
+572 Florida National Guard, and the United States Reserve Forces,
+573 including any officer or enlisted member who died as a result of
+574 injuries sustained in the line of duty.
+575 (6)(4) The provisions of This section does shall not apply
+Page 23 of 26
+CODING: Words stricken are deletions; words underlined are additions.
+hb1395-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1395 2026
+576 to any of the following:
+577 (a) The publication, printing, display, or use of the
+578 name, image, or likeness of an individual any person in a any
+579 newspaper, magazine, book, news broadcast or telecast, or other
+580 news medium or publication if used as part of a any bona fide
+581 news report or presentation having a current and legitimate
+582 public interest and if the where such name, image, or likeness
+583 is not used for advertising purposes.;
+584 (b) The use of an individual's such name, portrait,
+585 photograph, image, or other likeness in connection with the
+586 resale or other distribution of literary, musical, or artistic
+587 productions or other articles of merchandise or property with
+588 the individual's consent where such person has consented to the
+589 use of her or his name, portrait, photograph, or likeness on or
+590 in connection with the initial sale or distribution of the
+591 productions, articles, or merchandise. thereof; or
+592 (c) A Any photograph of an individual a person solely as a
+593 member of the public if the individual and where such person is
+594 not named or otherwise identified in or in connection with the
+595 use of the such photograph.
+596 (7)(5) An No action may not shall be brought under this
+597 section by reason of a any publication, printing, display, or
+598 other public use of the name, image, or likeness of an
+599 individual a person occurring more than after the expiration of
+600 40 years from and after the death of the individual such person.
+Page 24 of 26
+CODING: Words stricken are deletions; words underlined are additions.
+hb1395-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1395 2026
+601 (6) As used in this section, a person's "surviving spouse"
+602 is the person's surviving spouse under the law of her or his
+603 domicile at the time of her or his death, whether or not the
+604 spouse has later remarried; and a person's "children" are her or
+605 his immediate offspring and any children legally adopted by the
+606 person. Any consent provided for in subsection (1) shall be
+607 given on behalf of a minor by the guardian of her or his person
+608 or by either parent.
+609 (8)(7) The remedies provided for in this section are shall
+610 be in addition to and not in limitation of the remedies and
+611 rights of any person under the common law against the invasion
+612 of her or his privacy.
+613 Section 11. For the purpose of incorporating the amendment
+614 made by this act to section 540.08, Florida Statutes, in a
+615 reference thereto, section 540.10, Florida Statutes, is
+616 reenacted to read:
+617 540.10 Exemption of news media from liability.—No relief
+618 may be obtained under s. 540.08 or s. 540.09, against any
+619 broadcaster, publisher or distributor broadcasting, publishing
+620 or distributing paid advertising matter by radio or television
+621 or in a newspaper, magazine, or similar periodical without
+622 knowledge or notice that any consent required by s. 540.08 or s.
+623 540.09, in connection with such advertising matter has not been
+624 obtained, except an injunction against the presentation of such
+625 advertising matter in future broadcasts or in future issues of
+Page 25 of 26
+CODING: Words stricken are deletions; words underlined are additions.
+hb1395-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1395 2026
+626 such newspaper, magazine, or similar periodical.
+627 Section 12. For the purpose of incorporating the amendment
+628 made by this act to section 540.08, Florida Statutes, in a
+629 reference thereto, paragraph (c) of subsection (1) of section
+630 743.08, Florida Statutes, is reenacted to read:
+631 743.08 Removal of disabilities of minors; artistic or
+632 creative services; professional sports contracts; judicial
+633 approval.—
+634 (1) A contract made by a minor or made by a parent or
+635 guardian of a minor, or a contract proposed to be so made, may
+636 be approved by the probate division of the circuit court or any
+637 other division of the circuit court that has guardianship
+638 jurisdiction, where the minor is a resident of this state or the
+639 services of the minor are to be performed or rendered in this
+640 state, where the contract sought to be approved is one under
+641 which:
+642 (c) The minor will endorse a product or service, or in any
+643 other way receive compensation for the use of right of publicity
+644 of the minor as that right is defined by s. 540.08.
+645 Section 13. This act shall take effect July 1, 2026.
+Page 26 of 26
+CODING: Words stricken are deletions; words underlined are additions.
+hb1395-00

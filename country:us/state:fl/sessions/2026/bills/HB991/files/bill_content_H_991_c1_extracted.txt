@@ -1,0 +1,2290 @@
+Title: 
+Official Title: 
+Source: versions - H 991 c1
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 991 2026
+1 A bill to be entitled
+2 An act relating to election integrity; amending s.
+3 97.021, F.S.; revising definitions; amending s.
+4 97.022, F.S.; revising the information the Department
+5 of State is required to include in a specified report;
+6 amending s. 97.051, F.S.; requiring persons to swear
+7 or affirm they have reviewed the voter registration
+8 instructions, are a United States citizen, and
+9 understand the penalties for providing false
+10 information; amending s. 97.052, F.S.; requiring the
+11 voter registration application to elicit documentation
+12 required by the United States Election Assistance
+13 Commission or federal law; amending s. 97.0525, F.S.;
+14 requiring that an applicant's citizenship status be
+15 verified by the records of the Department of Highway
+16 Safety and Motor Vehicles; providing that an applicant
+17 will be registered as an unverified voter, but may not
+18 vote, if his or her legal status as a United States
+19 citizen cannot be verified through the Department of
+20 Highway Safety and Motor Vehicles; requiring the
+21 online voter registration system to transmit certain
+22 information to the supervisor of elections and
+23 generate certain notices; requiring the supervisor of
+24 elections to verify the legal status of certain
+25 applicants and provide certain notice; providing that,
+Page 1 of 74
+CODING: Words stricken are deletions; words underlined are additions.
+hb991-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 991 2026
+26 under specified circumstances, the online voter
+27 registration system may populate the applicant's
+28 information into a printable voter registration
+29 application; amending s. 97.053, F.S.; requiring an
+30 applicant's legal status to be verified for a voter
+31 registration application to be valid; providing that
+32 an applicant will be deemed an unverified voter if his
+33 or her application fails to meet specified
+34 requirements; requiring an applicant to provide
+35 certain evidence to the supervisor of elections to
+36 prove the applicant's legal status under specified
+37 circumstances; providing for retroactivity; providing
+38 certain applicants a provisional ballot and such
+39 ballot may only be counted if the applicant can verify
+40 his or her legal status within a specified timeframe;
+41 amending s. 97.057, F.S.; requiring the Department of
+42 Highway Safety and Motor Vehicles to provide the
+43 Department of State documentary proof of an
+44 applicant's citizenship; amending s. 98.045, F.S.;
+45 requiring supervisors to make certain determinations
+46 relating to applicants who were previously registered
+47 to vote, but later removed for ineligibility, and to
+48 follow specified procedures to notify the applicant,
+49 if applicable; amending s. 98.075, F.S.; requiring the
+50 Department of State to verify the United States
+Page 2 of 74
+CODING: Words stricken are deletions; words underlined are additions.
+hb991-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 991 2026
+51 citizenship status of any registered voter after a
+52 specified date; requiring specified notices regarding
+53 an applicant's potential ineligibility to vote;
+54 requiring certain applicants to submit specified
+55 information to the supervisor of elections; requiring
+56 certain documentation be recorded in the statewide
+57 voter registration system; amending s. 98.093, F.S.;
+58 requiring the Department of Highway Safety and Motor
+59 Vehicles to provide the Department of State with
+60 information identifying United States citizens who
+61 have been issued a new, renewed, or replacement
+62 Florida driver license or Florida identification card;
+63 requiring the Department of Highway Safety and Motor
+64 Vehicles to provide the Department of State with
+65 changes in residence address and Florida driver
+66 license or identification card numbers of individuals
+67 who have declined to register or update their voter
+68 registration; creating s. 98.094, F.S.; requiring the
+69 Division of Elections to provide a list of registered
+70 voters to federal courts for a specified purpose;
+71 requiring the jury coordinator to prepare a specified
+72 list with certain information and send such list to
+73 the division; specifying the manner in which such list
+74 may be sent; requiring the division to provide such
+75 information to the appropriate supervisor of
+Page 3 of 74
+CODING: Words stricken are deletions; words underlined are additions.
+hb991-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 991 2026
+76 elections; amending s. 101.043, F.S.; revising the
+77 forms of identification required to be provided at
+78 polls; amending ss. 101.048, 101.151, 101.5606,
+79 101.5608, and 101.5612, F.S.; conforming provisions to
+80 changes made by the act; amending s. 101.56075, F.S.;
+81 requiring voting be completed on an official ballot
+82 using a pen or marker; amending s. 101.591, F.S.;
+83 removing provisions relating to the performance of a
+84 manual audit; requiring the county canvassing board or
+85 other local board responsible for certifying an
+86 election to conduct an automated, independent vote
+87 validation of voting systems used in all precincts;
+88 providing the process for conducting such automated,
+89 independent vote validation; requiring the canvassing
+90 board to publish a specified notice on the county's
+91 website, the supervisor's website, or in certain
+92 newspapers; requiring that the vote validation be
+93 completed and made public before the certification of
+94 the election; providing reporting requirements for
+95 county canvassing boards; requiring the results of the
+96 vote validation be included in a specified report
+97 submitted to the Governor and Legislature by a
+98 specified date each year; amending s. 101.5911, F.S.;
+99 requiring the Department of State to adopt certain
+100 rules; amending s. 101.595, F.S.; revising certain
+Page 4 of 74
+CODING: Words stricken are deletions; words underlined are additions.
+hb991-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 991 2026
+101 reporting requirements for the Department of State;
+102 amending ss. 101.68 and 101.6923, F.S.; conforming
+103 provisions to changes made by the act; amending s.
+104 102.111, F.S.; revising the meeting time for the
+105 Elections Canvassing Commission; amending s. 102.141,
+106 F.S.; revising provisions relating to reporting
+107 election results; requiring counties to conduct an
+108 automated independent vote validation process for a
+109 specified purpose within a specified timeframe after
+110 unofficial results are reported; requiring the county
+111 canvassing board to take specified actions upon making
+112 a determination that the automated independent vote
+113 validation process failed to count votes; requiring
+114 the county canvassing board to conduct a system
+115 validation review under specified circumstances;
+116 removing provisions relating to recounts by the county
+117 canvassing board; requiring the county canvassing
+118 board to publish certain notice containing manual
+119 review information through specified means; requiring
+120 the county canvassing board to submit to the
+121 Department of State specified forms containing a vote
+122 validation report; removing the requirement for the
+123 supervisor to file with the Department of State
+124 certain results and statistical information; amending
+125 s. 102.166, F.S.; requiring manual reviews of
+Page 5 of 74
+CODING: Words stricken are deletions; words underlined are additions.
+hb991-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 991 2026
+126 overvotes and undervotes unless certain conditions
+127 exist; providing that the Secretary of State is
+128 responsible for ordering such review in specified
+129 races and the county canvassing board, or local board
+130 responsible for certifying the election, is
+131 responsible for ordering such reviews in all other
+132 races; authorizing political parties to designate a
+133 certain expert to be allowed in the central counting
+134 room while reviews are being performed; prohibiting
+135 such person from interfering with the normal operation
+136 of the canvassing board; creating s. 104.042, F.S.;
+137 providing a statute of limitations period for election
+138 fraud; amending s. 106.08, F.S.; revising the
+139 contributions or expenditures that a foreign national
+140 is prohibited from making or offering to make;
+141 prohibiting certain persons from accepting specified
+142 contributions; prohibiting certain persons from making
+143 specified contributions or expenditures; providing
+144 penalties; creating s. 322.034, F.S.; requiring that
+145 Florida driver licenses and identification cards
+146 include certain information by a specified date;
+147 requiring the Department of Highway Safety and Motor
+148 Vehicles to issue certain replacement or renewal cards
+149 at no charge; amending s. 895.02, F.S.; revising the
+150 definition of the term "racketeering activity";
+Page 6 of 74
+CODING: Words stricken are deletions; words underlined are additions.
+hb991-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 991 2026
+151 amending ss. 98.065, 98.0755, 101.67, and 104.16,
+152 F.S.; conforming cross-references; providing effective
+153 dates.
+154
+155 Be It Enacted by the Legislature of the State of Florida:
+156
+157 Section 1. Subsections (6), (43), and (47) of section
+158 97.021, Florida Statutes, are amended to read:
+159 97.021 Definitions.—For the purposes of this code, except
+160 where the context clearly indicates otherwise, the term:
+161 (6) "Ballot" means a printed sheet of paper containing
+162 contests, including offices and candidates, constitutional
+163 amendments, and other public measures upon which a voter's
+164 selections will be marked by using the pen or marker recommended
+165 by the voting system vendor. The term includes a voter-
+166 verifiable paper output upon which a voter's selections are
+167 marked by a voter interface device that meets voter
+168 accessibility requirements for individuals with disabilities
+169 under s. 301 of the Help America Vote Act of 2002 and s.
+170 101.56062 or "official ballot" when used in reference to:
+171 (a) "Electronic or electromechanical devices" means a
+172 ballot that is voted by the process of electronically
+173 designating, including by touchscreen, or marking with a marking
+174 device for tabulation by automatic tabulating equipment or data
+175 processing equipment.
+Page 7 of 74
+CODING: Words stricken are deletions; words underlined are additions.
+hb991-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 991 2026
+176 (b) "Marksense ballots" means that printed sheet of paper,
+177 used in conjunction with an electronic or electromechanical vote
+178 tabulation voting system, containing the names of candidates, or
+179 a statement of proposed constitutional amendments or other
+180 questions or propositions submitted to the electorate at any
+181 election, on which sheet of paper an elector casts his or her
+182 vote.
+183 (43) "Voter interface device" means any device that
+184 communicates voting instructions and ballot information to a
+185 voter and allows the voter to select and vote for candidates and
+186 issues. A voter interface device may not be used to tabulate
+187 votes. Any vote tabulation must be based upon a subsequent scan
+188 of the marked marksense ballot or the voter-verifiable paper
+189 output after the voter interface device process has been
+190 completed.
+191 (47) "Voting system" means a method of casting and
+192 processing votes that functions wholly or partly by use of
+193 electromechanical or electronic apparatus or by use of marksense
+194 ballots and includes, but is not limited to, equipment,
+195 hardware, firmware, and software; ballots; the procedures for
+196 casting and processing votes; and the programs, operating
+197 manuals, and supplies; and reports, printouts, and other
+198 documentation software necessary for the system's operation.
+199 Section 2. Effective July 1, 2026, subsection (7) of
+200 section 97.022, Florida Statutes, is amended to read:
+Page 8 of 74
+CODING: Words stricken are deletions; words underlined are additions.
+hb991-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 991 2026
+201 97.022 Office of Election Crimes and Security; creation;
+202 purpose and duties.—
+203 (7) By January 15 of each year, the department shall
+204 submit a report to the Governor, the President of the Senate,
+205 and the Speaker of the House of Representatives detailing
+206 information on investigations of alleged election law violations
+207 or election irregularities conducted during the prior calendar
+208 year. The report must include the total number of complaints
+209 received and independent investigations initiated and the number
+210 of complaints referred to another agency for further
+211 investigation or prosecution, including the total number of
+212 those matters sent to a special officer pursuant to s. 102.091.
+213 The report must include any alleged violations of s.
+214 106.08(12)(b), irregularities involving foreign national
+215 influence, and the department's recommendations to the
+216 Legislature to mitigate foreign national influence in elections.
+217 For each alleged violation or irregularity investigated, the
+218 report must include:
+219 (a) The source of the alleged violation or irregularity;
+220 (b) The law allegedly violated or the nature of the
+221 irregularity reported;
+222 (c) The county in which the alleged violation or
+223 irregularity occurred;
+224 (d) Whether the alleged violation or irregularity was
+225 referred to another agency for further investigation or
+Page 9 of 74
+CODING: Words stricken are deletions; words underlined are additions.
+hb991-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 991 2026
+226 prosecution and, if so, to which agency; and
+227 (e) The current status of the investigation or resulting
+228 criminal case.
+229 Section 3. Section 97.051, Florida Statutes, is amended to
+230 read:
+231 97.051 Oath upon registering.—A person registering to vote
+232 must subscribe to the following oath: "I do solemnly swear (or
+233 affirm) that I am a United States citizen and will protect and
+234 defend the Constitution of the United States and the
+235 Constitution of the State of Florida, that I am qualified to
+236 register as an elector under the Constitution and laws of the
+237 State of Florida, and that all information provided in this
+238 application is true. I have carefully reviewed the instructions
+239 for completing the Florida Voter Registration Application. I
+240 understand that if I have provided false information on this
+241 application, I could be subject to criminal penalties for
+242 perjury, fines, or imprisonment, and deportation from the United
+243 States if I am not a United States citizen."
+244 Section 4. Paragraph (v) is added to subsection (2) of
+245 section 97.052, Florida Statutes, to read:
+246 97.052 Uniform statewide voter registration application.—
+247 (2) The uniform statewide voter registration application
+248 must be designed to elicit the following information from the
+249 applicant:
+250 (v) Documentation required by the United States Election
+Page 10 of 74
+CODING: Words stricken are deletions; words underlined are additions.
+hb991-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 991 2026
+251 Assistance Commission or federal law.
+252 Section 5. Subsection (4) of section 97.0525, Florida
+253 Statutes, is amended to read:
+254 97.0525 Online voter registration.—
+255 (4)(a) The online voter registration system shall compare
+256 the Florida driver license number or Florida identification
+257 number submitted pursuant to s. 97.052(2)(n) with information
+258 maintained by the Department of Highway Safety and Motor
+259 Vehicles to confirm that the name and date of birth on the
+260 application are consistent with the records of the Department of
+261 Highway Safety and Motor Vehicles and the applicant's legal
+262 status as a United States citizen can be verified by the records
+263 of the Department of Highway Safety and Motor Vehicles.
+264 (b) If the applicant's name and date of birth are
+265 consistent with the records of the Department of Highway Safety
+266 and Motor Vehicles, and the applicant's legal status as a United
+267 States citizen can be verified by the records of the Department
+268 of Highway Safety and Motor Vehicles, the online voter
+269 registration system shall transmit, using the statewide voter
+270 registration system maintained pursuant to s. 98.035, the
+271 applicant's registration application, along with the digital
+272 signature of the applicant on file with the Department of
+273 Highway Safety and Motor Vehicles, to the supervisor of
+274 elections. The applicant's digital signature satisfies the
+275 signature requirement of s. 97.052(2)(q).
+Page 11 of 74
+CODING: Words stricken are deletions; words underlined are additions.
+hb991-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 991 2026
+276 (c) If the applicant's name and date of birth cannot be
+277 verified by the records of the Department of Highway Safety and
+278 Motor Vehicles, or if the applicant indicated that he or she has
+279 not been issued a Florida driver license or Florida
+280 identification card, the online voter registration system shall
+281 populate the applicant's information except for the applicant's
+282 personal identifying number into a printable voter registration
+283 application pursuant to s. 97.052(2) which and direct the
+284 applicant may to print, complete any required field, sign, and
+285 date the application and deliver the application to the
+286 supervisor of elections for disposition pursuant to s. 97.073.
+287 (d)1. If the applicant's legal status as a United States
+288 citizen cannot be verified by the records of the Department of
+289 Highway Safety and Motor Vehicles, the applicant will be
+290 registered as an unverified voter provided all other
+291 requirements have been met. The unverified voter will not be
+292 allowed to vote until he or she has provided sufficient evidence
+293 of citizenship to the supervisor of elections. The online voter
+294 registration system must transmit, using the statewide voter
+295 registration system maintained under s. 98.035, the applicant's
+296 registration application, along with the digital signature of
+297 the applicant on file with the Department of Highway Safety and
+298 Motor Vehicles, to the supervisor of elections. The applicant's
+299 digital signature satisfies the signature requirement of s.
+300 97.052(2)(q). The system must generate a notice to the
+Page 12 of 74
+CODING: Words stricken are deletions; words underlined are additions.
+hb991-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 991 2026
+301 supervisor of elections and to the applicant which states that
+302 the applicant's legal status as a United States citizen cannot
+303 be verified by the Department of Highway Safety and Motor
+304 Vehicles and that the applicant must provide to the supervisor
+305 of elections sufficient evidence of his or her United States
+306 citizenship and the supervisor of elections must verify the
+307 applicant's legal status as a United States citizen before the
+308 applicant may vote. Such notice must include a list of documents
+309 acceptable as evidence United States citizenship as set forth in
+310 s. 98.075(6)(c).
+311 2. The supervisor of elections shall verify the legal
+312 status of an applicant identified by the Department of Highway
+313 Safety and Motor Vehicle as a person who is potentially not a
+314 United States citizen. If the supervisor determines based on
+315 credible and reliable information that the applicant is
+316 potentially ineligible to vote because he or she is not a United
+317 States citizen, the supervisor must provide notice to the
+318 applicant in accordance with s. 98.075(8). Such notice must
+319 include the list of documents acceptable as evidence of United
+320 States citizenship as set forth in s. 98.075(6)(c).
+321 (e) If the applicant indicates that he or she has not been
+322 issued a Florida driver license or Florida identification card,
+323 or chooses to use the system to prepopulate an application to
+324 print, sign, and deliver, the online voter registration system
+325 must populate the applicant's information into a uniform
+Page 13 of 74
+CODING: Words stricken are deletions; words underlined are additions.
+hb991-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 991 2026
+326 statewide voter registration application under s. 97.052(2) and
+327 direct the applicant to print, sign, and date the application
+328 and deliver the application to the supervisor of elections for
+329 disposition under s. 97.073.
+330 Section 6. Subsections (2) and (6) of section 97.053,
+331 Florida Statutes, are amended to read:
+332 97.053 Acceptance of voter registration applications.—
+333 (2) A voter registration application is complete and
+334 becomes the official voter registration record of that applicant
+335 when all information necessary to establish the applicant's
+336 eligibility under pursuant to s. 97.041 is received by a voter
+337 registration official and verified under pursuant to subsection
+338 (6). Except as provided in subsection (6), if the applicant
+339 fails to complete his or her voter registration application on
+340 or before prior to the date of book closing for an election,
+341 then such applicant is shall not be eligible to vote in that
+342 election.
+343 (6)(a) A voter registration application, including an
+344 application with a change in name, address, or party
+345 affiliation, may be accepted as valid only after the department
+346 has verified the authenticity or nonexistence of the Florida
+347 driver license number, the Florida identification card number,
+348 or the last four digits of the social security number provided
+349 by the applicant and the applicant's legal status as a United
+350 States citizen has been verified or recorded as verified in the
+Page 14 of 74
+CODING: Words stricken are deletions; words underlined are additions.
+hb991-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 991 2026
+351 statewide voter registration system. If a completed voter
+352 registration application has been received by the book-closing
+353 deadline but the Florida driver license number, the Florida
+354 identification card number, or the last four digits of the
+355 social security number provided by the applicant or the
+356 applicant's legal status as a United States citizen, whichever
+357 is applicable, cannot be verified, the applicant must shall be
+358 notified that the number cannot be verified and that the
+359 applicant must provide evidence to the supervisor evidence
+360 sufficient to verify the authenticity of the applicant's driver
+361 license number, Florida identification card number, or last four
+362 digits of the social security number or provide one of the
+363 documents acceptable as evidence of United States citizenship
+364 set forth s. 98.075(6)(c), whichever is applicable. An applicant
+365 whose application does not meet the requirements of this
+366 subsection is deemed an unverified voter until the requirements
+367 have been met.
+368 (b) If the applicant provides the necessary evidence, the
+369 supervisor shall place the applicant's name on the registration
+370 rolls as an active voter.
+371 (c) If the application is to update to the voter's record
+372 with a change in name, address, or party affiliation, whichever
+373 is applicable, the change is retroactive to the date the
+374 application was initially received and the necessary
+375 documentation is verified.
+Page 15 of 74
+CODING: Words stricken are deletions; words underlined are additions.
+hb991-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 991 2026
+376 (d) If the applicant has not provided the necessary
+377 evidence to validate the applicant's number or citizenship as
+378 required under paragraph (a) before or the number has not
+379 otherwise been verified prior to the applicant appears
+380 presenting himself or herself to vote, the applicant must shall
+381 be provided a provisional ballot. The provisional ballot must
+382 shall be counted pursuant to s. 101.048, only if the requisite
+383 verification occurs number is verified by the end of the
+384 canvassing period or if the applicant presents evidence to the
+385 supervisor of elections evidence sufficient to verify the
+386 authenticity of the applicant's Florida driver license number,
+387 Florida identification card number, or last four digits of the
+388 social security number, or provides one of the documents
+389 acceptable as evidence of United States citizenship set forth s.
+390 98.075(6)(c), whichever is applicable, no later than 5 p.m. of
+391 the second day following the election.
+392 Section 7. Subsections (11) and (13) of section 97.057,
+393 Florida Statutes, are amended to read:
+394 97.057 Voter registration by the Department of Highway
+395 Safety and Motor Vehicles.—
+396 (11) The Department of Highway Safety and Motor Vehicles
+397 shall enter into an agreement with the department to match
+398 information in the statewide voter registration system with
+399 information in the database of the Department of Highway Safety
+400 and Motor Vehicles to the extent required to verify the accuracy
+Page 16 of 74
+CODING: Words stricken are deletions; words underlined are additions.
+hb991-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 991 2026
+401 of a person's Florida the driver license number, Florida
+402 identification number, or last four digits of his or her the
+403 social security number, or legal status as a United States
+404 citizen, as applicable, provided on applications for voter
+405 registration as required in s. 97.053. The department shall also
+406 include the documentary proof that the applicant provided in
+407 support of his or her United States citizenship.
+408 (13) Notwithstanding a declination to register or to
+409 update a voter registration pursuant to subparagraph (2)(b)2.,
+410 the Department of Highway Safety and Motor Vehicles shall, in
+411 accordance with s. 98.093(8), must assist the Department of
+412 State in regularly identifying changes in residence address or
+413 number on the Florida driver license or Florida identification
+414 card of persons who may be voters of a voter. The Department of
+415 State must report each such change to the appropriate supervisor
+416 of elections who must change the voter's registration records in
+417 accordance with s. 98.065(4).
+418 Section 8. Subsection (1) of section 98.045, Florida
+419 Statutes, is amended to read:
+420 98.045 Administration of voter registration.—
+421 (1) ELIGIBILITY OF APPLICANT.—
+422 (a) The supervisor shall must ensure that any eligible
+423 applicant for voter registration is registered to vote and that
+424 each application for voter registration is processed in
+425 accordance with law. The supervisor shall determine whether a
+Page 17 of 74
+CODING: Words stricken are deletions; words underlined are additions.
+hb991-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 991 2026
+426 voter registration applicant is ineligible to vote based on any
+427 of the following:
+428 1.(a) The failure to complete a voter registration
+429 application as specified in s. 97.053.
+430 2.(b) The applicant is deceased.
+431 3.(c) The applicant has been convicted of a felony for
+432 which his or her voting rights have not been restored.
+433 4.(d) The applicant has been adjudicated mentally
+434 incapacitated with respect to the right to vote and such right
+435 has not been restored.
+436 5.(e) The applicant does not meet the age requirement
+437 pursuant to s. 97.041.
+438 6.(f) The applicant is not a United States citizen.
+439 7.(g) The applicant is a fictitious person.
+440 8.(h) The applicant has provided an address of legal
+441 residence that is not his or her legal residence.
+442 9.(i) The applicant has provided a Florida driver license
+443 number, Florida identification card number, or the last four
+444 digits of a social security number that is not verifiable by the
+445 department.
+446 (b) If the most updated voter registration records show
+447 that a new applicant was previously registered but subsequently
+448 removed from the statewide voter registration system under s.
+449 98.075(8) for ineligibility by reason of a felony conviction
+450 without voting rights restored, adjudication as mentally
+Page 18 of 74
+CODING: Words stricken are deletions; words underlined are additions.
+hb991-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 991 2026
+451 incapacitated with respect to voting without voting rights
+452 restored, death, or legal status as not a United States citizen,
+453 the supervisor must, within 10 days after receiving a new
+454 application, verify the current eligibility of the applicant to
+455 register by reviewing any governmental entity document or source
+456 to determine whether the applicant remains ineligible. If the
+457 supervisor determines that the applicant is still ineligible to
+458 vote, the supervisor must deny the application and notify the
+459 applicant pursuant to s. 97.073.
+460 Section 9. Subsections (6), (7), and (8) of section
+461 98.075, Florida Statutes, are renumbered as subsections (7),
+462 (8), and (9), respectively, subsections (4) and (5), present
+463 subsection (6), paragraph (a) of present subsection (7), and
+464 paragraph (a) of present subsection (8) are amended, and a new
+465 subsection (6) is added to that section, to read:
+466 98.075 Registration records maintenance activities;
+467 ineligibility determinations.—
+468 (4) ADJUDICATION OF MENTAL INCAPACITY.—The department
+469 shall identify those registered voters who have been adjudicated
+470 mentally incapacitated with respect to voting and who have not
+471 had their voting rights restored by comparing information
+472 received from the clerk of the circuit court as provided in s.
+473 98.093. The department shall review such information and make an
+474 initial determination as to whether the information is credible
+475 and reliable. If the department determines that the information
+Page 19 of 74
+CODING: Words stricken are deletions; words underlined are additions.
+hb991-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 991 2026
+476 is credible and reliable, the department must notify the
+477 supervisor and provide a copy of the supporting documentation
+478 indicating the potential ineligibility of the voter to be
+479 registered. Upon receipt of the notice that the department has
+480 made a determination of initial credibility and reliability, the
+481 supervisor shall adhere to the procedures set forth in
+482 subsection (8) (7) before the removal of a registered voter from
+483 the statewide voter registration system.
+484 (5) FELONY CONVICTION.—
+485 (a) The department shall identify those registered voters
+486 who have been convicted of a felony and whose voting rights have
+487 not been restored by comparing information received from, but
+488 not limited to, a clerk of the circuit court, the Board of
+489 Executive Clemency, the Department of Corrections, the
+490 Department of Law Enforcement, or a United States Attorney's
+491 Office, as provided in s. 98.093. The department shall review
+492 such information and make an initial determination as to whether
+493 the information is credible and reliable. If the department
+494 determines that the information is credible and reliable, the
+495 department must notify the supervisor and provide a copy of the
+496 supporting documentation indicating the potential ineligibility
+497 of the voter to be registered. Upon receipt of the notice that
+498 the department has made a determination of initial credibility
+499 and reliability, the supervisor shall adhere to the procedures
+500 set forth in subsection (8) (7) before the removal of a
+Page 20 of 74
+CODING: Words stricken are deletions; words underlined are additions.
+hb991-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 991 2026
+501 registered voter's name from the statewide voter registration
+502 system.
+503 (b) The supervisors shall coordinate with their respective
+504 clerks of the court to obtain information pursuant to s. 98.093
+505 to identify registered voters within their respective
+506 jurisdictions who have been convicted of a felony during the
+507 preceding week and whose voting rights have not been restored.
+508 The supervisor shall adhere to the procedures set forth in
+509 subsection (8) (7) before the removal of a registered voter's
+510 name from the statewide voter registration system. For purposes
+511 of this paragraph, a supervisor's duties under subsection (8)
+512 (7) begin upon his or her determination that the information
+513 received from the clerk is credible and reliable.
+514 (6) CITIZENSHIP.—
+515 (a) The Department of State shall verify the citizenship
+516 status of all registered voters whose legal status has not
+517 already been verified as a United States citizen. If the
+518 citizenship status of a registered voter cannot be verified or
+519 the voter record does not indicate that the registered voter's
+520 citizenship is verified, the department must notify the
+521 supervisor of elections who must notify the registered voter.
+522 (b) The department shall review the information received
+523 from the Department of Highway Safety under s. 98.093(8) and
+524 make an initial determination as to whether the information and
+525 any other information regarding citizenship is credible and
+Page 21 of 74
+CODING: Words stricken are deletions; words underlined are additions.
+hb991-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 991 2026
+526 reliable. If the department determines that the information is
+527 credible and reliable, the department must notify the supervisor
+528 and provide a copy of the supporting documentation indicating
+529 the potential ineligibility of the voter.
+530 (c) Upon receipt of the notice under paragraph (a) or
+531 paragraph (b), the supervisor of elections must notify the
+532 registered voter in accordance with subsection (8) that his or
+533 her United States citizenship could not be verified and require
+534 the registered voter to submit evidence sufficient to verify his
+535 or her citizenship status. The notice to the registered voter
+536 must include the following list of documents that will be
+537 accepted as evidence of United States citizenship:
+538 1. A current and valid United States passport.
+539 2. A United States birth certificate.
+540 3. A Consular Report of Birth Abroad provided by the
+541 United States Department of State.
+542 4. A current and valid Florida driver license or Florida
+543 identification card issued by the Department of Highway Safety
+544 and Motor Vehicles if such driver license or identification card
+545 indicates United States citizenship.
+546 5. A naturalization certificate, a certificate of
+547 citizenship, a certificate number, or an alien registration
+548 number issued by the United States Department of Homeland
+549 Security.
+550 6. A current and valid photo identification issued by the
+Page 22 of 74
+CODING: Words stricken are deletions; words underlined are additions.
+hb991-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 991 2026
+551 Federal Government or the government of this state which
+552 indicates United States citizenship.
+553 7. An order from a federal court granting United States
+554 citizenship.
+555 (d) If the registered voter's legal name is different than
+556 the name that appears on one of the documents specified in
+557 paragraph (c), the applicant must also provide official
+558 documentation providing proof of a legal name change.
+559 (e) The type of document provided or used to verify
+560 citizenship must be recorded in the statewide voter registration
+561 system.
+562 (7)(6) OTHER BASES FOR INELIGIBILITY.—Subsections (2)-(6)
+563 (2)-(5) do not limit or restrict the department or the
+564 supervisor in his or her duty to act upon direct receipt of,
+565 access to, or knowledge of information from any governmental
+566 entity that identifies a registered voter as potentially
+567 ineligible. If the department or supervisor receives information
+568 from any governmental entity other than those identified in
+569 subsections (2)-(6) (2)-(5) that a registered voter is
+570 ineligible because the voter is deceased, adjudicated a
+571 convicted felon without having had his or her voting rights
+572 restored, adjudicated mentally incapacitated without having had
+573 his or her voting rights restored, does not meet the age
+574 requirement pursuant to s. 97.041, is not a United States
+575 citizen, is a fictitious person, or has listed an address that
+Page 23 of 74
+CODING: Words stricken are deletions; words underlined are additions.
+hb991-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 991 2026
+576 is not his or her address of legal residence, the supervisor
+577 must adhere to the procedures set forth in subsection (8) (7)
+578 before the removal of the name of a registered voter who is
+579 determined to be ineligible from the statewide voter
+580 registration system.
+581 (8)(7) PROCEDURES FOR REMOVAL.—
+582 (a) If the supervisor receives notice or information
+583 pursuant to subsections (4)-(7) (4)-(6), the supervisor of the
+584 county in which the voter is registered must:
+585 1. Notify the registered voter of his or her potential
+586 ineligibility by mail within 7 days after receipt of notice or
+587 information. The notice must include:
+588 a. A statement of the basis for the registered voter's
+589 potential ineligibility and a copy of any documentation upon
+590 which the potential ineligibility is based. Such documentation
+591 must include any conviction from another jurisdiction determined
+592 to be a similar offense to murder or a felony sexual offense, as
+593 those terms are defined in s. 98.0751.
+594 b. A statement that failure to respond within 30 days
+595 after receipt of the notice may result in a determination of
+596 ineligibility and in removal of the registered voter's name from
+597 the statewide voter registration system.
+598 c. A return form that requires the registered voter to
+599 admit or deny the accuracy of the information underlying the
+600 potential ineligibility for purposes of a final determination by
+Page 24 of 74
+CODING: Words stricken are deletions; words underlined are additions.
+hb991-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 991 2026
+601 the supervisor.
+602 d. A statement that, if the voter is denying the accuracy
+603 of the information underlying the potential ineligibility, the
+604 voter has a right to request a hearing for the purpose of
+605 determining eligibility.
+606 e. Instructions for the registered voter to contact the
+607 supervisor of elections of the county in which the voter is
+608 registered if assistance is needed in resolving the matter.
+609 f. Instructions for seeking restoration of civil rights
+610 pursuant to s. 8, Art. IV of the State Constitution and
+611 information explaining voting rights restoration pursuant to s.
+612 4, Art. VI of the State Constitution following a felony
+613 conviction, if applicable.
+614 g. The following statement: "If you attempt to vote at an
+615 early voting site or your normal election day polling place, you
+616 will be required to vote a provisional ballot. If you vote by
+617 mail, your ballot will be treated as a provisional ballot. In
+618 either case, your ballot may not be counted until a final
+619 determination of eligibility is made. If you wish for your
+620 ballot to be counted, you must contact the supervisor of
+621 elections office within 2 days after the election and present
+622 evidence that you are eligible to vote."
+623 2. If the mailed notice is returned as undeliverable, the
+624 supervisor must, within 14 days after receiving the returned
+625 notice, either publish notice once in a newspaper of general
+Page 25 of 74
+CODING: Words stricken are deletions; words underlined are additions.
+hb991-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 991 2026
+626 circulation in the county in which the voter was last registered
+627 or publish notice on the county's website as provided in s.
+628 50.0311 or on the supervisor's website, as deemed appropriate by
+629 the supervisor. The notice must contain the following:
+630 a. The voter's name and address.
+631 b. A statement that the voter is potentially ineligible to
+632 be registered to vote.
+633 c. A statement that failure to respond within 30 days
+634 after the notice is published may result in a determination of
+635 ineligibility by the supervisor and removal of the registered
+636 voter's name from the statewide voter registration system.
+637 d. An instruction for the voter to contact the supervisor
+638 no later than 30 days after the date of the published notice to
+639 receive information regarding the basis for the potential
+640 ineligibility and the procedure to resolve the matter.
+641 e. An instruction to the voter that, if further assistance
+642 is needed, the voter should contact the supervisor of elections
+643 of the county in which the voter is registered.
+644 f. A statement that, if the voter denies the accuracy of
+645 the information underlying the potential ineligibility, the
+646 voter has a right to request a hearing for the purpose of
+647 determining eligibility.
+648 g. The following statement: "If you attempt to vote at an
+649 early voting site or your normal election day polling place, you
+650 will be required to vote a provisional ballot. If you vote by
+Page 26 of 74
+CODING: Words stricken are deletions; words underlined are additions.
+hb991-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 991 2026
+651 mail, your ballot will be treated as a provisional ballot. In
+652 either case, your ballot may not be counted until a final
+653 determination of eligibility is made. If you wish for your
+654 ballot to be counted, you must contact the supervisor of
+655 elections office within 2 days after the election and present
+656 evidence that you are eligible to vote."
+657 3. If a registered voter fails to respond to a notice
+658 pursuant to subparagraph 1. or subparagraph 2., the supervisor
+659 must make a final determination of the voter's eligibility
+660 within 7 days after expiration of the voter's timeframe to
+661 respond. If the supervisor determines that the voter is
+662 ineligible, the supervisor must remove the name of the
+663 registered voter from the statewide voter registration system
+664 within 7 days. The supervisor shall notify the registered voter
+665 of the supervisor's determination and action.
+666 4. If a registered voter responds to the notice pursuant
+667 to subparagraph 1. or subparagraph 2. and admits the accuracy of
+668 the information underlying the potential ineligibility, the
+669 supervisor must, as soon as practicable, make a final
+670 determination of ineligibility and remove the voter's name from
+671 the statewide voter registration system. The supervisor shall
+672 notify the registered voter of the supervisor's determination
+673 and action.
+674 5. If a registered voter responds to the notice issued
+675 pursuant to subparagraph 1. or subparagraph 2. and denies the
+Page 27 of 74
+CODING: Words stricken are deletions; words underlined are additions.
+hb991-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 991 2026
+676 accuracy of the information underlying the potential
+677 ineligibility but does not request a hearing, the supervisor
+678 must review the evidence and make a determination of eligibility
+679 no later than 30 days after receiving the response from the
+680 voter. If the supervisor determines that the registered voter is
+681 ineligible, the supervisor must remove the voter's name from the
+682 statewide voter registration system upon such determination and
+683 notify the registered voter of the supervisor's determination
+684 and action and that the removed voter has a right to appeal a
+685 determination of ineligibility pursuant to s. 98.0755. If such
+686 registered voter requests a hearing, the supervisor must send
+687 notice to the registered voter to attend a hearing at a time and
+688 place specified in the notice. The supervisor shall schedule and
+689 issue notice for the hearing within 7 days after receiving the
+690 voter's request for a hearing and shall hold the hearing no
+691 later than 30 days after issuing the notice of the hearing. A
+692 voter may request an extension upon showing good cause by
+693 submitting an affidavit to the supervisor as to why he or she is
+694 unable to attend the scheduled hearing. Upon hearing all
+695 evidence presented at the hearing, the supervisor shall make a
+696 determination of eligibility within 7 days. If the supervisor
+697 determines that the registered voter is ineligible, the
+698 supervisor must remove the voter's name from the statewide voter
+699 registration system and notify the registered voter of the
+700 supervisor's determination and action and that the removed voter
+Page 28 of 74
+CODING: Words stricken are deletions; words underlined are additions.
+hb991-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 991 2026
+701 has a right to appeal a determination of ineligibility pursuant
+702 to s. 98.0755.
+703 (9)(8) CERTIFICATION.—
+704 (a) No later than July 31 and January 31 of each year, the
+705 supervisor shall certify to the department that the supervisor
+706 has conducted the activities required pursuant to this section
+707 during the first 6 months and the second 6 months of the year,
+708 respectively. The certification must include the number of
+709 persons to whom notices were sent pursuant to subsection (8)
+710 (7); the number of persons who responded to the notices; the
+711 number of notices returned as undeliverable; the number of
+712 notices published in the newspaper, on the county's website, or
+713 on the supervisor's website; the number of hearings conducted;
+714 and the number of persons removed from the statewide voter
+715 registration system and the reasons for such removals.
+716 Section 10. Effective July 1, 2026, subsection (9) of
+717 section 98.093, Florida Statutes, is amended, and paragraphs
+718 (d), (e), and (f) are added to subsection (8) of that section,
+719 to read:
+720 98.093 Duty of officials to furnish information relating
+721 to deceased persons, persons adjudicated mentally incapacitated,
+722 persons convicted of a felony, and persons who are not United
+723 States citizens.—
+724 (8) DEPARTMENT OF HIGHWAY SAFETY AND MOTOR VEHICLES.—The
+725 Department of Highway Safety and Motor Vehicles shall furnish
+Page 29 of 74
+CODING: Words stricken are deletions; words underlined are additions.
+hb991-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 991 2026
+726 weekly to the department the following information:
+727 (d) Information identifying those persons who during the
+728 preceding week presented evidence of United States citizenship
+729 upon being issued a new, renewed, or replacement Florida driver
+730 license or Florida identification card. The information must
+731 contain the person's name; address; date of birth; last four
+732 digits of his or her social security number, if applicable;
+733 Florida driver license number or Florida identification card
+734 number, if available; the type of documentary proof the person
+735 provided in support of his or her citizenship; and, if
+736 applicable, the person's alien registration number or other
+737 legal status identifier.
+738 (e) Information identifying a change in residence address
+739 on the Florida driver license or Florida identification card of
+740 any person who declined to register or update his or her voter's
+741 registration record under s. 97.057(2)(b)2. The information must
+742 contain the person's name; date of birth; sex; last four digits
+743 of his or her social security number, if available; and Florida
+744 driver license or Florida identification card number in order to
+745 identify a voter's registration record. The Department of State
+746 must report each such change to the appropriate supervisor of
+747 elections who must change the voter's registration records in
+748 accordance with s. 98.065(4).
+749 (f) Information identifying new, renewed, or replacement
+750 Florida driver license or Florida identification card numbers
+Page 30 of 74
+CODING: Words stricken are deletions; words underlined are additions.
+hb991-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 991 2026
+751 issued to persons who declined to register or update his or her
+752 voter's registration record under s. 97.057(2)(b)2. The
+753 information must contain the person's name; date of birth; last
+754 four digits of his or her social security number, if available;
+755 and the person's prior and current Florida driver license or
+756 Florida identification card number in order to identify a
+757 voter's registration record. The Department of State must report
+758 the prior and current Florida driver license or Florida
+759 identification card numbers to the appropriate supervisor of
+760 elections who must update the voter's registration records and
+761 provide notice of the change to the registered voter in the same
+762 manner as a change of address made in accordance with s.
+763 98.065(4).
+764 (9) CONSTRUCTION.—This section does not limit or restrict
+765 the supervisor in his or her duty to act upon direct receipt of,
+766 access to, or knowledge of official information from these and
+767 other governmental entities that identify a registered voter as
+768 potentially ineligible and to initiate removal of the name of
+769 the registered voter who is determined to be ineligible from the
+770 statewide voter registration system pursuant to s. 98.075(8) s.
+771 98.075(7).
+772 Section 11. Section 98.094, Florida Statutes, is created
+773 to read:
+774 98.094 Federal jury notice.—
+775 (1) The Division of Elections shall provide a list,
+Page 31 of 74
+CODING: Words stricken are deletions; words underlined are additions.
+hb991-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 991 2026
+776 monthly, of registered voters to federal courts for purposes of
+777 selecting jurors and the jury coordinator must provide the
+778 division notice regarding any ineligible or potentially
+779 ineligible voters.
+780 (2) The jury coordinator shall prepare or cause to be
+781 prepared a list of each person disqualified or potentially
+782 disqualified as a prospective juror from jury service because
+783 the person is not a United States citizen, was convicted of a
+784 felony, is deceased, is not a resident of this state, or is not
+785 a resident of the county in which such jury service is required.
+786 The list must be prepared and sent to the division according to
+787 the jury summons cycle used by the clerk of court. This section
+788 does not prevent the list from being sent more frequently. The
+789 list prepared by the jury coordinator may be provided by mail,
+790 e-mail, or other electronic means to the division.
+791 (3) The jury coordinator shall provide the division with
+792 all of the following information about each disqualified or
+793 potentially disqualified juror:
+794 (a) The full name of the juror.
+795 (b) Current and prior addresses, if any.
+796 (c) Telephone number, if available.
+797 (d) Date of birth.
+798 (e) The reason the prospective juror is disqualified.
+799 (4) The division shall provide the information received
+800 under subsection (3) to the appropriate supervisor of elections
+Page 32 of 74
+CODING: Words stricken are deletions; words underlined are additions.
+hb991-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 991 2026
+801 in the county of residence of the disqualified juror in order
+802 for the supervisor to initiate address list maintenance under s.
+803 98.065 or eligibility maintenance under s. 98.075(8), as
+804 applicable.
+805 Section 12. Subsection (1) of section 101.043, Florida
+806 Statutes, is amended to read:
+807 101.043 Identification required at polls.—
+808 (1)(a) The precinct register, as prescribed in s. 98.461,
+809 must shall be used at the polls for the purpose of identifying
+810 the elector at the polls before allowing him or her to vote. The
+811 clerk or inspector shall require each elector, upon entering the
+812 polling place, to present one of the following current and valid
+813 picture identifications:
+814 1. Florida driver license.
+815 2. Florida identification card issued by the Department of
+816 Highway Safety and Motor Vehicles.
+817 3. United States passport or passport card.
+818 4. Debit or credit card.
+819 4.5. United States uniformed services or Merchant Marine
+820 Military identification.
+821 6. Student identification.
+822 7. Retirement center identification.
+823 8. Neighborhood association identification.
+824 9. Public assistance identification.
+825 5.10. Veteran health identification card issued by the
+Page 33 of 74
+CODING: Words stricken are deletions; words underlined are additions.
+hb991-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 991 2026
+826 United States Department of Veterans Affairs.
+827 6.11. A license to carry a concealed weapon or firearm
+828 issued pursuant to s. 790.06.
+829 7.12. Any other Employee identification card issued by any
+830 branch, department, agency, or entity of the Federal Government,
+831 the state, a county, or a municipality.
+832 (b) If the picture identification does not contain the
+833 signature of the elector, an additional identification that
+834 provides the elector's signature is shall be required. The
+835 address appearing on the identification presented by the elector
+836 may not be used as the basis to challenge an elector's legal
+837 residence. The elector must shall sign his or her name in the
+838 space provided on the precinct register or on an electronic
+839 device provided for recording the elector's signature. The clerk
+840 or inspector shall compare the signature with that on the
+841 identification provided by the elector and enter his or her
+842 initials in the space provided on the precinct register or on an
+843 electronic device provided for that purpose and allow the
+844 elector to vote if the clerk or inspector is satisfied as to the
+845 identity of the elector.
+846 Section 13. Subsection (1) and paragraph (d) of subsection
+847 (6) of section 101.048, Florida Statutes, are amended to read:
+848 101.048 Provisional ballots.—
+849 (1) At all elections, a voter claiming to be properly
+850 registered in the state and eligible to vote at the precinct in
+Page 34 of 74
+CODING: Words stricken are deletions; words underlined are additions.
+hb991-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 991 2026
+851 the election but whose eligibility cannot be determined, a
+852 person whom an election official asserts is not eligible,
+853 including, but not limited to, a person to whom notice has been
+854 sent pursuant to s. 98.075(8) s. 98.075(7), but for whom a final
+855 determination of eligibility has not been made, and other
+856 persons specified in the code shall be entitled to vote a
+857 provisional ballot. Once voted, the provisional ballot must be
+858 placed in a secrecy envelope and thereafter sealed in a
+859 provisional ballot envelope. The provisional ballot must be
+860 deposited in a ballot box. All provisional ballots must remain
+861 sealed in their envelopes for return to the supervisor of
+862 elections. The department shall prescribe the form of the
+863 provisional ballot envelope. A person casting a provisional
+864 ballot has the right to present written evidence supporting his
+865 or her eligibility to vote to the supervisor of elections by not
+866 later than 5 p.m. on the second day following the election.
+867 (6)
+868 (d) Instructions must accompany the cure affidavit in
+869 substantially the following form:
+870 READ THESE INSTRUCTIONS CAREFULLY BEFORE COMPLETING THE
+871 AFFIDAVIT. FAILURE TO FOLLOW THESE INSTRUCTIONS MAY CAUSE YOUR
+872 BALLOT NOT TO COUNT.
+873 1. In order to cure the missing signature or the signature
+874 discrepancy on your Provisional Ballot Voter's Certificate and
+875 Affirmation, your affidavit should be completed and returned as
+Page 35 of 74
+CODING: Words stricken are deletions; words underlined are additions.
+hb991-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 991 2026
+876 soon as possible so that it can reach the supervisor of
+877 elections of the county in which your precinct is located no
+878 later than 5 p.m. on the 2nd day after the election.
+879 2. You must sign your name on the line above (Voter's
+880 Signature).
+881 3. You must make a copy of one of the following forms of
+882 identification:
+883 a. Tier 1 identification.—Current and valid identification
+884 that includes your name and photograph: Florida driver license;
+885 Florida identification card issued by the Department of Highway
+886 Safety and Motor Vehicles; United States passport or passport
+887 card; United States uniformed services or Merchant Marine; debit
+888 or credit card; military identification; student identification;
+889 retirement center identification; neighborhood association
+890 identification; public assistance identification; veteran health
+891 identification card issued by the United States Department of
+892 Veterans Affairs; Florida license to carry a concealed weapon or
+893 firearm; or any other employee identification card issued by any
+894 branch, department, agency, or entity of the Federal Government,
+895 the state, a county, or a municipality; or
+896 b. Tier 2 identification.—ONLY IF YOU DO NOT HAVE A TIER 1
+897 FORM OF IDENTIFICATION, identification that shows your name and
+898 current residence address: current utility bill; bank statement;
+899 government check; paycheck; or government document (excluding
+900 voter information card).
+Page 36 of 74
+CODING: Words stricken are deletions; words underlined are additions.
+hb991-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 991 2026
+901 4. Place the envelope bearing the affidavit into a mailing
+902 envelope addressed to the supervisor. Insert a copy of your
+903 identification in the mailing envelope. Mail (if time permits),
+904 deliver, or have delivered the completed affidavit along with
+905 the copy of your identification to your county supervisor of
+906 elections. Be sure there is sufficient postage if mailed and
+907 that the supervisor's address is correct. Remember, your
+908 information MUST reach your county supervisor of elections no
+909 later than 5 p.m. on the 2nd day following the election or your
+910 ballot will not count.
+911 5. Alternatively, you may fax or e-mail your completed
+912 affidavit and a copy of your identification to the supervisor of
+913 elections. If e-mailing, please provide these documents as
+914 attachments.
+915 6. Submitting a provisional ballot affidavit does not
+916 establish your eligibility to vote in this election or guarantee
+917 that your ballot will be counted. The county canvassing board
+918 determines your eligibility to vote through information provided
+919 on the Provisional Ballot Voter's Certificate and Affirmation,
+920 written evidence provided by you, including information in your
+921 cure affidavit along with any supporting identification, and any
+922 other evidence presented by the supervisor of elections or a
+923 challenger. You may still be required to present additional
+924 written evidence to support your eligibility to vote.
+925 Section 14. Subsection (1) of section 101.151, Florida
+Page 37 of 74
+CODING: Words stricken are deletions; words underlined are additions.
+hb991-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 991 2026
+926 Statutes, is amended to read:
+927 101.151 Specifications for ballots.—
+928 (1)(a) Marksense Ballots must shall be printed on paper of
+929 such thickness that the printing cannot be distinguished from
+930 the back and must shall meet the specifications of the voting
+931 system that will be used to tabulate the ballots.
+932 (b) Polling places and early voting sites may employ a
+933 ballot-on-demand production system to print individual marksense
+934 ballots, including provisional ballots, for eligible voters
+935 electors. Ballot-on-demand technology may be used to produce
+936 marksense vote-by-mail, early voting, and election-day ballots.
+937 Section 15. Subsection (4) of section 101.5606, Florida
+938 Statutes, is amended to read:
+939 101.5606 Requirements for approval of systems.—No
+940 electronic or electromechanical voting system shall be approved
+941 by the Department of State unless it is so constructed that:
+942 (4) For systems using marksense ballots, It accepts a
+943 rejected ballot pursuant to subsection (3) if a voter chooses to
+944 cast the ballot, but records no vote for any office that has
+945 been overvoted or undervoted.
+946 Section 16. Section 101.56075, Florida Statutes, is
+947 amended to read:
+948 101.56075 Voting methods.—For the purpose of designating
+949 ballot selections, all voting must be by official marksense
+950 ballot, using a pen or marker recommended by the voting system
+Page 38 of 74
+CODING: Words stricken are deletions; words underlined are additions.
+hb991-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 991 2026
+951 vendor. Persons with disabilities may vote using marking device
+952 or a voter interface device that produces a voter-verifiable
+953 paper output and meets the voter accessibility requirements for
+954 individuals with disabilities under s. 301 of the federal Help
+955 America Vote Act of 2002 and s. 101.56062.
+956 Section 17. Subsections (1), (2), and (3) of section
+957 101.5608, Florida Statutes, are amended to read:
+958 101.5608 Voting at the polls by electronic or
+959 electromechanical method; procedures.—
+960 (1) Each voter elector desiring to vote shall be
+961 identified to the clerk or inspector of the election as a duly
+962 qualified voter elector of such election and shall sign his or
+963 her name on the precinct register or other form or device
+964 provided by the supervisor. The inspector shall compare the
+965 signature with the signature on the identification provided by
+966 the voter elector. If the inspector is reasonably sure that the
+967 person is entitled to vote, the inspector shall provide the
+968 person with a ballot.
+969 (2) When an electronic or electromechanical voting system
+970 utilizes a ballot card or marksense ballot, the following
+971 procedures must shall be followed to vote:
+972 (a) After receiving a ballot from an inspector, the voter
+973 elector shall, without leaving the polling place, retire to a
+974 booth or compartment and mark the ballot. After marking his or
+975 her ballot, the voter elector shall place the ballot in a
+Page 39 of 74
+CODING: Words stricken are deletions; words underlined are additions.
+hb991-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 991 2026
+976 secrecy envelope so that the ballot will be deposited in the
+977 tabulator without exposing the voter's choices.
+978 (b) Any voter who spoils his or her ballot or makes an
+979 error may return the ballot to the election official and secure
+980 another ballot, except that in no case shall a voter be
+981 furnished more than three ballots. If the vote tabulation device
+982 has rejected a ballot, the ballot must shall be considered
+983 spoiled and a new ballot must shall be provided to the voter
+984 unless the voter chooses to cast the rejected ballot. The
+985 election official, without examining the original ballot, shall
+986 state the possible reasons for the rejection and shall provide
+987 instruction to the voter pursuant to s. 101.5611. A spoiled
+988 ballot must shall be preserved, without examination, in an
+989 envelope provided for that purpose. The stub must shall be
+990 removed from the ballot and placed in an envelope.
+991 (c) The supervisor of elections shall prepare for each
+992 polling place at least one ballot box to contain the ballots of
+993 a particular precinct, and each ballot box must shall be plainly
+994 marked with the name of the precinct for which it is intended.
+995 (3) The Department of State shall promulgate rules
+996 regarding voting procedures to be used when an electronic or
+997 electromechanical voting system is of a type which does not
+998 utilize a ballot card or marksense ballot.
+999 Section 18. Subsection (5) of section 101.5612, Florida
+1000 Statutes, is amended to read:
+Page 40 of 74
+CODING: Words stricken are deletions; words underlined are additions.
+hb991-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 991 2026
+1001 101.5612 Testing of tabulating equipment.—
+1002 (5) Any tests involving marksense ballots pursuant to this
+1003 section shall employ test ballots created by the supervisor of
+1004 elections using actual ballots that have been printed for the
+1005 election. If ballot-on-demand ballots will be used in the
+1006 election, the supervisor shall also create test ballots using
+1007 the ballot-on-demand technology that will be used to produce
+1008 ballots in the election, using the same paper stock as will be
+1009 used for ballots in the election.
+1010 Section 19. Section 101.591, Florida Statutes, is amended
+1011 to read:
+1012 101.591 Voting system automated independent vote
+1013 validation process; system approval; procedures audit.—
+1014 (1) Before Immediately following the certification of each
+1015 election, the county canvassing board or the local board
+1016 responsible for certifying the election shall conduct a manual
+1017 audit or an automated, independent vote validation audit of the
+1018 voting systems used in all randomly selected precincts.
+1019 (2)(a) A manual audit shall consist of a public manual
+1020 tally of the votes cast in one randomly selected race that
+1021 appears on the ballot. The tally sheet shall include election-
+1022 day, vote-by-mail, early voting, provisional, and overseas
+1023 ballots, in at least 1 percent but no more than 2 percent of the
+1024 precincts chosen at random by the county canvassing board or the
+1025 local board responsible for certifying the election. If 1
+Page 41 of 74
+CODING: Words stricken are deletions; words underlined are additions.
+hb991-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 991 2026
+1026 percent of the precincts is less than one entire precinct, the
+1027 audit shall be conducted using at least one precinct chosen at
+1028 random by the county canvassing board or the local board
+1029 responsible for certifying the election. Such precincts shall be
+1030 selected at a publicly noticed canvassing board meeting.
+1031 (2)(a)(b) An automated independent vote validation process
+1032 must audit shall consist of an a public automated verification
+1033 of the tally of the votes cast across every race that appears on
+1034 the ballot. The tally sheet must shall include all valid
+1035 election day, vote-by-mail, early voting, provisional, and
+1036 overseas ballots received by the start of the vote validation
+1037 process in all at least 20 percent of the precincts chosen at
+1038 random by the county canvassing board or the local board
+1039 responsible for certifying the election. Such precincts shall be
+1040 selected at a publicly noticed canvassing board meeting.
+1041 (b)(c) The division shall adopt rules for approval of an
+1042 automated independent vote validation process audit system which
+1043 provide that the process system, at a minimum, must be:
+1044 1. Completely independent of the primary voting system.
+1045 2. Fast enough to produce final vote validation audit
+1046 results within the timeframe prescribed in subsection (4).
+1047 3. Capable of demonstrating that the ballots of record
+1048 have been accurately adjudicated by the automated independent
+1049 vote validation process in agreement with the vote tabulation
+1050 system and is capable of allowing the canvassing board to
+Page 42 of 74
+CODING: Words stricken are deletions; words underlined are additions.
+hb991-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 991 2026
+1051 manually adjudicate ballots needing review. A canvassing board
+1052 is not precluded from reviewing a digital image of a ballot
+1053 corresponding to a physical paper ballot in conducting its
+1054 review audit system.
+1055 (3) The canvassing board shall publish post a notice of
+1056 the automated independent vote validation process audit,
+1057 including the date, time, and place such process will occur, on
+1058 the county website as provided in s. 50.0311, on the supervisor
+1059 of election's website, or once in one or more newspapers of
+1060 general circulation in the county in which the process will
+1061 occur. Such process must be open to the public, in four
+1062 conspicuous places in the county and on the home page of the
+1063 county supervisor of elections website.
+1064 (4) The automated independent vote validation process
+1065 audit must be completed and the results made public before the
+1066 certification of the election by each county canvassing board
+1067 and in accordance with s. 102.141 no later than 11:59 p.m. on
+1068 the 7th day following certification of the election by the
+1069 county canvassing board or the local board responsible for
+1070 certifying the election.
+1071 (5) By December 15 of each general election year, the
+1072 county canvassing board or the board responsible for certifying
+1073 the election shall provide a report with the results of the
+1074 automated independent vote validation process audit to the
+1075 Department of State in a standard format as prescribed by the
+Page 43 of 74
+CODING: Words stricken are deletions; words underlined are additions.
+hb991-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 991 2026
+1076 department under s. 101.5911. Each county's The report must be
+1077 consolidated into one report and included with the overvote and
+1078 undervote report required under s. 101.595(1). The report must,
+1079 at a minimum, shall contain all of, but is not limited to, the
+1080 following items:
+1081 (a) The overall agreement accuracy of the automated
+1082 independent vote validation process audit.
+1083 (b) A description of any problems or differences
+1084 discrepancies encountered during the automated independent vote
+1085 validation process.
+1086 (c) The likely cause of such problems or differences
+1087 discrepancies.
+1088 (d) Any recommended corrective action with respect to
+1089 avoiding or mitigating such circumstances in future elections.
+1090 (6) The department shall consolidate the county automated
+1091 independent vote validation results and include the results as
+1092 part of the post-general election report submitted to the
+1093 Governor, the President of the Senate, and the Speaker of the
+1094 House of Representatives by February 15 of each year following a
+1095 general election as required under ss. 101.595(3) and
+1096 102.141(11) If a manual recount is undertaken pursuant to s.
+1097 102.166, the canvassing board is not required to perform the
+1098 audit provided for in this section.
+1099 Section 20. Section 101.5911, Florida Statutes, is amended
+1100 to read:
+Page 44 of 74
+CODING: Words stricken are deletions; words underlined are additions.
+hb991-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 991 2026
+1101 101.5911 Rulemaking authority for automated independent
+1102 vote validation process approval; voting system audit
+1103 procedures.—Effective upon this act becoming a law, The
+1104 department of State shall adopt rules to implement the
+1105 provisions of s. 101.591, as amended by s. 8, chapter 2007-30,
+1106 Laws of Florida, which provides for the testing and approval of
+1107 an automated independent vote validation process, and prescribes
+1108 prescribe detailed automated independent vote validation audit
+1109 procedures for each voting system, which must shall be uniform
+1110 to the extent practicable, along with the standard form for
+1111 automated independent vote validation process audit reports.
+1112 Section 21. Subsections (1) and (3) of section 101.595,
+1113 Florida Statutes, are amended to read:
+1114 101.595 Analysis of overvotes and undervotes reports of
+1115 voting problems.—
+1116 (1) No later than December 15 of each general election
+1117 year, the supervisor of elections in each county shall report to
+1118 the Department of State the total number of overvotes and
+1119 undervotes in the "President and Vice President" or "Governor
+1120 and Lieutenant Governor" race that appears first on the ballot
+1121 or, if neither appears, the first race appearing on the ballot
+1122 pursuant to s. 101.151(2), along with the likely reasons for
+1123 such overvotes and undervotes and other information as may be
+1124 useful in evaluating the performance of the voting system and
+1125 identifying problems with ballot design and instructions which
+Page 45 of 74
+CODING: Words stricken are deletions; words underlined are additions.
+hb991-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 991 2026
+1126 may have contributed to voter confusion. This report must be
+1127 consolidated into one report with the automated independent vote
+1128 validation audit report required under s. 101.591(6) s.
+1129 101.591(5).
+1130 (3) The Department of State shall submit the overvote and
+1131 undervote analysis required under subsection (2) as part of the
+1132 post-general election report to the Governor, the President of
+1133 the Senate, and the Speaker of the House of Representatives by
+1134 February 15 of each year following a general election as
+1135 required under ss. 101.591(6) and 102.141(11).
+1136 Section 22. Paragraph (d) of subsection (4) of section
+1137 101.68, Florida Statutes, is amended to read:
+1138 101.68 Canvassing of vote-by-mail ballot.—
+1139 (4)
+1140 (d) Instructions must accompany the cure affidavit in
+1141 substantially the following form:
+1142 READ THESE INSTRUCTIONS CAREFULLY BEFORE COMPLETING THE
+1143 AFFIDAVIT. FAILURE TO FOLLOW THESE INSTRUCTIONS MAY CAUSE YOUR
+1144 BALLOT NOT TO COUNT.
+1145 1. In order to ensure that your vote-by-mail ballot will
+1146 be counted, your affidavit should be completed and returned as
+1147 soon as possible so that it can reach the supervisor of
+1148 elections of the county in which your precinct is located no
+1149 later than 5 p.m. on the 2nd day after the election.
+1150 2. You must sign your name on the line above (Voter's
+Page 46 of 74
+CODING: Words stricken are deletions; words underlined are additions.
+hb991-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 991 2026
+1151 Signature).
+1152 3. You must make a copy of one of the following forms of
+1153 identification:
+1154 a. Tier 1 identification.—Current and valid identification
+1155 that includes your name and photograph: Florida driver license;
+1156 Florida identification card issued by the Department of Highway
+1157 Safety and Motor Vehicles; United States passport or passport
+1158 card; United States uniformed services or Merchant Marine; debit
+1159 or credit card; military identification; student identification;
+1160 retirement center identification; neighborhood association
+1161 identification; public assistance identification; veteran health
+1162 identification card issued by the United States Department of
+1163 Veterans Affairs; a Florida license to carry a concealed weapon
+1164 or firearm; or any an employee identification card issued by any
+1165 branch, department, agency, or entity of the Federal Government,
+1166 the state, a county, or a municipality; or
+1167 b. Tier 2 identification.—ONLY IF YOU DO NOT HAVE A TIER 1
+1168 FORM OF IDENTIFICATION, identification that shows your name and
+1169 current residence address: current utility bill, bank statement,
+1170 government check, paycheck, or government document (excluding
+1171 voter information card).
+1172 4. Place the envelope bearing the affidavit into a mailing
+1173 envelope addressed to the supervisor. Insert a copy of your
+1174 identification in the mailing envelope. Mail (if time permits),
+1175 deliver, or have delivered the completed affidavit along with
+Page 47 of 74
+CODING: Words stricken are deletions; words underlined are additions.
+hb991-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 991 2026
+1176 the copy of your identification to your county supervisor of
+1177 elections. Be sure there is sufficient postage if mailed and
+1178 that the supervisor's address is correct. Remember, your
+1179 information MUST reach your county supervisor of elections no
+1180 later than 5 p.m. on the 2nd day after the election, or your
+1181 ballot will not count.
+1182 5. Alternatively, you may fax or e-mail your completed
+1183 affidavit and a copy of your identification to the supervisor of
+1184 elections. If e-mailing, please provide these documents as
+1185 attachments.
+1186 Section 23. Subsection (2) of section 101.6923, Florida
+1187 Statutes, is amended to read:
+1188 101.6923 Special vote-by-mail ballot instructions for
+1189 certain first-time voters.—
+1190 (2) A voter covered by this section must be provided with
+1191 printed instructions with his or her vote-by-mail ballot in
+1192 substantially the following form:
+1193 READ THESE INSTRUCTIONS CAREFULLY BEFORE MARKING YOUR BALLOT.
+1194 FAILURE TO FOLLOW THESE INSTRUCTIONS MAY CAUSE YOUR BALLOT NOT
+1195 TO COUNT.
+1196 1. In order to ensure that your vote-by-mail ballot will
+1197 be counted, it should be completed and returned as soon as
+1198 possible so that it can reach the supervisor of elections of the
+1199 county in which your precinct is located no later than 7 p.m. on
+1200 the date of the election. However, if you are an overseas voter
+Page 48 of 74
+CODING: Words stricken are deletions; words underlined are additions.
+hb991-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 991 2026
+1201 casting a ballot in a presidential preference primary or general
+1202 election, your vote-by-mail ballot must be postmarked or dated
+1203 no later than the date of the election and received by the
+1204 supervisor of elections of the county in which you are
+1205 registered to vote no later than 10 days after the date of the
+1206 election. Note that the later you return your ballot, the less
+1207 time you will have to cure signature deficiencies, which is
+1208 authorized until 5 p.m. local time on the 2nd day after the
+1209 election.
+1210 2. Mark your ballot in secret as instructed on the ballot.
+1211 You must mark your own ballot unless you are unable to do so
+1212 because of blindness, disability, or inability to read or write.
+1213 3. Mark only the number of candidates or issue choices for
+1214 a race as indicated on the ballot. If you are allowed to "Vote
+1215 for One" candidate and you vote for more than one, your vote in
+1216 that race will not be counted.
+1217 4. Place your marked ballot in the enclosed secrecy
+1218 envelope and seal the envelope.
+1219 5. Insert the secrecy envelope into the enclosed envelope
+1220 bearing the Voter's Certificate. Seal the envelope and
+1221 completely fill out the Voter's Certificate on the back of the
+1222 envelope.
+1223 a. You must sign your name on the line above (Voter's
+1224 Signature).
+1225 b. If you are an overseas voter, you must include the date
+Page 49 of 74
+CODING: Words stricken are deletions; words underlined are additions.
+hb991-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 991 2026
+1226 you signed the Voter's Certificate on the line above (Date) or
+1227 your ballot may not be counted.
+1228 c. A vote-by-mail ballot will be considered illegal and
+1229 will not be counted if the signature on the Voter's Certificate
+1230 does not match the signature on record. The signature on file at
+1231 the start of the canvass of the vote-by-mail ballots is the
+1232 signature that will be used to verify your signature on the
+1233 Voter's Certificate. If you need to update your signature for
+1234 this election, send your signature update on a voter
+1235 registration application to your supervisor of elections so that
+1236 it is received before your vote-by-mail ballot is received.
+1237 6. Unless you meet one of the exemptions in Item 7., you
+1238 must make a copy of one of the following forms of
+1239 identification:
+1240 a. Identification which must include your name and
+1241 photograph: United States passport or passport card; United
+1242 States uniformed services or Merchant Marine; debit or credit
+1243 card; military identification; student identification;
+1244 retirement center identification; neighborhood association
+1245 identification; public assistance identification; veteran health
+1246 identification card issued by the United States Department of
+1247 Veterans Affairs; a Florida license to carry a concealed weapon
+1248 or firearm; or any an employee identification card issued by any
+1249 branch, department, agency, or entity of the Federal Government,
+1250 the state, a county, or a municipality; or
+Page 50 of 74
+CODING: Words stricken are deletions; words underlined are additions.
+hb991-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 991 2026
+1251 b. Identification which shows your name and current
+1252 residence address: current utility bill, bank statement,
+1253 government check, paycheck, or government document (excluding
+1254 voter information card).
+1255 7. The identification requirements of Item 6. do not apply
+1256 if you meet one of the following requirements:
+1257 a. You are 65 years of age or older.
+1258 b. You have a temporary or permanent physical disability.
+1259 c. You are a member of a uniformed service on active duty
+1260 who, by reason of such active duty, will be absent from the
+1261 county on election day.
+1262 d. You are a member of the Merchant Marine who, by reason
+1263 of service in the Merchant Marine, will be absent from the
+1264 county on election day.
+1265 e. You are the spouse or dependent of a member referred to
+1266 in paragraph c. or paragraph d. who, by reason of the active
+1267 duty or service of the member, will be absent from the county on
+1268 election day.
+1269 f. You are currently residing outside the United States.
+1270 8. Place the envelope bearing the Voter's Certificate into
+1271 the mailing envelope addressed to the supervisor. Insert a copy
+1272 of your identification in the mailing envelope. DO NOT PUT YOUR
+1273 IDENTIFICATION INSIDE THE SECRECY ENVELOPE WITH THE BALLOT OR
+1274 INSIDE THE ENVELOPE WHICH BEARS THE VOTER'S CERTIFICATE OR YOUR
+1275 BALLOT WILL NOT COUNT.
+Page 51 of 74
+CODING: Words stricken are deletions; words underlined are additions.
+hb991-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 991 2026
+1276 9. Mail, deliver, or have delivered the completed mailing
+1277 envelope. Be sure there is sufficient postage if mailed.
+1278 10. FELONY NOTICE. It is a felony under Florida law to
+1279 accept any gift, payment, or gratuity in exchange for your vote
+1280 for a candidate. It is also a felony under Florida law to vote
+1281 in an election using a false identity or false address, or under
+1282 any other circumstances making your ballot false or fraudulent.
+1283 Section 24. Subsection (2) of section 102.111, Florida
+1284 Statutes, is amended to read:
+1285 102.111 Elections Canvassing Commission.—
+1286 (2) The Elections Canvassing Commission shall meet at 9 8
+1287 a.m. on the 9th day after a primary election and at 9 8 a.m. on
+1288 the 14th day after a general election to certify the returns of
+1289 the election for each federal, state, and multicounty office and
+1290 for each constitutional amendment. On days the Legislature
+1291 convenes for organizational session pursuant to s. 3(a), Art.
+1292 III of the State Constitution, such meeting will begin at 8 a.m.
+1293 If a member of a county canvassing board that was constituted
+1294 pursuant to s. 102.141 determines, within 5 days after the
+1295 certification by the Elections Canvassing Commission, that a
+1296 typographical error occurred in the official returns of the
+1297 county, the correction of which could result in a change in the
+1298 outcome of an election, the county canvassing board must certify
+1299 corrected returns to the Department of State within 24 hours,
+1300 and the Elections Canvassing Commission must correct and
+Page 52 of 74
+CODING: Words stricken are deletions; words underlined are additions.
+hb991-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 991 2026
+1301 recertify the election returns as soon as practicable.
+1302 Section 25. Subsections (3) through (11) of section
+1303 102.141, Florida Statutes, are amended to read:
+1304 102.141 County canvassing board; duties.—
+1305 (3) The canvass, except the canvass of absent electors'
+1306 returns and the canvass of provisional ballots, must shall be
+1307 made from the returns and certificates of the inspectors as
+1308 signed and filed by them with the supervisor, and the county
+1309 canvassing board may shall not change the number of votes cast
+1310 for a candidate, nominee, constitutional amendment, or other
+1311 measure submitted to the electorate of the county, respectively,
+1312 in any polling place, as shown by the returns. All returns must
+1313 shall be made to the board on or before 2 a.m. of the day
+1314 following any primary, general, or other election. If the
+1315 returns from any precinct are missing, if there are any
+1316 omissions on the returns from any precinct, or if there is an
+1317 obvious error on any such returns, the canvassing board must
+1318 shall order a retabulation of the returns from such precinct.
+1319 Before canvassing such returns, the canvassing board shall
+1320 examine the tabulation of the ballots cast in such precinct and
+1321 determine whether the returns correctly reflect the votes cast.
+1322 If there is a discrepancy between the returns and the tabulation
+1323 of the ballots cast, the tabulation of the ballots cast must
+1324 shall be presumed correct and such votes shall be canvassed
+1325 accordingly.
+Page 53 of 74
+CODING: Words stricken are deletions; words underlined are additions.
+hb991-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 991 2026
+1326 (4)(a) The supervisor of elections shall upload into the
+1327 county's election management system by 7 p.m. local time on the
+1328 day before the election the results of all early voting and
+1329 vote-by-mail ballots that have been canvassed and tabulated by
+1330 the end of the early voting period. Pursuant to ss. 101.5614(8),
+1331 101.657, and 101.68(2), the tabulation of votes cast or the
+1332 results of such uploads may not be made public before the close
+1333 of the polls on election day.
+1334 (b) The supervisor of elections, on behalf of the
+1335 canvassing board, shall report all early voting and all
+1336 tabulated vote-by-mail results to the Department of State within
+1337 30 minutes after the polls close. Thereafter, the canvassing
+1338 board shall report, with the exception of provisional ballot
+1339 results, updated precinct election results, which must be
+1340 uploaded to the department at least every 45 minutes until all
+1341 results are completely reported. The supervisor of elections
+1342 shall notify the department immediately of any circumstances
+1343 that do not permit periodic updates as required. Results must
+1344 shall be submitted in a format prescribed by the department.
+1345 (5)(a) The canvassing board shall submit on forms or in
+1346 formats provided by the division unofficial returns to the
+1347 Department of State for each federal, statewide, state, or
+1348 multicounty office or ballot measure no later than noon on the
+1349 third day after any primary election and no later than noon on
+1350 the fourth day after any general or other election. Such returns
+Page 54 of 74
+CODING: Words stricken are deletions; words underlined are additions.
+hb991-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 991 2026
+1351 must shall include the canvass of all ballots, including write-
+1352 in votes, as required by subsection (2).
+1353 (b) After unofficial results are reported, each county
+1354 must conduct an automated independent vote validation process,
+1355 in accordance with s. 101.591, to validate that the votes
+1356 processed through the vote tabulation system for a candidate for
+1357 any office, candidate for retention to a judicial office, or a
+1358 measure appearing on the ballot do not:
+1359 1. Have a discrepancy of more than one-half of a percent
+1360 when compared to the results of the automated independent vote
+1361 validation process; or
+1362 2. Result in a change in the outcome of the election.
+1363
+1364 The automated independent vote validation process must be
+1365 completed no later than noon on the 6th day after any primary
+1366 election and no later than noon on the 7th day after any general
+1367 or other election.
+1368 (c)(6) If the county canvassing board determines, after
+1369 the county conducts the automated independent vote validation
+1370 process in accordance with s. 101.591, and the comparison of the
+1371 results of the vote tabulation and the automated independent
+1372 vote validation process indicates that the unofficial returns
+1373 may contain a counting error in which the vote tabulation system
+1374 or the automated independent vote validation process failed to
+1375 count votes that were properly marked in accordance with the
+Page 55 of 74
+CODING: Words stricken are deletions; words underlined are additions.
+hb991-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 991 2026
+1376 instructions on the ballot, the county canvassing board shall:
+1377 1.(a) Correct the error and retabulate the affected
+1378 ballots with the vote tabulation system or the automated
+1379 independent vote validation process; or
+1380 2.(b) Request that the Department of State verify the
+1381 tabulation software of the affected system or process. When the
+1382 Department of State verifies such software, the department shall
+1383 compare the software used to tabulate the votes with the
+1384 software filed with the department pursuant to s. 101.5607 and
+1385 check the election parameters.
+1386 (6)(a)(7) If the comparison of the results of the vote
+1387 tabulation system and the automated independent vote validation
+1388 process reflects a difference as described in paragraph (5)(b),
+1389 the proper county election official under the oversight of the
+1390 county canvassing board must conduct a system validation review
+1391 using the images in the automated independent vote validation
+1392 process of the ballots in disagreement, which must include, but
+1393 is not limited to, a review of any clear overvotes or undervotes
+1394 that appear in the automated independent vote validation process
+1395 to adjudicate the voter's intent of such ballots before
+1396 certification of the county's official results. If the
+1397 unofficial returns reflect that a candidate for any office was
+1398 defeated or eliminated by one-half of a percent or less of the
+1399 votes cast for such office, that a candidate for retention to a
+1400 judicial office was retained or not retained by one-half of a
+Page 56 of 74
+CODING: Words stricken are deletions; words underlined are additions.
+hb991-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 991 2026
+1401 percent or less of the votes cast on the question of retention,
+1402 or that a measure appearing on the ballot was approved or
+1403 rejected by one-half of a percent or less of the votes cast on
+1404 such measure, a system validation review must recount shall be
+1405 ordered of the votes cast with respect to such office or
+1406 measure. The Secretary of State is responsible for ordering such
+1407 system validation reviews recounts in all federal, state, and
+1408 multicounty races. The county canvassing board or the local
+1409 board responsible for certifying the election is responsible for
+1410 ordering a system validation review under this subsection
+1411 recounts in all other races. A system validation review recount
+1412 need not be ordered with respect to the returns for any office,
+1413 however, if the candidate or candidates defeated or eliminated
+1414 from contention for such office by one-half of a percent or less
+1415 of the votes cast for such office request in writing that a
+1416 system validation review recount not be made.
+1417 (a) Each canvassing board responsible for conducting a
+1418 recount shall put each marksense ballot through automatic
+1419 tabulating equipment and determine whether the returns correctly
+1420 reflect the votes cast. If any marksense ballot is physically
+1421 damaged so that it cannot be properly counted by the automatic
+1422 tabulating equipment during the recount, a true duplicate shall
+1423 be made of the damaged ballot pursuant to the procedures in s.
+1424 101.5614(4). Immediately before the start of the recount, a test
+1425 of the tabulating equipment shall be conducted as provided in s.
+Page 57 of 74
+CODING: Words stricken are deletions; words underlined are additions.
+hb991-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 991 2026
+1426 101.5612. If the test indicates no error, the recount tabulation
+1427 of the ballots cast shall be presumed correct and such votes
+1428 shall be canvassed accordingly. If an error is detected, the
+1429 cause therefor shall be ascertained and corrected and the
+1430 recount repeated, as necessary. The canvassing board shall
+1431 immediately report the error, along with the cause of the error
+1432 and the corrective measures being taken, to the Department of
+1433 State. No later than 11 days after the election, the canvassing
+1434 board shall file a separate incident report with the Department
+1435 of State, detailing the resolution of the matter and identifying
+1436 any measures that will avoid a future recurrence of the error.
+1437 If the automatic tabulating equipment used in a recount is not
+1438 part of the voting system and the ballots have already been
+1439 processed through such equipment, the canvassing board is not
+1440 required to put each ballot through any automatic tabulating
+1441 equipment again.
+1442 (b) Each canvassing board responsible for conducting a
+1443 recount where touchscreen ballots were used shall examine the
+1444 counters on the precinct tabulators to ensure that the total of
+1445 the returns on the precinct tabulators equals the overall
+1446 election return. If there is a discrepancy between the overall
+1447 election return and the counters of the precinct tabulators, the
+1448 counters of the precinct tabulators shall be presumed correct
+1449 and such votes shall be canvassed accordingly.
+1450 (c) The canvassing board shall submit on forms or in
+Page 58 of 74
+CODING: Words stricken are deletions; words underlined are additions.
+hb991-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 991 2026
+1451 formats provided by the division a second set of unofficial
+1452 returns to the Department of State for each federal, statewide,
+1453 state, or multicounty office or ballot measure. The returns
+1454 shall be filed no later than 3 p.m. on the 5th day after any
+1455 primary election and no later than 3 p.m. on the 9th day after
+1456 any general election in which a recount was ordered by the
+1457 Secretary of State. If the canvassing board is unable to
+1458 complete the recount prescribed in this subsection by the
+1459 deadline, the second set of unofficial returns submitted by the
+1460 canvassing board shall be identical to the initial unofficial
+1461 returns and the submission shall also include a detailed
+1462 explanation of why it was unable to timely complete the recount.
+1463 However, the canvassing board shall complete the recount
+1464 prescribed in this subsection, along with any manual recount
+1465 prescribed in s. 102.166, and certify election returns in
+1466 accordance with the requirements of this chapter.
+1467 (d) The Department of State shall adopt detailed rules
+1468 prescribing additional recount procedures for each certified
+1469 voting system, which shall be uniform to the extent practicable.
+1470 (b)(8) The canvassing board may employ such clerical help
+1471 to assist with the work of the board as it deems necessary, with
+1472 at least one member of the board present at all times, until the
+1473 canvass of the returns is completed. The clerical help must
+1474 shall be paid from the same fund as inspectors and other
+1475 necessary election officials.
+Page 59 of 74
+CODING: Words stricken are deletions; words underlined are additions.
+hb991-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 991 2026
+1476 (c) The canvassing board shall publish notice of the
+1477 system validation review, including the date, time, and place
+1478 such review will occur, on the county website as provided in s.
+1479 50.0311, on the supervisor of elections' website, or once in one
+1480 or more newspapers of general circulation in the county in which
+1481 the review will occur. Such review is open to the public.
+1482 (d) The canvassing board shall submit on forms or in
+1483 formats provided by the division a vote validation report to the
+1484 department for each federal, state, or multicounty office or
+1485 ballot measure in accordance with paragraph (5)(b). If the
+1486 canvassing board is unable to complete the system validation
+1487 review by the deadline, the vote validation report submitted by
+1488 the canvassing board must be identical to the initial unofficial
+1489 returns and the submission must also include a detailed
+1490 explanation of the reason the board was unable to timely
+1491 complete the system validation review. However, the canvassing
+1492 board shall complete the system validation review prescribed in
+1493 this subsection, and certify official election returns, in
+1494 accordance with the requirements of this chapter.
+1495 (e) The department shall adopt detailed rules prescribing
+1496 additional system validation review procedures for each
+1497 certified voting system, which must be uniform to the extent
+1498 practicable.
+1499 (7)(9) Each member, substitute member, and alternate
+1500 member of the county canvassing board and all clerical help must
+Page 60 of 74
+CODING: Words stricken are deletions; words underlined are additions.
+hb991-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 991 2026
+1501 wear identification badges during any period in which the county
+1502 canvassing board is canvassing votes or engaging in other
+1503 official duties. The identification badges must should be worn
+1504 in a conspicuous and unobstructed area, and include the name of
+1505 the individual and his or her official position.
+1506 (8)(10)(a) The supervisor shall file a report with the
+1507 Division of Elections on the conduct of the election no later
+1508 than 20 business days after the Elections Canvassing Commission
+1509 certifies the election. The report must, at a minimum, describe
+1510 all of the following:
+1511 1. All equipment or software malfunctions at the precinct
+1512 level, at a counting location, or within computer and
+1513 telecommunications networks supporting a county location, or
+1514 issues encountered with any state approved election system,
+1515 including, but not limited to, vote tabulation systems and
+1516 automated independent vote validation processes, and the steps
+1517 that were taken to address the malfunctions.
+1518 2. All election definition errors that were discovered
+1519 after the logic and accuracy test, and the steps that were taken
+1520 to address the errors.
+1521 3. All ballot printing errors, vote-by-mail ballot mailing
+1522 errors, or ballot supply problems, and the steps that were taken
+1523 to address the errors or problems.
+1524 4. All staffing shortages or procedural violations by
+1525 employees or precinct workers which were addressed by the
+Page 61 of 74
+CODING: Words stricken are deletions; words underlined are additions.
+hb991-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 991 2026
+1526 supervisor of elections or the county canvassing board during
+1527 the conduct of the election, and the steps that were taken to
+1528 correct such issues.
+1529 5. All instances where needs for staffing or equipment
+1530 were insufficient to meet the needs of the voters.
+1531 6. Any additional information regarding material issues or
+1532 problems associated with the conduct of the election.
+1533 (b) If a supervisor discovers new or additional
+1534 information on any of the items required to be included in the
+1535 report pursuant to paragraph (a) after the report is filed, the
+1536 supervisor must notify the division that new information has
+1537 been discovered no later than the next business day after the
+1538 discovery, and the supervisor must file an amended report signed
+1539 by the supervisor of elections on the conduct of the election
+1540 within 10 days after the discovery.
+1541 (c) Such reports must be maintained on file in the
+1542 Division of Elections and must be available for public
+1543 inspection.
+1544 (d) The division shall review the conduct of election
+1545 reports to determine what problems may be likely to occur in
+1546 other elections and disseminate such information, along with
+1547 possible solutions and training, to the supervisors of
+1548 elections.
+1549 (e) For the general election, the department shall submit
+1550 the analysis of these reports for the post-general general
+Page 62 of 74
+CODING: Words stricken are deletions; words underlined are additions.
+hb991-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 991 2026
+1551 election report as part of the consolidated reports required
+1552 under ss. 101.591 and 101.595 to the Governor, the President of
+1553 the Senate, and the Speaker of the House of Representatives by
+1554 February 15 of each year following a general election.
+1555 (11) The supervisor shall file with the department a copy
+1556 of or an export file from the results database of the county's
+1557 voting system and other statistical information as may be
+1558 required by the department, the Legislature, or the Election
+1559 Assistance Commission. The department shall adopt rules
+1560 establishing the required content and acceptable formats for the
+1561 filings and time for filings.
+1562 Section 26. Section 102.166, Florida Statutes, is amended
+1563 to read:
+1564 102.166 Manual review recounts of overvotes and undervotes
+1565 in contests.—
+1566 (1) If the vote tabulation system indicates and automated
+1567 independent vote validation process conducted under ss. 101.591
+1568 and 102.141 confirms second set of unofficial returns pursuant
+1569 to s. 102.141 indicates that a candidate for any office was
+1570 defeated or eliminated by one-quarter of a percent or less of
+1571 the votes cast for such office, that a candidate for retention
+1572 to a judicial office was retained or not retained by one-quarter
+1573 of a percent or less of the votes cast on the question of
+1574 retention, or that a measure appearing on the ballot was
+1575 approved or rejected by one-quarter of a percent or less of the
+Page 63 of 74
+CODING: Words stricken are deletions; words underlined are additions.
+hb991-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 991 2026
+1576 votes cast on such measure, a manual review recount of the
+1577 overvotes and undervotes cast in the entire geographic
+1578 jurisdiction of such office or ballot measure must shall be
+1579 ordered and conducted in a manner consistent with s. 102.141(6)
+1580 unless:
+1581 (a) The candidate or candidates defeated or eliminated
+1582 from contention by one-quarter of 1 percent or fewer of the
+1583 votes cast for such office request in writing that a manual
+1584 review recount not be made; or
+1585 (b) The number of overvotes and undervotes is fewer than
+1586 the number of votes needed to change the outcome of the
+1587 election.
+1588
+1589 The Secretary of State is responsible for ordering manual
+1590 reviews of all a manual recount for federal, state, and
+1591 multicounty races. The county canvassing board or local board
+1592 responsible for certifying the election is responsible for
+1593 ordering a manual review recount for all other races. A manual
+1594 review recount consists of a review by a designee of the
+1595 canvassing board recount of paper marksense ballots or of
+1596 digital images from an independent vote validation system, if
+1597 applicable of those ballots by a person.
+1598 (2) Any hardware or software used to identify and sort
+1599 overvotes and undervotes for a given race or ballot measure must
+1600 be certified by the Department of State. Any such hardware or
+Page 64 of 74
+CODING: Words stricken are deletions; words underlined are additions.
+hb991-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 991 2026
+1601 software must be capable of simultaneously identifying and
+1602 sorting overvotes and undervotes in multiple races while
+1603 simultaneously counting votes. Overvotes and undervotes must be
+1604 identified and sorted while conducting the automated independent
+1605 vote validation process recounting ballots pursuant to s.
+1606 102.141. Overvotes and undervotes must may be identified and
+1607 sorted physically or digitally.
+1608 (3) Any manual review must recount shall be open to the
+1609 public. Each political party may designate one person with
+1610 expertise in the computer field who must be allowed in the
+1611 central counting room when the manual review is being conducted
+1612 and when the official votes are being counted. The designee may
+1613 not interfere with the normal operation of the canvassing board.
+1614 (4)(a) A vote for a candidate or ballot measure must shall
+1615 be counted if there is a clear indication on the ballot that the
+1616 voter has made a definite choice.
+1617 (b) The Department of State shall adopt specific rules for
+1618 the federal write-in absentee ballot and for each certified
+1619 voting system prescribing what constitutes a "clear indication
+1620 on the ballot that the voter has made a definite choice." The
+1621 rules must shall be consistent, to the extent practicable, and
+1622 may not:
+1623 1. Authorize the use of any electronic or
+1624 electromechanical reading device to review a hybrid voting
+1625 system ballot that is produced using a voter interface device
+Page 65 of 74
+CODING: Words stricken are deletions; words underlined are additions.
+hb991-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 991 2026
+1626 and that contains both machine-readable fields and machine-
+1627 printed text of the contest titles and voter selections, unless
+1628 the printed text is illegible;
+1629 2. Exclusively provide that the voter must properly mark
+1630 or designate his or her choice on the ballot; or
+1631 3. Contain a catch-all provision that fails to identify
+1632 specific standards, such as "any other mark or indication
+1633 clearly indicating that the voter has made a definite choice."
+1634 (c) The rule for the federal write-in absentee ballot must
+1635 address, at a minimum, the following issues:
+1636 1. The appropriate lines or spaces for designating a
+1637 candidate choice and, for state and local races, the office or
+1638 ballot measure to be voted, including the proximity of each to
+1639 the other and the effect of intervening blank lines.
+1640 2. The sufficiency of designating a candidate's first or
+1641 last name when no other candidate in the race has the same or a
+1642 similar name.
+1643 3. The sufficiency of designating a candidate's first or
+1644 last name when an opposing candidate has the same or a similar
+1645 name, notwithstanding generational suffixes and titles such as
+1646 "Jr.," "Sr.," or "III." The rule should contemplate the
+1647 sufficiency of additional first names and first initials, middle
+1648 names and middle initials, generational suffixes and titles,
+1649 nicknames, and, in general elections, the name or abbreviation
+1650 of a political party.
+Page 66 of 74
+CODING: Words stricken are deletions; words underlined are additions.
+hb991-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 991 2026
+1651 4. Candidate designations containing both a qualified
+1652 candidate's name and a political party, including those in which
+1653 the party designated is the candidate's party, is not the
+1654 candidate's party, has an opposing candidate in the race, or
+1655 does not have an opposing candidate in the race.
+1656 5. Situations where the abbreviation or name of a
+1657 candidate is the same as the abbreviation or name of a political
+1658 party to which the candidate does not belong, including those in
+1659 which the party designated has another candidate in the race or
+1660 does not have a candidate in the race.
+1661 6. The use of marks, symbols, or language, such as arrows,
+1662 quotation marks, or the word "same" or "ditto," to indicate that
+1663 the same political party designation applies to all listed
+1664 offices or the elector's approval or disapproval of all listed
+1665 ballot measures.
+1666 7. Situations in which an elector designates the name of a
+1667 qualified candidate for an incorrect office.
+1668 8. Situations in which an elector designates an otherwise
+1669 correct office name that includes an incorrect district number.
+1670 (5) Procedures for a manual review recount are as follows:
+1671 (a) The county canvassing board shall appoint as many
+1672 counting teams of at least two electors as is necessary to
+1673 manually review recount the ballots. A counting team must have,
+1674 when possible, members of at least two political parties. A
+1675 candidate involved in the race may shall not be a member of the
+Page 67 of 74
+CODING: Words stricken are deletions; words underlined are additions.
+hb991-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 991 2026
+1676 counting team.
+1677 (b) Each duplicate ballot prepared pursuant to s.
+1678 101.5614(4) or s. 102.141(6) must s. 102.141(7) shall be
+1679 compared with the original ballot to ensure the correctness of
+1680 the duplicate.
+1681 (c) If a counting team is unable to determine whether the
+1682 ballot contains a clear indication that the voter has made a
+1683 definite choice, the ballot must shall be presented to the
+1684 county canvassing board for a determination.
+1685 (d) The Department of State shall adopt detailed rules
+1686 prescribing additional review recount procedures for each
+1687 certified voting system which must shall be uniform to the
+1688 extent practicable. The rules must, at a minimum, shall address,
+1689 at a minimum, the following areas:
+1690 1. Security of ballots during the manual review recount
+1691 process.;
+1692 2. Time and place of manual reviews. recounts;
+1693 3. Public observance of manual reviews. recounts;
+1694 4. Objections to ballot determinations.;
+1695 5. Record of manual review recount proceedings.;
+1696 6. Procedures relating to candidate and petitioner
+1697 representatives.; and
+1698 7. Procedures relating to the certification and the use of
+1699 automatic tabulating equipment that is not part of a voting
+1700 system.
+Page 68 of 74
+CODING: Words stricken are deletions; words underlined are additions.
+hb991-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 991 2026
+1701 (6) Nothing in this section precludes a county canvassing
+1702 board or local board involved in the manual review recount from
+1703 comparing a digital image of a ballot to the corresponding
+1704 physical paper ballot during a manual review recount.
+1705 Section 27. Effective July 1, 2026, section 104.042,
+1706 Florida Statutes, is created to read:
+1707 104.042 Limitations on actions for election fraud.—A
+1708 prosecution for a felony violation under the Election Code must
+1709 be commenced within 5 years after the date the violation is
+1710 committed.
+1711 Section 28. Effective July 1, 2026, paragraphs (c) through
+1712 (f) are added to subsection (12) of section 106.08, Florida
+1713 Statutes, and paragraph (b) of the subsection is reenacted, to
+1714 read:
+1715 106.08 Contributions; limitations on.—
+1716 (12)
+1717 (b) A foreign national may not make or offer to make,
+1718 directly or indirectly, a contribution or expenditure in
+1719 connection with any election held in the state.
+1720 (c) A political party, a political committee, an
+1721 electioneering communications organization, or a candidate may
+1722 not knowingly and willfully accept or solicit, directly or
+1723 indirectly, a contribution from a foreign national in connection
+1724 with any election held in this state.
+1725 (d) A person, acting either alone or jointly with,
+Page 69 of 74
+CODING: Words stricken are deletions; words underlined are additions.
+hb991-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 991 2026
+1726 through, or on behalf of another person, who has knowingly and
+1727 willfully received a contribution from one or more foreign
+1728 nationals in an aggregate amount exceeding $100,000 over the
+1729 preceding 4 years, may not make a contribution or independent
+1730 expenditure:
+1731 1. To a political committee supporting or opposing an
+1732 issue in this state; or
+1733 2. In support or opposition of an issue in this state.
+1734 (e) A political committee supporting or opposing an issue
+1735 in this state may not knowingly and willfully accept
+1736 contributions from a person, acting either alone or jointly
+1737 with, through, or on behalf of another person, who has received
+1738 contributions from one or more foreign nationals in an aggregate
+1739 amount exceeding $100,000 over the preceding 4 years.
+1740 (f) A person or entity who violates this subsection
+1741 commits a felony of the third degree, punishable as provided in
+1742 s. 775.082, s. 775.083, or s. 775.084, and shall also be subject
+1743 to a civil penalty equal to three times the amount contributed.
+1744 Such penalty shall be paid into the General Revenue Fund. Any
+1745 penalty imposed against a person that is not an individual
+1746 jointly and severally attaches to the chair of the entity if the
+1747 entity does not pay the penalty within 30 days. The Florida
+1748 Election Commission shall be responsible for determining
+1749 violations, imposing civil penalties, and collecting any unpaid
+1750 civil penalties. The Florida Election Commission shall report
+Page 70 of 74
+CODING: Words stricken are deletions; words underlined are additions.
+hb991-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 991 2026
+1751 any violations of this subsection to the Office of Election
+1752 Crimes and Security to include in the department's report under
+1753 s. 97.022.
+1754 Section 29. Section 322.034, Florida Statutes, is created
+1755 to read:
+1756 322.034 Legal status designation on state-issued driver
+1757 licenses and identification cards.—
+1758 (1) By July 1, 2027, a Florida driver license or Florida
+1759 identification card issued to a qualified applicant who is a
+1760 United States citizen as last recorded in the system must
+1761 include the legal status of United States citizen on the license
+1762 or card at the time of issuance, renewal, or replacement.
+1763 (2) Notwithstanding this chapter, the department shall
+1764 issue, at no charge, a renewal or replacement license or card if
+1765 a licensee or cardholder timely updates his or her legal status
+1766 upon becoming a citizen of the United States as required in s.
+1767 322.19.
+1768 Section 30. Effective July 1, 2026, paragraph (d) of
+1769 subsection (8) of section 895.02, Florida Statutes, is amended
+1770 to read:
+1771 895.02 Definitions.—As used in ss. 895.01-895.08, the
+1772 term:
+1773 (8) "Racketeering activity" means to commit, to attempt to
+1774 commit, to conspire to commit, or to solicit, coerce, or
+1775 intimidate another person to commit:
+Page 71 of 74
+CODING: Words stricken are deletions; words underlined are additions.
+hb991-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 991 2026
+1776 (d) Any A violation of chapter 104 the Florida Election
+1777 Code relating to irregularities or fraud involving issue
+1778 petition activities.
+1779 Section 31. Subsections (5) and (6) of section 98.065,
+1780 Florida Statutes, are amended to read:
+1781 98.065 Registration list maintenance programs.—
+1782 (5) A notice may not be issued pursuant to this section
+1783 and a voter's name may not be removed from the statewide voter
+1784 registration system later than 90 days prior to the date of a
+1785 federal election. However, this section does not preclude the
+1786 correction of registration records based on information
+1787 submitted by the voter or removal of the name of a voter from
+1788 the statewide voter registration system at any time upon the
+1789 voter's written request, by reason of the voter's death, or upon
+1790 a determination of the voter's ineligibility as provided in s.
+1791 98.075(8) s. 98.075(7).
+1792 (6) The supervisor shall, at a minimum, conduct an annual
+1793 review of voter registration records to identify registration
+1794 records in which a voter is registered at an address that may
+1795 not be an address of legal residence for the voter. For those
+1796 registration records with such addresses that the supervisor has
+1797 reasonable belief are not legal residential addresses, the
+1798 supervisor shall initiate list maintenance activities pursuant
+1799 to s. 98.075(7) s. 98.075(6) and (8) (7).
+1800 Section 32. Section 98.0755, Florida Statutes, is amended
+Page 72 of 74
+CODING: Words stricken are deletions; words underlined are additions.
+hb991-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 991 2026
+1801 to read:
+1802 98.0755 Appeal of determination of ineligibility.—Appeal
+1803 of the supervisor's determination of ineligibility pursuant to
+1804 s. 98.075(8) s. 98.075(7) may be taken to the circuit court in
+1805 and for the county where the person was registered. Notice of
+1806 appeal must be filed within the time and in the manner provided
+1807 by the Florida Rules of Appellate Procedure and acts as
+1808 supersedeas. Trial in the circuit court is de novo and governed
+1809 by the rules of that court. Unless the person can show that his
+1810 or her name was erroneously or illegally removed from the
+1811 statewide voter registration system, or that he or she is
+1812 indigent, the person must bear the costs of the trial in the
+1813 circuit court. Otherwise, the cost of the appeal must be paid by
+1814 the supervisor of elections.
+1815 Section 33. Paragraph (b) of subsection (1) of section
+1816 101.67, Florida Statutes, is amended to read:
+1817 101.67 Safekeeping of mailed ballots; deadline for
+1818 receiving vote-by-mail ballots.—
+1819 (1)
+1820 (b) To the extent practicable, the supervisor of elections
+1821 shall segregate any vote-by-mail ballots received from a person
+1822 to whom notice has been sent pursuant to s. 98.075(8) s.
+1823 98.075(7), but for whom a final determination of eligibility has
+1824 not been made, and shall treat them as provisional ballots for
+1825 individual review by the county canvassing board. The supervisor
+Page 73 of 74
+CODING: Words stricken are deletions; words underlined are additions.
+hb991-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 991 2026
+1826 shall attempt to contact each voter whose ballot has been set
+1827 aside under this paragraph in the same manner as if the voter
+1828 had voted a provisional ballot under s. 101.048.
+1829 Section 34. Subsection (2) of section 104.16, Florida
+1830 Statutes, is amended to read:
+1831 104.16 Voting fraudulent ballot.—
+1832 (2) Subsection (1) does not apply to an elector to whom
+1833 notice has been sent pursuant to s. 98.075(8) s. 98.075(7) and
+1834 who votes a provisional ballot or vote-by-mail ballot before a
+1835 final determination of eligibility is made.
+1836
+1837 Section 35. Except as otherwise expressly provided in this
+1838 act and except for this section, which shall take effect July 1,
+1839 2026, this act shall take effect January 1, 2027.
+Page 74 of 74
+CODING: Words stricken are deletions; words underlined are additions.
+hb991-01-c1

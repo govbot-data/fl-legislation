@@ -1,0 +1,636 @@
+Title: 
+Official Title: 
+Source: versions - H 1471 c1
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 1471 2026
+1 A bill to be entitled
+2 An act relating to systems of law and terrorist
+3 organizations; providing legislative intent and
+4 findings; creating s. 2.05, F.S.; prohibiting the
+5 application of certain law in adjudicatory proceedings
+6 in a manner that violates a constitutional right;
+7 providing exceptions; amending s. 775.33, F.S.;
+8 defining the term "domestic terrorist organization";
+9 providing a person who knowingly provides or attempts
+10 or conspires to provide material support or resources
+11 to a domestic terrorist organization commits a
+12 specified crime; amending s. 775.34, F.S.; defining
+13 the term "domestic terrorist organization"; providing
+14 that a person who willfully becomes a member of a
+15 domestic terrorist organization and serves under the
+16 direction or control of such organization with a
+17 specified intent commits a specified crime; amending
+18 s. 874.03, F.S.; revising the definition of "terrorist
+19 organization" to include a domestic terrorist
+20 organization; creating s. 943.03102, F.S.; authorizing
+21 the Chief of Domestic Security to designate an
+22 organization a domestic terrorist organization or a
+23 foreign terrorist organization if certain requirements
+24 are met; requiring the Chief to maintain a list of
+25 such organizations; requiring the Chief to review each
+Page 1 of 21
+CODING: Words stricken are deletions; words underlined are additions.
+hb1471-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 1471 2026
+26 designation within a specified time period; requiring
+27 the Chief to provide specified written notice to the
+28 Cabinet within a certain time period before making the
+29 designation; requiring the Cabinet to approve by a
+30 majority vote the designation; requiring the Chief to
+31 publish such designation in the Florida Administrative
+32 Register within a specified time period after approval
+33 of the designation by the Cabinet; authorizing a
+34 designated organization to seek judicial review;
+35 authorizing the enhancement of penalties; providing
+36 for removal of such designation in certain
+37 circumstances; prohibiting state agencies, political
+38 subdivisions, and public school districts from
+39 expending certain public funds to support an
+40 organization designated a domestic terrorist
+41 organization or a foreign terrorist organization;
+42 requiring the Department of Law Enforcement to adopt
+43 rules; amending s. 1002.421, F.S.; revising
+44 eligibility and obligations of private schools that
+45 participate in the state school choice scholarship
+46 program; amending s. 1004.06, F.S.; prohibiting
+47 certain institutions from expending public funds to
+48 promote, support, or maintain programs or campus
+49 activities that advocate for domestic terrorist
+50 organizations or foreign terrorist organizations;
+Page 2 of 21
+CODING: Words stricken are deletions; words underlined are additions.
+hb1471-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 1471 2026
+51 authorizing the withholding of specified funding of
+52 certain institutions; amending s. 1006.61, F.S.;
+53 requiring public postsecondary educational
+54 institutions to report specified information of a
+55 student in certain circumstances; requiring immediate
+56 expulsion of such student from the institution;
+57 defining the terms "designated foreign terrorist
+58 organization" and "domestic terrorist organization";
+59 amending s. 1009.01, F.S.; defining the terms
+60 "domestic terrorist organization" and "foreign
+61 terrorist organization"; amending ss. 1009.23 and
+62 1009.24, F.S.; requiring that certain students of
+63 Florida College System institutions and state
+64 universities be immediately expelled and assessed out-
+65 of-state fees after a determination has been made such
+66 students have promoted a domestic terrorist
+67 organization or a foreign terrorist organization;
+68 amending s. 1009.26, F.S.; providing that certain
+69 students of school districts and Florida College
+70 System institutions are ineligible for specified fee
+71 waivers; creating s. 1009.8963, F.S.; prohibiting
+72 students who promote domestic terrorist organization
+73 or foreign terrorist organizations from being awarded
+74 certain public institution funds; providing an
+75 effective date.
+Page 3 of 21
+CODING: Words stricken are deletions; words underlined are additions.
+hb1471-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 1471 2026
+76
+77 WHEREAS, the Legislature finds that the United States and
+78 Florida Constitutions guarantee the free exercise of religion
+79 and that the United States and the State of Florida have a long
+80 and cherished history of protecting religious freedom; and
+81 WHEREAS, the right to the free exercise of religion is not
+82 absolute and cannot interfere with the peace and order of
+83 society or the security and rights of others; and
+84 WHEREAS, the United States Supreme Court has acknowledged
+85 that the United States Constitution does not prohibit public
+86 authorities from regulating conduct or actions, even if
+87 motivated by religion, that "have invariably posed some
+88 substantial threat to public safety, peace or order," Sherbert
+89 v. Verner, 374 U.S. 398, 403 (1963); and
+90 WHEREAS, Article I, section 3 of the Florida Constitution
+91 provides that "[r]eligious freedom shall not justify practices
+92 inconsistent with public morals, peace or safety"; and
+93 WHEREAS, the Legislature finds that certain practices
+94 inherent to Sharia law—such as non-consensual and child
+95 marriages, public stoning or lashings, physical warfare against
+96 non-Muslims, discriminatory treatment of women, and amputation
+97 of limbs for crimes such as theft—violate the fundamental rights
+98 of persons, undermine the peace and order of society, and are
+99 deeply incompatible with the United States and Florida
+100 Constitutions; and
+Page 4 of 21
+CODING: Words stricken are deletions; words underlined are additions.
+hb1471-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 1471 2026
+101 WHEREAS, the Legislature has determined that no public or
+102 private authority or tribunal in the State of Florida should
+103 enforce any religious practice, including any practice of Sharia
+104 law, that violates constitutional rights, NOW, THEREFORE,
+105
+106 Be It Enacted by the Legislature of the State of Florida:
+107
+108 Section 1. Section 2.05, Florida Statutes, is created to
+109 read:
+110 2.05 Application of religious or foreign law.—
+111 (1) For purposes of this section, the term:
+112 (a) "Religious law" means a legal code or formal system of
+113 law that is associated with a religion and is based on the
+114 sacred texts or traditions of such religion. The term includes
+115 Sharia law.
+116 (b) "Foreign law" means a legal code or formal system of
+117 law of a foreign country or nation, or of an international
+118 organization.
+119 (2) Notwithstanding subsection (1), the terms "religious
+120 law" and "foreign law" do not include the following:
+121 (a) The natural law or natural rights, as such law or
+122 rights are understood within the legal tradition of the United
+123 States or this state.
+124 (b) A provision of the United States Constitution or a
+125 constitution of one of the several states.
+Page 5 of 21
+CODING: Words stricken are deletions; words underlined are additions.
+hb1471-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 1471 2026
+126 (c) A provision of domestic federal or state law.
+127 (d) The common law, including the common law as described
+128 in s. 2.01.
+129 (e) A provision of law of a Native American tribe within a
+130 state or territory of the United States.
+131 (3) A court, administrative law judge, hearing officer,
+132 agency, or arbitration panel or tribunal may not enforce a
+133 provision of religious law or foreign law against a person if
+134 such application would violate a constitutional right of such
+135 person under the United States Constitution or the Florida
+136 Constitution.
+137 (4) This section does not apply to adjudication of
+138 ecclesiastical matters of a religious organization, including
+139 the selection, appointment, discipline, or removal of clergy or
+140 interpretation of doctrine.
+141 Section 2. Subsections (1) and (3) of section 775.30,
+142 Florida Statutes, are amended to read:
+143 775.30 Terrorism; defined; penalties.—
+144 (1) As used in this chapter and the Florida Criminal Code,
+145 the term:
+146 (a) terms "Terrorism" or "terrorist activity" means mean
+147 an activity that:
+148 1.(a) Involves:
+149 a.1. A violent act or an act dangerous to human life which
+150 is a violation of the criminal laws of this state or of the
+Page 6 of 21
+CODING: Words stricken are deletions; words underlined are additions.
+hb1471-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 1471 2026
+151 United States; or
+152 b.2. A violation of s. 815.06; and
+153 2.(b) Is intended to:
+154 a.1. Intimidate, injure, or coerce a civilian population;
+155 b.2. Influence the policy of a government by intimidation
+156 or coercion; or
+157 c.3. Affect the conduct of government through destruction
+158 of property, assassination, murder, kidnapping, or aircraft
+159 piracy.
+160 (b) "Domestic terrorist organization" means an
+161 organization designated as a domestic terrorist organization by
+162 the Chief of Domestic Security under s. 943.03102.
+163 (3) A person who violates commits a violation of
+164 subsection (2) which results in death or serious bodily injury
+165 commits a life felony, punishable as provided in s. 775.082, s.
+166 775.083, or s. 775.084. As used in this subsection, the term
+167 "serious bodily injury" means an injury to a person which
+168 creates a substantial risk of death, serious personal
+169 disfigurement, or protracted loss or impairment of the function
+170 of a bodily member or an organ.
+171 Section 3. Paragraphs (c), (d), and (e) of subsection (1)
+172 of section 775.32, Florida Statutes, are redesignated as
+173 paragraphs (d), (e), and (f), respectively, subsections (2),
+174 (3), and (4) are amended, and paragraph (c) is added to
+175 subsection (1) of that section, to read:
+Page 7 of 21
+CODING: Words stricken are deletions; words underlined are additions.
+hb1471-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 1471 2026
+176 775.32 Use of military-type training provided by a
+177 designated foreign terrorist organizations organization.—
+178 (1) As used in this section, the term:
+179 (c) "Domestic terrorist organization" means an
+180 organization designated as a domestic terrorist organization by
+181 the Chief of Domestic Security under s. 943.03102.
+182 (2) A person who has received military-type training from
+183 a designated foreign terrorist organization or a domestic
+184 terrorist organization may not use, attempt to use, or conspire
+185 to use such military-type training with the intent to unlawfully
+186 harm another person or damage a critical infrastructure
+187 facility.
+188 (3) A person who violates commits a violation of
+189 subsection (2) commits a felony of the second degree, punishable
+190 as provided in s. 775.082, s. 775.083, or s. 775.084.
+191 (4) A person who violates commits a violation of
+192 subsection (2) which results in the death of, or serious bodily
+193 injury to, a person commits a felony of the first degree,
+194 punishable as provided in s. 775.082, s. 775.083, or s. 775.084.
+195 Section 4. Paragraphs (b), (c), (d), and (e) of subsection
+196 (1) of section 775.33, Florida Statutes, are redesignated as
+197 paragraphs (c), (d), (e), and (f), respectively, subsections (3)
+198 and (5) are amended, and paragraph (b) is added to subsection
+199 (1) of that section, to read:
+200 775.33 Providing material support or resources for
+Page 8 of 21
+CODING: Words stricken are deletions; words underlined are additions.
+hb1471-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 1471 2026
+201 terrorism or to terrorist organizations.—
+202 (1) As used in this section, the term:
+203 (b) "Domestic terrorist organization" means an
+204 organization designated as a domestic terrorist organization by
+205 the Chief of Domestic Security under s. 943.03102.
+206 (3) A person who knowingly provides material support or
+207 resources to a designated foreign terrorist organization or a
+208 domestic terrorist organization, or attempts or conspires to do
+209 so, commits a felony of the first degree, punishable as provided
+210 in s. 775.082, s. 775.083, or s. 775.084. To violate this
+211 subsection, a person must have knowledge that the organization
+212 is a designated foreign terrorist organization or a domestic
+213 terrorist organization, or that the organization has engaged in
+214 or engages in terrorism or terrorist activity.
+215 (5)(a) For purposes of prosecution under subsection (2) or
+216 subsection (3), a person is deemed to provide material support
+217 or resources by providing personnel if the person knowingly
+218 provides, attempts to provide, or conspires to provide himself
+219 or herself or another person to:
+220 1. Work under the direction and control of a designated
+221 foreign terrorist organization or a domestic terrorist
+222 organization, or a person engaged in, or intending to engage in,
+223 an act of terrorism; or
+224 2. Organize, manage, supervise, or otherwise direct the
+225 operations of a designated foreign terrorist organization or a
+Page 9 of 21
+CODING: Words stricken are deletions; words underlined are additions.
+hb1471-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 1471 2026
+226 domestic terrorist organization, or a person engaged in, or
+227 intending to engage in, an act of terrorism.
+228 (b) An individual who acts entirely independently of the
+229 designated foreign terrorist organization or a domestic
+230 terrorist organization, or the person engaged in, or intending
+231 to engage in, an act of terrorism to advance the organization's
+232 or person's goals or objectives is not working under the
+233 direction and control of the designated foreign terrorist
+234 organization or domestic terrorist organization or person
+235 engaged in, or intending to engage in, an act of terrorism.
+236 Section 5. Section 775.34, Florida Statutes, is amended to
+237 read:
+238 775.34 Membership in a designated foreign terrorist
+239 organizations organization.—
+240 (1) As used in this section, the term:
+241 (a) "Designated foreign terrorist organization" has the
+242 same meaning as provided in s. 775.32.
+243 (b) "Domestic terrorist organization" has the same meaning
+244 as provided in s. 943.03102.
+245 (2) A person who willfully becomes a member of a
+246 designated foreign terrorist organization or a domestic
+247 terrorist organization and serves under the direction or control
+248 of that organization with the intent to further the illegal acts
+249 of the organization commits a felony of the second degree,
+250 punishable as provided in s. 775.082, s. 775.083, or s. 775.084.
+Page 10 of 21
+CODING: Words stricken are deletions; words underlined are additions.
+hb1471-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 1471 2026
+251 As used in this section, the term "designated foreign terrorist
+252 organization" has the same meaning as provided in s. 775.32.
+253 Section 6. Subsection (7) of section 874.03, Florida
+254 Statutes, is amended to read:
+255 874.03 Definitions.—As used in this chapter:
+256 (7) "Terrorist organization" means any organized group
+257 engaged in or organized for the purpose of engaging in terrorism
+258 as defined in s. 775.30. The term includes a domestic terrorist
+259 organization and a foreign terrorist organization, as designated
+260 by the Chief of Domestic Security under s. 943.03102. This
+261 definition does not shall not be construed to prevent
+262 prosecution under this chapter of individuals acting alone.
+263 Section 7. Section 943.03102, Florida Statutes, is created
+264 to read:
+265 943.03102 Designation of terrorist organizations.—
+266 (1)(a) In order to ensure the safety of this state, and
+267 the safety of the residents of this state, the Chief of Domestic
+268 Security may designate an organization:
+269 1. A domestic terrorist organization if the Chief of
+270 Domestic Security finds that the organization meets the
+271 following criteria:
+272 a. The organization is based or operates in this state or
+273 the United States.
+274 b. The organization is engaging in terrorist activities
+275 that:
+Page 11 of 21
+CODING: Words stricken are deletions; words underlined are additions.
+hb1471-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 1471 2026
+276 (I) Involve acts dangerous to human life that violate
+277 state or federal law; or
+278 (II) Are intended to:
+279 (A) Intimidate or coerce a civilian population;
+280 (B) Influence the policy of a government by intimidation
+281 or coercion; or
+282 (C) Affect the conduct of a government by mass
+283 destruction, assassination, or kidnapping.
+284 c. The terrorist activity of the organization is an
+285 ongoing threat to the security of this state or the United
+286 States.
+287 2. A foreign terrorist organization if the Chief of
+288 Domestic Security finds that the organization meets the
+289 following criteria:
+290 a. The organization is designated as a foreign terrorist
+291 organization by the United States Secretary of State pursuant to
+292 s. 219 of the Immigration and Nationality Act.
+293 b. The terrorist activity of the organization is an
+294 ongoing threat to the security of this state or the United
+295 States.
+296 (b) The Chief of Domestic Security must maintain a list of
+297 organizations that he or she designates as domestic terrorist
+298 organizations or foreign terrorist organizations.
+299 (c) At least once every 5 years, the Chief of Domestic
+300 Security must review each designation made under paragraph (a)
+Page 12 of 21
+CODING: Words stricken are deletions; words underlined are additions.
+hb1471-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 1471 2026
+301 which labels an organization a domestic terrorist organization
+302 or a foreign terrorist organization.
+303 (2)(a) At least seven days before making a designation
+304 under subsection (1), the Chief of Domestic Security must
+305 provide written notice to the Cabinet of his or her intent to
+306 designate an organization as a domestic terrorist organization
+307 or a foreign terrorist organization, which notice must be
+308 accompanied by written findings regarding the basis for such
+309 designation.
+310 (b) Upon receipt of written notice made pursuant to
+311 paragraph (a), the Cabinet may, by a majority vote, approve or
+312 reject a designation made by the Chief of Domestic Security
+313 under subsection (1).
+314 (c) Within seven days after approval by the Cabinet of a
+315 designation made by the Chief of Domestic Security under
+316 subsection (1), the Chief of Domestic Security must publish the
+317 designation in the Florida Administrative Register.
+318 (d) Within 30 days after publication of a designation in
+319 the Florida Administrative Register, the organization designated
+320 as a domestic terrorist organization or a foreign terrorist
+321 organization, or any member of such organization, may challenge
+322 such designation in the circuit court of the Second Judicial
+323 Circuit in and for Leon County.
+324 (e) Any criminal penalties imposed against a terrorist
+325 organization may be enhanced as provided by law.
+Page 13 of 21
+CODING: Words stricken are deletions; words underlined are additions.
+hb1471-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 1471 2026
+326 (3)(a) An organization designated as a domestic terrorist
+327 organization or a foreign terrorist organization may petition
+328 the department, at any time, for the removal of such
+329 designation.
+330 (b) At any time, the Cabinet may remove, by a majority
+331 vote, a designation made by the Chief of Domestic Security under
+332 subsection (1).
+333 (4) A state agency, political subdivision, or public
+334 school district authorized to expend state-appropriated funds or
+335 levy ad valorem taxes may not expend such funds or taxes to
+336 support an organization, or a member of an organization,
+337 designated as a domestic terrorist organization or a foreign
+338 terrorist organization.
+339 (5) The department shall adopt rules to implement this
+340 section.
+341 Section 8. Paragraph (t) is added to subsection (1) of
+342 section 1002.421, Florida Statutes, to read:
+343 1002.421 State school choice scholarship program
+344 accountability and oversight.—
+345 (1) PRIVATE SCHOOL ELIGIBILITY AND OBLIGATIONS.—A private
+346 school participating in an educational scholarship program
+347 established pursuant to this chapter must be a private school as
+348 defined in s. 1002.01 in this state, be registered, and be in
+349 compliance with all requirements of this section in addition to
+350 private school requirements outlined in s. 1002.42, specific
+Page 14 of 21
+CODING: Words stricken are deletions; words underlined are additions.
+hb1471-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 1471 2026
+351 requirements identified within respective scholarship program
+352 laws, and other provisions of Florida law that apply to private
+353 schools, and must:
+354 (t) Prohibit:
+355 1. Employment of, or contracting with;
+356 2. Ownership or operation by; or
+357 3. Acceptance of funds from, a person or entity that is
+358 affiliated with or in any way controlled by:
+359 a. A designated foreign terrorist organization, as defined
+360 in s. 775.32(1), or a member of such organization;
+361 b. A criminal gang or a criminal gang member as defined in
+362 874.03;
+363 c. A terrorist organization as defined in 874.03;
+364 d. A transnational crime organization, as defined in s.
+365 874.03, or a member of such organization;
+366 e. A domestic terrorist organization as defined in 775.32;
+367 f. A person or entity that has:
+368 (I) Provided material support or resources, as defined in
+369 s. 775.33(1), to; or
+370 (II) Received such support or resources, from,
+371
+372 a designated foreign terrorist organization, as defined in s.
+373 775.32 or a criminal gang, terrorist organization, transnational
+374 crime organization, or domestic terrorist organization, as those
+375 terms are defined in s. 874.03; or
+Page 15 of 21
+CODING: Words stricken are deletions; words underlined are additions.
+hb1471-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 1471 2026
+376 f. A person or entity that has demonstrated a pattern or
+377 practice of supporting or advocating for terrorism as defined in
+378 s. 775.30(1).
+379
+380 The department shall suspend the payment of funds to a private
+381 school that knowingly fails to comply with this subsection, and
+382 shall prohibit the school from enrolling new scholarship
+383 students, for 1 fiscal year and until the school complies. If a
+384 private school fails to meet the requirements of this subsection
+385 or has consecutive years of material exceptions listed in the
+386 report required under paragraph (q), the commissioner may
+387 determine that the private school is ineligible to participate
+388 in a scholarship program.
+389 Section 9. Subsection (2) of section 1004.06, Florida
+390 Statutes, is amended to read:
+391 1004.06 Prohibited expenditures.—
+392 (2)(a) A Florida College System institution, state
+393 university, Florida College System institution direct-support
+394 organization, or state university direct-support organization
+395 may not expend any state or federal funds to promote, support,
+396 or maintain any programs or campus activities that:
+397 1.(a) Violate s. 1000.05; or
+398 2.(b) Advocate for diversity, equity, and inclusion, or
+399 promote or engage in political or social activism, as defined by
+400 rules of the State Board of Education and regulations of the
+Page 16 of 21
+CODING: Words stricken are deletions; words underlined are additions.
+hb1471-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 1471 2026
+401 Board of Governors; or
+402 3. Advocate for a domestic terrorist organization or a
+403 foreign terrorist organization, as designated by the Chief of
+404 Domestic Security in s. 943.03102.
+405 (b) The State Board of Education or the Board of
+406 Governors, as applicable, may withhold performance-based funding
+407 of a Florida College System institution or state university that
+408 violates paragraph (a).
+409 (c) Student fees to support student-led organizations are
+410 allowed permitted notwithstanding any speech or expressive
+411 activity by such organizations which would otherwise violate
+412 this subsection, provided that the public funds must be
+413 allocated to student-led organizations pursuant to written
+414 policies or regulations of each Florida College System
+415 institution or state university, as applicable. Use of
+416 institution facilities by student-led organizations is allowed
+417 permitted notwithstanding any speech or expressive activity by
+418 such organizations which would otherwise violate this
+419 subsection, provided that such use must be granted to student-
+420 led organizations pursuant to written policies or regulations of
+421 each Florida College System institution or state university, as
+422 applicable.
+423 Section 10. Subsection (3) is added to section 1006.61,
+424 Florida Statutes, to read:
+425 1006.61 Participation by students in disruptive
+Page 17 of 21
+CODING: Words stricken are deletions; words underlined are additions.
+hb1471-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 1471 2026
+426 activities, and promotion of foreign terrorist organizations, at
+427 public postsecondary educational institution; penalties.—
+428 (3)(a) Pursuant to 8 C.F.R. s. 214.3(g)(2), a public
+429 postsecondary educational institution must report information
+430 relating to the current status of a student who is attending the
+431 institution on a student visa if the student promotes a
+432 designated foreign terrorist organization or a domestic
+433 terrorist organization.
+434 (b) After a student of a state institution of higher
+435 learning has been determined to have promoted a designated
+436 foreign terrorist organization or a domestic terrorist
+437 organization, such student shall be immediately expelled from
+438 the institution.
+439 (c) As used in this subsection, the term "foreign
+440 terrorist organization" and "domestic terrorist organization"
+441 mean an organization so designated by the Chief of Domestic
+442 Security under s. 943.03102.
+443 Section 11. Section 1009.01, Florida Statutes, is amended
+444 to read:
+445 1009.01 Definitions.—The term:
+446 (1) "Domestic terrorist organization" means an
+447 organization so designated by the Chief of Domestic Security
+448 under s. 943.03102.
+449 (2) "Foreign terrorist organization" means an organization
+450 so designated by the Chief of Domestic Security under s.
+Page 18 of 21
+CODING: Words stricken are deletions; words underlined are additions.
+hb1471-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 1471 2026
+451 943.03102.
+452 (3) "Out-of-state fee" means the additional fee for
+453 instruction charged by a public postsecondary educational
+454 institution in this state, which fee is charged to a student who
+455 does not qualify for the in-state tuition rate pursuant to s.
+456 1009.21. A charge for any other purpose may not be included in
+457 this fee.
+458 (4)(1) "Tuition" means the basic fee charged to a student
+459 for instruction provided by a public postsecondary educational
+460 institution in this state. A charge for any other purpose may
+461 shall not be included in within this fee.
+462 (2) "Out-of-state fee" means the additional fee for
+463 instruction provided by a public postsecondary educational
+464 institution in this state, which fee is charged to a student who
+465 does not qualify for the in-state tuition rate pursuant to s.
+466 1009.21. A charge for any other purpose shall not be included
+467 within this fee.
+468 (5)(3) "Tuition differential" means the supplemental fee
+469 charged to a student by a public university in this state
+470 pursuant to s. 1009.24(16).
+471 Section 12. Subsection (22) of section 1009.23, Florida
+472 Statutes, is renumbered as subsection (23), and a new subsection
+473 (22) is added to that section, to read:
+474 1009.23 Florida College System institution student fees.—
+475 (22) A student who has been determined to have promoted a
+Page 19 of 21
+CODING: Words stricken are deletions; words underlined are additions.
+hb1471-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 1471 2026
+476 domestic terrorist organization or a foreign terrorist
+477 organization during any term of enrollment shall be immediately
+478 expelled from the institution and assessed the out-of-state fee
+479 established in subsection (3).
+480 Section 13. Subsection (22) is added to section 1009.24,
+481 Florida Statutes, to read:
+482 1009.24 State university student fees.—
+483 (22) A student who has been determined to have promoted a
+484 domestic terrorist organization or a foreign terrorist
+485 organization during any term of enrollment shall be immediately
+486 expelled from the institution and assessed the out-of-state fee
+487 established in subsection (4).
+488 Section 14. Subsection (22) is added to section 1009.26,
+489 Florida Statutes, to read:
+490 1009.26 Fee waivers.—
+491 (22) A student who promotes a domestic terrorist
+492 organization or a foreign terrorist organization during any term
+493 of enrollment is ineligible for any fee waiver under this
+494 section.
+495 Section 15. Section 1009.8963, Florida Statutes, is
+496 created to read:
+497 1009.8963 Prohibition on awarding of scholarships, grants,
+498 and other aid.—A student who promotes a domestic terrorist
+499 organization or a foreign terrorist organization during any term
+500 of enrollment may not be awarded any institutional or state
+Page 20 of 21
+CODING: Words stricken are deletions; words underlined are additions.
+hb1471-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 1471 2026
+501 grants, financial aid, scholarships, or tuition assistance under
+502 this chapter.
+503 Section 16. This act shall take effect July 1, 2026.
+Page 21 of 21
+CODING: Words stricken are deletions; words underlined are additions.
+hb1471-01-c1
