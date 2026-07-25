@@ -1,0 +1,435 @@
+Title: 
+Official Title: 
+Source: versions - H 1427 Filed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1427 2026
+1 A bill to be entitled
+2 An act relating to public safety; amending s. 365.171,
+3 F.S.; revising legislative intent relating to 911
+4 systems; requiring each county, and every public
+5 agency within such county, to provide specified 911,
+6 emergency call, and dispatch services from a
+7 centralized 911 call center operated by the county or
+8 a regional entity as decided by specified boards;
+9 requiring state funds for emergency services be
+10 redirected to each county that operates such centers;
+11 prohibiting certain counties from receiving state
+12 funds; requiring the board of county commissioners of
+13 each county to convene a specified board within a
+14 certain time period; providing membership requirements
+15 of such board; requiring the board to decide by a
+16 unanimous vote the entity for the county that will
+17 operate its centralized 911 call center and funding
+18 for such entity; prohibiting funding from exceeding a
+19 specified dollar amount; requiring a certain board of
+20 county commissioners to convene a specified board
+21 within a certain time period in order for the county
+22 to establish a regional centralized 911 call center;
+23 providing membership requirements of such board;
+24 requiring the responsibilities and requirements of the
+25 board to be identical to another board; requiring the
+Page 1 of 14
+CODING: Words stricken are deletions; words underlined are additions.
+hb1427-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1427 2026
+26 board to decide by a unanimous vote the entity for the
+27 region that will operate its centralized 911 call
+28 center and funding for such entity; prohibiting
+29 funding from exceeding a specified dollar amount
+30 unless agreed to by a specified vote of the board;
+31 requiring certain counties to convene a specified
+32 board for a specific purpose; providing
+33 responsibilities of specified boards following the
+34 establishment of a centralized 911 call center;
+35 providing membership composition of such boards;
+36 requiring an entity that operates a centralized 911
+37 call center to maintain its headquarters in a
+38 specified location for a specific purpose; authorizing
+39 the entity an alternate locations in certain
+40 circumstances; providing the sheriff shall be deemed
+41 the entity to provide 911, emergency call, and
+42 dispatch services in a county in certain
+43 circumstances; requiring all existing 911 operations
+44 within such county to be integrated under the sheriff
+45 and every public agency within such county to
+46 participate; requiring state funds to be redirected to
+47 the sheriff for a specified purpose; prohibiting
+48 certain expenditures from being included in the
+49 sheriff's budget; prohibiting entities from
+50 transferring certain emergency calls; requiring
+Page 2 of 14
+CODING: Words stricken are deletions; words underlined are additions.
+hb1427-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1427 2026
+51 entities to maintain interoperability with other
+52 emergency communications centers; requiring such
+53 entities to maintain certain cybersecurity standards;
+54 requiring vendors of certain systems to provide, at no
+55 additional cost, specified capabilities to 911 call
+56 centers; prohibiting such vendors from imposing any
+57 additional licensing or integration fee for any system
+58 that enables integration of systems used by 911 call
+59 centers; requiring every 911 call center and public
+60 safety answering point, and any related system, to be
+61 deemed critical infrastructure; providing definitions;
+62 requiring specified boards or the sheriff to make a
+63 certain certification in writing to the office by
+64 specified dates; providing a reporting requirement;
+65 providing penalties for noncompliance; providing an
+66 effective date.
+67
+68 Be It Enacted by the Legislature of the State of Florida:
+69
+70 Section 1. Subsections (2) and (4) of section 365.171,
+71 Florida Statutes, are amended to read:
+72 365.171 Emergency communications state plan.—
+73 (2) LEGISLATIVE INTENT.—It is the intent of the
+74 Legislature that the communications number "911" be the
+75 designated emergency communications number. A public safety
+Page 3 of 14
+CODING: Words stricken are deletions; words underlined are additions.
+hb1427-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1427 2026
+76 agency may not advertise or otherwise promote the use of any
+77 communications number for emergency response services other than
+78 "911." It is further the intent of the Legislature to implement
+79 and continually update a cohesive statewide emergency
+80 communications plan for enhanced 911 services which will provide
+81 citizens with rapid direct access to public safety agencies by
+82 accessing "911" with the objective of reducing the response time
+83 to situations requiring law enforcement, fire, medical, rescue,
+84 and other emergency services. It is further the intent of the
+85 Legislature to create a unified 911 system within each county or
+86 region to serve as a single point of contact for all emergency
+87 services in order to maximize efficiency of emergency services.
+88 It is further the intent of the Legislature to prohibit the
+89 transfer of calls between 911 call centers or other law
+90 enforcement, fire, or EMS dispatch centers in the same county,
+91 to maximize the efficiency of the statewide emergency
+92 communications plan for residents dialing "911" for emergency
+93 services. It is further the intent of the Legislature to
+94 maximize interoperability of public safety agencies within each
+95 county and statewide to maximize the efficiency of emergency
+96 communications for residents dialing "911" for emergency
+97 services. The goal of interoperability is to ensure that 911
+98 calls for emergency services, as well as communication and
+99 responses to catastrophic events, are connected directly so that
+100 critical information and resources across multiple disciplines
+Page 4 of 14
+CODING: Words stricken are deletions; words underlined are additions.
+hb1427-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1427 2026
+101 and agencies are coordinated.
+102 (4) STATE PLAN.—The office shall develop, maintain, and
+103 implement appropriate modifications for a statewide emergency
+104 communications plan. The plan shall provide for:
+105 (a) The public agency emergency communications
+106 requirements for each entity of local government in the state.
+107 (b) A system to meet specific local government
+108 requirements. Such system shall include law enforcement,
+109 firefighting, and emergency medical services and may include
+110 other emergency services such as poison control, suicide
+111 prevention, and emergency management services.
+112 (c) Identification of the mutual aid agreements necessary
+113 to obtain an effective emergency communications system.
+114 (d) A funding provision that identifies the cost necessary
+115 to implement the emergency communications system.
+116 (e)1.a. By January 1, 2029, each county, and every public
+117 agency within such county, shall provide 911, emergency call,
+118 and dispatch services from a unified 911 call center, operated
+119 by the county or a regional entity created by an interlocal
+120 agreement or other memorandum of agreement, decided by a
+121 unanimous vote of the Emergency Communication Center (ECC)
+122 Executive Board or the Regional Emergency Communication Center
+123 (RECC) Executive Board, as applicable, pursuant to this
+124 paragraph.
+125 b. Upon establishment of a unified 911 call center, all
+Page 5 of 14
+CODING: Words stricken are deletions; words underlined are additions.
+hb1427-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1427 2026
+126 state funds for emergency services shall be redirected to each
+127 county that operates the unified 911 call center. A county that
+128 provides or receives 911, emergency call, and dispatch services,
+129 but does not establish a unified 911 call center pursuant to
+130 this paragraph, may not receive state funds for emergency
+131 services.
+132 2.a. Within 90 days after July 1, 2026, in order for a
+133 county to establish a unified 911 call center pursuant to this
+134 paragraph, the board of county commissioners shall convene an
+135 ECC executive board. The chair of the board of county
+136 commissioners or his or her designee shall serve as the chair of
+137 the ECC executive board. The membership of the ECC executive
+138 board shall consist of the city manager or strong mayor, as
+139 applicable, of the largest municipality in each county by
+140 population size that provides law enforcement, fire, and EMS
+141 services, and each agency head that provides law enforcement,
+142 fire, and EMS services operating in the county as of July 1,
+143 2026.
+144 b. By January 1, 2027, the ECC executive board must decide
+145 by a unanimous vote, the entity for the county that will operate
+146 its unified 911 call center. Funding for such entity must also
+147 be decided by a unanimous vote of the ECC executive board and
+148 the funding shall be provided by the county and participating
+149 municipalities and agencies or any combination thereof. Any
+150 funding after the establishment of a unified 911 call center
+Page 6 of 14
+CODING: Words stricken are deletions; words underlined are additions.
+hb1427-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1427 2026
+151 required by this paragraph may not exceed any net increase in
+152 the annual purchasing power of the dollar, as reflected in the
+153 Consumer Price Index for All Urban Consumers, unless agreed to
+154 by a unanimous vote of the ECC executive board.
+155 3.a Within 90 days after July 1, 2026, in order for a
+156 county to establish a regional unified 911 call center pursuant
+157 to this paragraph, the board of county commissioners of the
+158 county with the largest population participating in the regional
+159 unified 911 call center shall convene an RECC executive board.
+160 The chair of the board of county commissioners or his or her
+161 designee shall serve as the chair of the RECC executive board.
+162 The membership of the RECC executive board shall consist of:
+163 (I) The chair of the board of county commissioners, or his
+164 or her designee, from each participating county.
+165 (II) The city manager or strong mayor, as applicable, of
+166 the largest municipality in each participating county by
+167 population size.
+168 (III) Every agency head within each participating county
+169 that provides law enforcement, fire, and EMS services operating
+170 in the participating counties as of July 1, 2026.
+171
+172 Notwithstanding membership requirements in this subparagraph,
+173 RECC executive board responsibilities and requirements shall
+174 mirror the ECC executive board responsibilities and requirements
+175 pursuant to this paragraph.
+Page 7 of 14
+CODING: Words stricken are deletions; words underlined are additions.
+hb1427-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1427 2026
+176 b. By January 1, 2027, the RECC executive board must
+177 decide by a unanimous vote, the entity for the region that will
+178 operate its unified 911 call center for the participating
+179 counties. Funding for such entity must also be decided by a
+180 unanimous vote of the RECC executive board and the funding shall
+181 be provided by the participating counties, municipalities,
+182 agencies, or any combination thereof. Any funding after the
+183 establishment of a unified 911 call center required by this
+184 paragraph may not exceed any net increase in the annual
+185 purchasing power of the dollar, as reflected in the Consumer
+186 Price Index for All Urban Consumers, unless agreed to by three-
+187 fourths vote of the RECC executive board.
+188 4. A county that has an established entity, as of July 1,
+189 2026, that provides law enforcement, fire, and EMS services to
+190 all government provided first responder agencies in the county
+191 shall convene an ECC executive board pursuant to subparagraph 2.
+192 to ensure that the requirements of this paragraph are met.
+193 5.a. Following the establishment of a unified 911 call
+194 center by a county pursuant to this paragraph, the ECC executive
+195 board shall serve as an advisor to the entity that operates the
+196 unified 911 call center. The ECC executive board may convene at
+197 a time and place as determined by the chair of the board.
+198 Membership of the ECC executive board shall consist of:
+199 (I) One member of the board of county commissioners or his
+200 or her designee.
+Page 8 of 14
+CODING: Words stricken are deletions; words underlined are additions.
+hb1427-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1427 2026
+201 (II) One representative from the county's city council, or
+202 his or her designee.
+203 (III) The sheriff or his or her designee.
+204 (IV) The police chief and the fire chief of the county.
+205
+206 Members may serve on a rotating basis within their respective
+207 category of representation as established by the implementing
+208 rules created by the ECC executive board.
+209 b. Following the establishment of a regional unified 911
+210 call center pursuant to this paragraph, the RECC executive board
+211 shall serve as an advisor to the entity that operates the
+212 regional unified 911 call center. The RECC executive board may
+213 convene at a time and place as determined by the chair of the
+214 board. Membership of the RECC executive board shall consist of:
+215 (I) One member of the board of county commissioners, or
+216 his or her designee, from each participating county.
+217 (II) One representative, or his or her designee, from the
+218 city council of each participating county.
+219 (III) The sheriff, or his or her designee, from each
+220 participating county.
+221 (IV) The police chief and the fire chief from each
+222 participating county.
+223
+224 Members may serve on a rotating basis within their respective
+225 category of representation as established by the implementing
+Page 9 of 14
+CODING: Words stricken are deletions; words underlined are additions.
+hb1427-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1427 2026
+226 rules created by the RECC executive board.
+227 6.a. An entity that operates a unified 911 call center
+228 shall maintain its headquarters in one location to serve as the
+229 primary public safety answering point (PSAP). However, an entity
+230 may maintain offices or answering points at various other
+231 locations throughout this state, as required and determined by a
+232 public agency. An entity shall designate an alternate center to
+233 the PSAP. Such center may only receive emergency calls when the
+234 PSAP is unable to receive emergency calls.
+235 b. An entity that operates a regional unified 911 call
+236 center shall maintain its headquarters in one location to serve
+237 as the PSAP, but may maintain offices or answering points at
+238 various locations, as required and determined by the public
+239 agencies. However, the entity must designate an alternate center
+240 to the PSAP. Such center may only receive emergency calls when
+241 the PSAP is unable to receive emergency calls.
+242 7.a. By January 1, 2027, if a county has not established
+243 the operation of a unified 911 call center pursuant to this
+244 paragraph, the sheriff of the county shall be deemed the entity
+245 to provide 911, emergency call, and dispatch services in the
+246 county. All existing 911 operations within a county shall be
+247 integrated under the sheriff to create a 911 call center, and
+248 every public agency within the county shall participate in the
+249 911 call center to provide such services.
+250 b. If the sheriff provides 911, emergency call, and
+Page 10 of 14
+CODING: Words stricken are deletions; words underlined are additions.
+hb1427-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1427 2026
+251 dispatch services, the state funds for emergency services shall
+252 be redirected to the sheriff for the sole purpose of operating
+253 the unified 911 call center and may not be distributed to the
+254 county. The county shall provide total funding for the 911 call
+255 center, as determined by the annual needs assessment and as
+256 requested by the sheriff, but the county does not have any right
+257 or control over the funds or equipment of the center.
+258 Expenditures for operating the 911 call center may not be
+259 included in the sheriff's budget under s. 30.49. Such
+260 expenditures shall be included in the county's budget in
+261 accordance with the provisions of chapter 129.
+262 8.a. An entity or regional entity that provides 911,
+263 emergency call, and dispatch services from a 911 call center may
+264 not transfer any emergency call received by the entity to any
+265 other PSAP or call center, unless at least one firefighting, law
+266 enforcement, ambulance, medical, or other emergency services
+267 professional, as applicable, has been dispatched in response to
+268 the emergency call received by the entity.
+269 b. This subparagraph does not prohibit the transfer of an
+270 emergency call to another PSAP or emergency communications
+271 center if the reported emergency occurs outside the
+272 jurisdictional boundaries of the local government where the
+273 headquarters of the 911 call center is located. In such cases,
+274 the emergency call shall be promptly transferred to the
+275 appropriate jurisdiction, consistent with established
+Page 11 of 14
+CODING: Words stricken are deletions; words underlined are additions.
+hb1427-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1427 2026
+276 interagency protocols and mutual-aid agreements.
+277 9.a. An entity or regional entity that provides 911,
+278 emergency call, and dispatch services from a 911 call center
+279 shall maintain interoperability with other emergency
+280 communications centers in this state. Such entities shall
+281 maintain proactive cybersecurity standards adopted by the
+282 National Institute of Standards and Technology, as outlined in
+283 the Task Force on Optimal Public Safety Answering Point
+284 Architecture Guidelines. Such entities shall include
+285 cryptographic inventory and ongoing cryptographic monitoring
+286 services, and incorporate behavioral-based, packet-level
+287 monitoring at all times from a Security Operations Center
+288 located in the United States.
+289 b. To aid in interoperability and public safety, a vendor
+290 of computer-aided dispatch systems and interoperable radio
+291 communications systems must provide, at no additional cost, the
+292 built-in capability to interface with different PASP CAD systems
+293 and other radio communications systems that, although not
+294 operated or maintained by the vendor, are used in this state by
+295 911 call centers. In addition, a vendor may not impose any
+296 additional licensing or integration fee for any system that
+297 enables integration of such systems, including, but not limited
+298 to, radio communications systems, CAD systems, cyber security
+299 systems, telephone communication systems, interoperability
+300 gateway systems, and Radio over Internet-Protocol (RoIP) gateway
+Page 12 of 14
+CODING: Words stricken are deletions; words underlined are additions.
+hb1427-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1427 2026
+301 systems, used in this state by a 911 call center.
+302 c. Every 911 call center and PSAP, and any related system,
+303 including, but not limited to, interoperability gateway systems
+304 and secure IP communications systems that enable cross-system
+305 radio communications, shall be deemed critical infrastructure in
+306 this state.
+307 d. As used in this subparagraph:
+308 (I) "Critical infrastructure" has the same meaning as in
+309 s. 119.0725(1).
+310 (II) "Interoperability" means the technical ability to
+311 communicate across disciplines and jurisdictions statewide.
+312 (III) "Interoperability gateway" system means a network
+313 device or platform that provides protocol translation, audio
+314 transcoding, routing, and talk-group management between
+315 otherwise incompatible radio systems, Voice over Internet
+316 Protocol (VoIP) systems, public safety LTE network systems,
+317 mission critical push-to-X services systems, satellite systems,
+318 and IP-based communications systems.
+319 (IV) "Radio over Internet Protocol (RoIP) Gateway" system
+320 means hardware or software that enables radio communications to
+321 be transmitted, received, patched, or controlled across IP
+322 networks.
+323 10.a. By January 1 2027, and by January 1, 2029, the chair
+324 of the ECC executive board, the chair of the RECC executive
+325 board, or the sheriff, as applicable, shall certify in writing
+Page 13 of 14
+CODING: Words stricken are deletions; words underlined are additions.
+hb1427-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1427 2026
+326 to the office that the county or each participating county, as
+327 applicable, has taken the required action to comply this
+328 paragraph and has established an entity or regional entity to
+329 provide 911, emergency call, and dispatch services.
+330 b. By January 30, 2027, and by January 1, 2029, the office
+331 shall submit a report to the Governor, the President of the
+332 Senate, and the Speaker of House of Representatives, describing
+333 the results of establishing 911 call centers in this state,
+334 identifying any county that has not established such a center in
+335 violation of this paragraph.
+336 11. A county that does not comply with this paragraph by
+337 January 1, 2029, shall have its emergency funding reduced by 25
+338 percent for each year the county does not comply.
+339
+340 The office shall be responsible for the implementation and
+341 coordination of such plan. The office shall adopt any necessary
+342 rules and schedules related to public agencies for implementing
+343 and coordinating the plan, pursuant to chapter 120.
+344 Section 2. This act shall take effect upon becoming a law.
+Page 14 of 14
+CODING: Words stricken are deletions; words underlined are additions.
+hb1427-00

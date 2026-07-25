@@ -1,0 +1,769 @@
+Title: 
+Official Title: 
+Source: versions - H 883 c1
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 883 2026
+1 A bill to be entitled
+2 An act relating to protected cell captive insurance
+3 companies; amending s. 628.901, F.S.; revising the
+4 definitions of the terms "captive insurance company"
+5 and "special purpose captive insurance company";
+6 defining terms; amending s. 628.905, F.S.; specifying
+7 that a protected cell captive insurance company may
+8 only insure certain risks; amending s. 628.907, F.S.;
+9 revising the unimpaired paid-in capital requirements
+10 for captive insurance companies; revising the
+11 unrestricted net asset requirements for captive
+12 insurance companies incorporated as nonprofit
+13 corporations; amending s. 628.908, F.S.; revising the
+14 unimpaired surplus requirements for captive insurance
+15 companies; amending s. 628.909, F.S.; revising
+16 applicability; creating s. 628.921, F.S.; authorizing
+17 one or more sponsors to form a protected cell captive
+18 insurance company; requiring protected cell captive
+19 insurance companies to be incorporated in a specified
+20 manner; requiring applicant protected cell captive
+21 insurance companies to file certain information with
+22 the Office of Insurance Regulation; authorizing
+23 protected cell captive insurance companies to
+24 establish and maintain certain protected cells,
+25 subject to certain approvals granted by the office;
+Page 1 of 25
+CODING: Words stricken are deletions; words underlined are additions.
+hb883-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 883 2026
+26 specifying conditions on protected cell establishment
+27 and maintenance; providing construction; specifying
+28 requirements regarding protected cells' assets and
+29 liabilities and their attribution; requiring protected
+30 cell captive insurance companies to file annual
+31 reports, as required by the office, and to notify the
+32 office when any protected cell is insolvent or unable
+33 to meet its obligations; requiring the office's
+34 approval before a participant contract may take
+35 effect; specifying requirements for any insurance
+36 business written by a protected cell captive insurance
+37 company and the security arrangements that must be
+38 established; authorizing the office to take certain
+39 actions in the event of an insolvency of a protected
+40 cell captive insurance company; requiring certain
+41 affidavits for owners of incorporated protected cells;
+42 authorizing the assets of two or more protected cells
+43 to be combined for a specified purpose; specifying
+44 that such combination may not be construed in a
+45 certain manner; authorizing the office to approve the
+46 use of certain methods for valuation of certain assets
+47 and liabilities and rating the risk attributable to a
+48 protected cell; requiring a receiver to manage the
+49 assets and liabilities of protected cell captive
+50 insurance companies under certain circumstances;
+Page 2 of 25
+CODING: Words stricken are deletions; words underlined are additions.
+hb883-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 883 2026
+51 prohibiting assets of protected cells from being used
+52 to pay certain expenses and claims; requiring that
+53 protected cell captive insurance companies' capital
+54 and surplus be available to pay certain expenses or
+55 claims; specifying requirements in actions brought by
+56 or against protected cell captive insurance companies;
+57 specifying that certain legal actions are deemed to be
+58 brought against the general account only; specifying
+59 that protected cells not named in an action are not
+60 deemed to be a party to the action and are entitled to
+61 dismissal under certain circumstances; prohibiting the
+62 assets of protected cells from being encumbered or
+63 seized under certain circumstances; specifying that
+64 protected cells do not have a duty to defend the
+65 rights and obligations or other protected cells;
+66 requiring protected cell captive insurance companies
+67 and protected cells to be afforded a certain status
+68 during discovery; specifying that nonparty protected
+69 cells have standing under certain circumstances;
+70 authorizing protected cells to be converted to any
+71 authorized form of captive insurance company;
+72 authorizing the office to issue a specified
+73 certificate of authority; requiring converting
+74 protected cells to file certain organizational
+75 documents; specifying requirements for such documents;
+Page 3 of 25
+CODING: Words stricken are deletions; words underlined are additions.
+hb883-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 883 2026
+76 specifying the formation date upon conversion;
+77 requiring converted protected cells to possess certain
+78 assets and liabilities; requiring the converting
+79 protected cell to submit amended organizational
+80 documents under certain circumstances; authorizing
+81 captive insurance companies to apply to the office for
+82 conversion to protected cell captive insurance
+83 companies; requiring captive insurance companies to be
+84 issued a revised certificate of authority under
+85 certain circumstances; specifying the effective date
+86 of such certificate; authorizing protected cells of a
+87 captive insurance company to disaffiliate and to
+88 affiliate with another protected cell captive
+89 insurance company under certain circumstances;
+90 authorizing the office to require changes to certain
+91 documents under certain circumstances; specifying the
+92 formation date of protected cells that affiliate with
+93 another protected cell captive insurance company;
+94 requiring such protected cells to maintain and carry
+95 over certain assets and liabilities; authorizing an
+96 individual protected cell to merge or otherwise
+97 combine assets and liabilities with another individual
+98 protected cell, subject to certain requirements;
+99 specifying that a hearing is not required for certain
+100 mergers; specifying the date of final conversion or
+Page 4 of 25
+CODING: Words stricken are deletions; words underlined are additions.
+hb883-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 883 2026
+101 disaffiliation of a protected cell for certain
+102 purposes; specifying that the prior entity and
+103 successor entities are responsible for certain tasks;
+104 providing an effective date.
+105
+106 Be It Enacted by the Legislature of the State of Florida:
+107
+108 Section 1. Present subsections (8) through (11), (12)
+109 through (14), and (15) of section 628.901, Florida Statutes, are
+110 redesignated as subsections (9) through (12), (19) through (21),
+111 and (23), respectively, new subsections (8) and (13) through
+112 (15) and subsections (16) through (18) and (22) are added to
+113 that section, and subsection (2) and present subsection (14) of
+114 that section are amended, to read:
+115 628.901 Definitions.—As used in this part, the term:
+116 (2) "Captive insurance company" means a domestic insurer
+117 established under this part. A captive insurance company
+118 includes a protected cell captive insurance company, pure
+119 captive insurance company, special purpose captive insurance
+120 company, or industrial insured captive insurance company formed
+121 and licensed under this part.
+122 (8) "General account" means all assets and liabilities of
+123 a protected cell captive insurance company not attributable to a
+124 protected cell.
+125 (13) "Participant" means a person or an entity, and any
+Page 5 of 25
+CODING: Words stricken are deletions; words underlined are additions.
+hb883-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 883 2026
+126 affiliate of such person or entity, which is insured by a
+127 protected cell captive insurance company, if the losses of the
+128 participant are limited through a participant contract.
+129 (14) "Participant contract" means a contract by which a
+130 protected cell captive insurance company insures the risks of a
+131 participant and limits the losses of each such participant to
+132 its pro rata share of the assets of one or more protected cells
+133 identified in such contract.
+134 (15) "Protected cell" means a separate account established
+135 by a protected cell captive insurance company formed or licensed
+136 under this part, in which account an identified pool of assets
+137 and liabilities is segregated and insulated by means of this
+138 part from the remainder of the protected cell captive insurance
+139 company's assets and liabilities in accordance with the terms of
+140 one or more participant contracts to fund the liabilities of the
+141 protected cell captive insurance company with respect to the
+142 participants as set forth in the participant contracts.
+143 (16) "Protected cell assets" means all assets, contract
+144 rights, and general intangibles identified with and attributable
+145 to a specific protected cell of a protected cell captive
+146 insurance company.
+147 (17) "Protected cell captive insurance company" means a
+148 captive insurance company:
+149 (a) In which the minimum capital and surplus required by
+150 this part are provided by one or more sponsors;
+Page 6 of 25
+CODING: Words stricken are deletions; words underlined are additions.
+hb883-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 883 2026
+151 (b) That is formed or licensed under this part;
+152 (c) That insures the risks of separate participants
+153 through participant contracts; and
+154 (d) That funds its liability to each participant through
+155 one or more protected cells and segregates the assets of each
+156 protected cell from the assets of other protected cells and from
+157 the assets of the protected cell captive insurance company's
+158 general account.
+159 (18) "Protected cell liabilities" means all liabilities
+160 and other obligations identified with and attributed to a
+161 specific protected cell of a protected cell captive insurance
+162 company.
+163 (21)(14) "Special purpose captive insurance company" means
+164 a captive insurance company that is formed or licensed under
+165 this part which chapter that does not meet the definition of any
+166 other type of captive insurance company defined in this section.
+167 (22) "Sponsor" means any person or entity that is approved
+168 by the office to provide all or part of the capital and surplus
+169 required by this part and to organize and operate a protected
+170 cell captive insurance company.
+171 Section 2. Paragraph (f) is added to subsection (1) of
+172 section 628.905, Florida Statutes, to read:
+173 628.905 Licensing; authority.—
+174 (1) A captive insurance company, if permitted by its
+175 charter or articles of incorporation, may apply to the office
+Page 7 of 25
+CODING: Words stricken are deletions; words underlined are additions.
+hb883-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 883 2026
+176 for a license to do any and all insurance authorized under the
+177 insurance code, other than workers' compensation and employer's
+178 liability, life, health, personal motor vehicle, and personal
+179 residential property insurance, except that:
+180 (f) A protected cell captive insurance company may only
+181 insure the risks of its protected cell participants.
+182 Section 3. Subsections (1) and (2) of section 628.907,
+183 Florida Statutes, are amended to read:
+184 628.907 Minimum capital and net assets requirements;
+185 restriction on payment of dividends.—
+186 (1) A captive insurance company may not be issued a
+187 license unless it possesses and thereafter maintains the
+188 following applicable unimpaired paid-in capital requirements of:
+189 (a) In the case of a protected cell captive insurance
+190 company, at least $200,000.
+191 (b) In the case of a pure captive insurance company, at
+192 least $100,000.;
+193 (c)(b) In the case of an industrial insured captive
+194 insurance company incorporated as a stock insurer, at least
+195 $200,000.; and
+196 (d)(c) In the case of a special purpose captive insurance
+197 company, an amount determined by the office after giving due
+198 consideration to the company's business plan, feasibility study,
+199 and pro forma financial statements and projections, including
+200 the nature of the risks to be insured.
+Page 8 of 25
+CODING: Words stricken are deletions; words underlined are additions.
+hb883-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 883 2026
+201 (2) The office may not issue a license to a captive
+202 insurance company incorporated as a nonprofit corporation unless
+203 the company possesses and maintains the following applicable
+204 unrestricted net assets requirements of:
+205 (a) In the case of a protected cell captive insurance
+206 company, at least $250,000.
+207 (b) In the case of a pure captive insurance company, at
+208 least $250,000.
+209 (c)(b) In the case of a special purpose captive insurance
+210 company, an amount determined by the office after giving due
+211 consideration to the company's business plan, feasibility study,
+212 and pro forma financial statements and projections, including
+213 the nature of the risks to be insured.
+214 Section 4. Subsection (1) of section 628.908, Florida
+215 Statutes, is amended to read:
+216 628.908 Surplus requirements; restriction on payment of
+217 dividends.—
+218 (1) The office may not issue a license to a captive
+219 insurance company unless the company possesses and maintains the
+220 following applicable unimpaired surplus requirements of:
+221 (a) In the case of a pure captive insurance company, at
+222 least $150,000.
+223 (b) In the case of a protected cell captive insurance
+224 company, at least $150,000.
+225 (c) In the case of an industrial insured captive insurance
+Page 9 of 25
+CODING: Words stricken are deletions; words underlined are additions.
+hb883-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 883 2026
+226 company incorporated as a stock insurer, at least $300,000.
+227 (d)(c) In the case of an industrial insured captive
+228 insurance company incorporated as a mutual insurer, at least
+229 $500,000.
+230 (e)(d) In the case of a special purpose captive insurance
+231 company, an amount determined by the office after giving due
+232 consideration to the company's business plan, feasibility study,
+233 and pro forma financial statements and projections, including
+234 the nature of the risks to be insured.
+235 Section 5. Subsection (1) of section 628.909, Florida
+236 Statutes, is amended to read:
+237 628.909 Applicability of other laws.—
+238 (1) The Florida Insurance Code does not apply to captive
+239 insurance companies, protected cell captive insurance companies,
+240 or industrial insured captive insurance companies except as
+241 provided in this part and subsections (2) and (3).
+242 Section 6. Section 628.921, Florida Statutes, is created
+243 to read:
+244 628.921 Protected cell captive insurance companies.—
+245 (1) One or more sponsors may form a protected cell captive
+246 insurance company under this part.
+247 (2) A protected cell captive insurance company must be
+248 incorporated as a stock insurer with its capital divided into
+249 shares and held by the stockholders, as a mutual corporation, as
+250 a nonprofit corporation with one or more members, or as a
+Page 10 of 25
+CODING: Words stricken are deletions; words underlined are additions.
+hb883-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 883 2026
+251 limited liability company.
+252 (3) In addition to the information required by chapter
+253 624, each applicant protected cell captive insurance company
+254 must file all of the following information with the office:
+255 (a) Materials demonstrating how the applicant will account
+256 for the loss and expense experience of each protected cell at a
+257 level of detail found to be sufficient by the office, and how it
+258 will report such experience to the office.
+259 (b) A statement acknowledging that all financial records
+260 of the applicant, including records pertaining to any protected
+261 cells, must be made available for inspection or examination by
+262 the office or the office's designated agent.
+263 (c) All contracts or sample contracts between the
+264 applicant and any participants.
+265 (d) Evidence that expenses will be allocated to each
+266 protected cell in a fair and equitable manner.
+267 (4) A protected cell captive insurance company formed or
+268 licensed under this part may establish and maintain one or more
+269 incorporated or unincorporated protected cells, to insure risks
+270 of one or more participants, subject to all of the following
+271 conditions:
+272 (a)1. A protected cell captive insurance company may
+273 establish one or more protected cells if the office has approved
+274 in writing a plan of operation or amendments to a plan of
+275 operation submitted by the protected cell captive insurance
+Page 11 of 25
+CODING: Words stricken are deletions; words underlined are additions.
+hb883-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 883 2026
+276 company with respect to each protected cell. A plan of operation
+277 must include, but is not limited to, the specific business
+278 objectives and investment guidelines of the protected cell.
+279 However, the office may require additional information in the
+280 plan of operation. The office may make the approval of a plan of
+281 operation or amendments to a plan of operation effective as of
+282 any date on or before the date the approval is signed so long as
+283 the effective date is no earlier than the date on which the plan
+284 of operation or amendments to the plan of operation were filed
+285 with the office.
+286 2. Upon the office's written approval of the plan of
+287 operation, the protected cell captive insurance company, in
+288 accordance with the approved plan of operation, may attribute
+289 insurance obligations with respect to its insurance business to
+290 the protected cell.
+291 3. A protected cell must have its own distinct name or
+292 designation, which must include the words "protected cell" or
+293 "incorporated cell." Such names or designations may also be
+294 reasonably abbreviated, including, without limitation, PC or
+295 P.C. for "protected cell"; IC, I.C., IPC, or I.P.C. for
+296 "incorporated cell"; and SC, S.C., SPC, or S.P.C. for "series
+297 cell."
+298 4. The protected cell captive insurance company shall
+299 transfer all assets attributable to a protected cell to one or
+300 more separately established and identified protected cell
+Page 12 of 25
+CODING: Words stricken are deletions; words underlined are additions.
+hb883-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 883 2026
+301 accounts bearing the name or designation of that protected cell.
+302 Protected cell assets must be held in the protected cell
+303 accounts for the purpose of satisfying the obligations of that
+304 protected cell.
+305 5. An incorporated protected cell may be organized and
+306 operated in any form of business organization authorized by the
+307 office, including, but not limited to, an individual series of a
+308 limited liability company under chapter 605. Each incorporated
+309 protected cell of a protected cell captive insurance company
+310 must be treated as a captive insurer for purposes of this part
+311 and has the power to enter into contracts, including an
+312 individual series of a limited liability company. Unless
+313 otherwise permitted by the organizational documents of a
+314 protected cell captive insurance company, each incorporated
+315 protected cell of the protected cell captive insurance company
+316 must have the same directors, secretary, and registered office
+317 as the protected cell captive insurance company.
+318 6. All attributions of assets and liabilities between a
+319 protected cell and the general account must be in accordance
+320 with the plan of operation and participant contracts approved by
+321 the office. A protected cell captive insurance company may not
+322 make other attributions of assets or liabilities between the
+323 protected cell captive insurance company's general account and
+324 its protected cells. Any attribution of assets and liabilities
+325 between the general account and a protected cell must be in cash
+Page 13 of 25
+CODING: Words stricken are deletions; words underlined are additions.
+hb883-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 883 2026
+326 or in readily marketable securities with established market
+327 values.
+328 (b) The creation of a protected cell does not create, with
+329 respect to that protected cell, a legal person separate from the
+330 protected cell captive insurance company unless the protected
+331 cell is an incorporated cell. Amounts attributed to a protected
+332 cell under this part, including assets transferred to a
+333 protected cell account, are owned by the protected cell. A
+334 protected cell captive insurance company may not act as, or hold
+335 itself out to be, a trustee of the protected cell assets of the
+336 protected cell account. Notwithstanding this subsection, a
+337 protected cell captive insurance company may permit a security
+338 interest to attach to the assets of a protected cell assets or a
+339 protected cell account if the security interest is in favor of a
+340 creditor of that protected cell and is otherwise authorized by
+341 applicable law.
+342 (c) This subsection may not be construed to prohibit the
+343 protected cell captive insurance company from contracting with
+344 or arranging for an investment advisor, commodity trading
+345 advisor, or other third party to manage the protected cell
+346 assets of a protected cell if all remuneration, expenses, and
+347 other compensation of the third-party advisor or manager are
+348 payable from the protected cell assets of that protected cell
+349 and not from the protected cell assets of other protected cells
+350 or the assets of the protected cell captive insurance company's
+Page 14 of 25
+CODING: Words stricken are deletions; words underlined are additions.
+hb883-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 883 2026
+351 general account.
+352 (d)1. A protected cell captive insurance company must
+353 establish administrative and accounting procedures necessary to
+354 properly identify the one or more protected cells of the
+355 protected cell captive insurance company and the protected cell
+356 assets and protected cell liabilities attributable to the
+357 protected cells. The directors of a protected cell captive
+358 insurance company must keep protected cell assets and protected
+359 cell liabilities:
+360 a. Separate and separately identifiable from the assets
+361 and liabilities of the protected cell captive insurance
+362 company's general account; and
+363 b. Attributable to one protected cell separate and
+364 separately identifiable from protected cell assets and protected
+365 cell liabilities attributable to other protected cells.
+366 2. If subparagraph 1. is violated, the remedy of tracing
+367 applies to protected cell assets that have been commingled with
+368 the protected cell assets of other protected cells or with the
+369 assets of the protected cell captive insurance company's general
+370 account. The remedy of tracing may not be construed as
+371 exclusive.
+372 (e) When establishing a protected cell, the protected cell
+373 captive insurance company must attribute to the protected cell
+374 assets a value at least equal to the reserves and other
+375 insurance liabilities attributed to that protected cell.
+Page 15 of 25
+CODING: Words stricken are deletions; words underlined are additions.
+hb883-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 883 2026
+376 (f) Each protected cell must be accounted for separately
+377 on the books and records of the protected cell captive insurance
+378 company to reflect the financial condition and results of
+379 operations of such protected cell, net income or loss, dividends
+380 or other distributions to participants, and such other factors
+381 as may be provided in the participant contract or required by
+382 the office.
+383 (g) An asset of a protected cell may not be charged with,
+384 or otherwise made liable for, any liability arising out of
+385 insurance business conducted by the protected cell captive
+386 insurance company on behalf of any other protected cell or its
+387 general account.
+388 (h) A protected cell captive insurance company may not
+389 sell, exchange, or otherwise transfer assets between or among
+390 any of its protected cells without the consent of such protected
+391 cells.
+392 (i) A protected cell captive insurance company may not
+393 sell, exchange, transfer, or otherwise distribute assets, or pay
+394 any dividend or distribution, from a protected cell to the
+395 company or to a participant without the approval of the office.
+396 The office may not approve any sale, exchange, transfer,
+397 dividend, or distribution that would result in the insolvency or
+398 impairment of a protected cell.
+399 (j) All attributions of assets and liabilities to the
+400 protected cells and the general account must be in accordance
+Page 16 of 25
+CODING: Words stricken are deletions; words underlined are additions.
+hb883-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 883 2026
+401 with the plan of operation approved by the office. A protected
+402 cell captive insurance company may not attribute assets or
+403 liabilities between its general account and any protected cell,
+404 or between any protected cells. The protected cell captive
+405 insurance company must attribute all insurance obligations,
+406 assets, and liabilities relating to a reinsurance contract
+407 entered into with respect to a protected cell to such protected
+408 cell. The performance under such reinsurance contract and any
+409 tax benefits, losses, refunds, or credits allocated pursuant to
+410 a tax allocation agreement to which the protected cell captive
+411 insurance company is a party, including any payments made by or
+412 due to be made to the protected cell captive insurance company
+413 pursuant to the terms of such agreement, must reflect the
+414 insurance obligations, assets, and liabilities relating to the
+415 reinsurance contract which are attributed to such protected
+416 cell.
+417 (k) In connection with the rehabilitation or liquidation
+418 of a protected cell captive insurance company, the assets and
+419 liabilities of a protected cell must, to the extent the office
+420 determines they are separable, at all times be kept separate
+421 from, and may not be commingled with, those of other protected
+422 cells and the protected cell captive insurance company.
+423 (l) Each protected cell captive insurance company must
+424 annually file with the office such financial reports as required
+425 by the office. Any such financial report must include, without
+Page 17 of 25
+CODING: Words stricken are deletions; words underlined are additions.
+hb883-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 883 2026
+426 limitation, accounting statements detailing the financial
+427 experience of each protected cell.
+428 (m) Each protected cell captive insurance company must
+429 notify the office in writing within 10 business days of any
+430 protected cell that is insolvent or otherwise unable to meet its
+431 claim or expense obligations.
+432 (n) A participant contract may not take effect without the
+433 office's prior written approval. The addition of each new
+434 protected cell, the withdrawal of any participant, or the
+435 termination of any existing protected cell constitutes a change
+436 in the plan of operation requiring the office's prior written
+437 approval.
+438 (o) The business written by a protected cell captive
+439 insurance company, with respect to each protected cell, must be:
+440 1. Fronted by an insurance company licensed under the laws
+441 of any state;
+442 2. Reinsured by a reinsurer authorized or approved by this
+443 state; or
+444 3. Secured by a trust fund in the United States for the
+445 benefit of policyholders and claimants or funded by an
+446 irrevocable letter of credit or other arrangement that is
+447 acceptable to the office. The amount of security provided may
+448 not be less than the reserves associated with those liabilities
+449 which are neither fronted nor reinsured, including reserves for
+450 losses, allocated loss adjustment expenses, incurred but not
+Page 18 of 25
+CODING: Words stricken are deletions; words underlined are additions.
+hb883-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 883 2026
+451 reported losses, and unearned premiums for business written
+452 through the participant's protected cell. The office may require
+453 the protected cell captive insurance company to increase the
+454 funding of any security arrangement established under this
+455 paragraph. If the form of security is a letter of credit, the
+456 letter of credit must be issued or confirmed by a bank approved
+457 by the office. A trust maintained pursuant to this paragraph
+458 must be established in a form and upon such terms as approved by
+459 the office.
+460 (p) Notwithstanding this part or other laws of this state,
+461 and in addition to subsection (6), in the event of an insolvency
+462 of a protected cell captive insurance company where the office
+463 determines that one or more protected cells remain solvent, the
+464 office may separate such cells from the protected cell captive
+465 insurance company and may allow, on application of the protected
+466 cell captive insurance company, for the conversion of such
+467 protected cells into one or more new or existing protected cell
+468 captive insurance companies, or one or more other captive
+469 insurance companies, pursuant to such plan of operation as the
+470 office deems acceptable.
+471 (q) Biographical affidavits are not required for
+472 participants in unincorporated cells. However, biographical
+473 affidavits are required for owners of incorporated cells,
+474 including series members of a series limited liability company.
+475 (r) A protected cell captive insurance company formed or
+Page 19 of 25
+CODING: Words stricken are deletions; words underlined are additions.
+hb883-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 883 2026
+476 licensed under this part may establish and operate both
+477 unincorporated and incorporated protected cells.
+478 (5) Notwithstanding subsection (4), the assets of two or
+479 more protected cells may be combined for purposes of investment,
+480 and such combination may not be construed as defeating the
+481 segregation of such assets for accounting or other purposes.
+482 Notwithstanding any other provision of the insurance code, the
+483 office may approve the use of alternative reliable methods for
+484 the valuation of protected cell assets and liabilities and for
+485 the rating of risks attributable to a protected cell.
+486 (6) Upon any order of supervision, rehabilitation, or
+487 liquidation of a protected cell captive insurance company, the
+488 receiver shall manage the assets and liabilities of the
+489 protected cell captive insurance company pursuant to this part.
+490 (7)(a) Assets of a protected cell may not be used to pay
+491 any expenses or claims other than those attributable to such
+492 protected cell.
+493 (b) A protected cell captive insurance company's capital
+494 and surplus must at all times be available to pay any expenses
+495 of or claims against the protected cell captive insurance
+496 company.
+497 (8)(a) The pleadings in any legal action brought by or
+498 against a protected cell captive insurance company must specify
+499 which protected cell or cells are or should be named a party to
+500 the suit. If the general account is party to the suit, such
+Page 20 of 25
+CODING: Words stricken are deletions; words underlined are additions.
+hb883-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 883 2026
+501 account must be separately identified in the pleadings as if it
+502 were a protected cell.
+503 (b) A legal action brought against a protected cell
+504 captive insurance company which does not specify one or more
+505 protected cells shall be deemed to have been brought against the
+506 general account only.
+507 (c) Any protected cell that is not named in the pleadings
+508 of the legal action may not be deemed to be a party to the legal
+509 action. Any protected cell that is erroneously named as a party
+510 or named without proper cause is entitled to prompt dismissal
+511 from the legal action.
+512 (d) Unless specified by the plan of operation, participant
+513 contract, or other prior contractual agreement, the assets of
+514 one protected cell may not be encumbered or seized to satisfy
+515 the obligations of or a judgment against any other protected
+516 cell. A protected cell does not have a duty to defend the rights
+517 and obligations of any other protected cell.
+518 (e) In any legal action involving a protected cell captive
+519 insurance company or a protected cell, any papers, documents, or
+520 property of a nonparty protected cell must be afforded the same
+521 status during discovery as the documents or property of any
+522 other unrelated third party. A nonparty protected cell has
+523 standing to appear and petition for any appropriate relief to
+524 protect the confidentiality of its papers or documents.
+525 (9)(a)1. Upon the application of a protected cell captive
+Page 21 of 25
+CODING: Words stricken are deletions; words underlined are additions.
+hb883-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 883 2026
+526 insurance company, one of its protected cells may be converted
+527 to any form of captive insurance company authorized pursuant to
+528 this part with the consent of the office. Upon compliance with
+529 this part, the office may issue to the converting protected cell
+530 a certificate of authority with an effective date of its
+531 original date of formation as a protected cell.
+532 2. If the converting protected cell is a series of a
+533 limited liability company, the protected cell must file
+534 organizational documents with the Secretary of State which
+535 comply with this part. The organizational documents must include
+536 the date of formation as a series of a limited liability
+537 company. Upon conversion, the formation date of the series shall
+538 be deemed the formation date of the converted protected cell.
+539 The converted protected cell shall possess all assets and
+540 liabilities, including outstanding insurance liabilities, owned
+541 by the predecessor series.
+542 3. If the converting protected cell is any other type of
+543 incorporated protected cell entity, the converting protected
+544 cell must submit amended organizational documents to the
+545 Secretary of State which comply with this part.
+546 4. If the converting protected cell is neither a series of
+547 a limited liability company nor an incorporated protected cell,
+548 the protected cell must file organizational documents with the
+549 Secretary of State which comply with this part. The
+550 organizational documents must include the date of formation as a
+Page 22 of 25
+CODING: Words stricken are deletions; words underlined are additions.
+hb883-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 883 2026
+551 protected cell. Upon conversion, the formation date of the
+552 protected cell is the formation date of the converted protected
+553 cell. The converted protected cell shall possess all assets and
+554 liabilities, including outstanding insurance liabilities, owned
+555 by the predecessor cell.
+556 (b) A captive insurance company may apply to the office
+557 for conversion to become a protected cell captive insurance
+558 company under any form permitted under this part. Upon
+559 compliance with this part, approval by the office, and the
+560 filing of amended organizational documents with the Secretary of
+561 State, the captive insurance company must be issued a revised
+562 certificate of authority. The effective date of the revised
+563 protected cell captive insurance company's certificate of
+564 authority shall remain the same as the effective date of the
+565 prior captive insurance company.
+566 (c) With the consent of both the affected protected cell
+567 captive insurance companies and the office, an individual
+568 protected cell of a captive insurance company may disaffiliate
+569 from one protected cell captive insurance company and affiliate
+570 with another protected cell captive insurance company. The
+571 office may require the affected protected cell captive insurance
+572 companies and the individual protected cell to make necessary
+573 changes to their business plans, organizational documents,
+574 participation contracts, or other governing documents before
+575 approving the change in affiliation. The formation date of a
+Page 23 of 25
+CODING: Words stricken are deletions; words underlined are additions.
+hb883-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 883 2026
+576 protected cell that affiliates with another protected cell
+577 captive insurance company shall be the date of its original
+578 formation with the prior protected cell captive insurance
+579 company. A protected cell shall maintain and carry over all
+580 assets and liabilities, including outstanding insurance
+581 liabilities, to the new protected cell captive insurance
+582 company.
+583 (d) With the consent of the affected protected cell
+584 captive insurance company or companies, the owners or the
+585 participants of the protected cells, and the office, an
+586 individual protected cell of a captive insurance company may
+587 merge or otherwise combine assets and liabilities with another
+588 individual protected cell of a protected cell captive insurance
+589 company. The office may require the affected protected cell
+590 captive insurance companies and the individual protected cells
+591 to make necessary changes to their business plans,
+592 organizational documents, participation contracts, or other
+593 governing documents before approving the change in affiliation.
+594 The formation date of a protected cell that merges or otherwise
+595 combines assets and liabilities with another protected cell
+596 captive insurance company is the date of the original formation
+597 of the surviving protected cell. The surviving protected cell
+598 must acquire all of the assets and liabilities, including
+599 outstanding insurance liabilities, of the merging protected
+600 cell. A hearing is not required for mergers of protected cells
+Page 24 of 25
+CODING: Words stricken are deletions; words underlined are additions.
+hb883-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 883 2026
+601 effectuated under this section.
+602 (e) Solely for the purposes of annual reports,
+603 inspections, examinations, and taxation, the date of final
+604 conversion or disaffiliation of a protected cell shall be deemed
+605 a termination of that cell from the prior entity. The prior
+606 entity shall be responsible for the accounting, oversight, and
+607 premium tax on any transactions prior to the date of final
+608 conversion or disaffiliation. The successor entity shall be
+609 responsible for the accounting, oversight, and premium tax on
+610 any transactions on or after the date of final conversion or
+611 disaffiliation.
+612 Section 7. This act shall take effect July 1, 2026.
+Page 25 of 25
+CODING: Words stricken are deletions; words underlined are additions.
+hb883-01-c1

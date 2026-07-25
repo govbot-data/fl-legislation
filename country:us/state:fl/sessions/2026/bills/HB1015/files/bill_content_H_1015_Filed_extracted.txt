@@ -1,0 +1,1979 @@
+Title: 
+Official Title: 
+Source: versions - H 1015 Filed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1015 2026
+1 A bill to be entitled
+2 An act relating to insurance claims payments to health
+3 care providers; creating s. 627.4193, F.S.; providing
+4 definitions; prohibiting payment adjudicators from
+5 downcoding health care services under certain
+6 circumstances; providing exceptions; providing
+7 requirements for such exceptions; requiring health
+8 insurers to ensure that their downcoding policies are
+9 updated and to ensure compliance with specified
+10 provisions on downcoding; authorizing investigations
+11 and actions against noncompliance; providing certain
+12 presumption in favor of physicians' determination
+13 regarding patients' diagnoses and service orders;
+14 providing calculations of interests on health
+15 insurers' nonpayment and underpayment due to
+16 downcoding; providing causes of action for health care
+17 providers; amending s. 627.42392, F.S.; providing and
+18 revising definitions; requiring utilization review
+19 entities to establish electronic prior authorizations
+20 to accept prior authorization requests; providing
+21 requirements for such entities and for prior
+22 authorization processes; prohibiting such entities
+23 from implementing new requirements, restrictions, and
+24 changes; providing exceptions; providing reporting
+25 requirements; requiring the Office of Insurance
+Page 1 of 64
+CODING: Words stricken are deletions; words underlined are additions.
+hb1015-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1015 2026
+26 Regulation to publish a report based on such entities'
+27 reports; providing requirements for adverse
+28 determinations made by such entities on health care
+29 providers' claims; providing a timeframe for such
+30 entities' determination on claims; prohibiting prior
+31 authorization requirements under certain
+32 circumstances; prohibiting prior authorization
+33 revocations, limits, conditions, and restrictions
+34 under certain circumstances; providing exceptions;
+35 providing validity timeframe of prior authorizations
+36 under certain circumstances; providing construction;
+37 amending ss. 627.6131 and 641.3155, F.S.; providing
+38 and revising definitions; revising requirements and
+39 timeframes for responses from health insurers and
+40 health maintenance organizations, respectively, to
+41 submitted claims; revising interests on overdue
+42 payments of claims; authorizing health care providers
+43 to refuse to participate in internal dispute
+44 resolution processes under certain circumstances;
+45 prohibiting health insurers and health maintenance
+46 organizations, respectively, from retrospectively,
+47 rather than retroactively, denying claims because of
+48 insured and enrollee ineligibility beyond a specified
+49 timeframe; revising such timeframe; revising
+50 applicability; providing construction; prohibiting
+Page 2 of 64
+CODING: Words stricken are deletions; words underlined are additions.
+hb1015-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1015 2026
+51 health insurers and health maintenance organizations,
+52 respectively, from requesting or requiring certain
+53 information from health care providers under certain
+54 circumstances; providing causes of action for health
+55 care providers under certain circumstances; amending
+56 s. 395.1065, F.S.; conforming cross-references;
+57 providing an effective date.
+58
+59 Be It Enacted by the Legislature of the State of Florida:
+60
+61 Section 1. Section 627.4193, Florida Statutes, is created
+62 to read:
+63 627.4193 Restrictions on health insurance reimbursement
+64 downcoding.—
+65 (1) As used in this section, the term:
+66 (a) "Downcode" or "downcoding" means the alteration by a
+67 payment adjudicator of a service code to another service code or
+68 the alteration, addition, or removal by a payment adjudicator of
+69 a modifier, when the changed code or modifier is associated with
+70 a lower payment amount than the service code or modifier billed
+71 by the provider or facility.
+72 (b) "Health insurer" means any entity that offers health
+73 insurance coverage, whether through a fully insured plan or
+74 self-insured plan or fund, including, as applicable:
+75 1. An authorized health insurer offering health insurance
+Page 3 of 64
+CODING: Words stricken are deletions; words underlined are additions.
+hb1015-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1015 2026
+76 as defined in s. 624.603, as well as any entity that offers a
+77 commercial self-insurance fund as defined in s. 624.462(2) or
+78 group self-insurance fund as described in s. 624.4621.
+79 2. A health insurer that is subject to any of the
+80 provisions of this chapter, as well as any entity that offers a
+81 self-insurance plan or a group self-insurance plan.
+82 3. A managed care plan as defined in s. 409.962.
+83 4. A health maintenance organization as defined in s.
+84 641.19.
+85 (c) "Medical record" means the comprehensive collection of
+86 documentation, including clinical notes, diagnostic reports, and
+87 other relevant information, which supports the health care
+88 services provided.
+89 (d) "Participation agreement" means a written contract or
+90 agreement between a health insurer and a provider which outlines
+91 the terms and conditions of participation, reimbursement rates,
+92 and other relevant details.
+93 (e) "Payment adjudicator" means a health insurer or any
+94 entity that provides, offers to provide, or administers payment
+95 on behalf of a health insurer, as well any pharmacy benefit
+96 manager as defined in s. 624.490(1), and any other individual or
+97 entity that provides, offers to provide, or administers payment
+98 for hospital services, outpatient services, medical services,
+99 prescription drugs, or other health care services, to a person
+100 treated by a health care professional or facility in this state
+Page 4 of 64
+CODING: Words stricken are deletions; words underlined are additions.
+hb1015-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1015 2026
+101 under a policy, plan, or contract.
+102 (f) "Provider" means any health care professional,
+103 facility, or entity that submits claims for reimbursement for
+104 covered health care services.
+105 (2) Payment adjudicators are prohibited from downcoding a
+106 health care service billed by, or on behalf of, a provider, if
+107 the health care service was ordered by a provider that is in-
+108 network with the applicable health insurer, unless such
+109 downcoding is otherwise expressly permitted under the
+110 participation agreement between the health insurer and the
+111 provider.
+112 (3) If downcoding is expressly permitted under the
+113 participation agreement, the payment adjudicator must provide
+114 the following information to the provider before making its
+115 initial payment or notice of denial of payment:
+116 (a) A statement indicating that the service code or
+117 modifier billed by the provider or facility is going to be
+118 downcoded.
+119 (b) An explanation detailing the reasons for downcoding
+120 the claim. This explanation must include a clear description of
+121 the service codes or modifiers that were altered, added, or
+122 removed, if applicable.
+123 (c) The payment amount that the payment adjudicator would
+124 otherwise make if the service code or modifier is not downcoded.
+125 (d) A statement that the provider may contest the
+Page 5 of 64
+CODING: Words stricken are deletions; words underlined are additions.
+hb1015-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1015 2026
+126 downcoding of the applicable service code or modifier by filing
+127 a contestation with the payment adjudicator with respect to the
+128 downcoding within 15 days after receipt of the notice of
+129 downcoding.
+130 (e) A statement that by contesting the downcoding of the
+131 applicable service code or modifier, the provider does not waive
+132 any of its legal rights and claims against the health insurer or
+133 payment adjudicator to the fullest extent permissible under law.
+134 (4) Even if the participation agreement expressly permits
+135 downcoding, a payment adjudicator is prohibited from downcoding
+136 a service without first conducting a review of the associated
+137 medical record to ensure the accuracy of the coding change.
+138 (5) A payment adjudicator is prohibited from downcoding
+139 for orders by a licensed nurse.
+140 (6) Notwithstanding any provision in this section, a
+141 payment adjudicator that proceeds to downcode a service code or
+142 modifier, regardless of whether such downcoding is contested by
+143 the provider, is solely responsible for any violations of law
+144 associated with such downcoding.
+145 (7) Payment adjudicators are required to maintain clear
+146 and accessible downcoding policies on their official website.
+147 These policies must include:
+148 (a) An overview of the circumstances under which
+149 downcoding may occur.
+150 (b) The process and criteria used for conducting reviews
+Page 6 of 64
+CODING: Words stricken are deletions; words underlined are additions.
+hb1015-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1015 2026
+151 of downcoded claims, including the role of medical record
+152 review.
+153 (c) Information about the internal mechanisms for ensuring
+154 consistency and accuracy in downcoding practices.
+155 (d) Information regarding the processes for contesting
+156 with the payment adjudicator the downcoding of a service code,
+157 which processes must offer appeal rights for the provider and
+158 the patient, and peer review by a licensed physician before the
+159 downcoding.
+160 (8) Health insurers shall ensure that their downcoding
+161 policies are updated as needed to reflect any changes in
+162 regulations, industry standards, or internal procedures.
+163 (9) Health insurers shall ensure compliance with this
+164 section and shall develop internal procedures to implement and
+165 adhere to the requirements outlined in this section.
+166 (10) Regulatory authorities, including, but not limited
+167 to, the Office of Insurance Regulation, may investigate and take
+168 appropriate actions in cases of noncompliance with this section.
+169 (11) When a particular health care service is ordered by a
+170 licensed physician, there shall be a presumption that the
+171 physician determination regarding the diagnosis of the patient
+172 and service order by the physician is correct and sufficient,
+173 absent a coding error which the health insurer must first verify
+174 with the physician before downcoding for such error.
+175 (12) If an applicable court, arbitration tribunal, or
+Page 7 of 64
+CODING: Words stricken are deletions; words underlined are additions.
+hb1015-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1015 2026
+176 other binding legal process determines that a claim was subject
+177 to an inappropriate or impermissible downcoding, whether in
+178 breach of contract, statute, common law, or otherwise, such that
+179 nonpayment or underpayment of the original claim has occurred,
+180 then in accordance with s. 627.6131, interest shall be
+181 calculated upon the full total amount that should have been paid
+182 on the claim as of the applicable time period for payment
+183 specified in s. 627.6131.
+184 (13) In the instance of a violation of this section, a
+185 provider shall have a private cause of action to proceed against
+186 the health insurer or payment adjudicator in the applicable
+187 tribunal for the violation.
+188 Section 2. Section 627.42392, Florida Statutes, is amended
+189 to read:
+190 627.42392 Prior authorization.—
+191 (1) As used in this section, the term:
+192 (a) "Adverse determination" means a decision by a health
+193 insurer or utilization review entity that the health care
+194 services rendered, or proposed to be rendered, to a patient are
+195 denied, reduced, or terminated. The term does not include a
+196 decision to deny, reduce, or terminate services that are
+197 determined to have been billed in duplicate bills or that are
+198 confirmed with the provider to have been billed in error.
+199 (b) "Electronic prior authorization process" does not
+200 include transmissions through a facsimile machine.
+Page 8 of 64
+CODING: Words stricken are deletions; words underlined are additions.
+hb1015-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1015 2026
+201 (c) "Emergency health care service" means medical
+202 screening, examination, and evaluation by a physician, or, to
+203 the extent permitted by applicable law, by other appropriate
+204 personnel under the supervision of a physician, to determine if
+205 an emergency medical condition exists and, if it does, the care,
+206 treatment, or surgery by a physician necessary to relieve or
+207 eliminate the emergency medical condition, within the service
+208 capability of the facility.
+209 (d) "Emergency medical condition" means a medical
+210 condition manifesting itself by acute symptoms of sufficient
+211 severity, including severe pain, such that a prudent layperson
+212 who possesses an average knowledge of health and medicine could
+213 reasonably expect the absence of immediate medical attention to
+214 result in any of the conditions listed in s. 395.002(8).
+215 (e) "Health insurer" means any entity that offers health
+216 insurance coverage, whether through a fully insured plan or
+217 self-insured plan or fund, including, as applicable:
+218 1. An authorized health insurer offering health insurance
+219 as defined in s. 624.603, as well as any entity that offers a
+220 commercial self-insurance fund as defined in s. 624.462(2) or a
+221 group self-insurance fund as described in s. 624.4621.
+222 2. A health insurer that is subject to any of the
+223 provisions of this chapter, as well as any entity that offers a
+224 self-insurance plan or a group self-insurance plan.
+225 3. A managed care plan as defined in s. 409.962.
+Page 9 of 64
+CODING: Words stricken are deletions; words underlined are additions.
+hb1015-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1015 2026
+226 4. A health maintenance organization as defined in s.
+227 641.19.
+228 (f) "Prior authorization" means the process by which
+229 utilization review entities determine the medical necessity or
+230 medical appropriateness of otherwise covered health care
+231 services before the rendering of such health care services. The
+232 term also includes any requirement by a health insurer or
+233 utilization review entity that an enrollee or health care
+234 provider notify the health insurer or utilization review entity
+235 before the provision of a health care service.
+236 (g) "Urgent health care service" means a health care
+237 service that, if the timeframe for making a nonexpedited prior
+238 authorization is applied, could, in the opinion of a physician
+239 with knowledge of the patient's medical condition:
+240 1. Seriously jeopardize the life or health of the patient
+241 or the ability of the patient to regain maximum function; or
+242 2. Subject the patient to severe pain that cannot be
+243 adequately managed without the care, treatment, or prescription
+244 drugs that are the subject of the prior authorization request.
+245 (h) "Utilization review activity" means any activity
+246 prospective to, concurrent with, or retrospective to, the
+247 provision of a nonemergency health care service, to determine
+248 whether payment shall be made in full or shall be subject to an
+249 adverse determination. Utilization review activity is
+250 prohibited:
+Page 10 of 64
+CODING: Words stricken are deletions; words underlined are additions.
+hb1015-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1015 2026
+251 1. To the extent restricted or prohibited by an agreement
+252 with a health care provider;
+253 2. For an emergency health care service; or
+254 3. For a service provided to a patient who is experiencing
+255 an emergency medical condition.
+256 (i) "Utilization review entity" means an entity permitted
+257 under the applicable agreement with a health care provider or
+258 otherwise permitted by a provider that does not have such an
+259 agreement to perform utilization review activities or upon whose
+260 behalf utilization review activities are performed, including,
+261 as applicable:
+262 1. An authorized health insurer offering health insurance
+263 as defined in s. 624.603, as well as any entity that offers a
+264 commercial self-insurance fund as defined in s. 624.462(2) or
+265 group self-insurance fund as described in s. 624.4621.
+266 2. A health insurer that is subject to any of the
+267 provisions of this chapter, as well as any entity that offers a
+268 self-insurance plan or a group self-insurance plan.
+269 3. A managed care plan as defined in s. 409.962.
+270 4. A health maintenance organization as defined in s.
+271 641.19.
+272 5. A pharmacy benefit manager as defined in s. 624.490(1).
+273 6. Any other individual or entity that provides, offers to
+274 provide, or administers payment for hospital services,
+275 outpatient services, medical services, prescription drugs, or
+Page 11 of 64
+CODING: Words stricken are deletions; words underlined are additions.
+hb1015-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1015 2026
+276 other health care services to a person treated by a health care
+277 professional or facility in this state under a policy, plan,
+278 contract, or fund "health insurer" means an authorized insurer
+279 offering health insurance as defined in s. 624.603, a managed
+280 care plan as defined in s. 409.962(10), or a health maintenance
+281 organization as defined in s. 641.19(12).
+282 (2) Notwithstanding any other provision of law, a
+283 utilization review entity that effective January 1, 2017, or six
+284 (6) months after the effective date of the rule adopting the
+285 prior authorization form, whichever is later, a health insurer,
+286 or a pharmacy benefits manager on behalf of the health insurer,
+287 which does not provide an electronic prior authorization process
+288 for use by its contracted providers, shall only use the prior
+289 authorization form that has been approved by the Financial
+290 Services Commission for granting a prior authorization for a
+291 medical procedure, course of treatment, or prescription drug
+292 benefit. Such form shall be no longer than may not exceed two
+293 pages in length, excluding any instructions or guiding
+294 documentation, and must include all clinical documentation
+295 necessary for the utilization review entity health insurer to
+296 make a decision. At a minimum, the form must include: (1)
+297 sufficient patient information to identify the member, date of
+298 birth, full name, and Health Plan ID number; (2) provider name,
+299 address and phone number; (3) the medical procedure, course of
+300 treatment, or prescription drug benefit being requested,
+Page 12 of 64
+CODING: Words stricken are deletions; words underlined are additions.
+hb1015-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1015 2026
+301 including the medical reason therefor, and all services tried
+302 and failed; (4) any laboratory documentation required; and (5)
+303 an attestation that all information provided is true and
+304 accurate.
+305 (3) The Financial Services Commission in consultation with
+306 the Agency for Health Care Administration shall adopt by rule
+307 guidelines for all prior authorization forms which ensure the
+308 general uniformity of such forms.
+309 (4) A utilization review entity must establish and offer a
+310 secure, interactive online electronic prior authorization to
+311 accept electronic prior authorization requests. The process of
+312 electronic prior authorization must allow a person seeking a
+313 prior authorization the ability to upload documentation if such
+314 documentation is required by the utilization review entity to
+315 adjudicate the prior authorization request. Once a provider
+316 grants a health insurer access to a patient's electronic medical
+317 record, the provider shall be deemed to have supplied all
+318 information necessary for prior authorization of the health care
+319 service, including, without limitation, all information that is
+320 reasonably required by the health insurer, other than for an
+321 emergency health care service or for a service provided to a
+322 patient who is experiencing an emergency medical condition, in
+323 advance of the provision of service, and the health insurer
+324 asserts is missing as of the date of such service. Additional
+325 information or documentation, regardless of whether the
+Page 13 of 64
+CODING: Words stricken are deletions; words underlined are additions.
+hb1015-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1015 2026
+326 utilization review entity requests any additional information,
+327 shall be deemed unnecessary, and deemed not required, for prior
+328 authorization of the health care service, and any request for
+329 additional information or any position of the utilization review
+330 entity or any third party acting on behalf of the utilization
+331 review entity regarding any lack of information from the
+332 provider is prohibited from being used to deny, pend, or delay
+333 prior authorization of the health care service.
+334 (5)(4) Electronic prior authorization approvals do not
+335 preclude benefit verification or medical review by the health
+336 insurer under either the medical or pharmacy benefits.
+337 (6) A utilization review entity's prior authorization
+338 process is prohibited from requiring information that is not
+339 needed to make a determination or facilitate a determination of
+340 medical necessity of the requested medical procedure, course of
+341 treatment, or prescription drug benefit.
+342 (7) A utilization review entity shall disclose all of its
+343 prior authorization requirements and restrictions, including any
+344 written clinical criteria, in a publicly accessible manner on
+345 its website. This information shall be explained in detail and
+346 in clear and ordinary terms.
+347 (8) A utilization review entity is prohibited from
+348 implementing any new requirements or restrictions and from
+349 making changes to existing requirements or restrictions on
+350 obtaining prior authorization unless:
+Page 14 of 64
+CODING: Words stricken are deletions; words underlined are additions.
+hb1015-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1015 2026
+351 (a) The changes have been available on a publicly
+352 accessible website for at least 60 days before they are
+353 implemented;
+354 (b) Policyholders and health care providers who are
+355 affected by the new requirements and restrictions or changes to
+356 the requirements and restrictions are provided with a written
+357 notice of the changes at least 60 days before they are
+358 implemented, with such notice being delivered electronically or
+359 by other means as agreed to by the policyholder or the health
+360 care provider; and
+361 (c) All applicable amendments to a provider's agreement
+362 with the applicable health insurer or utilization review entity
+363 have been obtained and memorialized in a mutually agreed-upon
+364 writing before such implementation.
+365 (9)(a) Utilization review entities shall, by March 31 of
+366 each year, submit a report to the Office of Insurance Regulation
+367 with the following data elements for the prior calendar year:
+368 1. A list of all items and services requiring prior
+369 authorization.
+370 2. The percentage of standard prior authorization requests
+371 approved by the utilization review entity and aggregated by item
+372 or service.
+373 3. The percentage of standard prior authorization requests
+374 denied by the utilization review entity aggregated by item or
+375 service.
+Page 15 of 64
+CODING: Words stricken are deletions; words underlined are additions.
+hb1015-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1015 2026
+376 4. The percentage of standard prior authorization requests
+377 approved by the utilization review entity after appeal by item
+378 or service.
+379 5. The percentage of prior authorization where the
+380 timeframe for review was extended and request approved by item
+381 or service.
+382 6. The percentage of expedited prior authorization
+383 requests approved by the utilization review entity by item or
+384 service.
+385 7. The percentage of expedited prior authorization
+386 requests denied by the utilization review entity by item or
+387 service.
+388 8. The percentage of expedited prior authorization
+389 requests approved by the utilization review entity after appeal
+390 by item or service.
+391 9. The average and median time between submission of a
+392 request for prior authorization and the utilization review
+393 entity's decision for standard prior authorizations by item or
+394 service.
+395 10. The average and median time between submission of a
+396 request for prior authorization and the utilization review
+397 entity's decision for expedited prior authorizations by item or
+398 service.
+399 (b) The Office of Insurance Regulation shall, by July 1 of
+400 each year, publish a report on its website detailing the
+Page 16 of 64
+CODING: Words stricken are deletions; words underlined are additions.
+hb1015-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1015 2026
+401 information in paragraph (a) submitted by utilization review
+402 entities.
+403 (10) Utilization review entities must ensure that all
+404 adverse determinations are made by a physician licensed under
+405 chapter 458 or chapter 459. The physician must:
+406 (a) Possess a current and valid nonrestricted license to
+407 practice medicine in this state;
+408 (b) Be of the same specialty as the physician who
+409 typically manages the medical condition or disease, or provides
+410 the health care service involved in the request;
+411 (c) Have at least 5 years of experience treating patients
+412 with the medical condition or disease for which the health care
+413 service is being requested; and
+414 (d) Not have any direct or indirect financial arrangement
+415 with the utilization review entity that rewards or incentivizes,
+416 financially or otherwise, such physician in any way relating to
+417 adverse determinations.
+418 (11) Notice of an adverse determination shall be provided
+419 by electronic mail to the health care provider that initiated
+420 the prior authorization and to the patient. Notice required
+421 under this subsection must include:
+422 (a) The name, title, e-mail address, and telephone number
+423 of the physician responsible for making the adverse
+424 determination.
+425 (b) The written clinical criteria, if any, and any
+Page 17 of 64
+CODING: Words stricken are deletions; words underlined are additions.
+hb1015-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1015 2026
+426 internal rule, guideline, or protocol on which the utilization
+427 review entity relied when making the adverse determination and
+428 how those provisions apply to the patient's specific medical
+429 circumstance.
+430 (c) Information for the patient and the patient's health
+431 care provider which describes the procedure through which the
+432 patient or health care provider may request a copy of any report
+433 developed by personnel performing the review that led to the
+434 adverse determination.
+435 (d) Information that explains to the patient and the
+436 patient's health care provider how to appeal the adverse
+437 determination.
+438 (12) If a utilization review entity requires prior
+439 authorization of a nonurgent health care service, the
+440 utilization review entity shall grant a prior authorization or
+441 make an adverse determination and notify the patient and the
+442 patient's health care provider of the decision within 72 hours
+443 after obtaining all necessary information to grant the prior
+444 authorization or make the adverse determination. For purposes of
+445 this subsection, the term "necessary information" includes the
+446 results of any face-to-face clinical evaluation or second
+447 opinion that may be required.
+448 (13) A utilization review entity shall grant an expedited
+449 prior authorization or make an expedited adverse determination
+450 concerning an urgent health care service and notify the patient
+Page 18 of 64
+CODING: Words stricken are deletions; words underlined are additions.
+hb1015-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1015 2026
+451 and the patient's health care provider of such expedited prior
+452 authorization or adverse determination no later than 24 hours
+453 after receiving all information needed to complete the review of
+454 the requested urgent health care service.
+455 (14)(a) A utilization review entity is prohibited from
+456 requiring prior authorization for:
+457 1. Prehospital transportation;
+458 2. Provision of an emergency health care service; or
+459 3. Provision of a service to a patient who is experiencing
+460 an emergency medical condition.
+461 (b) A utilization review entity is prohibited from
+462 conducting utilization review activity, and from making any
+463 adverse determinations, to the extent restricted or prohibited
+464 by an agreement with a health care provider. A utilization
+465 review entity is prohibited from performing any utilization
+466 review activity, and from making any adverse determinations,
+467 with respect to:
+468 1. An emergency health care service; or
+469 2. A service provided to a patient who experiences an
+470 emergency medical condition.
+471 (15) A utilization review entity is prohibited from
+472 requiring prior authorization, and from making any adverse
+473 determinations, for the provision of medications for opioid use
+474 disorder. For purposes of this subsection, the term "medications
+475 for opioid use disorder" means the use of medications, commonly
+Page 19 of 64
+CODING: Words stricken are deletions; words underlined are additions.
+hb1015-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1015 2026
+476 prescribed in combination with counseling and behavioral
+477 therapies, to provide a comprehensive approach to the treatment
+478 of opioid use disorder. FDA-approved medications used to treat
+479 opioid addiction include, but are not limited to, methadone,
+480 buprenorphine, alone or in combination with naloxone, and
+481 extended-release injectable naltrexone. Types of behavioral
+482 therapies include, but are not limited to, individual therapy,
+483 group counseling, family behavior therapy, motivational
+484 incentives, and other modalities.
+485 (16) A utilization review entity is prohibited from
+486 revoking, limiting, conditioning, or restricting a prior
+487 authorization if care is provided within 45 business days after
+488 the date the health care provider receives the prior
+489 authorization. A utilization review entity must pay, or cause
+490 payment to be made to, the health care provider, without any
+491 prepayment review or prepayment audit before such payment, at
+492 the contracted payment rate for a health care service provided
+493 by the health care provider per the prior authorization, unless:
+494 (a) The health care provider knowingly and materially
+495 misrepresented the health care service in the prior
+496 authorization request with the specific intent to deceive and
+497 obtain an unlawful payment from the utilization review entity;
+498 (b) The health care service was no longer a covered
+499 benefit, and medical necessity did not constitute a basis for
+500 such noncovered benefit status, on the day the health care
+Page 20 of 64
+CODING: Words stricken are deletions; words underlined are additions.
+hb1015-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1015 2026
+501 service was provided, and the utilization review entity notified
+502 the health care provider in writing of these facts before the
+503 health care service being provided;
+504 (c) The authorized service was never performed; or
+505 (d) The patient was no longer enrolled under the
+506 applicable health plan and, on that basis, was not eligible for
+507 health care coverage from the applicable health insurer or self-
+508 insured plan on the day the care was provided, and the
+509 utilization review entity notified the health care provider in
+510 writing of these facts before the health care service being
+511 provided.
+512 (17) If a utilization review entity requires a prior
+513 authorization for a health care service for the treatment of a
+514 chronic or long-term care condition, the prior authorization
+515 shall remain valid for the length of the treatment and the
+516 utilization review entity is prohibited from requiring the
+517 patient to obtain a prior authorization again for the health
+518 care service.
+519 (18) A utilization review entity is prohibited from
+520 imposing an additional prior authorization requirement with
+521 respect to a surgical or otherwise invasive procedure, or any
+522 item furnished as part of the surgical or invasive procedure, if
+523 the procedure or item is furnished during the perioperative
+524 period of another procedure for which prior authorization was
+525 granted by the health insurer.
+Page 21 of 64
+CODING: Words stricken are deletions; words underlined are additions.
+hb1015-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1015 2026
+526 (19) If there is a change in coverage or approval criteria
+527 for a previously authorized health care service, the change in
+528 coverage or approval criteria is prohibited from adversely
+529 affecting an enrollee who received prior authorization before
+530 the effective date of the change for the remainder of the
+531 enrollee's plan year.
+532 (20) A utilization review entity shall continue to honor a
+533 prior authorization it has granted to an enrollee when the
+534 enrollee changes products under the same health insurer.
+535 (21) Any failure by a utilization review entity to comply
+536 with the deadlines and other requirements specified in this
+537 section shall result in any health care services subject to
+538 review to be automatically deemed authorized by the utilization
+539 review entity.
+540 (22) Except as otherwise provided in paragraphs (16)(a)-
+541 (d), prior authorization constitutes a conclusive determination
+542 of the medical necessity of the authorized health care service
+543 and an irrevocable obligation to pay for such authorized health
+544 care service.
+545 (23)(a) This section prohibits an agreement with a health
+546 care provider to restrict, limit, prohibit, or substitute a
+547 utilization review activity or prior authorization.
+548 (b) Nothing in this section shall be construed to:
+549 1. Limit in any way the restrictions or prohibitions on
+550 adverse determinations under an agreement with a health care
+Page 22 of 64
+CODING: Words stricken are deletions; words underlined are additions.
+hb1015-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1015 2026
+551 provider, nor to imply permission for, or applicability of,
+552 adverse determinations for emergency health care services.
+553 2. Restrict, limit, or prohibit in any way prior
+554 authorizations under an agreement between a provider and a
+555 utilization review entity, nor to restrict, limit, or prohibit a
+556 provider's rights to contest, reject, or oppose any prior
+557 authorization activities.
+558 (24) In the instance of a violation of this section, a
+559 provider shall have a private cause of action to proceed against
+560 the health insurer or utilization review entity in the
+561 applicable tribunal for the violation.
+562 Section 3. Section 627.6131, Florida Statutes, is amended
+563 to read:
+564 627.6131 Prompt payment of claims.—
+565 (1) The contract shall include the following provision:
+566 "Time of Payment of Claims: After receiving written proof of
+567 loss, the health insurer shall will pay monthly all claims.
+568 Claims benefits then due for ...(type of benefit).... Benefits
+569 for any other loss covered by this policy shall will be paid as
+570 soon as the health insurer receives proper written proof."
+571 (2) As used in this section, the term:
+572 (a) "Claim" for a noninstitutional provider means a paper
+573 HCFA 1500 claim form, or its successor, or an electronic billing
+574 instrument submitted to the health insurer's designated location
+575 that consists of the ANSI ASC X12N 837P standard HCFA 1500 data
+Page 23 of 64
+CODING: Words stricken are deletions; words underlined are additions.
+hb1015-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1015 2026
+576 set, or its successor, that has all mandatory entries for a
+577 physician licensed under chapter 458, chapter 459, chapter 460,
+578 chapter 461, or chapter 463, or psychologists licensed under
+579 chapter 490 or any appropriate billing instrument as designated
+580 by the provider that has all mandatory entries for any other
+581 noninstitutional provider. For institutional providers, "claim"
+582 means a paper CMS-1450 claim form or its successor, or an
+583 electronic billing instrument submitted to the health insurer's
+584 designated location that consists of the ANSI ASC X12N 837I
+585 standard UB-92 data set, or its successor, with entries stated
+586 as mandatory by the National Uniform Billing Committee.
+587 (b) "Clean claim" means a completed form, or completed
+588 electronic billing instrument, containing all information
+589 required under the applicable form or electronic billing
+590 instrument, as well as information reasonably required by the
+591 health insurer, other than for emergency services and care as
+592 defined in s. 395.002(9), in advance of the provision of service
+593 by the health insurer to substantiate the claim.
+594 (c) "Electronic medical record" means the digital record
+595 of a patient's information that may be accessed through
+596 electronic means, via portal or other method of electronic
+597 access, which may include information regarding the patient's
+598 medical history, medical condition, medical treatment,
+599 laboratory results, diagnostic reports, and clinical notes.
+600 (d) "Emergency health care services" has the same meaning
+Page 24 of 64
+CODING: Words stricken are deletions; words underlined are additions.
+hb1015-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1015 2026
+601 as "emergency services and care" as defined in s. 395.002(9).
+602 (e) "Health insurer" means any entity that offers health
+603 insurance coverage, whether through a fully insured plan or a
+604 self-insured plan or fund, including, as applicable:
+605 1. An authorized health insurer offering health insurance
+606 as defined in s. 624.603, as well as any entity that offers a
+607 commercial self-insurance fund as defined in s. 624.462(2) or a
+608 group self-insurance fund as described in s. 624.4621.
+609 2. A health insurer that is subject to any of the
+610 provisions of this chapter, as well as any entity that offers a
+611 self-insurance plan or a group self-insurance plan.
+612 (f) "Insured ineligibility" means that the insured was no
+613 longer enrolled in the health plan at the time of receiving the
+614 applicable service.
+615 (g) "Overpayment" means payment made upon a claim that is:
+616 1. Billed in error;
+617 2. A duplicate claim; or
+618 3. Billed for a service rendered to a patient in spite of
+619 insured ineligibility.
+620
+621 A request for overpayment is limited to a billing error,
+622 duplicate bill, or insured ineligibility.
+623 (3) All claims for payment or overpayment, whether
+624 electronic or nonelectronic:
+625 (a) Are considered received on the date the claim is
+Page 25 of 64
+CODING: Words stricken are deletions; words underlined are additions.
+hb1015-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1015 2026
+626 received by the health insurer at its designated claims-receipt
+627 location or the date the claim for overpayment claim is received
+628 by the provider at its designated location.
+629 (b) As to providers' claims for payment, must be mailed or
+630 electronically transferred to the primary health insurer within
+631 6 months after the following have occurred:
+632 1. Discharge for inpatient services or the date of service
+633 for outpatient services; and
+634 2. The provider has been furnished with the correct name
+635 and address of the patient's health insurer.
+636
+637 All providers' claims for payment, whether electronic or
+638 nonelectronic, must be mailed or electronically transferred to
+639 the secondary health insurer within 45 90 days after final
+640 determination by the primary health insurer. A provider's claim
+641 is considered submitted on the date it is electronically
+642 transferred or mailed.
+643 (c) Must not duplicate a claim previously submitted unless
+644 it is determined that the original claim was not received or is
+645 otherwise lost.
+646 (4) For all electronically submitted claims, a health
+647 insurer shall:
+648 (a) Within 24 hours after the beginning of the next
+649 business day after receipt of the claim, provide to the
+650 electronic source submitting the claim an electronic
+Page 26 of 64
+CODING: Words stricken are deletions; words underlined are additions.
+hb1015-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1015 2026
+651 acknowledgment of the receipt of the claim, accompanied by a
+652 statement indicating the health insurer's position as to whether
+653 the claim is a clean claim or is missing any information that is
+654 required under the applicable electronic billing instrument, as
+655 described in paragraph (2)(a), or that was reasonably required
+656 by the health insurer, other than for emergency health care
+657 services, in advance of the provision of service to substantiate
+658 to the electronic source submitting the claim, and the health
+659 insurer asserts is missing as of the date of service.
+660 (b) Within 15 20 days after receipt of the claim, pay the
+661 claim or notify a provider or designee if a claim is denied or
+662 contested. Notice of the health insurer's action on the claim
+663 and payment of the claim is considered to be made on the date
+664 the notice or payment was received by the provider mailed or
+665 electronically transferred.
+666 (c)1. Notification of the health insurer's determination
+667 of a contested claim must be accompanied by an itemized list of
+668 any additional information that is required under the applicable
+669 billing instrument, as described in paragraph (2)(a), or that
+670 was reasonably required by the health insurer, other than for
+671 emergency health care services, in advance of the provision of
+672 service to substantiate the claim, and the health insurer
+673 asserts is missing as of the date of such service or documents
+674 the insurer can reasonably determine are necessary to process
+675 the claim.
+Page 27 of 64
+CODING: Words stricken are deletions; words underlined are additions.
+hb1015-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1015 2026
+676 2. A provider must submit the additional information or
+677 documentation, as specified on the itemized list, within 30 35
+678 days after receipt of the notification of contestation unless,
+679 within the 30-day period, the provider notifies the health
+680 insurer of the provider's position that a clean claim has been
+681 submitted. Additional information is considered submitted on the
+682 date it is electronically transferred or mailed. The health
+683 insurer is prohibited from requesting may not request duplicate
+684 documents.
+685 (d) For purposes of this subsection, electronic means of
+686 transmission of claims, notices, documents, forms, and payments
+687 shall be used to the greatest extent possible by the health
+688 insurer and the provider.
+689 (e) A claim that was contested by the health insurer must
+690 be paid or denied within 30 90 days after receipt of the
+691 additional information requested claim. Failure to pay or deny a
+692 claim within 90 120 days after receipt of the claim, regardless
+693 of whether contested by the health insurer, creates an
+694 uncontestable obligation to pay the claim as submitted by the
+695 provider.
+696 (5) For all nonelectronically submitted claims, a health
+697 insurer shall:
+698 (a) Within 15 days following receipt of the claim
+699 Effective November 1, 2003, provide to the provider or its
+700 designee:
+Page 28 of 64
+CODING: Words stricken are deletions; words underlined are additions.
+hb1015-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1015 2026
+701 1. An acknowledgment of receipt of the claim, accompanied
+702 by a statement indicating the health insurer's position as to
+703 whether the claim is a clean claim or the claim is missing any
+704 information that is required under the applicable paper billing
+705 form, as described in paragraph (2)(a), or that was reasonably
+706 required by the health insurer, other than for emergency health
+707 care services, in advance of the provision of service to
+708 substantiate the claim, and the health insurer asserts is
+709 missing as of the date of service; or
+710 2. within 15 days after receipt of the claim to the
+711 provider or provide a provider within 15 days after receipt with
+712 Electronic access to the status of the a submitted claim, which
+713 status must indicate the health insurer's position as to whether
+714 the claim is a clean claim or missing any information described
+715 in subparagraph 1.
+716 (b) Within 30 40 days after receipt of the claim, pay the
+717 claim or notify a provider or designee if a claim is denied or
+718 contested. Notice of the health insurer's action on the claim
+719 and payment of the claim is considered to be made on the date
+720 the notice or payment was received by the provider mailed or
+721 electronically transferred.
+722 (c)1. Notification of the health insurer's determination
+723 of a contested claim must be accompanied by an itemized list of
+724 any additional information that is required under the applicable
+725 form or billing instrument, as described in paragraph (2)(a), or
+Page 29 of 64
+CODING: Words stricken are deletions; words underlined are additions.
+hb1015-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1015 2026
+726 that was reasonably required by the health insurer, other than
+727 for emergency health care services, in advance of the provision
+728 of service to substantiate the claim, and the health insurer
+729 asserts is missing as of the date of such service or documents
+730 the insurer can reasonably determine are necessary to process
+731 the claim.
+732 2. A provider must submit the additional information or
+733 documentation, as specified on the itemized list, within 30 35
+734 days after receipt of the notification of contestation unless,
+735 within the 30-day period, the provider notifies the health
+736 insurer of its position that a clean claim has been submitted.
+737 Additional information is considered submitted on the date it is
+738 electronically transferred or mailed. The health insurer is
+739 prohibited from requesting may not request duplicate documents.
+740 (d) For purposes of this subsection, electronic means of
+741 transmission of claims, notices, documents, forms, and payments
+742 shall be used to the greatest extent possible by the health
+743 insurer and the provider.
+744 (e) A claim that was contested by the health insurer must
+745 be paid or denied within 30 120 days after receipt of the
+746 additional information requested claim. Failure to pay or deny a
+747 claim within 90 140 days after receipt of the claim, regardless
+748 of whether contested by the health insurer, creates an
+749 uncontestable obligation to pay the claim as submitted by the
+750 provider.
+Page 30 of 64
+CODING: Words stricken are deletions; words underlined are additions.
+hb1015-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1015 2026
+751 (6) Regardless of whether a claim has been submitted
+752 electronically or nonelectronically, and notwithstanding any
+753 other provision of this section to the contrary:
+754 (a) Once a provider grants a health insurer access to a
+755 patient's electronic medical record, the provider shall be
+756 deemed to have supplied all information necessary to pay the
+757 claim, including, without limitation, all information that is
+758 required under the applicable billing instrument and that was
+759 reasonably required by the health insurer, other than for
+760 emergency health care services, in advance of the provision of
+761 service to substantiate the claim. Additional information or
+762 documentation, regardless of whether the health insurer requests
+763 any additional information, shall be deemed unnecessary, and
+764 deemed not required for payment of the claim, and any request
+765 for additional information, and any position of the health
+766 insurer or any third party acting on behalf of the health
+767 insurer regarding any lack of information from the provider, is
+768 prohibited from being used to deny, reduce, offset, withhold,
+769 pend, or delay payment of the claim.
+770 (b) For instances in which notice of access to the
+771 electronic medical record has been provided to the health
+772 insurer, the claim must be paid or denied within 30 days of such
+773 notice to the health insurer. Failure to pay or deny a claim,
+774 for which the health insurer has been provided notice of access
+775 to the electronic medical record within 75 days after receipt of
+Page 31 of 64
+CODING: Words stricken are deletions; words underlined are additions.
+hb1015-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1015 2026
+776 such notice creates an uncontestable obligation to pay the claim
+777 as submitted by the provider.
+778 (7)(6) If a health insurer determines that it has made an
+779 overpayment to a provider for services rendered to an insured,
+780 the health insurer must make an overpayment a claim for such
+781 overpayment to the provider's designated location. A health
+782 insurer that makes an overpayment a claim for overpayment to a
+783 provider under this section shall give the provider a written or
+784 electronic statement specifying the basis for the retrospective
+785 retroactive denial or payment adjustment. The health insurer
+786 must also identify the claim or claims, or portion thereof, as
+787 to which the health insurer alleges overpayment claim; and the
+788 specific invoice number submitted with or on the claim portion
+789 thereof, for which a claim for overpayment is submitted. Except
+790 as provided in subparagraph (a).3, there shall be no denial,
+791 reduction, offset, withholding, pending, or delay of payment, or
+792 other negative impact, regardless of whether by the health
+793 insurer or any third party acting on behalf of such health
+794 insurer, on payment of any other claim of the provider on the
+795 basis of the overpayment allegation.
+796 (a) If an overpayment determination is the result of
+797 retrospective retroactive review or retrospective audit of
+798 coverage decisions or payment levels not related to fraud, a
+799 health insurer shall adhere to the following procedures:
+800 1. All overpayment claims for overpayment must be received
+Page 32 of 64
+CODING: Words stricken are deletions; words underlined are additions.
+hb1015-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1015 2026
+801 by the submitted to a provider within 18 30 months after the
+802 health insurer's payment of the claim. A provider must pay,
+803 deny, or contest the health insurer's claim for overpayment
+804 claim within 40 days after the receipt of the overpayment claim.
+805 All contested overpayment claims for overpayment must be paid or
+806 denied within 120 days after receipt of the overpayment claim.
+807 Failure to pay or deny an overpayment and claim within 140 days
+808 after receipt creates an uncontestable obligation to pay the
+809 overpayment claim.
+810 2. A provider that denies or contests a health insurer's
+811 overpayment claim for overpayment or any portion of an
+812 overpayment a claim shall notify the health insurer, in writing,
+813 within 40 35 days after the provider receives the overpayment
+814 claim that such overpayment the claim for overpayment is
+815 contested or denied. The notice that the overpayment claim for
+816 overpayment is denied or contested must identify the denied or
+817 contested portion of the overpayment claim and the specific
+818 reason for contesting or denying the overpayment claim and, if
+819 contested, must include a request for additional information. If
+820 the health insurer submits additional information, the health
+821 insurer must, within 35 days after receipt of the request, mail
+822 or electronically transfer the information to the provider. The
+823 provider shall pay or deny the overpayment claim for overpayment
+824 within 45 days after receipt of the information. The notice from
+825 the provider regarding denial or contestation of the overpayment
+Page 33 of 64
+CODING: Words stricken are deletions; words underlined are additions.
+hb1015-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1015 2026
+826 claim is considered made on the date the notice is mailed or
+827 electronically transferred by the provider.
+828 3. The health insurer is prohibited from denying,
+829 reducing, offsetting, withholding, pending, or delaying may not
+830 reduce payment to the provider for other services unless the
+831 provider agrees to the denial, reduction, offset, withholding,
+832 pending, or delay of payment in writing or fails to respond to
+833 the health insurer's overpayment claim as required by this
+834 paragraph.
+835 4. Payment of an overpayment claim is considered made on
+836 the date the payment was mailed or electronically transferred.
+837 An overdue payment of a claim bears simple interest at the rate
+838 of 12 percent per year. Interest on an overdue payment for an
+839 overpayment a claim for an overpayment begins to accrue when the
+840 overpayment claim should have been paid, denied, or contested.
+841 (b) An overpayment A claim is prohibited for overpayment
+842 shall not be permitted beyond 18 30 months after the health
+843 insurer's payment of a claim, except that overpayment claims for
+844 overpayment may be sought beyond that time from providers
+845 convicted of fraud pursuant to s. 817.234.
+846 (8)(7) Payment of a claim is considered made on the date
+847 the payment was mailed or electronically transferred. An overdue
+848 payment of a claim bears simple interest of 15 12 percent per
+849 year, to be calculated upon the full total amount that should
+850 have been paid on the claim within the applicable time period
+Page 34 of 64
+CODING: Words stricken are deletions; words underlined are additions.
+hb1015-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1015 2026
+851 specified in this section. If an applicable court, arbitration
+852 tribunal, or other binding legal process determines that a claim
+853 that was paid at a lesser amount should have been paid at a full
+854 total amount, whether under a breach of contract legal claim, a
+855 legal claim under a statutory private cause of action, or other
+856 basis, the 15 percent per year interest shall be calculated upon
+857 the full total amount, rather than upon the difference between
+858 the full total amount and the amount that was actually paid. If
+859 an applicable court, arbitration tribunal, or other binding
+860 legal process determines that a claim was subject to an
+861 inappropriate or impermissible denial or partial denial, whether
+862 in a breach of contract, statute, common law, or otherwise,
+863 interest shall be calculated upon the full total amount that
+864 should have been paid on the claim within the applicable time
+865 period for payment specified in this section, and the act of
+866 denial or partial denial shall be deemed not to have in any way
+867 tolled the time period for such payment. Interest on the full
+868 total amount that should have been paid on the claim within the
+869 applicable time period specified in this section an overdue
+870 payment for a claim or for any portion of a claim begins to
+871 accrue when the claim should have been paid, denied, or
+872 contested. The interest must be paid along with, and in addition
+873 to, the payment for the satisfaction of the full total amount of
+874 the claim, as determined by an applicable court, arbitration
+875 tribunal, or other binding legal process is payable with the
+Page 35 of 64
+CODING: Words stricken are deletions; words underlined are additions.
+hb1015-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1015 2026
+876 payment of the claim.
+877 (9)(8) For all contracts entered into or renewed on or
+878 after October 1, 2002, a health insurer's internal dispute
+879 resolution process related to a denied claim not under active
+880 review by a mediator, arbitrator, or third-party dispute entity
+881 must be finalized within 60 days after the receipt of the
+882 provider's request for review or appeal. Notwithstanding any
+883 provision of this section to the contrary, when the provider and
+884 health insurer disagree as to interpretation of contractual or
+885 statutory language, the provider is not required to participate
+886 in the health insurer's internal dispute resolution process.
+887 (10)(9) A provider or any representative of a provider,
+888 regardless of whether the provider is under contract with the
+889 health insurer, is prohibited from collecting or attempting may
+890 not collect or attempt to collect money from, maintaining
+891 maintain any action at law against, or reporting report to a
+892 credit agency an insured for payment of covered services for
+893 which the health insurer contested or denied the provider's
+894 claim. This prohibition applies during the pendency of any claim
+895 for payment made by the provider to the health insurer for
+896 payment of the services or internal dispute resolution process
+897 to determine whether the health insurer is liable for the
+898 services. For a claim, this pendency applies from the date the
+899 claim or a portion of the claim is denied to the date of the
+900 completion of the health insurer's internal dispute resolution
+Page 36 of 64
+CODING: Words stricken are deletions; words underlined are additions.
+hb1015-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1015 2026
+901 process, not to exceed 60 days. This subsection does not
+902 prohibit the collection by the provider of copayments,
+903 coinsurance, or deductible amounts due the provider.
+904 (10) The provisions of this section may not be waived,
+905 voided, or nullified by contract.
+906 (11) A health insurer is prohibited from retrospectively
+907 denying may not retroactively deny a claim because of insured
+908 ineligibility more than 90 days 1 year after the date of payment
+909 of the claim.
+910 (12) A health insurer shall pay a contracted primary care
+911 or admitting physician, pursuant to such physician's contract,
+912 for providing inpatient services in a contracted hospital to an
+913 insured if such services are determined by such physician the
+914 health insurer to be medically necessary and, regardless of the
+915 health plan's determination of medical necessity, are otherwise
+916 covered services under the health insurer's contract with the
+917 contract holder.
+918 (13) Upon written notification by an insured, a health an
+919 insurer shall investigate any claim of improper billing of the
+920 insured by a physician, hospital, or other health care provider
+921 for a health care service alleged to not actually have been
+922 received. The health insurer shall determine if the insured
+923 actually received the applicable service was properly billed for
+924 only those procedures and services that the insured actually
+925 received. If the health insurer determines that the insured did
+Page 37 of 64
+CODING: Words stricken are deletions; words underlined are additions.
+hb1015-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1015 2026
+926 not actually receive the applicable service has been improperly
+927 billed, the health insurer shall notify the insured and the
+928 provider of its findings and shall reduce the amount of payment
+929 to the provider by the amount for the service that was not
+930 actually received determined to be improperly billed. If a
+931 reduction is made due to such notification by the insured, the
+932 insurer shall pay to the insured 20 percent of the amount of the
+933 reduction up to $500.
+934 (14) A permissible error ratio of 5 percent is established
+935 for health insurer's claims payment violations of paragraphs
+936 (4)(a), (b), (c), and (e) and (5)(a), (b), (c), and (e). If the
+937 error ratio of a particular health insurer does not exceed the
+938 permissible error ratio of 5 percent for an audit period, no
+939 fine shall be assessed for the noted claims violations for the
+940 audit period. The error ratio shall be determined by dividing
+941 the number of claims with violations found on a statistically
+942 valid sample of claims for the audit period by the total number
+943 of claims in the sample. If the error ratio exceeds the
+944 permissible error ratio of 5 percent, a fine may be assessed
+945 according to s. 624.4211 for those claims payment violations
+946 which exceed the error ratio. Notwithstanding the provisions of
+947 this section, the office may fine a health insurer for claims
+948 payment violations of paragraphs (4)(e) and (5)(e) which create
+949 an uncontestable obligation to pay the claim as submitted by the
+950 provider. The office shall refrain from imposing a not fine upon
+Page 38 of 64
+CODING: Words stricken are deletions; words underlined are additions.
+hb1015-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1015 2026
+951 a health insurer insurers for violations which the office
+952 determines were due to circumstances beyond the health insurer's
+953 control.
+954 (15) This section is applicable only to a major medical
+955 expense health insurance policy as defined in s. 627.643(2)(e)
+956 offered by a group or an individual health insurer licensed
+957 under pursuant to chapter 624, including a preferred provider
+958 policy under s. 627.6471 and an exclusive provider organization
+959 under s. 627.6472 or a group or individual insurance contract
+960 that only provides direct payments to dentists for enumerated
+961 dental services, or other health insurance coverage, policy, or
+962 fund, regardless of whether fully insured or self-insured,
+963 offered or administered by a health insurer.
+964 (16) Notwithstanding paragraph (4)(b), where an electronic
+965 pharmacy claim is submitted to a pharmacy benefits manager
+966 acting on behalf of a health insurer, the pharmacy benefits
+967 manager shall, within 30 days of receipt of the claim, pay the
+968 claim or notify a provider or designee if a claim is denied or
+969 contested. Notice of the health insurer's action on the claim
+970 and payment of the claim is considered to be made on the date
+971 the notice or payment was received by the provider mailed or
+972 electronically transferred.
+973 (17) Notwithstanding paragraph (5)(a), effective November
+974 1, 2003, where a nonelectronic pharmacy claim is submitted to a
+975 pharmacy benefits manager acting on behalf of a health insurer,
+Page 39 of 64
+CODING: Words stricken are deletions; words underlined are additions.
+hb1015-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1015 2026
+976 the pharmacy benefits manager shall provide acknowledgment of
+977 receipt of the claim within 30 days after receipt of the claim
+978 to the provider or provide a provider within 30 days after
+979 receipt with electronic access to the status of a submitted
+980 claim.
+981 (18) Notwithstanding the 18-month 30-month period provided
+982 in subsection (7) (6), all overpayment claims for overpayment
+983 submitted to a provider licensed under chapter 395, chapter 458,
+984 chapter 459, chapter 460, chapter 461, chapter 463, chapter 466,
+985 or chapter 490 must be submitted to the provider within 12
+986 months after the health insurer's payment of the claim. An
+987 overpayment A claim to a provider licensed under chapter 395,
+988 chapter 458, chapter 459, chapter 460, chapter 461, chapter 463,
+989 chapter 466, or chapter 490 is prohibited for overpayment may
+990 not be permitted beyond 12 months after the health insurer's
+991 payment of a claim, except that overpayment claims for
+992 overpayment may be sought beyond that time from providers
+993 convicted of fraud pursuant to s. 817.234.
+994 (19) Notwithstanding any other provision of this section,
+995 all claims for underpayment from a provider licensed under
+996 chapter 395, chapter 458, chapter 459, chapter 460, chapter 461,
+997 or chapter 466 must be submitted to the health insurer within 12
+998 months after the health insurer's payment of the claim. A claim
+999 for underpayment by a provider licensed under chapter 395,
+1000 chapter 458, chapter 459, chapter 460, chapter 461, or chapter
+Page 40 of 64
+CODING: Words stricken are deletions; words underlined are additions.
+hb1015-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1015 2026
+1001 466 is prohibited may not be permitted beyond 12 months after
+1002 the health insurer's payment of a claim.
+1003 (20) Nothing in this section shall be interpreted to
+1004 limit, restrict, or negatively impact any legal claim by a
+1005 provider or health insurer for breach of contract, statutory or
+1006 regulatory violation, or a common-law cause of action, nor to
+1007 shorten or otherwise negatively impact the statute of
+1008 limitations timeframe for bringing any such legal claim.
+1009 (21) A health insurer is prohibited from requesting
+1010 information from a contracted or noncontracted provider which
+1011 does not apply to the medical condition at issue for the
+1012 purposes of adjudicating a clean claim.
+1013 (22) A health insurer is prohibited from requesting a
+1014 contracted or noncontracted provider to resubmit claim
+1015 information that the contracted or noncontracted provider can
+1016 document it has already provided to the health insurer or that
+1017 is contained inside the electronic medical record to which the
+1018 health insurer has been provided access.
+1019 (23) Notwithstanding any other provision of this section
+1020 to the contrary, a health insurer is prohibited from requiring
+1021 any information from a provider before the provision of
+1022 emergency health care services as a condition of payment of a
+1023 claim, as a basis for denying, delaying, offsetting,
+1024 withholding, or reducing payment of a claim, or in contesting
+1025 whether the claim is a clean claim.
+Page 41 of 64
+CODING: Words stricken are deletions; words underlined are additions.
+hb1015-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1015 2026
+1026 (24) In an instance of a violation of this section, a
+1027 provider shall have a private cause of action to proceed against
+1028 the health insurer in the applicable tribunal for the violation.
+1029 (25)(20)(a) A contract between a health insurer and a
+1030 dentist licensed under chapter 466 for the provision of services
+1031 to an insured is prohibited from specifying may not specify
+1032 credit card payment as the only acceptable method for payments
+1033 from the health insurer to the dentist.
+1034 (b) When a health insurer employs the method of claims
+1035 payment to a dentist through electronic funds transfer,
+1036 including, but not limited to, virtual credit card payment, the
+1037 health insurer shall notify the dentist as provided in this
+1038 paragraph and obtain the dentist's consent before employing the
+1039 electronic funds transfer. The dentist's consent described in
+1040 this paragraph applies to the dentist's entire practice. For the
+1041 purpose of this paragraph, the dentist's consent, which may be
+1042 given through e-mail, must bear the signature of the dentist.
+1043 Such signature includes an electronic or digital signature if
+1044 the form of signature is recognized as a valid signature under
+1045 applicable federal law or state contract law or an act that
+1046 demonstrates express consent, including, but not limited to,
+1047 checking a box indicating consent. The health insurer or dentist
+1048 is prohibited from requiring may not require that a dentist's
+1049 consent as described in this paragraph be made on a patient-by-
+1050 patient basis. The notification provided by the health insurer
+Page 42 of 64
+CODING: Words stricken are deletions; words underlined are additions.
+hb1015-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1015 2026
+1051 to the dentist must include all of the following:
+1052 1. The fees, if any, associated with the electronic funds
+1053 transfer.
+1054 2. The available methods of payment of claims by the
+1055 health insurer, with clear instructions to the dentist on how to
+1056 select an alternative payment method.
+1057 (c) A health insurer that pays a claim to a dentist
+1058 through automated clearinghouse transfer is prohibited from
+1059 charging may not charge a fee solely to transmit the payment to
+1060 the dentist unless the dentist has consented to the fee.
+1061 (d) This subsection applies to contracts delivered,
+1062 issued, or renewed on or after January 1, 2025.
+1063 (e) The office has all rights and powers to enforce this
+1064 subsection as provided by s. 624.307.
+1065 (f) The commission may adopt rules to implement this
+1066 subsection.
+1067 (26)(21)(a) A health insurer is prohibited from denying
+1068 may not deny any claim subsequently submitted by a dentist
+1069 licensed under chapter 466 for procedures specifically included
+1070 in a prior authorization unless at least one of the following
+1071 circumstances applies for each procedure denied:
+1072 1. Benefit limitations, such as annual maximums and
+1073 frequency limitations not applicable at the time of the prior
+1074 authorization, are reached subsequent to issuance of the prior
+1075 authorization.
+Page 43 of 64
+CODING: Words stricken are deletions; words underlined are additions.
+hb1015-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1015 2026
+1076 2. The documentation provided by the person submitting the
+1077 claim fails to support the claim as originally authorized.
+1078 3. Subsequent to the issuance of the prior authorization,
+1079 new procedures are provided to the patient or a change in the
+1080 condition of the patient occurs such that the prior authorized
+1081 procedure would no longer be considered medically necessary,
+1082 based on the prevailing standard of care.
+1083 4. Subsequent to the issuance of the prior authorization,
+1084 new procedures are provided to the patient or a change in the
+1085 patient's condition occurs such that the prior authorized
+1086 procedure would at that time have required disapproval pursuant
+1087 to the terms and conditions for coverage under the patient's
+1088 plan in effect at the time the prior authorization was issued.
+1089 5. The denial of the claim was due to one of the
+1090 following:
+1091 a. Another payor is responsible for payment.
+1092 b. The dentist has already been paid for the procedures
+1093 identified in the claim.
+1094 c. The claim was submitted fraudulently, or the prior
+1095 authorization was based in whole or material part on erroneous
+1096 information provided to the health insurer by the dentist,
+1097 patient, or other person not related to the health insurer.
+1098 d. The person receiving the procedure was not eligible to
+1099 receive the procedure on the date of service.
+1100 e. The services were provided during the grace period
+Page 44 of 64
+CODING: Words stricken are deletions; words underlined are additions.
+hb1015-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1015 2026
+1101 established under s. 627.608 or applicable federal regulations,
+1102 and the dental insurer notified the provider that the patient
+1103 was in the grace period when the provider requested eligibility
+1104 or enrollment verification from the dental insurer, if such
+1105 request was made.
+1106 (b) This subsection applies to all contracts delivered,
+1107 issued, or renewed on or after January 1, 2025.
+1108 (c) The office has all rights and powers to enforce this
+1109 subsection as provided by s. 624.307.
+1110 (d) The commission may adopt rules to implement this
+1111 subsection.
+1112 Section 4. Section 641.3155, Florida Statutes, is amended
+1113 to read:
+1114 641.3155 Prompt payment of claims.—
+1115 (1) As used in this section, the term:
+1116 (a) "Claim" for a noninstitutional provider means a paper
+1117 HCFA 1500 claim form, or its successor, or an electronic billing
+1118 instrument submitted to the health maintenance organization's
+1119 designated location that consists of the ANSI ASC X12N 837P
+1120 standard HCFA 1500 data set, or its successor, that has all
+1121 mandatory entries for a physician licensed under chapter 458,
+1122 chapter 459, chapter 460, chapter 461, or chapter 463, or
+1123 psychologists licensed under chapter 490 or any appropriate
+1124 billing instrument as designated by the provider that has all
+1125 mandatory entries for any other noninstitutional provider. For
+Page 45 of 64
+CODING: Words stricken are deletions; words underlined are additions.
+hb1015-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1015 2026
+1126 institutional providers, "claim" means a paper CMS-1450 claim
+1127 form, or its successor, or an electronic billing instrument
+1128 submitted to the health maintenance organization's designated
+1129 location that consists of the ANSI ASC X12N 837I standard UB-92
+1130 data set or its successor with entries stated as mandatory by
+1131 the National Uniform Billing Committee.
+1132 (b) "Clean claim" means a completed form, or completed
+1133 electronic billing instrument, containing all information
+1134 required under the applicable form or electronic billing
+1135 instrument, as well as information reasonably required by the
+1136 health maintenance organization, other than for emergency
+1137 services and care as defined in s. 641.19, in advance of the
+1138 provision of service by the health maintenance organization to
+1139 substantiate the claim.
+1140 (c) "Electronic medical record" means the digital record
+1141 of a patient's information that may be accessed through
+1142 electronic means, via portal or other method of electronic
+1143 access, which may include information regarding the patient's
+1144 medical history, medical condition, medical treatment,
+1145 laboratory results, diagnostic reports, and clinical notes.
+1146 (d) "Emergency health care service" has the same meaning
+1147 as "emergency services and care" as defined in s. 641.19.
+1148 (e) "Enrollee ineligibility" means that the enrollee was
+1149 no longer enrolled in the health maintenance organization at the
+1150 time of receiving the applicable service.
+Page 46 of 64
+CODING: Words stricken are deletions; words underlined are additions.
+hb1015-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1015 2026
+1151 (f) "Overpayment" means payment made upon a claim that is:
+1152 1. Billed in error;
+1153 2. A duplicate claim; or
+1154 3. Billed for a service rendered to a patient in spite of
+1155 enrollee ineligibility.
+1156
+1157 A request for overpayment is limited to a billing error,
+1158 duplicate bill, or enrollee ineligibility.
+1159 (2) All claims for payment or overpayment, whether
+1160 electronic or nonelectronic:
+1161 (a) Are considered received on the date the claim is
+1162 received by the health maintenance organization at its
+1163 designated claims-receipt location or the date the overpayment a
+1164 claim for overpayment is received by the provider at its
+1165 designated location.
+1166 (b) As to providers' claims for payment, must be mailed or
+1167 electronically transferred to the primary organization within 6
+1168 months after the following have occurred:
+1169 1. Discharge for inpatient services or the date of service
+1170 for outpatient services; and
+1171 2. The provider has been furnished with the correct name
+1172 and address of the patient's health maintenance organization.
+1173
+1174 All providers' claims for payment, whether electronic or
+1175 nonelectronic, must be mailed or electronically transferred to
+Page 47 of 64
+CODING: Words stricken are deletions; words underlined are additions.
+hb1015-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1015 2026
+1176 the secondary organization within 45 90 days after final
+1177 determination by the primary organization. A provider's claim is
+1178 considered submitted on the date it is electronically
+1179 transferred or mailed.
+1180 (c) Must not duplicate a claim previously submitted unless
+1181 it is determined that the original claim was not received or is
+1182 otherwise lost.
+1183 (3) For all electronically submitted claims, a health
+1184 maintenance organization shall:
+1185 (a) Within 24 hours after the beginning of the next
+1186 business day after receipt of the claim, provide to the
+1187 electronic source submitting the claim an electronic
+1188 acknowledgment of the receipt of the claim, accompanied by a
+1189 statement indicating the health maintenance organization's
+1190 position as to whether the claim is a clean claim or whether the
+1191 claim is missing any information that is required under the
+1192 applicable electronic billing instrument described in paragraph
+1193 (1)(a) or that was reasonably required by the health maintenance
+1194 organization, other than for emergency health care services, in
+1195 advance of the provision of service to substantiate to the
+1196 electronic source submitting the claim, and the health
+1197 maintenance organization asserts is missing as of the date of
+1198 service.
+1199 (b) Within 15 20 days after receipt of the claim, pay the
+1200 claim or notify a provider or designee if a claim is denied or
+Page 48 of 64
+CODING: Words stricken are deletions; words underlined are additions.
+hb1015-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1015 2026
+1201 contested. Notice of the health maintenance organization's
+1202 action on the claim and payment of the claim is considered to be
+1203 made on the date the notice or payment was received by the
+1204 provider mailed or electronically transferred.
+1205 (c)1. Notification of the health maintenance
+1206 organization's determination of a contested claim must be
+1207 accompanied by an itemized list of any additional information
+1208 required under the applicable billing instrument described in
+1209 paragraph (1)(a) or that was reasonably required by the health
+1210 maintenance organization, other than for emergency health care
+1211 services, in advance of the provision of service to substantiate
+1212 the claim, and the health maintenance organization asserts is
+1213 missing as of the date of such service or documents the insurer
+1214 can reasonably determine are necessary to process the claim.
+1215 2. A provider must submit the additional information or
+1216 documentation, as specified on the itemized list, within 30 35
+1217 days after receipt of the notification of contestation unless,
+1218 within the 30-day period, the provider notifies the health
+1219 maintenance organization of the provider's position that a clean
+1220 claim has been submitted. Additional information is considered
+1221 submitted on the date it is electronically transferred or
+1222 mailed. The health maintenance organization is prohibited from
+1223 requesting may not request duplicate documents.
+1224 (d) For purposes of this subsection, electronic means of
+1225 transmission of claims, notices, documents, forms, and payment
+Page 49 of 64
+CODING: Words stricken are deletions; words underlined are additions.
+hb1015-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1015 2026
+1226 shall be used to the greatest extent possible by the health
+1227 maintenance organization and the provider.
+1228 (e) A claim that was contested by the health maintenance
+1229 organization must be paid or denied within 30 90 days after
+1230 receipt of the additional information requested claim. Failure
+1231 to pay or deny a claim within 90 120 days after receipt of the
+1232 claim, regardless of whether contested by the health maintenance
+1233 organization, creates an uncontestable obligation to pay the
+1234 claim.
+1235 (4) For all nonelectronically submitted claims, a health
+1236 maintenance organization shall:
+1237 (a) Within 15 days following receipt of the claim
+1238 Effective November 1, 2003, provide to the provider, or
+1239 designee, who submitted the claim:
+1240 1. An acknowledgment of receipt of the claim, accompanied
+1241 by a statement indicating the health maintenance organization's
+1242 position as to whether the claim is a clean claim or the claim
+1243 is missing any information that is required under the applicable
+1244 paper billing form, as described in paragraph (1)(a), or that
+1245 was reasonably required by the health maintenance organization,
+1246 other than for emergency health care services, in advance of the
+1247 provision of service to substantiate the claim, and the health
+1248 maintenance organization asserts is missing as of the date of
+1249 service; or
+1250 2. within 15 days after receipt of the claim to the
+Page 50 of 64
+CODING: Words stricken are deletions; words underlined are additions.
+hb1015-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1015 2026
+1251 provider or designee or provide a provider or designee within 15
+1252 days after receipt with Electronic access to the status of the a
+1253 submitted claim, which status must indicate the health
+1254 maintenance organization's position as to whether the claim is a
+1255 clean claim or missing any information described in subparagraph
+1256 1.
+1257 (b) Within 30 40 days after receipt of the claim, pay the
+1258 claim or notify a provider or designee if a claim is denied or
+1259 contested. Notice of the health maintenance organization's
+1260 action on the claim and payment of the claim is considered to be
+1261 made on the date the notice or payment was received by the
+1262 provider mailed or electronically transferred.
+1263 (c)1. Notification of the health maintenance
+1264 organization's determination of a contested claim must be
+1265 accompanied by an itemized list of any additional information
+1266 required under the applicable form or billing instrument
+1267 described in paragraph (1)(a), or that was reasonably required
+1268 by the health maintenance organization, other than for emergency
+1269 health care services, in advance of the provision of service to
+1270 substantiate the claim, and the health maintenance organization
+1271 asserts is missing as of the date of such service or documents
+1272 the organization can reasonably determine are necessary to
+1273 process the claim.
+1274 2. A provider must submit the additional information or
+1275 documentation, as specified on the itemized list, within 30 35
+Page 51 of 64
+CODING: Words stricken are deletions; words underlined are additions.
+hb1015-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1015 2026
+1276 days after receipt of the notification of contestation unless,
+1277 within the 30-day period, the provider notifies the health
+1278 maintenance organization of the provider's position that a clean
+1279 claim has been submitted. Additional information is considered
+1280 submitted on the date it is electronically transferred or
+1281 mailed. The health maintenance organization is prohibited from
+1282 requesting may not request duplicate documents.
+1283 (d) For purposes of this subsection, electronic means of
+1284 transmission of claims, notices, documents, forms, and payments
+1285 shall be used to the greatest extent possible by the health
+1286 maintenance organization and the provider.
+1287 (e) A claim that was contested by the health maintenance
+1288 organization must be paid or denied within 30 120 days after
+1289 receipt of the additional information requested claim. Failure
+1290 to pay or deny a claim within 90 140 days after receipt of the
+1291 claim, regardless of whether contested by the health maintenance
+1292 organization, creates an uncontestable obligation to pay the
+1293 claim as submitted by the provider.
+1294 (5) Regardless of whether a claim has been submitted
+1295 electronically or nonelectronically, and notwithstanding any
+1296 other provision of this section to the contrary:
+1297 (a) Once a provider grants a health maintenance
+1298 organization access to a patient's electronic medical record,
+1299 the provider shall be deemed to have supplied all information
+1300 necessary to pay the claim, including, without limitation, all
+Page 52 of 64
+CODING: Words stricken are deletions; words underlined are additions.
+hb1015-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1015 2026
+1301 information that is required under the applicable billing
+1302 instrument and that was reasonably required by the health
+1303 maintenance organization, other than for emergency health care
+1304 services, in advance of the provision of service to substantiate
+1305 the claim. Additional information or documentation, regardless
+1306 of whether the health maintenance organization requests any
+1307 additional information, shall be deemed unnecessary, and deemed
+1308 not required for payment of the claim, and any request for
+1309 additional information, and any position of the health
+1310 maintenance organization or any third party acting on behalf of
+1311 the health maintenance organization regarding any lack of
+1312 information from the provider, is prohibited from being used to
+1313 deny, reduce, offset, withhold, pend, or delay payment of the
+1314 claim.
+1315 (b) For instances in which notice of access to the
+1316 electronic medical record has been provided to the health
+1317 maintenance organization, the claim must be paid or denied
+1318 within 30 days of such notice to the health maintenance
+1319 organization. Failure to pay or deny a claim, for which the
+1320 health maintenance organization has been provided notice of
+1321 access to the electronic medical record within 75 days after
+1322 receipt of such notice creates an uncontestable obligation to
+1323 pay the claim as submitted by the provider.
+1324 (6)(5) If a health maintenance organization determines
+1325 that it has made an overpayment to a provider for services
+Page 53 of 64
+CODING: Words stricken are deletions; words underlined are additions.
+hb1015-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1015 2026
+1326 rendered to an enrollee a subscriber, the health maintenance
+1327 organization must make an overpayment a claim for such
+1328 overpayment to the provider's designated location. A health
+1329 maintenance organization that makes an overpayment a claim for
+1330 overpayment to a provider under this section shall give the
+1331 provider a written or electronic statement specifying the basis
+1332 for the retrospective retroactive denial or payment adjustment.
+1333 The health maintenance organization must also identify the claim
+1334 or claims, or overpayment claim portion thereof, as to which the
+1335 health maintenance organization alleges overpayment; and the
+1336 specific invoice number submitted with or on the claim, as well
+1337 as the specific line items on the bill that are subject to the
+1338 overpayment claim for which a claim for overpayment is
+1339 submitted. Except as provided in subparagraph (a)3., there shall
+1340 be no denial, reduction, offset, withholding, pending, or delay
+1341 of payment, or other negative impact, regardless of whether by
+1342 the health maintenance organization or any third party acting on
+1343 behalf of such health maintenance organization, on payment of
+1344 any other claim of the provider on the basis of the overpayment
+1345 allegation.
+1346 (a) If an overpayment determination is the result of
+1347 retrospective retroactive review or retrospective audit of
+1348 coverage decisions or payment levels not related to fraud, a
+1349 health maintenance organization shall adhere to the following
+1350 procedures:
+Page 54 of 64
+CODING: Words stricken are deletions; words underlined are additions.
+hb1015-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1015 2026
+1351 1. All overpayment claims for overpayment must be received
+1352 by the submitted to a provider within 18 30 months after the
+1353 health maintenance organization's payment of the claim. A
+1354 provider must pay, deny, or contest the health maintenance
+1355 organization's overpayment claim for overpayment within 40 days
+1356 after the receipt of the overpayment claim. All contested
+1357 overpayment claims for overpayment must be paid or denied within
+1358 120 days after receipt of the overpayment claim. Failure to pay
+1359 or deny an overpayment and claim within 140 days after receipt
+1360 creates an uncontestable obligation to pay the overpayment
+1361 claim.
+1362 2. A provider that denies or contests a health maintenance
+1363 organization's overpayment claim for overpayment or any portion
+1364 of an overpayment a claim shall notify the health maintenance
+1365 organization, in writing, within 40 35 days after the provider
+1366 receives the overpayment claim that the overpayment claim for
+1367 overpayment is contested or denied. The notice that the
+1368 overpayment claim for overpayment is denied or contested must
+1369 identify the denied or contested portion of the claim and the
+1370 specific reason for contesting or denying the overpayment claim
+1371 and, if contested, must include a request for additional
+1372 information. If the health maintenance organization submits
+1373 additional information, the health maintenance organization
+1374 must, within 35 days after receipt of the request, mail or
+1375 electronically transfer the information to the provider. The
+Page 55 of 64
+CODING: Words stricken are deletions; words underlined are additions.
+hb1015-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1015 2026
+1376 provider shall pay or deny the overpayment claim for overpayment
+1377 within 45 days after receipt of the information. The notice from
+1378 the provider regarding denial or contestation of the overpayment
+1379 claim is considered made on the date the notice is mailed or
+1380 electronically transferred by the provider.
+1381 3. The health maintenance organization is prohibited from
+1382 denying, reducing, offsetting, withholding, pending, or delaying
+1383 may not reduce payment to the provider for other services unless
+1384 the provider agrees to the denial, reduction, offset,
+1385 withholding, pending, or delay of payment in writing or fails to
+1386 respond to the health maintenance organization's overpayment
+1387 claim as required by this paragraph.
+1388 4. Payment of an overpayment claim is considered made on
+1389 the date the payment was mailed or electronically transferred.
+1390 An overdue payment of a claim bears simple interest at the rate
+1391 of 12 percent per year. Interest on an overdue payment for an
+1392 overpayment a claim for an overpayment payment begins to accrue
+1393 when the overpayment claim should have been paid, denied, or
+1394 contested.
+1395 (b) An overpayment A claim is prohibited for overpayment
+1396 shall not be permitted beyond 18 30 months after the health
+1397 maintenance organization's payment of a claim, except that
+1398 overpayment claims for overpayment may be sought beyond that
+1399 time from providers convicted of fraud pursuant to s. 817.234.
+1400 (7)(6) Payment of a claim is considered made on the date
+Page 56 of 64
+CODING: Words stricken are deletions; words underlined are additions.
+hb1015-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1015 2026
+1401 the payment was mailed or electronically transferred to the
+1402 provider. An overdue payment of a claim bears simple interest of
+1403 15 12 percent per year, to be calculated upon the full total
+1404 amount that should have been paid on the claim within the
+1405 applicable time period specified in this section. If an
+1406 applicable court, arbitration tribunal, or other binding legal
+1407 process determines that a claim that was paid at a lesser amount
+1408 should have been paid at a full total amount, whether under a
+1409 breach of contract legal claim, a legal claim under a statutory
+1410 private cause of action, or other basis, the 15 percent per year
+1411 interest shall be calculated upon the full total amount, rather
+1412 than upon the difference between the full total amount and the
+1413 amount that was actually paid. If an applicable court,
+1414 arbitration tribunal, or other binding legal process determines
+1415 that a claim was subject to an inappropriate or impermissible
+1416 denial or partial denial, whether in a breach of contract,
+1417 statute, common law, or otherwise, interest shall be calculated
+1418 upon the full total amount that should have been paid on the
+1419 claim within the applicable time period for payment specified in
+1420 this section, and the act of denial or partial denial shall be
+1421 deemed not to have in any way tolled the time period for such
+1422 payment. Interest on the full total amount that should have been
+1423 paid on the claim within the applicable time period specified in
+1424 this section an overdue payment for a claim or for any portion
+1425 of a claim begins to accrue when the claim should have been
+Page 57 of 64
+CODING: Words stricken are deletions; words underlined are additions.
+hb1015-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1015 2026
+1426 paid, denied, or contested. The interest must be paid along
+1427 with, and in addition to, the payment for the satisfaction of
+1428 the full total amount of the claim, as determined by an
+1429 applicable court, arbitration tribunal, or other binding legal
+1430 process is payable with the payment of the claim.
+1431 (8)(7) For all contracts entered into or renewed on or
+1432 after October 1, 2002, a health maintenance organization's
+1433 internal dispute resolution process related to a denied claim
+1434 not under active review by a mediator, arbitrator, or third-
+1435 party dispute entity must be finalized within 60 days after the
+1436 receipt of the provider's request for review or appeal.
+1437 Notwithstanding any provision of this section to the contrary,
+1438 if the provider and health maintenance organization disagree as
+1439 to the interpretation of contractual or statutory language, the
+1440 provider is not required to participate in the health
+1441 maintenance organization's internal dispute resolution process.
+1442 (9)(8) A provider or any representative of a provider,
+1443 regardless of whether the provider is under contract with the
+1444 health maintenance organization, is prohibited from collecting
+1445 or attempting may not collect or attempt to collect money from,
+1446 maintaining maintain any action at law against, or reporting
+1447 report to a credit agency an enrollee a subscriber for payment
+1448 of covered services for which the health maintenance
+1449 organization contested or denied the provider's claim. This
+1450 prohibition applies during the pendency of any claim for payment
+Page 58 of 64
+CODING: Words stricken are deletions; words underlined are additions.
+hb1015-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1015 2026
+1451 made by the provider to the health maintenance organization for
+1452 payment of the services or internal dispute resolution process
+1453 to determine whether the health maintenance organization is
+1454 liable for the services. For a claim, this pendency applies from
+1455 the date the claim or a portion of the claim is denied to the
+1456 date of the completion of the health maintenance organization's
+1457 internal dispute resolution process, not to exceed 60 days. This
+1458 subsection does not prohibit collection by the provider of
+1459 copayments, coinsurance, or deductible amounts due the provider.
+1460 (9) The provisions of this section may not be waived,
+1461 voided, or nullified by contract.
+1462 (10) A health maintenance organization is prohibited from
+1463 retrospectively denying may not retroactively deny a claim
+1464 because of enrollee subscriber ineligibility more than 90 days 1
+1465 year after the date of payment of the claim.
+1466 (11) A health maintenance organization shall pay a
+1467 contracted primary care or admitting physician, pursuant to such
+1468 physician's contract, for providing inpatient services in a
+1469 contracted hospital to an enrollee a subscriber if such services
+1470 are determined by the primary care physician or admitting
+1471 physician health maintenance organization to be medically
+1472 necessary and such services are covered services under the
+1473 health maintenance organization's contract with the contract
+1474 holder.
+1475 (12) A permissible error ratio of 5 percent is established
+Page 59 of 64
+CODING: Words stricken are deletions; words underlined are additions.
+hb1015-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1015 2026
+1476 for health maintenance organizations' claims payment violations
+1477 of paragraphs (3)(a), (b), (c), and (e) and (4)(a), (b), (c),
+1478 and (e). If the error ratio of a particular health maintenance
+1479 organization insurer does not exceed the permissible error ratio
+1480 of 5 percent for an audit period, no fine shall be assessed for
+1481 the noted claims violations for the audit period. The error
+1482 ratio shall be determined by dividing the number of claims with
+1483 violations found on a statistically valid sample of claims for
+1484 the audit period by the total number of claims in the sample. If
+1485 the error ratio exceeds the permissible error ratio of 5
+1486 percent, a fine may be assessed according to s. 624.4211 for
+1487 those claims payment violations which exceed the error ratio.
+1488 Notwithstanding the provisions of this section, the office may
+1489 fine a health maintenance organization for claims payment
+1490 violations of paragraphs (3)(e) and (4)(e) which create an
+1491 uncontestable obligation to pay the claim as submitted by the
+1492 provider. The office shall refrain from imposing a not fine upon
+1493 a health maintenance organization organizations for violations
+1494 which the office determines were due to circumstances beyond the
+1495 organization's control.
+1496 (13) This section shall apply to all claims or any portion
+1497 of a claim submitted for payment for services provided to an
+1498 enrollee by a health maintenance organization subscriber under a
+1499 health maintenance organization plan, or submitted for payment
+1500 for services provided to an enrollee under a self-insured plan
+Page 60 of 64
+CODING: Words stricken are deletions; words underlined are additions.
+hb1015-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1015 2026
+1501 or fund, or fully-insured plan or fund, offered by a person or
+1502 entity, when a health maintenance organization is involved in
+1503 the administration, or claims-processing activities, relating to
+1504 such plan or fund subscriber contract to the organization for
+1505 payment.
+1506 (14) Notwithstanding paragraph (3)(b), where an electronic
+1507 pharmacy claim is submitted to a pharmacy benefits manager
+1508 acting on behalf of a health maintenance organization, the
+1509 pharmacy benefits manager shall, within 30 days after of receipt
+1510 of the claim, pay the claim or notify a provider or designee if
+1511 a claim is denied or contested. Notice of the health maintenance
+1512 organization's action on the claim and payment of the claim is
+1513 considered to be made on the date the notice or payment was
+1514 received by the provider mailed or electronically transferred.
+1515 (15) Notwithstanding paragraph (4)(a), effective November
+1516 1, 2003, where a nonelectronic pharmacy claim is submitted to a
+1517 pharmacy benefits manager acting on behalf of a health
+1518 maintenance organization, the pharmacy benefits manager shall
+1519 provide acknowledgment of receipt of the claim within 30 days
+1520 after receipt of the claim to the provider or provide a provider
+1521 within 30 days after receipt with electronic access to the
+1522 status of a submitted claim.
+1523 (16) Notwithstanding the 18-month 30-month period provided
+1524 in subsection (6) (5), all claims for overpayment submitted to a
+1525 provider licensed under chapter 395, chapter 458, chapter 459,
+Page 61 of 64
+CODING: Words stricken are deletions; words underlined are additions.
+hb1015-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1015 2026
+1526 chapter 460, chapter 461, chapter 463, chapter 466, or chapter
+1527 490 must be submitted to the provider within 12 months after the
+1528 health maintenance organization's payment of the claim. An
+1529 overpayment A claim to a provider licensed under chapter 395,
+1530 458, chapter 459, chapter 460, chapter 461, chapter 463, chapter
+1531 466, or chapter 490 is prohibited for overpayment may not be
+1532 permitted beyond 12 months after the health maintenance
+1533 organization's payment of a claim, except that claims for
+1534 overpayment may be sought beyond that time from providers
+1535 convicted of fraud pursuant to s. 817.234.
+1536 (17) Notwithstanding any other provision of this section,
+1537 all claims for underpayment from a provider licensed under
+1538 chapter 395, chapter 458, chapter 459, chapter 460, chapter 461,
+1539 or chapter 466 must be submitted to the health maintenance
+1540 organization within 12 months after the health maintenance
+1541 organization's payment of the claim. A claim for underpayment by
+1542 a provider licensed under chapter 395, 458, chapter 459, chapter
+1543 460, chapter 461, or chapter 466 is prohibited may not be
+1544 permitted beyond 12 months after the health maintenance
+1545 organization's payment of a claim.
+1546 (18) Nothing in this section shall be interpreted to
+1547 limit, restrict, or negatively impact any legal claim by a
+1548 provider or health maintenance organization for breach of
+1549 contract, statutory or regulatory violation, or a common-law
+1550 cause of action, nor to shorten or otherwise negatively impact
+Page 62 of 64
+CODING: Words stricken are deletions; words underlined are additions.
+hb1015-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1015 2026
+1551 the statute of limitations timeframe for bringing any such legal
+1552 claim.
+1553 (19) A health insurer is prohibited from requesting
+1554 information from a contracted or noncontracted provider which
+1555 does not apply to the medical condition at issue for the
+1556 purposes of adjudicating a clean claim.
+1557 (20) A health maintenance organization is prohibited from
+1558 requesting a contracted or noncontracted provider to resubmit
+1559 claim information that the contracted or noncontracted provider
+1560 can document it has already provided to the health maintenance
+1561 organization or that is contained inside the electronic medical
+1562 record to which the health maintenance organization has been
+1563 provided access.
+1564 (21) Notwithstanding any other provision of this section
+1565 to the contrary, a health maintenance organization is prohibited
+1566 from requiring any information from a provider before the
+1567 provision of emergency health care services as a condition of
+1568 payment of a claim, as a basis for denying, delaying,
+1569 offsetting, withholding, or reducing payment of a claim, or in
+1570 contesting whether the claim is a clean claim.
+1571 (22) In an instance of a violation of this section, a
+1572 provider shall have a private cause of action to proceed against
+1573 the health maintenance organization in the applicable tribunal
+1574 for the violation.
+1575 Section 5. Paragraph (c) of subsection (2) of section
+Page 63 of 64
+CODING: Words stricken are deletions; words underlined are additions.
+hb1015-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1015 2026
+1576 395.1065, Florida Statutes, is amended to read:
+1577 395.1065 Criminal and administrative penalties;
+1578 moratorium.—
+1579 (2)
+1580 (c) The agency may impose an administrative fine for the
+1581 violation of s. 641.3154 or, if sufficient claims due to a
+1582 provider from a health maintenance organization do not exist to
+1583 enable the take-back of an overpayment, as provided under s.
+1584 641.3155(6) s. 641.3155(5), for the violation of s. 641.3155(5)
+1585 s. 641.3155(5). The administrative fine for a violation cited in
+1586 this paragraph shall be in the amounts specified in s.
+1587 641.52(5), and the provisions of paragraph (a) do not apply.
+1588 Section 6. This act shall take effect July 1, 2026.
+Page 64 of 64
+CODING: Words stricken are deletions; words underlined are additions.
+hb1015-00

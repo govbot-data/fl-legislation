@@ -1,0 +1,1444 @@
+Title: 
+Official Title: 
+Source: versions - H 381 c1
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 381 2026
+1 A bill to be entitled
+2 An act relating to the Office of Financial Regulation;
+3 creating s. 494.00123, F.S.; providing definitions;
+4 requiring loan originators, mortgage brokers, and
+5 mortgage lenders to develop, implement, and maintain
+6 comprehensive written information security programs
+7 for the protection of information systems and
+8 nonpublic personal information; providing requirements
+9 for such programs; requiring loan originators,
+10 mortgage brokers, and mortgage lenders to establish
+11 written incident response plans for specified
+12 purposes; providing requirements for such plans;
+13 providing applicability; providing compliance
+14 requirements under specified circumstances; requiring
+15 loan originators, mortgage brokers, and mortgage
+16 lenders to maintain copies of information security
+17 programs for a specified timeframe and to make them
+18 available to the Office of Financial Regulation under
+19 certain circumstances; providing requirements for
+20 notices of security breaches; providing construction;
+21 requiring the Financial Services Commission to adopt
+22 rules; amending s. 494.00255, F.S.; providing
+23 additional acts that constitute a ground for specified
+24 disciplinary actions against loan originators and
+25 mortgage brokers; amending s. 517.021, F.S.; revising
+Page 1 of 47
+CODING: Words stricken are deletions; words underlined are additions.
+hb381-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 381 2026
+26 the definition of the term "investment adviser" and
+27 defining the term "place of business"; amending s.
+28 517.061, F.S.; revising the definition of the term
+29 "family office"; creating s. 520.135, F.S.; specifying
+30 that the rights and obligations of parties with
+31 respect to a surrendered or repossessed motor vehicle
+32 are exclusively governed by certain provisions;
+33 amending s. 560.114, F.S.; specifying the entities
+34 that are subject to certain disciplinary actions and
+35 penalties; revising the list of actions by money
+36 services businesses which constitute grounds for
+37 certain disciplinary actions and penalties; providing
+38 requirements for emergency suspension orders that
+39 suspend money services business licenses; providing
+40 that an emergency suspension order is effective when
+41 the licensee against whom the order is directed has
+42 actual or constructive knowledge; requiring the office
+43 to institute proceedings within a specified timeframe
+44 after issuance of an emergency suspension order;
+45 authorizing a licensee subject to an emergency
+46 suspension order to seek judicial review; requiring,
+47 rather than authorizing, the office to suspend
+48 licenses of money services businesses under certain
+49 circumstances; creating s. 560.1311, F.S.; providing
+50 definitions; requiring money services businesses to
+Page 2 of 47
+CODING: Words stricken are deletions; words underlined are additions.
+hb381-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 381 2026
+51 develop, implement, and maintain comprehensive written
+52 information security programs for the protection of
+53 information systems and nonpublic personal
+54 information; providing requirements for such programs;
+55 requiring money services businesses to establish
+56 written incident response plans for specified
+57 purposes; providing requirements for such plans;
+58 providing applicability; providing compliance
+59 requirements under specified circumstances; requiring
+60 money services businesses to maintain copies of
+61 information security programs for a specified
+62 timeframe and to make them available to the office
+63 under certain circumstances; providing requirements
+64 for notices of security breaches; providing
+65 construction; requiring the commission to adopt rules;
+66 amending s. 560.309, F.S.; providing that licensees
+67 must comply with the Fair Debt Collections Practices
+68 Act only if the licensees meet certain criteria;
+69 amending s. 560.405, F.S.; providing that a debit card
+70 transaction shall be treated the same as cash
+71 transactions and prohibiting redemption through a
+72 credit card transaction; amending s. 560.406, F.S.;
+73 providing that licensees must comply with the Fair
+74 Debt Collections Practices Act only if the licensees
+75 meet certain criteria; creating s. 655.0171, F.S.;
+Page 3 of 47
+CODING: Words stricken are deletions; words underlined are additions.
+hb381-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 381 2026
+76 providing definitions; requiring financial
+77 institutions to take measures to protect and secure
+78 certain data that contain personal information;
+79 providing requirements for notices of security
+80 breaches to the office, the Department of Legal
+81 Affairs, certain individuals, and certain credit
+82 reporting agencies; amending s. 655.045, F.S.;
+83 revising the timeline for the mailing of payment for
+84 salary and travel expenses of certain field staff;
+85 amending s. 657.005, F.S.; revising requirements for
+86 permission to organize credit unions; amending s.
+87 657.024, F.S.; authorizing meetings of credit union
+88 members to be held virtually without an in-person
+89 quorum and authorizing virtual attendance to satisfy
+90 quorum requirements under certain circumstances;
+91 amending s. 657.042, F.S.; removing provisions that
+92 impose limitations on investments in real estate and
+93 equipment for credit unions; amending s. 658.21, F.S.;
+94 revising requirements and factors for approving
+95 applications for organizing banks and trust companies;
+96 amending s. 658.33, F.S.; revising requirements for
+97 directors of certain banks and trust companies;
+98 amending s. 662.141, F.S.; revising the timeline for
+99 the mailing of payment for the salary and travel
+100 expenses of certain field staff; amending s. 517.12,
+Page 4 of 47
+CODING: Words stricken are deletions; words underlined are additions.
+hb381-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 381 2026
+101 F.S.; conforming a cross-reference; providing an
+102 effective date.
+103
+104 Be It Enacted by the Legislature of the State of Florida:
+105
+106 Section 1. Section 494.00123, Florida Statutes, is created
+107 to read:
+108 494.00123 Information security programs.—
+109 (1) DEFINITIONS.—As used in this section, the term:
+110 (a) "Customer" means a person who seeks to obtain or who
+111 obtains or has obtained a financial product or service from a
+112 licensee.
+113 (b) "Customer information" means any record containing
+114 nonpublic personal information about a customer of a financial
+115 transaction, whether on paper, electronic, or in other forms,
+116 which is handled or maintained by or on behalf of the licensee
+117 or its affiliates.
+118 (c) "Cybersecurity event" means an event resulting in
+119 unauthorized access to, or disruption or misuse of, an
+120 information system, information stored on such information
+121 system, or customer information held in physical form.
+122 (d) "Financial product or service" means any product or
+123 service offered by a licensee under this chapter.
+124 (e) "Information security program" means the
+125 administrative, technical, or physical safeguards used to
+Page 5 of 47
+CODING: Words stricken are deletions; words underlined are additions.
+hb381-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 381 2026
+126 access, collect, distribute, process, protect, store, use,
+127 transmit, dispose of, or otherwise handle customer information.
+128 (f) "Information system" means a discrete set of
+129 electronic information resources organized for the collection,
+130 processing, maintenance, use, sharing, dissemination, or
+131 disposition of electronic information, as well as any
+132 specialized system such as an industrial process control system,
+133 telephone switching and private branch exchange system, or
+134 environmental control system, which contain customer information
+135 or which are connected to a system that contains customer
+136 information.
+137 (g) "Licensee" means a person licensed under this chapter.
+138 (h)1. "Nonpublic personal information" means:
+139 a. Personally identifiable financial information; and
+140 b. Any list, description, or other grouping of customers
+141 that is derived using any personally identifiable financial
+142 information that is not publicly available, such as account
+143 numbers, including any list of individuals' names and street
+144 addresses that is derived, in whole or in part, using personally
+145 identifiable financial information that is not publicly
+146 available.
+147 2. The term does not include:
+148 a. Publicly available information, except as included on a
+149 list, description, or other grouping of customers described in
+150 sub-subparagraph 1.b.;
+Page 6 of 47
+CODING: Words stricken are deletions; words underlined are additions.
+hb381-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 381 2026
+151 b. Any list, description, or other grouping of consumers,
+152 or any publicly available information pertaining to such list,
+153 description, or other grouping of consumers, which is derived
+154 without using any personally identifiable financial information
+155 that is not publicly available; or
+156 c. Any list of individuals' names and addresses that
+157 contains only publicly available information, is not derived, in
+158 whole or in part, using personally identifiable financial
+159 information that is not publicly available, and is not disclosed
+160 in a manner that indicates that any of the individuals on the
+161 list is a customer of a licensee.
+162 3. As used in this paragraph, the term:
+163 a.(I) "Personally identifiable financial information"
+164 means any information that:
+165 (A) A customer provides to a licensee to obtain a
+166 financial product or service, such as information that a
+167 customer provides to a licensee on an application to obtain a
+168 loan or other financial product or service;
+169 (B) A licensee receives about a consumer that is obtained
+170 during or as a result of any transaction involving a financial
+171 product or service between the licensee and the customer, such
+172 as information collected through an information-collecting
+173 device from a web server; or
+174 (C) A licensee otherwise obtains about a customer in
+175 connection with providing a financial product or service to the
+Page 7 of 47
+CODING: Words stricken are deletions; words underlined are additions.
+hb381-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 381 2026
+176 customer, such as the fact that an individual is or has been one
+177 of the licensee's customers or has obtained a financial product
+178 or service from the licensee.
+179 (II) The term "personally identifiable financial
+180 information" does not include:
+181 (A) A list of names and addresses of customers of an
+182 entity that is not a financial institution; or
+183 (B) Information that does not identify a customer, such as
+184 blind data or aggregate information that does not contain
+185 personal identifiers such as account numbers, names, or
+186 addresses.
+187 b.(I) "Publicly available information" means any
+188 information that a licensee has a reasonable basis to believe is
+189 lawfully made available to the general public from:
+190 (A) Federal, state, or local government records, such as
+191 government real estate records or security interest filings;
+192 (B) Widely distributed media, such as information from a
+193 telephone records repository or directory, a television or radio
+194 program, a newspaper, a social media platform, or a website that
+195 is available to the general public on an unrestricted basis. A
+196 website is not restricted merely because an Internet service
+197 provider or a site operator requires a fee or a password, so
+198 long as access is available to the general public; or
+199 (C) Disclosures to the general public which are required
+200 to be made by federal, state, or local law.
+Page 8 of 47
+CODING: Words stricken are deletions; words underlined are additions.
+hb381-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 381 2026
+201 (II) As used in this sub-subparagraph, the term
+202 "reasonable basis to believe is lawfully made available to the
+203 general public" relating to any information means that the
+204 person has taken steps to determine:
+205 (A) That the information is of the type that is available
+206 to the general public, such as information included on the
+207 public record in the jurisdiction where the mortgage would be
+208 recorded; and
+209 (B) Whether an individual can direct that the information
+210 not be made available to the general public and, if so, the
+211 customer to whom the information relates has not done so, such
+212 as when a telephone number is listed in a telephone directory
+213 and the customer has informed the licensee that the telephone
+214 number is not unlisted.
+215 (i) "Third-party service provider" means a person, other
+216 than a licensee, which contracts with a licensee to maintain,
+217 process, or store nonpublic personal information, or is
+218 otherwise permitted access to nonpublic personal information
+219 through its provision of services to a licensee.
+220 (2) INFORMATION SECURITY PROGRAM.—
+221 (a) Each licensee shall develop, implement, and maintain a
+222 comprehensive written information security program that contains
+223 administrative, technical, and physical safeguards for the
+224 protection of the licensee's information system and nonpublic
+225 personal information.
+Page 9 of 47
+CODING: Words stricken are deletions; words underlined are additions.
+hb381-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 381 2026
+226 (b) Each licensee shall ensure that the information
+227 security program meets all of the following criteria:
+228 1. Be commensurate with the following measures:
+229 a. Size and complexity of the licensee.
+230 b. Nature and scope of the licensee's activities,
+231 including the licensee's use of third-party service providers.
+232 c. Sensitivity of nonpublic personal information that is
+233 used by the licensee or that is in the licensee's possession,
+234 custody, or control.
+235 2. Be designed to do all of the following:
+236 a. Protect the security and confidentiality of nonpublic
+237 personal information and the security of the licensee's
+238 information system.
+239 b. Protect against threats or hazards to the security or
+240 integrity of nonpublic personal information and the licensee's
+241 information system.
+242 c. Protect against unauthorized access to or the use of
+243 nonpublic personal information and minimize the likelihood of
+244 harm to any customer.
+245 3. Define and periodically reevaluate the retention
+246 schedule and the mechanism for the destruction of nonpublic
+247 personal information if retention is no longer necessary for the
+248 licensee's business operations or is no longer required by
+249 applicable law.
+250 4. Regularly test and monitor systems and procedures for
+Page 10 of 47
+CODING: Words stricken are deletions; words underlined are additions.
+hb381-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 381 2026
+251 the detection of actual and attempted attacks on, or intrusions
+252 into, the licensee's information system.
+253 5. Be monitored, evaluated, and adjusted, as necessary, to
+254 meet all of the following requirements:
+255 a. Determine whether the licensee's information security
+256 program is consistent with relevant changes in technology.
+257 b. Confirm the licensee's information security program
+258 accounts for the sensitivity of nonpublic personal information.
+259 c. Identify changes that may be necessary to the
+260 licensee's information system.
+261 d. Mitigate any internal or external threats to nonpublic
+262 personal information.
+263 e. Amend the licensee's information security program for
+264 any of the licensee's changing business arrangements, including,
+265 but not limited to, mergers and acquisitions, alliances and
+266 joint ventures, and outsourcing arrangements.
+267 (c)1. As part of a licensee's information security
+268 program, the licensee shall establish a written incident
+269 response plan designed to promptly respond to, and recover from,
+270 a cybersecurity event that compromises:
+271 a. The confidentiality, integrity, or availability of
+272 nonpublic personal information in the licensee's possession;
+273 b. The licensee's information system; or
+274 c. The continuing functionality of any aspect of the
+275 licensee's operations.
+Page 11 of 47
+CODING: Words stricken are deletions; words underlined are additions.
+hb381-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 381 2026
+276 2. The written incident response plan must address all of
+277 the following:
+278 a. The licensee's internal process for responding to a
+279 cybersecurity event.
+280 b. The goals of the licensee's incident response plan.
+281 c. The assignment of clear roles, responsibilities, and
+282 levels of decisionmaking authority for the licensee's personnel
+283 that participate in the incident response plan.
+284 d. External communications, internal communications, and
+285 information sharing related to a cybersecurity event.
+286 e. The identification of remediation requirements for
+287 weaknesses identified in information systems and associated
+288 controls.
+289 f. The documentation and reporting regarding cybersecurity
+290 events and related incident response activities.
+291 g. The evaluation and revision of the incident response
+292 plan, as appropriate, following a cybersecurity event.
+293 h. The process by which notice must be given as required
+294 under subsection (3) and s. 501.171(3) and (4).
+295 (d)1. This section does not apply to a licensee that has
+296 fewer than:
+297 a. Twenty individuals on its workforce, including
+298 employees and independent contractors; or
+299 b. Five hundred customers during a calendar year.
+300 2. A licensee that no longer qualifies for exemption under
+Page 12 of 47
+CODING: Words stricken are deletions; words underlined are additions.
+hb381-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 381 2026
+301 subparagraph 1. has 180 calendar days to comply with this
+302 section after the date of the disqualification.
+303 (e) Each licensee shall maintain a copy of the information
+304 security program for a minimum of 5 years and shall make it
+305 available to the office upon request or as part of an
+306 examination.
+307 (3) NOTICE TO OFFICE OF SECURITY BREACH.—Each licensee
+308 shall provide notice to the office of any breach of security
+309 affecting 500 or more individuals in this state at a time and in
+310 the manner prescribed by commission rule.
+311 (4) CONSTRUCTION.—This section may not be construed to
+312 relieve a covered entity from complying with s. 501.171. To the
+313 extent a licensee is a covered entity, as defined in s.
+314 501.171(1), the licensee remains subject to s. 501.171.
+315 (5) RULES.—The commission must adopt rules to administer
+316 this section, including rules that allow a licensee that is in
+317 compliance with the Federal Trade Commission's Standards for
+318 Safeguarding Customer Information, 16 C.F.R. part 314, to be
+319 deemed in compliance with subsection (2).
+320 Section 2. Paragraph (z) is added to subsection (1) of
+321 section 494.00255, Florida Statutes, to read:
+322 494.00255 Administrative penalties and fines; license
+323 violations.—
+324 (1) Each of the following acts constitutes a ground for
+325 which the disciplinary actions specified in subsection (2) may
+Page 13 of 47
+CODING: Words stricken are deletions; words underlined are additions.
+hb381-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 381 2026
+326 be taken against a person licensed or required to be licensed
+327 under part II or part III of this chapter:
+328 (z) Failure to comply with the notification requirements
+329 in s. 501.171(3) and (4).
+330 Section 3. Subsections (28) through (36) of section
+331 517.021, Florida Statutes, are renumbered as subsections (29)
+332 through (37), respectively, subsection (20) is amended, and a
+333 new subsection (28) is added to that section, to read:
+334 517.021 Definitions.—When used in this chapter, unless the
+335 context otherwise indicates, the following terms have the
+336 following respective meanings:
+337 (20)(a) "Investment adviser" means a person, other than an
+338 associated person of an investment adviser or a federal covered
+339 adviser, that receives compensation, directly or indirectly, and
+340 engages for all or part of the person's time, directly or
+341 indirectly, or through publications or writings, in the business
+342 of advising others as to the value of securities or as to the
+343 advisability of investments in, purchasing of, or selling of
+344 securities.
+345 (b) The term does not include any of the following:
+346 1. A dealer or an associated person of a dealer whose
+347 performance of services in paragraph (a) is solely incidental to
+348 the conduct of the dealer's or associated person's business as a
+349 dealer and who does not receive special compensation for those
+350 services.
+Page 14 of 47
+CODING: Words stricken are deletions; words underlined are additions.
+hb381-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 381 2026
+351 2. A licensed practicing attorney or certified public
+352 accountant whose performance of such services is solely
+353 incidental to the practice of the attorney's or accountant's
+354 profession.
+355 3. A bank authorized to do business in this state.
+356 4. A bank holding company as defined in the Bank Holding
+357 Company Act of 1956, as amended, authorized to do business in
+358 this state.
+359 5. A trust company having trust powers, as defined in s.
+360 658.12, which it is authorized to exercise in this state, which
+361 trust company renders or performs investment advisory services
+362 in a fiduciary capacity incidental to the exercise of its trust
+363 powers.
+364 6. A person that renders investment advice exclusively to
+365 insurance or investment companies.
+366 7. A person:
+367 a. Without a place of business in this state if the person
+368 has had that, during the preceding 12 months, has fewer than six
+369 clients who are residents of this state.
+370 b. With a place of business in this state if the person
+371 has had, during the preceding 12 months, fewer than six clients
+372 who are residents of this state and no clients who are not
+373 residents of this state.
+374
+375 As used in this subparagraph, the term "client" has the same
+Page 15 of 47
+CODING: Words stricken are deletions; words underlined are additions.
+hb381-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 381 2026
+376 meaning as provided in Securities and Exchange Commission Rule
+377 222-2 275.222-2, 17 C.F.R. s. 275.222-2, as amended.
+378 8. A federal covered adviser.
+379 9. The United States, a state, or any political
+380 subdivision of a state, or any agency, authority, or
+381 instrumentality of any such entity; a business entity that is
+382 wholly owned directly or indirectly by such a governmental
+383 entity; or any officer, agent, or employee of any such
+384 governmental or business entity who is acting within the scope
+385 of his or her official duties.
+386 10. A family office as defined in Securities and Exchange
+387 Commission Rule 202(a)(11)(G)-1(b) under the Investment Advisers
+388 Act of 1940, 17 C.F.R. s. 275.202(a)(11)(G)-1(b), as amended. In
+389 determining whether a person meets the definition of a family
+390 office under this subparagraph, the terms "affiliated family
+391 office," "control," "executive officer," "family client,"
+392 "family entity," "family member," "former family member," "key
+393 employee," and "spousal equivalent" have the same meaning as in
+394 Securities and Exchange Commission Rule 202(a)(11)(G)-1(d) under
+395 the Investment Advisers Act of 1940, 17 C.F.R. s.
+396 275.202(a)(11)(G)-1(d), as amended.
+397 (28) "Place of business" of an investment adviser means an
+398 office at which the investment adviser regularly provides
+399 investment advisory services to, solicits, meets with, or
+400 otherwise communicates with clients; and any other location that
+Page 16 of 47
+CODING: Words stricken are deletions; words underlined are additions.
+hb381-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 381 2026
+401 is held out to the general public as a location at which the
+402 investment adviser provides investment advisory services to,
+403 solicits, meets with, or otherwise communicates with clients.
+404 Section 4. Paragraph (i) of subsection (9) of section
+405 517.061, Florida Statutes, is amended to read:
+406 517.061 Exempt transactions.— Except as otherwise provided
+407 in subsection (11), the exemptions provided herein from the
+408 registration requirements of s. 517.07 are self-executing and do
+409 not require any filing with the office before being claimed. Any
+410 person who claims entitlement to an exemption under this section
+411 bears the burden of proving such entitlement in any proceeding
+412 brought under this chapter. The registration provisions of s.
+413 517.07 do not apply to any of the following transactions;
+414 however, such transactions are subject to s. 517.301:
+415 (9) The offer or sale of securities to:
+416 (i) A family office as defined in Securities and Exchange
+417 Commission Rule 202(a)(11)(G)-1(b) 202(a)(11)(G)-1 under the
+418 Investment Advisers Act of 1940, 17 C.F.R. s. 275.202(a)(11)(G)-
+419 1(b) 17 C.F.R. s. 275.202(a)(11)(G)-1, as amended, provided
+420 that:
+421 1. The family office has assets under management in excess
+422 of $5 million;
+423 2. The family office is not formed for the specific
+424 purpose of acquiring the securities offered; and
+425 3. The prospective investment of the family office is
+Page 17 of 47
+CODING: Words stricken are deletions; words underlined are additions.
+hb381-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 381 2026
+426 directed by a person who has knowledge and experience in
+427 financial and business matters that the family office is capable
+428 of evaluating the merits and risks of the prospective
+429 investment.
+430
+431 In determining whether a person meets the definition of a family
+432 office under this paragraph, the terms "affiliated family
+433 office," "control," "executive officer," "family client,"
+434 "family entity," "family member," "former family member," "key
+435 employee," and "spousal equivalent" have the same meaning as in
+436 Securities and Exchange Commission Rule 202(a)(11)(G)-1(d) under
+437 the Investment Advisers Act of 1940, 17 C.F.R. s.
+438 275.202(a)(11)(G)-1(d), as amended.
+439 Section 5. Section 520.135, Florida Statutes, is created
+440 to read:
+441 520.135 Surrendered or repossessed vehicles.—The rights
+442 and obligations of parties with respect to a surrendered or
+443 repossessed motor vehicle are exclusively governed by part VI of
+444 chapter 679.
+445 Section 6. Subsections (1) and (2) of section 560.114,
+446 Florida Statutes, are amended to read:
+447 560.114 Disciplinary actions; penalties.—
+448 (1) The following actions by a money services business, an
+449 authorized vendor, or a affiliated party that was affiliated at
+450 the time of commission of the actions constitute grounds for the
+Page 18 of 47
+CODING: Words stricken are deletions; words underlined are additions.
+hb381-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 381 2026
+451 issuance of a cease and desist order; the issuance of a removal
+452 order; the denial, suspension, or revocation of a license; or
+453 taking any other action within the authority of the office
+454 pursuant to this chapter:
+455 (a) Failure to comply with any provision of this chapter
+456 or related rule or order, or any written agreement entered into
+457 with the office.
+458 (b) Fraud, misrepresentation, deceit, or gross negligence
+459 in any transaction by a money services business, regardless of
+460 reliance thereon by, or damage to, a customer.
+461 (c) Fraudulent misrepresentation, circumvention, or
+462 concealment of any matter that must be stated or furnished to a
+463 customer pursuant to this chapter, regardless of reliance
+464 thereon by, or damage to, such customer.
+465 (d) False, deceptive, or misleading advertising.
+466 (e) Failure to maintain, preserve, keep available for
+467 examination, and produce all books, accounts, files, or other
+468 documents required by this chapter or related rules or orders,
+469 by 31 C.F.R. ss. 1010.306, 1010.311, 1010.312, 1010.340,
+470 1010.410, 1010.415, 1022.210, 1022.320, 1022.380, and 1022.410,
+471 or by an agreement entered into with the office.
+472 (f) Refusing to allow the examination or inspection of
+473 books, accounts, files, or other documents by the office
+474 pursuant to this chapter, or to comply with a subpoena issued by
+475 the office.
+Page 19 of 47
+CODING: Words stricken are deletions; words underlined are additions.
+hb381-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 381 2026
+476 (g) Failure to pay a judgment recovered in any court by a
+477 claimant in an action arising out of a money transmission
+478 transaction within 30 days after the judgment becomes final.
+479 (h) Engaging in an act prohibited under s. 560.111 or s.
+480 560.1115.
+481 (i) Insolvency.
+482 (j) Failure by a money services business to remove an
+483 affiliated party after the office has issued and served upon the
+484 money services business a final order setting forth a finding
+485 that the affiliated party has violated a provision of this
+486 chapter.
+487 (k) Making a material misstatement, misrepresentation, or
+488 omission in an application for licensure, any amendment to such
+489 application, or application for the appointment of an authorized
+490 vendor.
+491 (l) Committing any act that results in a license or its
+492 equivalent, to practice any profession or occupation being
+493 denied, suspended, revoked, or otherwise acted against by a
+494 licensing authority in any jurisdiction.
+495 (m) Being the subject of final agency action or its
+496 equivalent, issued by an appropriate regulator, for engaging in
+497 unlicensed activity as a money services business or deferred
+498 presentment provider in any jurisdiction.
+499 (n) Committing any act resulting in a license or its
+500 equivalent to practice any profession or occupation being
+Page 20 of 47
+CODING: Words stricken are deletions; words underlined are additions.
+hb381-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 381 2026
+501 denied, suspended, revoked, or otherwise acted against by a
+502 licensing authority in any jurisdiction for a violation of 18
+503 U.S.C. s. 1956, 18 U.S.C. s. 1957, 18 U.S.C. s. 1960, 31 U.S.C.
+504 s. 5324, or any other law or rule of another state or of the
+505 United States relating to a money services business, deferred
+506 presentment provider, or usury that may cause the denial,
+507 suspension, or revocation of a money services business or
+508 deferred presentment provider license or its equivalent in such
+509 jurisdiction.
+510 (o) Having been convicted of, or entered a plea of guilty
+511 or nolo contendere to, any felony or crime punishable by
+512 imprisonment of 1 year or more under the law of any state or the
+513 United States which involves fraud, moral turpitude, or
+514 dishonest dealing, regardless of adjudication.
+515 (p) Having been convicted of, or entered a plea of guilty
+516 or nolo contendere to, a crime under 18 U.S.C. s. 1956 or 31
+517 U.S.C. s. 5318, s. 5322, or s. 5324, regardless of adjudication.
+518 (q) Having been convicted of, or entered a plea of guilty
+519 or nolo contendere to, misappropriation, conversion, or unlawful
+520 withholding of moneys belonging to others, regardless of
+521 adjudication.
+522 (r) Having been convicted of, or entered a plea of guilty
+523 or nolo contendere to, a violation of 31 C.F.R. chapter X, part
+524 1022, regardless of adjudication.
+525 (s)(r) Failure to inform the office in writing within 30
+Page 21 of 47
+CODING: Words stricken are deletions; words underlined are additions.
+hb381-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 381 2026
+526 days after having pled guilty or nolo contendere to, or being
+527 convicted of, any felony or crime punishable by imprisonment of
+528 1 year or more under the law of any state or the United States,
+529 or any crime involving fraud, moral turpitude, or dishonest
+530 dealing.
+531 (t)(s) Aiding, assisting, procuring, advising, or abetting
+532 any person in violating a provision of this chapter or any order
+533 or rule of the office or commission.
+534 (u)(t) Failure to pay any fee, charge, or cost imposed or
+535 assessed under this chapter.
+536 (v)(u) Failing to pay a fine assessed by the office within
+537 30 days after the due date as stated in a final order.
+538 (w)(v) Failure to pay any judgment entered by any court
+539 within 30 days after the judgment becomes final.
+540 (x)(w) Engaging or advertising engagement in the business
+541 of a money services business or deferred presentment provider
+542 without a license, unless exempted from licensure.
+543 (y)(x) Payment to the office for a license or other fee,
+544 charge, cost, or fine with a check or electronic transmission of
+545 funds that is dishonored by the applicant's or licensee's
+546 financial institution.
+547 (z)(y) Violations of 31 C.F.R. ss. 1010.306, 1010.311,
+548 1010.312, 1010.340, 1010.410, 1010.415, 1022.210, 1022.320,
+549 1022.380, and 1022.410, and United States Treasury Interpretive
+550 Release 2004-1.
+Page 22 of 47
+CODING: Words stricken are deletions; words underlined are additions.
+hb381-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 381 2026
+551 (aa)(z) Any practice or conduct that creates the
+552 likelihood of a material loss, insolvency, or dissipation of
+553 assets of a money services business or otherwise materially
+554 prejudices the interests of its customers.
+555 (bb)(aa) Failure of a check casher to maintain a federally
+556 insured depository account as required by s. 560.309.
+557 (cc)(bb) Failure of a check casher to deposit into its own
+558 federally insured depository account any payment instrument
+559 cashed as required by s. 560.309.
+560 (dd)(cc) Violating any provision of the Military Lending
+561 Act, 10 U.S.C. s. 987, or the regulations adopted under that act
+562 in 32 C.F.R. part 232, in connection with a deferred presentment
+563 transaction conducted under part IV of this chapter.
+564 (ee) Failure to comply with the notification requirements
+565 in s. 501.171(3) and (4).
+566 (2) Pursuant to s. 120.60(6), The office shall issue an
+567 emergency suspension order suspending may summarily suspend the
+568 license of a money services business if the office finds that a
+569 licensee poses a danger deemed by the Legislature to be an
+570 immediate and, serious danger to the public health, safety, and
+571 welfare. A proceeding in which the office seeks the issuance of
+572 a final order for the summary suspension of a licensee shall be
+573 conducted by the commissioner of the office, or his or her
+574 designee, who shall issue such order.
+575 (a) An emergency suspension order under this subsection
+Page 23 of 47
+CODING: Words stricken are deletions; words underlined are additions.
+hb381-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 381 2026
+576 may be issued without prior notice and an opportunity to be
+577 heard. An emergency suspension order must:
+578 1. State the grounds on which the order is based;
+579 2. Advise the licensee against whom the order is directed
+580 that the order takes effect immediately and, to the extent
+581 applicable, require the licensee to immediately cease and desist
+582 from the conduct or violation that is the subject of the order
+583 or to take the affirmative action stated in the order as
+584 necessary to correct a condition resulting from the conduct or
+585 violation or as otherwise appropriate;
+586 3. Be delivered by personal delivery or sent by certified
+587 mail, return receipt requested, to the licensee against whom the
+588 order is directed at the licensee's last known address; and
+589 4. Include a notice that the licensee subject to an
+590 emergency suspension order may seek judicial review pursuant to
+591 s. 120.68.
+592 (b) An emergency suspension order is effective as soon as
+593 the licensee against whom the order is directed has actual or
+594 constructive knowledge of the issuance of the order.
+595 (c) The office shall institute proceedings under ss.
+596 120.569 and 120.57 within 20 days after issuance of an emergency
+597 suspension order.
+598 (d) A licensee subject to an emergency suspension order
+599 may seek judicial review pursuant to s. 120.68.
+600 (e) The following acts are deemed by the Legislature to
+Page 24 of 47
+CODING: Words stricken are deletions; words underlined are additions.
+hb381-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 381 2026
+601 constitute an immediate and serious danger to the public health,
+602 safety, and welfare, and the office shall may immediately issue
+603 an emergency suspension order to suspend the license of a money
+604 services business without making any further findings of
+605 immediate danger, necessity, and procedural fairness if:
+606 1.(a) The money services business fails to provide to the
+607 office, upon written request, any of the records required by s.
+608 560.123, s. 560.1235, s. 560.211, or s. 560.310 or any rule
+609 adopted under those sections. The suspension may be rescinded if
+610 the licensee submits the requested records to the office.
+611 2.(b) The money services business fails to maintain a
+612 federally insured depository account as required by s.
+613 560.208(4) or s. 560.309.
+614 3.(c) A natural person required to be listed on the
+615 license application for a money services business pursuant to s.
+616 560.141(1)(a)3. is criminally charged with, or arrested for, a
+617 crime described in paragraph (1)(o), paragraph (1)(p), or
+618 paragraph(1)(q).
+619 Section 7. Section 560.1311, Florida Statutes, is created
+620 to read:
+621 560.1311 Information security programs.—
+622 (1) DEFINITIONS.—As used in this section, the term:
+623 (a) "Customer" means a person who seeks to obtain or who
+624 obtains or has obtained a financial product or service from a
+625 licensee.
+Page 25 of 47
+CODING: Words stricken are deletions; words underlined are additions.
+hb381-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 381 2026
+626 (b) "Customer information" means any record containing
+627 nonpublic personal information about a customer of a financial
+628 transaction, whether on paper, electronic, or in other forms,
+629 which is handled or maintained by or on behalf of the licensee
+630 or its affiliates.
+631 (c) "Cybersecurity event" means an event resulting in
+632 unauthorized access to, or disruption or misuse of, an
+633 information system, information stored on such information
+634 system, or customer information held in physical form.
+635 (d) "Financial product or service" means any product or
+636 service offered by a licensee under this chapter.
+637 (e) "Information security program" means the
+638 administrative, technical, or physical safeguards used to
+639 access, collect, distribute, process, protect, store, use,
+640 transmit, dispose of, or otherwise handle customer information.
+641 (f) "Information system" means a discrete set of
+642 electronic information resources organized for the collection,
+643 processing, maintenance, use, sharing, dissemination, or
+644 disposition of electronic information, as well as any
+645 specialized system such as an industrial process control system,
+646 telephone switching and private branch exchange system, or
+647 environmental control system, which contain customer information
+648 or which are connected to a system that contains customer
+649 information.
+650 (g)1. "Nonpublic personal information" means:
+Page 26 of 47
+CODING: Words stricken are deletions; words underlined are additions.
+hb381-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 381 2026
+651 a. Personally identifiable financial information; and
+652 b. Any list, description, or other grouping of customers
+653 that is derived using any personally identifiable financial
+654 information that is not publicly available, such as account
+655 numbers, including any list of individuals' names and street
+656 addresses that is derived, in whole or in part, using personally
+657 identifiable financial information that is not publicly
+658 available.
+659 2. The term does not include:
+660 a. Publicly available information, except as included on a
+661 list, description, or other grouping of customers described in
+662 sub-subparagraph 1.b.;
+663 b. Any list, description, or other grouping of consumers,
+664 or any publicly available information pertaining to such list,
+665 description, or other grouping of consumers, which is derived
+666 without using any personally identifiable financial information
+667 that is not publicly available; or
+668 c. Any list of individuals' names and addresses that
+669 contains only publicly available information, is not derived, in
+670 whole or in part, using personally identifiable financial
+671 information that is not publicly available, and is not disclosed
+672 in a manner that indicates that any of the individuals on the
+673 list is a customer of a licensee.
+674 3. As used in this paragraph, the term:
+675 a.(I) "Personally identifiable financial information"
+Page 27 of 47
+CODING: Words stricken are deletions; words underlined are additions.
+hb381-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 381 2026
+676 means any information that:
+677 (A) A customer provides to a licensee to obtain a
+678 financial product or service, such as information that a
+679 customer provides to a licensee on an application to obtain a
+680 loan or other financial product or service;
+681 (B) A licensee receives about a consumer that is obtained
+682 during or as a result of any transaction involving a financial
+683 product or service between the licensee and the customer, such
+684 as information collected through an information-collecting
+685 device from a web server; or
+686 (C) A licensee otherwise obtains about a customer in
+687 connection with providing a financial product or service to the
+688 customer, such as the fact that an individual is or has been one
+689 of the licensee's customers or has obtained a financial product
+690 or service from the licensee.
+691 (II) The term "personally identifiable financial
+692 information" does not include:
+693 (A) A list of names and addresses of customers of an
+694 entity that is not a financial institution; or
+695 (B) Information that does not identify a customer, such as
+696 blind data or aggregate information that does not contain
+697 personal identifiers such as account numbers, names, or
+698 addresses.
+699 b.(I) "Publicly available information" means any
+700 information that a licensee has a reasonable basis to believe is
+Page 28 of 47
+CODING: Words stricken are deletions; words underlined are additions.
+hb381-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 381 2026
+701 lawfully made available to the general public from:
+702 (A) Federal, state, or local government records, such as
+703 government real estate records or security interest filings;
+704 (B) Widely distributed media, such as information from a
+705 telephone records repository or directory, a television or radio
+706 program, a newspaper, a social media platform, or a website that
+707 is available to the general public on an unrestricted basis. A
+708 website is not restricted merely because an Internet service
+709 provider or a site operator requires a fee or a password, so
+710 long as access is available to the general public; or
+711 (C) Disclosures to the general public which are required
+712 to be made by federal, state, or local law.
+713 (II) As used in this sub-subparagraph, the term
+714 "reasonable basis to believe is lawfully made available to the
+715 general public" relating to any information means that the
+716 person has taken steps to determine:
+717 (A) That the information is of the type that is available
+718 to the general public, such as information included on the
+719 public record in the jurisdiction where the mortgage would be
+720 recorded; and
+721 (B) Whether an individual can direct that the information
+722 not be made available to the general public and, if so, the
+723 customer to whom the information relates has not done so, such
+724 as when a telephone number is listed in a telephone directory
+725 and the customer has informed the licensee that the telephone
+Page 29 of 47
+CODING: Words stricken are deletions; words underlined are additions.
+hb381-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 381 2026
+726 number is not unlisted.
+727 (h) "Third-party service provider" means a person, other
+728 than a licensee, which contracts with a licensee to maintain,
+729 process, or store nonpublic personal information, or is
+730 otherwise permitted access to nonpublic personal information
+731 through its provision of services to a licensee.
+732 (2) INFORMATION SECURITY PROGRAM.—
+733 (a) Each licensee shall develop, implement, and maintain a
+734 comprehensive written information security program that contains
+735 administrative, technical, and physical safeguards for the
+736 protection of the licensee's information system and nonpublic
+737 personal information.
+738 (b) Each licensee shall ensure that the information
+739 security program meets all of the following criteria:
+740 1. Be commensurate with the following measures:
+741 a. Size and complexity of the licensee.
+742 b. Nature and scope of the licensee's activities,
+743 including the licensee's use of third-party service providers.
+744 c. Sensitivity of nonpublic personal information that is
+745 used by the licensee or that is in the licensee's possession,
+746 custody, or control.
+747 2. Be designed to do all of the following:
+748 a. Protect the security and confidentiality of nonpublic
+749 personal information and the security of the licensee's
+750 information system.
+Page 30 of 47
+CODING: Words stricken are deletions; words underlined are additions.
+hb381-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 381 2026
+751 b. Protect against threats or hazards to the security or
+752 integrity of nonpublic personal information and the licensee's
+753 information system.
+754 c. Protect against unauthorized access to or the use of
+755 nonpublic personal information and minimize the likelihood of
+756 harm to any customer.
+757 3. Define and periodically reevaluate the retention
+758 schedule and the mechanism for the destruction of nonpublic
+759 personal information if retention is no longer necessary for the
+760 licensee's business operations or is no longer required by
+761 applicable law.
+762 4. Regularly test and monitor systems and procedures for
+763 the detection of actual and attempted attacks on, or intrusions
+764 into, the licensee's information system.
+765 5. Be monitored, evaluated, and adjusted, as necessary, to
+766 meet all of the following requirements:
+767 a. Determine whether the licensee's information security
+768 program is consistent with relevant changes in technology.
+769 b. Confirm the licensee's information security program
+770 accounts for the sensitivity of nonpublic personal information.
+771 c. Identify changes that may be necessary to the
+772 licensee's information system.
+773 d. Mitigate any internal or external threats to nonpublic
+774 personal information.
+775 e. Amend the licensee's information security program for
+Page 31 of 47
+CODING: Words stricken are deletions; words underlined are additions.
+hb381-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 381 2026
+776 any of the licensee's changing business arrangements, including,
+777 but not limited to, mergers and acquisitions, alliances and
+778 joint ventures, and outsourcing arrangements.
+779 (c)1. As part of a licensee's information security
+780 program, the licensee shall establish a written incident
+781 response plan designed to promptly respond to, and recover from,
+782 a cybersecurity event that compromises:
+783 a. The confidentiality, integrity, or availability of
+784 nonpublic personal information in the licensee's possession;
+785 b. The licensee's information system; or
+786 c. The continuing functionality of any aspect of the
+787 licensee's operations.
+788 2. The written incident response plan must address all of
+789 the following:
+790 a. The licensee's internal process for responding to a
+791 cybersecurity event.
+792 b. The goals of the licensee's incident response plan.
+793 c. The assignment of clear roles, responsibilities, and
+794 levels of decisionmaking authority for the licensee's personnel
+795 that participate in the incident response plan.
+796 d. External communications, internal communications, and
+797 information sharing related to a cybersecurity event.
+798 e. The identification of remediation requirements for
+799 weaknesses identified in information systems and associated
+800 controls.
+Page 32 of 47
+CODING: Words stricken are deletions; words underlined are additions.
+hb381-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 381 2026
+801 f. The documentation and reporting regarding cybersecurity
+802 events and related incident response activities.
+803 g. The evaluation and revision of the incident response
+804 plan, as appropriate, following a cybersecurity event.
+805 h. The process by which notice must be given as required
+806 under subsection (3) and s. 501.171(3) and (4).
+807 (d)1. This section does not apply to a licensee that has
+808 fewer than:
+809 a. Twenty individuals on its workforce, including
+810 employees and independent contractors; or
+811 b. Five hundred customers during a calendar year.
+812 2. A licensee that no longer qualifies for exemption under
+813 subparagraph 1. has 180 calendar days to comply with this
+814 section after the date of the disqualification.
+815 (e) Each licensee shall maintain a copy of the information
+816 security program for a minimum of 5 years and shall make it
+817 available to the office upon request or as part of an
+818 examination.
+819 (3) NOTICE TO OFFICE OF SECURITY BREACH.—Each licensee
+820 shall provide notice to the office of any breach of security
+821 affecting 500 or more individuals in this state at a time and in
+822 the manner prescribed by commission rule.
+823 (4) CONSTRUCTION.—This section may not be construed to
+824 relieve a covered entity from complying with s. 501.171. To the
+825 extent a licensee is a covered entity, as defined in s.
+Page 33 of 47
+CODING: Words stricken are deletions; words underlined are additions.
+hb381-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 381 2026
+826 501.171(1), the licensee remains subject to s. 501.171.
+827 (5) RULES.—The commission must adopt rules to administer
+828 this section, including rules that allow a licensee that is in
+829 full compliance with the Federal Trade Commission's Standards
+830 for Safeguarding Customer Information, 16 C.F.R. part 314, to be
+831 deemed in compliance with subsection (2).
+832 Section 8. Subsection (10) of section 560.309, Florida
+833 Statutes, is amended to read:
+834 560.309 Conduct of business.—
+835 (10) If a check is returned to a licensee from a payor
+836 financial institution due to lack of funds, a closed account, or
+837 a stop-payment order, the licensee may seek collection pursuant
+838 to s. 68.065. In seeking collection, the licensee must comply
+839 with the prohibitions against harassment or abuse, false or
+840 misleading representations, and unfair practices in the Consumer
+841 Collection Practices Act under part VI of chapter 559, including
+842 s. 559.77. The licensee must also comply with the Fair Debt
+843 Collections Practices Act, 15 U.S.C. ss. 1692d, 1692e, and 1692f
+844 if the licensee uses a third-party debt collector or any name
+845 other than its own to collect such debts. A violation of this
+846 subsection is a deceptive and unfair trade practice and
+847 constitutes a violation of the Deceptive and Unfair Trade
+848 Practices Act under part II of chapter 501. In addition, a
+849 licensee must comply with the applicable provisions of the
+850 Consumer Collection Practices Act under part VI of chapter 559,
+Page 34 of 47
+CODING: Words stricken are deletions; words underlined are additions.
+hb381-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 381 2026
+851 including s. 559.77.
+852 Section 9. Subsection (3) of section 560.405, Florida
+853 Statutes, is amended to read:
+854 560.405 Deposit; redemption.—
+855 (3) Notwithstanding subsection (1), in lieu of
+856 presentment, a deferred presentment provider may allow the check
+857 to be redeemed at any time upon payment of the outstanding
+858 transaction balance and earned fees. Redemption in cash or
+859 through a debit card transaction shall be treated the same.
+860 However, payment may not be made in the form of a personal check
+861 or through a credit card transaction. Upon redemption, the
+862 deferred presentment provider must return the drawer's check and
+863 provide a signed, dated receipt showing that the drawer's check
+864 has been redeemed.
+865 Section 10. Subsection (2) of section 560.406, Florida
+866 Statutes, is amended to read:
+867 560.406 Worthless checks.—
+868 (2) If a check is returned to a deferred presentment
+869 provider from a payor financial institution due to insufficient
+870 funds, a closed account, or a stop-payment order, the deferred
+871 presentment provider may pursue all legally available civil
+872 remedies to collect the check, including, but not limited to,
+873 the imposition of all charges imposed on the deferred
+874 presentment provider by the financial institution. In its
+875 collection practices, a deferred presentment provider must
+Page 35 of 47
+CODING: Words stricken are deletions; words underlined are additions.
+hb381-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 381 2026
+876 comply with the prohibitions against harassment or abuse, false
+877 or misleading representations, and unfair practices that are
+878 contained in the Consumer Collection Practices Act under part VI
+879 of chapter 559, including s. 559.77. A deferred presentment
+880 provider must also comply with the Fair Debt Collections
+881 Practices Act, 15 U.S.C. ss. 1692d, 1692e, and 1692f if the
+882 deferred present provider uses a third-party debt collector or
+883 any name other than its own to collect such debts. A violation
+884 of this act is a deceptive and unfair trade practice and
+885 constitutes a violation of the Deceptive and Unfair Trade
+886 Practices Act under part II of chapter 501. In addition, a
+887 deferred presentment provider must comply with the applicable
+888 provisions of the Consumer Collection Practices Act under part
+889 VI of chapter 559, including s. 559.77.
+890 Section 11. Section 655.0171, Florida Statutes, is created
+891 to read:
+892 655.0171 Requirements for customer data security and for
+893 notices of security breaches.—
+894 (1) DEFINITIONS.—As used in this section, the term:
+895 (a) "Breach of security" or "breach" means unauthorized
+896 access of data in electronic form containing personal
+897 information. Good faith access of personal information by an
+898 employee or agent of a financial institution does not constitute
+899 a breach of security, provided that the information is not used
+900 for a purpose unrelated to the business or subject to further
+Page 36 of 47
+CODING: Words stricken are deletions; words underlined are additions.
+hb381-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 381 2026
+901 unauthorized use. As used in this paragraph, the term "data in
+902 electronic form" means any data stored electronically or
+903 digitally on any computer system or other database and includes
+904 recordable tapes and other mass storage devices.
+905 (b) "Department" means the Department of Legal Affairs.
+906 (c)1. "Personal information" means:
+907 a. An individual's first name, or first initial, and last
+908 name, in combination with any of the following data elements for
+909 that individual:
+910 (I) A social security number;
+911 (II) A driver license or identification card number,
+912 passport number, military identification number, or other
+913 similar number issued on a government document used to verify
+914 identity;
+915 (III) A financial account number or credit or debit card
+916 number, in combination with any required security code, access
+917 code, or password that is necessary to permit access to the
+918 individual's financial account;
+919 (IV) The individual's biometric data as defined in s.
+920 501.702; or
+921 (V) Any information regarding the individual's
+922 geolocation; or
+923 b. A username or e-mail address, in combination with a
+924 password or security question and answer that would permit
+925 access to an online account.
+Page 37 of 47
+CODING: Words stricken are deletions; words underlined are additions.
+hb381-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 381 2026
+926 2. The term does not include information about an
+927 individual which has been made publicly available by a federal,
+928 state, or local governmental entity. The term also does not
+929 include information that is encrypted, secured, or modified by
+930 any other method or technology that removes elements that
+931 personally identify an individual or that otherwise renders the
+932 information unusable.
+933 (2) REQUIREMENTS FOR DATA SECURITY.—Each financial
+934 institution shall take reasonable measures to protect and secure
+935 data that are in electronic form and that contain personal
+936 information.
+937 (3) NOTICE TO OFFICE AND DEPARTMENT OF SECURITY BREACH.—
+938 (a)1. Each financial institution shall provide notice to
+939 the office of any breach of security affecting 500 or more
+940 individuals in this state. Such notice must be provided to the
+941 office as expeditiously as practicable, but no later than 30
+942 days after the determination of the breach or the determination
+943 of a reason to believe that a breach has occurred.
+944 2. The written notice to the office must include the items
+945 required under s. 501.171(3)(b).
+946 3. A financial institution must provide the following
+947 information to the office upon its request:
+948 a. A police report, incident report, or computer forensics
+949 report.
+950 b. A copy of the policies in place regarding breaches.
+Page 38 of 47
+CODING: Words stricken are deletions; words underlined are additions.
+hb381-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 381 2026
+951 4. Steps that have been taken to rectify the breach.
+952 5. A financial institution may provide the office with
+953 supplemental information regarding a breach at any time.
+954 (b) Each financial institution shall provide notice to the
+955 department of any breach of security affecting 500 or more
+956 individuals in this state. Such notice must be provided to the
+957 department in accordance with s. 501.171.
+958 (4) NOTICE TO INDIVIDUALS OF SECURITY BREACH.—Each
+959 financial institution shall give notice to each individual in
+960 this state whose personal information was, or the financial
+961 institution reasonably believes to have been, accessed as a
+962 result of the breach in accordance with s. 501.171(4). The
+963 notice must be provided no later than 30 days after the
+964 determination of the breach or the determination of a reason to
+965 believe that a breach has occurred. A financial institution may
+966 receive 15 additional days to provide notice to individuals of a
+967 security breach as required in this subsection if good cause for
+968 delay is provided in writing to the office within 30 days after
+969 determination of the breach or determination of the reason to
+970 believe that a breach has occurred.
+971 (5) NOTICE TO CREDIT REPORTING AGENCIES.—If a financial
+972 institution discovers circumstances requiring notice pursuant to
+973 this section of more than 1,000 individuals at a single time,
+974 the financial institution shall also notify, without
+975 unreasonable delay, all consumer reporting agencies that compile
+Page 39 of 47
+CODING: Words stricken are deletions; words underlined are additions.
+hb381-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 381 2026
+976 and maintain files on consumers on a nationwide basis, as
+977 defined in the Fair Credit Reporting Act, 15 U.S.C. s. 1681a(p),
+978 of the timing, distribution, and content of the notices.
+979 Section 12. Paragraph (d) of subsection (1) of section
+980 655.045, Florida Statutes, is amended to read:
+981 655.045 Examinations, reports, and internal audits;
+982 penalty.—
+983 (1) The office shall conduct an examination of the
+984 condition of each state financial institution at least every 18
+985 months. The office may conduct more frequent examinations based
+986 upon the risk profile of the financial institution, prior
+987 examination results, or significant changes in the institution
+988 or its operations. The office may use continuous, phase, or
+989 other flexible scheduling examination methods for very large or
+990 complex state financial institutions and financial institutions
+991 owned or controlled by a multi-financial institution holding
+992 company. The office shall consider examination guidelines from
+993 federal regulatory agencies in order to facilitate, coordinate,
+994 and standardize examination processes.
+995 (d) As used in this section, the term "costs" means the
+996 salary and travel expenses directly attributable to the field
+997 staff examining the state financial institution, subsidiary, or
+998 service corporation, and the travel expenses of any supervisory
+999 staff required as a result of examination findings. The mailing
+1000 of any costs incurred under this subsection must be postmarked
+Page 40 of 47
+CODING: Words stricken are deletions; words underlined are additions.
+hb381-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 381 2026
+1001 within 45 30 days after the date of receipt of a notice stating
+1002 that such costs are due. The office may levy a late payment of
+1003 up to $100 per day or part thereof that a payment is overdue,
+1004 unless excused for good cause. However, for intentional late
+1005 payment of costs, the office may levy an administrative fine of
+1006 up to $1,000 per day for each day the payment is overdue.
+1007 Section 13. Subsection (2) of section 657.005, Florida
+1008 Statutes, is amended to read:
+1009 657.005 Application for authority to organize a credit
+1010 union; investigation.—
+1011 (2) Any five or more individuals, a majority of whom are
+1012 residents of this state and all of whom who represent a limited
+1013 field of membership, may apply to the office for permission to
+1014 organize a credit union. The fact that individuals within the
+1015 proposed limited field of membership have credit union services
+1016 available to them through another limited field of membership
+1017 shall not preclude the granting of a certificate of
+1018 authorization to engage in the business of a credit union.
+1019 Section 14. Subsection (1) of section 657.024, Florida
+1020 Statutes, is amended to read:
+1021 657.024 Membership meetings.—
+1022 (1) The members shall receive timely notice of the annual
+1023 meeting and any special meetings of the members, which shall be
+1024 held at the time, place, and in the manner provided in the
+1025 bylaws. The annual meeting and any special meetings of the
+Page 41 of 47
+CODING: Words stricken are deletions; words underlined are additions.
+hb381-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 381 2026
+1026 members may be held virtually without an in-person quorum, and
+1027 virtual attendance may satisfy quorum requirements, subject to
+1028 the bylaws.
+1029 Section 15. Subsections (6) and (7) of section 657.042,
+1030 Florida Statutes, are renumbered as subsections (5) and (6), and
+1031 paragraph (b) of subsection (3) and present subsection (5) of
+1032 that section are amended, to read:
+1033 657.042 Investment powers and limitations.—A credit union
+1034 may invest its funds subject to the following definitions,
+1035 restrictions, and limitations:
+1036 (3) INVESTMENT SUBJECT TO LIMITATION OF TWO PERCENT OF
+1037 CAPITAL OF THE CREDIT UNION.—
+1038 (b) Commercial paper and bonds of any corporation within
+1039 the United States which have a fixed maturity, as provided in
+1040 subsection (6) (7), except that the total investment in all such
+1041 paper and bonds may not exceed 10 percent of the capital of the
+1042 credit union.
+1043 (5) INVESTMENTS IN REAL ESTATE AND EQUIPMENT FOR THE
+1044 CREDIT UNION.—
+1045 (a) Up to 5 percent of the capital of the credit union may
+1046 be invested in real estate and improvements thereon, furniture,
+1047 fixtures, and equipment utilized or to be utilized by the credit
+1048 union for the transaction of business.
+1049 (b) The limitations provided by this subsection may be
+1050 exceeded with the prior written approval of the office. The
+Page 42 of 47
+CODING: Words stricken are deletions; words underlined are additions.
+hb381-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 381 2026
+1051 office shall grant such approval if it is satisfied that:
+1052 1. The proposed investment is necessary.
+1053 2. The amount thereof is commensurate with the size and
+1054 needs of the credit union.
+1055 3. The investment will be beneficial to the members.
+1056 4. A reasonable plan is developed to reduce the investment
+1057 to statutory limits.
+1058 Section 16. Paragraphs (b) and (c) of subsection (4) of
+1059 section 658.21, Florida Statutes, are amended to read:
+1060 658.21 Approval of application; findings required.—The
+1061 office shall approve the application if it finds that:
+1062 (4)
+1063 (b) At least two of the proposed directors who are not
+1064 also proposed officers must have had within the 10 years before
+1065 the date of the application at least 1 year of direct experience
+1066 as an executive officer, regulator, or director of a financial
+1067 institution as specified in the application within the 5 years
+1068 before the date of the application. However, if the applicant
+1069 demonstrates that at least one of the proposed directors has
+1070 very substantial experience as an executive officer, director,
+1071 or regulator of a financial institution more than 5 years before
+1072 the date of the application, the office may modify the
+1073 requirement and allow the applicant to have only one director
+1074 who has direct financial institution experience within the last
+1075 5 years.
+Page 43 of 47
+CODING: Words stricken are deletions; words underlined are additions.
+hb381-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 381 2026
+1076 (c) The proposed president or chief executive officer must
+1077 have had at least 1 year of direct experience as an executive
+1078 officer, director, or regulator of a financial institution
+1079 within the last 10 5 years. In making a decision, the office
+1080 must also consider may waive this requirement after considering:
+1081 1. The adequacy of the overall experience and expertise of
+1082 the proposed president or chief executive officer;
+1083 2. The likelihood of successful operation of the proposed
+1084 state bank or trust company pursuant to subsection (1);
+1085 3. The adequacy of the proposed capitalization under
+1086 subsection (2);
+1087 4. The proposed capital structure under subsection (3);
+1088 5. The experience of the other proposed officers and
+1089 directors; and
+1090 6. Any other relevant data or information.
+1091 Section 17. Subsection (2) of section 658.33, Florida
+1092 Statutes, is amended to read:
+1093 658.33 Directors, number, qualifications; officers.—
+1094 (2) Not less than a majority of the directors must, during
+1095 their whole term of service, be citizens of the United States,
+1096 and at least a majority of the directors must have resided in
+1097 this state for at least 1 year preceding their election and must
+1098 be residents therein during their continuance in office. In the
+1099 case of a bank or trust company with total assets of less than
+1100 $150 million, at least one, and in the case of a bank or trust
+Page 44 of 47
+CODING: Words stricken are deletions; words underlined are additions.
+hb381-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 381 2026
+1101 company with total assets of $150 million or more, two of the
+1102 directors who are not also officers of the bank or trust company
+1103 must have had at least 1 year of direct experience as an
+1104 executive officer, regulator, or director of a financial
+1105 institution within the last 10 5 years.
+1106 Section 18. Subsection (4) of section 662.141, Florida
+1107 Statutes, is amended to read:
+1108 662.141 Examination, investigations, and fees.—The office
+1109 may conduct an examination or investigation of a licensed family
+1110 trust company at any time it deems necessary to determine
+1111 whether the licensed family trust company or licensed family
+1112 trust company-affiliated party thereof has violated or is about
+1113 to violate any provision of this chapter, any applicable
+1114 provision of the financial institutions codes, or any rule
+1115 adopted by the commission pursuant to this chapter or the codes.
+1116 The office may conduct an examination or investigation of a
+1117 family trust company or foreign licensed family trust company at
+1118 any time it deems necessary to determine whether the family
+1119 trust company or foreign licensed family trust company has
+1120 engaged in any act prohibited under s. 662.131 or s. 662.134
+1121 and, if a family trust company or a foreign licensed family
+1122 trust company has engaged in such act, to determine whether any
+1123 applicable provision of the financial institutions codes has
+1124 been violated.
+1125 (4) For each examination of the books and records of a
+Page 45 of 47
+CODING: Words stricken are deletions; words underlined are additions.
+hb381-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 381 2026
+1126 family trust company, licensed family trust company, or foreign
+1127 licensed family trust company as authorized under this chapter,
+1128 the trust company shall pay a fee for the costs of the
+1129 examination by the office. As used in this section, the term
+1130 "costs" means the salary and travel expenses of field staff
+1131 which are directly attributable to the examination of the trust
+1132 company and the travel expenses of any supervisory and support
+1133 staff required as a result of examination findings. The mailing
+1134 of payment for costs incurred must be postmarked within 45 30
+1135 days after the receipt of a notice stating that the costs are
+1136 due. The office may levy a late payment of up to $100 per day or
+1137 part thereof that a payment is overdue unless waived for good
+1138 cause. However, if the late payment of costs is intentional, the
+1139 office may levy an administrative fine of up to $1,000 per day
+1140 for each day the payment is overdue.
+1141 Section 19. Subsection (21) of section 517.12, Florida
+1142 Statutes, is amended to read:
+1143 517.12 Registration of dealers, associated persons,
+1144 intermediaries, and investment advisers.—
+1145 (21) The registration requirements of this section do not
+1146 apply to any general lines insurance agent or life insurance
+1147 agent licensed under chapter 626, with regard to the sale of a
+1148 security as defined in s. 517.021(34)(g) s. 517.021(33)(g), if
+1149 the individual is directly authorized by the issuer to offer or
+1150 sell the security on behalf of the issuer and the issuer is a
+Page 46 of 47
+CODING: Words stricken are deletions; words underlined are additions.
+hb381-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 381 2026
+1151 federally chartered savings bank subject to regulation by the
+1152 Federal Deposit Insurance Corporation. Actions under this
+1153 subsection constitute activity under the insurance agent's
+1154 license for purposes of ss. 626.611 and 626.621.
+1155 Section 20. This act shall take effect July 1, 2026.
+Page 47 of 47
+CODING: Words stricken are deletions; words underlined are additions.
+hb381-01-c1

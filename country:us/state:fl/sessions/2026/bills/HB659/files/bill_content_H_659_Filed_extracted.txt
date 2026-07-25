@@ -1,0 +1,149 @@
+Title: 
+Official Title: 
+Source: versions - H 659 Filed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 659 2026
+1 A bill to be entitled
+2 An act relating to interactions with artificial
+3 intelligence; creating s. 501.172, F.S.; providing
+4 definitions; requiring operators of companion chatbot
+5 platforms to display specified information on any
+6 application, browser, or format used to access
+7 companion chatbots on the platform and to prevent such
+8 chatbots from interacting with users unless specified
+9 protocols are maintained; requiring such operators to
+10 verify the age of users and to take specified actions
+11 for users who are minors; requiring such operators to
+12 file specified reports with the Department of Legal
+13 Affairs; providing that a violation constitutes an
+14 unfair or deceptive act or practice; providing for
+15 civil actions; providing construction; providing an
+16 effective date.
+17
+18 Be It Enacted by the Legislature of the State of Florida:
+19
+20 Section 1. Section 501.172, Florida Statutes, is created
+21 to read:
+22 501.172 Companion chatbots.—
+23 (1) As used in this section, the term:
+24 (a) "AI-generated" means any image, video, or audio that
+25 is generated or modified by artificial intelligence which may
+Page 1 of 5
+CODING: Words stricken are deletions; words underlined are additions.
+hb659-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 659 2026
+26 portray realistic human likenesses or depictions.
+27 (b) "Companion chatbot" means an artificial intelligence
+28 system with a natural language interface that provides adaptive,
+29 human-like responses to user inputs and is capable of meeting a
+30 user's social needs, including by exhibiting anthropomorphic
+31 features and being able to sustain a relationship across
+32 multiple interactions. The term does not include:
+33 1. A bot used only for customer service, business
+34 operational purposes, or productivity and analysis related to
+35 source information, internal research, or technical assistance;
+36 2. A bot that is a feature of a video game and is limited
+37 to replies related to the video game and that cannot discuss
+38 topics related to mental health, self-harm, sexually explicit
+39 conduct, or maintain a dialogue on other topics unrelated to the
+40 video game; or
+41 3. A stand-alone consumer electronic device that functions
+42 as a speaker and voice command interface, acts as a voice-
+43 activated virtual assistant, and does not sustain a relationship
+44 across multiple interactions or generate outputs that are likely
+45 to elicit emotional responses in the user.
+46 (c) "Operator" means a person who makes a companion
+47 chatbot platform available to a user in this state.
+48 (d) "Sexually explicit conduct" means actual or simulated
+49 sexual intercourse, bestiality, masturbation, sadistic or
+50 masochistic abuse, or lascivious exhibition of the genitals or
+Page 2 of 5
+CODING: Words stricken are deletions; words underlined are additions.
+hb659-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 659 2026
+51 pubic area.
+52 (2) An operator shall clearly and conspicuously display
+53 the following notice on any application, browser, or other
+54 format used to access companion chatbots on the operator's
+55 platform: "Companion chatbots are AI-generated and not human.
+56 Companion chatbots may not be suitable for some minors."
+57 (3)(a) An operator shall prevent a companion chatbot on
+58 the platform from interacting with users unless the operator
+59 maintains a protocol to prevent the production of suicidal
+60 ideation, suicide, or self-harm content.
+61 (b) At a minimum, the protocol must include a notification
+62 that refers the user to the 988 suicide and crisis lifeline call
+63 center if the user expresses suicidal ideation, or intent to
+64 commit suicide or to self-harm.
+65 (c) The protocol must include mechanisms to:
+66 1. Detect, remove, and respond to expressions of suicidal
+67 ideation, or intent to commit suicide or to self-harm by users.
+68 2. Prohibit a companion chatbot from discussing suicidal
+69 ideation, suicide, or self-harm with users.
+70 3. Measure suicidal ideation by using evidence-based
+71 methods.
+72 (d) The operator shall publish the protocol on the
+73 platform.
+74 (4)(a) An operator must offer anonymous age verification
+75 and standard age verification pursuant to s. 501.1737 for user
+Page 3 of 5
+CODING: Words stricken are deletions; words underlined are additions.
+hb659-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 659 2026
+76 access to a companion chatbot on the platform.
+77 (b) For a user the operator knows is a minor, the operator
+78 shall do all of the following:
+79 1. Disclose to the user that he or she is interacting with
+80 artificial intelligence.
+81 2. Provide a clear and conspicuous default notification at
+82 least every 3 hours for continuing companion chatbot
+83 interactions reminding the user to take a break from the
+84 interaction and that the companion chatbot is AI-generated and
+85 not human.
+86 3. Implement reasonable measures to prevent a companion
+87 chatbot from producing visual material of sexually explicit
+88 conduct or directly stating that the user should engage in
+89 sexually explicit conduct.
+90 (5)(a) Beginning July 1, 2027, each operator shall submit
+91 to the Department of Legal Affairs an annual report that
+92 includes all of the following:
+93 1. The number of times in the preceding calendar year the
+94 operator has issued a 988 suicide and crisis lifeline call
+95 center referral notification.
+96 2. The protocol for detecting, removing, and responding to
+97 expressions of suicidal ideation, or intent to committee suicide
+98 or to self-harm by users.
+99 3. The protocol for prohibiting a companion chatbot from
+100 discussing suicidal ideation, suicide, or self-harm with users.
+Page 4 of 5
+CODING: Words stricken are deletions; words underlined are additions.
+hb659-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 659 2026
+101 (b) The report may not include any identifiers or personal
+102 information about users.
+103 (6) A violation of this section constitutes an unfair or
+104 deceptive act or practice as specified in s. 501.204 and shall
+105 be enforced by civil action by the Attorney General. The
+106 Department of Legal Affairs must notify the operator of any
+107 suspected violation and allow the operator 30 calendar days to
+108 cure the alleged violation before initiating enforcement action.
+109 This section does not create a private right of action.
+110 (7) This section does not relieve an operator from any
+111 duties, remedies, or obligations imposed by any other law.
+112 Section 2. This act shall take effect July 1, 2026.
+Page 5 of 5
+CODING: Words stricken are deletions; words underlined are additions.
+hb659-00
