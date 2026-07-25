@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Favorable with 1 amendment(s) by- Appropriations (356566); YEAS 17 NAYS 0",
+    "occurred_at": "2026-03-02",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://flsenate.gov/Session/Bill/2026/5301/ByCategory",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 5301"
+}

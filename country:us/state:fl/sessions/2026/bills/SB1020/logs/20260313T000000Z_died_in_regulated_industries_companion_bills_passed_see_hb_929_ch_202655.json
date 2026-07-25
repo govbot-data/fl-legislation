@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Died in Regulated Industries, companion bill(s) passed, see HB 929 (Ch. 2026-55)",
+    "occurred_at": "2026-03-13",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "failure"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://flsenate.gov/Session/Bill/2026/1020/ByCategory",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 1020"
+}

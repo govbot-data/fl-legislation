@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Substituted HB 145 (Vetoed by Governor)",
+    "occurred_at": "2026-03-10",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "executive-veto"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://flsenate.gov/Session/Bill/2026/1366/ByCategory",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 1366"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Laid on Table, companion bill(s) passed, see CS/CS/HB 1311 (Ch. 2026-132), CS/CS/CS/SB 1452 (Ch. 2026-174)",
+    "occurred_at": "2026-03-06",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "deferral"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://flsenate.gov/Session/Bill/2026/1588/ByCategory",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 1588"
+}

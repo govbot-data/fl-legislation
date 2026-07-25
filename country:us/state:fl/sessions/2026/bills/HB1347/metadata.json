@@ -1,0 +1,486 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB 1347",
+  "title": "Clinical Laboratory Personnel",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "regulation of professions and occupations"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Clinical Laboratory Personnel;  Requires that applicant who qualifies for licensure under specified provisions provide proof of such qualification & pay required fees to be eligible for licensure; requires that applicants for licensure as technologist or technician who meet specified criteria be deemed to have satisfied minimum qualifications for licensure to perform high or moderate complexity testing as technologist or technician, as applicable."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-fl-2026-hb1347"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Filed",
+      "date": "2026-01-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-25T10:12:46Z"
+      }
+    },
+    {
+      "description": "1st Reading (Original Filed Version)",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-25T10:12:46Z"
+      }
+    },
+    {
+      "description": "Referred to Health Professions & Programs Subcommittee",
+      "date": "2026-01-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-25T10:12:46Z"
+      }
+    },
+    {
+      "description": "Referred to Health & Human Services Committee",
+      "date": "2026-01-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-25T10:12:46Z"
+      }
+    },
+    {
+      "description": "Now in Health Professions & Programs Subcommittee",
+      "date": "2026-01-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-25T10:12:46Z"
+      }
+    },
+    {
+      "description": "Added to Health Professions & Programs Subcommittee agenda",
+      "date": "2026-01-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-25T10:12:46Z"
+      }
+    },
+    {
+      "description": "Favorable by Health Professions & Programs Subcommittee",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-25T10:12:46Z"
+      }
+    },
+    {
+      "description": "Reported out of Health Professions & Programs Subcommittee",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-25T10:12:46Z"
+      }
+    },
+    {
+      "description": "Now in Health & Human Services Committee",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-25T10:12:46Z"
+      }
+    },
+    {
+      "description": "Added to Health & Human Services Committee agenda",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-25T10:12:46Z"
+      }
+    },
+    {
+      "description": "Favorable by Health & Human Services Committee",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-25T10:12:46Z"
+      }
+    },
+    {
+      "description": "Reported out of Health & Human Services Committee",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-25T10:12:46Z"
+      }
+    },
+    {
+      "description": "Bill released to House Calendar",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-25T10:12:46Z"
+      }
+    },
+    {
+      "description": "Added to Second Reading Calendar",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-25T10:12:46Z"
+      }
+    },
+    {
+      "description": "Bill added to Special Order Calendar (2/25/2026)",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-25T10:12:46Z"
+      }
+    },
+    {
+      "description": "Read 2nd time",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-25T10:12:46Z"
+      }
+    },
+    {
+      "description": "Added to Third Reading Calendar",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-25T10:12:46Z"
+      }
+    },
+    {
+      "description": "Read 3rd time",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-25T10:12:46Z"
+      }
+    },
+    {
+      "description": "Passed; YEAS 116, NAYS 0",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-25T10:12:46Z"
+      }
+    },
+    {
+      "description": "In Messages",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-25T10:12:46Z"
+      }
+    },
+    {
+      "description": "Referred to Rules",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-25T10:12:46Z"
+      }
+    },
+    {
+      "description": "Received",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "enrolled"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-25T10:12:46Z"
+      }
+    },
+    {
+      "description": "Withdrawn from Rules",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "withdrawal"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-25T10:12:46Z"
+      }
+    },
+    {
+      "description": "Placed on Calendar, on 2nd reading",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-25T10:12:46Z"
+      }
+    },
+    {
+      "description": "Substituted for SB 878",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-25T10:12:46Z"
+      }
+    },
+    {
+      "description": "Read 2nd time",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-25T10:12:46Z"
+      }
+    },
+    {
+      "description": "Read 3rd time",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-25T10:12:46Z"
+      }
+    },
+    {
+      "description": "Passed; YEAS 37 NAYS 0",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-25T10:12:46Z"
+      }
+    },
+    {
+      "description": "In Messages",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-25T10:12:46Z"
+      }
+    },
+    {
+      "description": "Ordered enrolled",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "enrolled"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-25T10:12:46Z"
+      }
+    },
+    {
+      "description": "Signed by Officers and presented to Governor",
+      "date": "2026-06-09",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-25T10:12:46Z"
+      }
+    },
+    {
+      "description": "Approved by Governor",
+      "date": "2026-06-11",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-25T10:12:46Z"
+      }
+    },
+    {
+      "description": "Chapter No. 2026-134",
+      "date": "2026-06-12",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-25T10:12:46Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Gerwig",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Gerwig\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "H 1347 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1347/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "H 1347 er",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1347/BillText/er/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Health Professions & Programs Subcommittee (Post-Meeting) (7/7/2026 3:24 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1347/Analyses/h1347z.HPP.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Health & Human Services Committee (Post-Meeting) (2/10/2026 6:10 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1347/Analyses/h1347c.HHS.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [
+    {
+      "publication": "Florida Statues",
+      "citation": "483.815",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/483.815"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "483.823",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/483.823"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://flsenate.gov/Session/Bill/2026/1347/ByCategory",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:fl/government",
+    "name": "Florida",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:fl"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-25T10:12:46Z"
+  }
+}

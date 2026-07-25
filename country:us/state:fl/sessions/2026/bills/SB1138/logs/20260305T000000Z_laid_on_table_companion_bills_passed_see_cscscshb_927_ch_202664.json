@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Laid on Table, companion bill(s) passed, see CS/CS/CS/HB 927 (Ch. 2026-64)",
+    "occurred_at": "2026-03-05",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "deferral"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://flsenate.gov/Session/Bill/2026/1138/ByCategory",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 1138"
+}

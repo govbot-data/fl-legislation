@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Referred to Children, Families, and Elder Affairs; Health Policy; Rules",
+    "occurred_at": "2025-12-09",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://flsenate.gov/Session/Bill/2026/560/ByCategory",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 560"
+}

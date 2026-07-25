@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Died in Children, Families, and Elder Affairs, companion bill(s) passed, see CS/HB 245 (Ch. 2026-18), CS/CS/HB 1159 (Ch. 2026-20)",
+    "occurred_at": "2026-03-13",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "failure"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://flsenate.gov/Session/Bill/2026/398/ByCategory",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 398"
+}

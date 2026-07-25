@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "The Senate requests that the House pass the bill as passed by the Senate or agree to include the bill in the Budget Conference",
+    "occurred_at": "2026-02-20",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://flsenate.gov/Session/Bill/2026/2512/ByCategory",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 2512"
+}
