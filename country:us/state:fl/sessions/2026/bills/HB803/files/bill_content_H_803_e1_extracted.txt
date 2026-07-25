@@ -1,0 +1,1390 @@
+Title: 
+Official Title: 
+Source: versions - H 803 e1
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 803, Engrossed 1 2026
+1 A bill to be entitled
+2 An act relating to building permits and inspections;
+3 amending s. 125.56, F.S.; providing for expiration of
+4 certain building permits issued by a county; providing
+5 construction; amending s. 489.129, F.S.; providing
+6 that certain persons are not subject to discipline for
+7 performing a job without applicable permits and
+8 inspections if otherwise authorized by law; amending
+9 s. 553.382, F.S.; prohibiting the Department of
+10 Business and Professional Regulation from denying a
+11 building permit for certain residential manufactured
+12 buildings; requiring certain housing units to be taxed
+13 in a certain manner; amending s. 553.79, F.S.;
+14 providing for expiration of certain building permits
+15 issued by a local government; providing construction;
+16 providing prohibitions for inspection fees;
+17 prohibiting a local government from requiring building
+18 permits for certain projects; providing an exception;
+19 prohibiting a construction project from being divided
+20 into multiple projects for a certain purpose;
+21 requiring a notice of permit exemption with specified
+22 information to be filed within a certain timeframe
+23 under certain circumstances; providing that local
+24 governments do not have a duty to certain persons;
+25 prohibiting local governments from requiring a
+Page 1 of 45
+CODING: Words stricken are deletions; words underlined are additions.
+hb803 -03-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 803, Engrossed 1 2026
+26 building permit for the installation of temporary
+27 residential hurricane and flood protection walls or
+28 barriers that meet certain requirements; prohibiting
+29 local governments from requiring a building permit for
+30 the installation of certain retaining walls; amending
+31 s. 553.791, F.S.; revising and providing definitions;
+32 requiring explicit written authorization from a fee
+33 owner for a contractor to use a private provider;
+34 requiring such authorization to be submitted to the
+35 local building official; removing the requirement that
+36 a contract for certain services be in writing;
+37 providing that a contract for certain services does
+38 not need to be submitted as part of a permit
+39 application; providing requirements for reduced permit
+40 fees; prohibiting a local jurisdiction from charging
+41 punitive administrative fees or fees for plans review
+42 services; requiring that certain documents be promptly
+43 provided to certain persons; requiring local
+44 enforcement agencies to reduce permit fees by
+45 specified percentages under certain circumstances;
+46 providing that a local enforcement agency forfeits the
+47 ability to collect fees under certain circumstances;
+48 requiring a surcharge to be calculated based on the
+49 reduced permit fee; prohibiting local governments and
+50 local building officials from requiring additional
+Page 2 of 45
+CODING: Words stricken are deletions; words underlined are additions.
+hb803 -03-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 803, Engrossed 1 2026
+51 forms; requiring local enforcement agencies to create
+52 a specified registration system that must have a
+53 method to register and update registration information
+54 electronically; prohibiting local enforcement agencies
+55 from charging an administrative fee to register or
+56 update registration information; requiring private
+57 provider firms to register with the local enforcement
+58 agency, provide certain information, and update its
+59 registration within a specified timeframe after
+60 changes occur; prohibiting local enforcement agencies
+61 from altering a form adopted by the commission;
+62 removing the requirement that a private provider's
+63 qualification statements or resumes be included in a
+64 certain notice; removing time restrictions for
+65 electing to use a private provider; requiring local
+66 enforcement agencies to accept a certain affidavit
+67 electronically; providing which forms and documents a
+68 local building official may review; providing notice
+69 requirements; providing that certain permits are
+70 deemed approved; providing that local enforcement
+71 agencies are not responsible for the administration or
+72 supervision of services performed by a private
+73 provider; prohibiting local enforcement agencies from
+74 requiring additional verification of certain
+75 requirements beyond that which is required at
+Page 3 of 45
+CODING: Words stricken are deletions; words underlined are additions.
+hb803 -03-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 803, Engrossed 1 2026
+76 registration; revising the timeframe in which certain
+77 records must be provided; authorizing certain records
+78 to be electronically transmitted; prohibiting local
+79 building officials from failing certain inspections;
+80 authorizing certain persons to sign certificates of
+81 compliance; providing requirements for local building
+82 officials who have knowledge that a private provider
+83 failed to perform an inspection; providing that
+84 virtual inspections may not be prohibited; requiring
+85 certain notice before an audit; prohibiting certain
+86 entities from discouraging the use of private
+87 providers; authorizing certain public entities to use
+88 a private provider firm or to employ a licensed
+89 building inspector to provide building code inspection
+90 services; amending s. 553.792, F.S.; requiring a local
+91 government to make certain decisions relating to
+92 certain building permits within a specified timeframe;
+93 amending s. 553.77, F.S.; requiring the Florida
+94 Building Commission to develop uniform commercial and
+95 residential building permit applications by a
+96 specified date; providing requirements for a uniform
+97 commercial building permit application; amending s.
+98 720.3035, F.S.; prohibiting an association or certain
+99 committees from requiring a building permit as a
+100 prerequisite for a certain review; providing an
+Page 4 of 45
+CODING: Words stricken are deletions; words underlined are additions.
+hb803 -03-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 803, Engrossed 1 2026
+101 effective date.
+102
+103 Be It Enacted by the Legislature of the State of Florida:
+104
+105 Section 1. Paragraph (d) of subsection (4) of section
+106 125.56, Florida Statutes, is amended to read:
+107 125.56 Enforcement and amendment of the Florida Building
+108 Code and the Florida Fire Prevention Code; inspection fees;
+109 inspectors; etc.—
+110 (4)
+111 (d) A county that issues building permits may send a
+112 written notice of expiration, by e-mail or United States Postal
+113 Service, to the owner of the property and the contractor listed
+114 on the permit, no less than 30 days before a building permit is
+115 set to expire. The written notice must identify the permit that
+116 is set to expire and the date the permit will expire. A building
+117 permit issued by a county for a single-family dwelling expires 1
+118 year after the issuance of the permit or on the effective date
+119 of the next edition of the Florida Building Code, whichever is
+120 later. However, this paragraph does not prevent a local
+121 government from extending a building permit beyond the
+122 expiration date.
+123 Section 2. Paragraph (o) of subsection (1) of section
+124 489.129, Florida Statutes, is amended to read:
+125 489.129 Disciplinary proceedings.—
+Page 5 of 45
+CODING: Words stricken are deletions; words underlined are additions.
+hb803 -03-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 803, Engrossed 1 2026
+126 (1) The board may take any of the following actions
+127 against any certificateholder or registrant: place on probation
+128 or reprimand the licensee, revoke, suspend, or deny the issuance
+129 or renewal of the certificate or registration, require financial
+130 restitution to a consumer for financial harm directly related to
+131 a violation of a provision of this part, impose an
+132 administrative fine not to exceed $10,000 per violation, require
+133 continuing education, or assess costs associated with
+134 investigation and prosecution, if the contractor, financially
+135 responsible officer, or business organization for which the
+136 contractor is a primary qualifying agent, a financially
+137 responsible officer, or a secondary qualifying agent responsible
+138 under s. 489.1195 is found guilty of any of the following acts:
+139 (o) Proceeding on any job without obtaining applicable
+140 local building department permits and inspections, unless
+141 otherwise provided by law.
+142
+143 For the purposes of this subsection, construction is considered
+144 to be commenced when the contract is executed and the contractor
+145 has accepted funds from the customer or lender. A contractor
+146 does not commit a violation of this subsection when the
+147 contractor relies on a building code interpretation rendered by
+148 a building official or person authorized by s. 553.80 to enforce
+149 the building code, absent a finding of fraud or deceit in the
+150 practice of contracting, or gross negligence, repeated
+Page 6 of 45
+CODING: Words stricken are deletions; words underlined are additions.
+hb803 -03-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 803, Engrossed 1 2026
+151 negligence, or negligence resulting in a significant danger to
+152 life or property on the part of the building official, in a
+153 proceeding under chapter 120.
+154 Section 3. Section 553.382, Florida Statutes, is amended
+155 to read:
+156 553.382 Placement of certain housing.—Notwithstanding any
+157 other law or ordinance to the contrary, in order to expand the
+158 availability of affordable housing in this state, any
+159 residential manufactured building that is certified under this
+160 chapter by the department may not be denied a building permit
+161 for placement be placed on a mobile home lot in a mobile home
+162 park, on a lot in a recreational vehicle park, or in a mobile
+163 home condominium, cooperative, or subdivision. Any such housing
+164 unit placed on a mobile home lot is a mobile home for purposes
+165 of chapter 723 and, therefore, all rights, obligations, and
+166 duties under chapter 723 apply, including the specifics of the
+167 prospectus. However, a housing unit subject to this section may
+168 not be placed on a mobile home lot without the prior written
+169 approval of the park owner. Each housing unit located on a
+170 mobile home lot and subject to this section shall be taxed as a
+171 mobile home under s. 320.08(11) and is subject to payments to
+172 the Florida Mobile Home Relocation Fund under s. 723.06116.
+173 Section 4. Paragraphs (a), (b), (c), and (f) of subsection
+174 (1) of section 553.79, Florida Statutes, are amended, and
+175 paragraphs (g), (h), and (i) are added to that subsection, to
+Page 7 of 45
+CODING: Words stricken are deletions; words underlined are additions.
+hb803 -03-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 803, Engrossed 1 2026
+176 read:
+177 553.79 Permits; applications; issuance; inspections.—
+178 (1)(a) Unless otherwise provided by law, after the
+179 effective date of the Florida Building Code adopted as herein
+180 provided, it shall be unlawful for any person, firm,
+181 corporation, or governmental entity to construct, erect, alter,
+182 modify, repair, or demolish any building within this state
+183 without first obtaining a permit therefor from the appropriate
+184 enforcing agency or from such persons as may, by appropriate
+185 resolution or regulation of the authorized state or local
+186 enforcing agency, be delegated authority to issue such permits,
+187 upon the payment of such reasonable fees adopted by the
+188 enforcing agency. The enforcing agency is empowered to revoke
+189 any such permit upon a determination by the agency that the
+190 construction, erection, alteration, modification, repair, or
+191 demolition of the building for which the permit was issued is in
+192 violation of, or not in conformity with, the provisions of the
+193 Florida Building Code. Whenever a permit required under this
+194 section is denied or revoked because the plan, or the
+195 construction, erection, alteration, modification, repair, or
+196 demolition of a building, is found by the local enforcing agency
+197 to be not in compliance with the Florida Building Code, the
+198 local enforcing agency shall identify the specific plan or
+199 project features that do not comply with the applicable codes,
+200 identify the specific code chapters and sections upon which the
+Page 8 of 45
+CODING: Words stricken are deletions; words underlined are additions.
+hb803 -03-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 803, Engrossed 1 2026
+201 finding is based, and provide this information to the permit
+202 applicant. A plans reviewer or building code administrator who
+203 is responsible for issuing a denial, revocation, or modification
+204 request but fails to provide to the permit applicant a reason
+205 for denying, revoking, or requesting a modification, based on
+206 compliance with the Florida Building Code or local ordinance, is
+207 subject to disciplinary action against his or her license
+208 pursuant to s. 468.621(1)(i). Installation, replacement,
+209 removal, or metering of any load management control device is
+210 exempt from and shall not be subject to the permit process and
+211 fees otherwise required by this section.
+212 (b) A local enforcement agency shall post each type of
+213 building permit application, as adopted by the commission,
+214 including a list of all required attachments, drawings, or other
+215 requirements for each type of application, on its website. A
+216 local enforcement agency must post and update the status of
+217 every received application on its website until the issuance of
+218 the building permit. A local enforcement agency must allow
+219 applicants to submit completed applications, including payments,
+220 attachments, drawings, or other requirements or parts of the
+221 completed permit application, must be able to be submitted
+222 electronically to the appropriate building department. Accepted
+223 methods of electronic submission include, but are not limited
+224 to, e-mail submission of applications in Portable Document
+225 Format or submission of applications through an electronic fill-
+Page 9 of 45
+CODING: Words stricken are deletions; words underlined are additions.
+hb803 -03-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 803, Engrossed 1 2026
+226 in form available on the building department's website or
+227 through a third-party submission management software. A building
+228 official, at his or her discretion, may accept completed
+229 applications, including payments, attachments, drawings, or
+230 other requirements or parts of the completed permit application,
+231 may also be submitted in person in a nonelectronic format, at
+232 the discretion of the building official.
+233 (c) A local government that issues building permits may
+234 send a written notice of expiration, by e-mail or United States
+235 Postal Service, to the owner of the property and the contractor
+236 listed on the permit, no less than 30 days before a building
+237 permit is set to expire. The written notice must identify the
+238 permit that is set to expire and the date the permit will
+239 expire. A building permit issued by a local government for a
+240 single-family dwelling expires 1 year after the issuance of the
+241 permit or on the effective date of the next edition of the
+242 Florida Building Code, whichever is later. However, this
+243 paragraph does not prevent a local government from extending a
+244 building permit beyond the expiration date.
+245 (f) A local government may not require a contract between
+246 a builder and an owner, any copies of such contract, or any
+247 associated document, including, but not limited to, letters of
+248 intent, material costs lists, labor costs, or overhead or profit
+249 statements, for the issuance of a building permit or as a
+250 requirement for the submission of a building permit application.
+Page 10 of 45
+CODING: Words stricken are deletions; words underlined are additions.
+hb803 -03-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 803, Engrossed 1 2026
+251 Inspection fees may not be based on the total cost of a project
+252 and may not exceed the actual inspection costs incurred by the
+253 local enforcement agency.
+254 (g)1. A local government that issues building permits may
+255 not require an owner of a single-family dwelling or the owner's
+256 contractor to obtain a building permit to perform any work that
+257 is valued at less than $7,500 on the owner's property. However,
+258 a local government may require a building permit for any
+259 electrical, plumbing, structural, mechanical, or gas work
+260 performed on property containing a single-family dwelling
+261 regardless of the value of the work. A construction project may
+262 not be divided into more than one project for the purpose of
+263 evading the requirements of this section.
+264 2. For any work performed by a person other than the
+265 property owner under the exemption in subparagraph 1., the
+266 person performing the work must file a notice of permit
+267 exemption with the local enforcement agency that includes the
+268 name and license number of the person or entity hired to perform
+269 the work, the scope of the work performed, the property address
+270 at which the work was performed, and the value of such work as
+271 proof that such work complies with subparagraph 1. A notice of
+272 permit exemption must be filed within 30 days after the date the
+273 work begins. A notice is not required for work performed
+274 personally by the property owner. A local government has no
+275 legal duty to the owner, contractor, or successors or assigns
+Page 11 of 45
+CODING: Words stricken are deletions; words underlined are additions.
+hb803 -03-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 803, Engrossed 1 2026
+276 thereof for work performed under this paragraph.
+277 (h)1. A local government that issues building permits may
+278 not require an owner of a single-family dwelling or the owner's
+279 contractor to obtain a building permit for the installation of
+280 temporary residential hurricane and flood protection walls or
+281 barriers that meet all of the following conditions:
+282 a. The wall or barrier is nonhabitable and nonload-
+283 bearing.
+284 b. The wall or barrier is installed on the residential
+285 property of a single-family or two-family dwelling or townhouse.
+286 c. The wall or barrier is constructed to mitigate or
+287 prevent storm surge or floodwaters from entering a structure or
+288 property.
+289 d. The wall or barrier is installed by a contractor
+290 licensed under part I of chapter 489.
+291 e. The wall or barrier complies with applicable local
+292 zoning, drainage, easement, and setback requirements.
+293 2. A local government has no legal duty to the owner,
+294 contractor, or successors or assigns thereof for work performed
+295 under this paragraph.
+296 3. The commission may adopt rules under s. 120.54 to
+297 incorporate necessary standards to implement this paragraph.
+298 (i) A local government that issues building permits may
+299 not require a building permit for each lot or parcel upon which
+300 a retaining wall is installed on the property of a single-family
+Page 12 of 45
+CODING: Words stricken are deletions; words underlined are additions.
+hb803 -03-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 803, Engrossed 1 2026
+301 or two-family residential dwelling or a townhouse.
+302 Section 5. Section 553.791, Florida Statutes, is amended
+303 to read:
+304 553.791 Alternative plans review and inspection.—
+305 (1) As used in this section, the term:
+306 (a) "Applicable codes" means the Florida Building Code and
+307 any local technical amendments to the Florida Building Code but
+308 does not include the applicable minimum fire prevention and
+309 firesafety codes adopted pursuant to chapter 633.
+310 (b) "Audit" means the process to confirm that the building
+311 code inspection services have been performed by the private
+312 provider, including ensuring that the required affidavit for the
+313 plan review has been properly completed and submitted with the
+314 permit documents and that the minimum mandatory inspections
+315 required under the building code have been performed and
+316 properly recorded. The local building official may not replicate
+317 the plan review or inspection being performed by the private
+318 provider, unless expressly authorized by this section.
+319 (c) "Building" means any construction, erection,
+320 alteration, demolition, or improvement of, or addition to, any
+321 structure or site work for which permitting by a local
+322 enforcement agency is required.
+323 (d) "Building code inspection services" means those
+324 services described in s. 468.603(5) and (8) involving the review
+325 of building plans as well as those services involving the review
+Page 13 of 45
+CODING: Words stricken are deletions; words underlined are additions.
+hb803 -03-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 803, Engrossed 1 2026
+326 of site plans and site work engineering plans or their
+327 functional equivalent, to determine compliance with applicable
+328 codes and those inspections required by law, conducted either in
+329 person or virtually, of each phase of construction for which
+330 permitting by a local enforcement agency is required to
+331 determine compliance with applicable codes.
+332 (e) "Deliver" or "delivery" means any method of delivery
+333 used in conventional business or commercial practice, including
+334 delivery by electronic transmissions such as e-mail or
+335 submission through an electronic fill-in form available on the
+336 building department's website or through a third-party
+337 submission management software.
+338 (f) "Duly authorized representative" means an agent of the
+339 private provider identified in the permit application who
+340 reviews plans or performs inspections as provided by this
+341 section and who is licensed as an engineer under chapter 471 or
+342 as an architect under chapter 481 or who holds a standard or
+343 provisional certificate under part XII of chapter 468. A duly
+344 authorized representative who only holds a provisional
+345 certificate under part XII of chapter 468 must be under the
+346 direct supervision of a person licensed as a building code
+347 administrator under part XII of chapter 468.
+348 (g) "Electronic signature" means any letters, characters,
+349 or symbols manifested by electronic or similar means which are
+350 executed or adopted by a party with an intent to authenticate a
+Page 14 of 45
+CODING: Words stricken are deletions; words underlined are additions.
+hb803 -03-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 803, Engrossed 1 2026
+351 writing or record.
+352 (h) "Electronic transmission" or "submitted
+353 electronically" means any form or process of communication not
+354 directly involving the physical transfer of paper or another
+355 tangible medium which is suitable for the retention, retrieval,
+356 and reproduction of information by the recipient and is
+357 retrievable in paper form by the receipt through an automated
+358 process. All notices, documents, and applications provided for
+359 in this section may be transmitted electronically and shall have
+360 the same legal effect as if physically posted or mailed.
+361 (i) "Electronically posted" means providing notices of
+362 decisions, results, or records, including inspection records,
+363 through the use of a website or other form of electronic
+364 communication used to transmit or display information.
+365 (j) "Immediate threat to public safety and welfare" means
+366 a building code violation that, if allowed to persist,
+367 constitutes an immediate hazard that could result in death,
+368 serious bodily injury, or significant property damage. This
+369 paragraph does not limit the authority of the local building
+370 official to issue a Notice of Corrective Action at any time
+371 during the construction of a building project or any portion of
+372 such project if the official determines that a condition of the
+373 building or portion thereof may constitute a hazard when the
+374 building is put into use following completion as long as the
+375 condition cited is shown to be in violation of the building code
+Page 15 of 45
+CODING: Words stricken are deletions; words underlined are additions.
+hb803 -03-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 803, Engrossed 1 2026
+376 or approved plans.
+377 (k) "Local building official" means the individual within
+378 the governing jurisdiction responsible for direct regulatory
+379 administration or supervision of plans review, enforcement, and
+380 inspection of any construction, erection, alteration,
+381 demolition, or substantial improvement of, or addition to, any
+382 structure for which permitting is required to indicate
+383 compliance with applicable codes and includes any duly
+384 authorized designee of such person.
+385 (l) "Permit application" means a properly completed and
+386 submitted application for the requested building or construction
+387 permit, including:
+388 1. The plans reviewed by the private provider, or in the
+389 case of a single-trade plans review where a private provider
+390 uses an automated or software-based plans review system pursuant
+391 to subsection (7) (6), the information reviewed by the automated
+392 or software-based plans review system to determine compliance
+393 with one or more applicable codes.
+394 2. The affidavit from the private provider required under
+395 subsection (7) (6).
+396 3. Any applicable fees.
+397 4. Any documents required by the local building official
+398 to determine that the fee owner has secured all other government
+399 approvals required by law.
+400 (m) "Plans" means building plans, site engineering plans,
+Page 16 of 45
+CODING: Words stricken are deletions; words underlined are additions.
+hb803 -03-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 803, Engrossed 1 2026
+401 or site plans, or their functional equivalent, submitted by a
+402 fee owner or fee owner's contractor to a private provider or
+403 duly authorized representative for review.
+404 (n) "Private provider" means a person licensed as a
+405 building code administrator under part XII of chapter 468, as an
+406 engineer under chapter 471, or as an architect under chapter
+407 481. For purposes of performing inspections under this section
+408 for additions and alterations that are limited to 1,000 square
+409 feet or less to residential buildings, the term "private
+410 provider" also includes a person who holds a standard
+411 certificate under part XII of chapter 468.
+412 (o) "Private provider firm" means a business organization,
+413 including a corporation, partnership, business trust, or other
+414 legal entity, which offers services under this chapter to the
+415 public through licensees who are acting as agents, employees,
+416 officers, or partners of the firm. A person who is licensed as a
+417 building code administrator under part XII of chapter 468, an
+418 engineer under chapter 471, or an architect under chapter 481
+419 may act as a private provider for an agent, employee, or officer
+420 of the private provider firm.
+421 (p) "Registration" means the roster of authorized private
+422 provider firms held by each local enforcement agency.
+423 (q)(p) "Request for certificate of occupancy or
+424 certificate of completion" means a properly completed and
+425 executed application for:
+Page 17 of 45
+CODING: Words stricken are deletions; words underlined are additions.
+hb803 -03-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 803, Engrossed 1 2026
+426 1. A certificate of occupancy or certificate of
+427 completion.
+428 2. A certificate of compliance from the private provider
+429 required under subsection (15) (13).
+430 3. Any applicable fees.
+431 4. Any documents required by the local building official
+432 to determine that the fee owner has secured all other government
+433 approvals required by law.
+434 (r)(q) "Single-trade inspection" or "single-trade plans
+435 review" means any inspection or plans review focused on a single
+436 construction trade, such as plumbing, mechanical, or electrical.
+437 The term includes, but is not limited to, inspections or plans
+438 reviews of door or window replacements; fences and block walls
+439 more than 6 feet high from the top of the wall to the bottom of
+440 the footing; stucco or plastering; reroofing with no structural
+441 alteration; solar energy and energy storage installations or
+442 alterations; HVAC replacements; ductwork or fan replacements;
+443 alteration or installation of wiring, lighting, and service
+444 panels; water heater changeouts; sink replacements; and
+445 repiping.
+446 (s)(r) "Site work" means the portion of a construction
+447 project that is not part of the building structure, including,
+448 but not limited to, grading, excavation, landscape irrigation,
+449 and installation of driveways.
+450 (t)(s) "Stop-work order" means the issuance of any written
+Page 18 of 45
+CODING: Words stricken are deletions; words underlined are additions.
+hb803 -03-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 803, Engrossed 1 2026
+451 statement, written directive, or written order which states the
+452 reason for the order and the conditions under which the cited
+453 work will be permitted to resume.
+454 (2)(a) Notwithstanding any other law or local government
+455 ordinance or local policy, the fee owner of a building or
+456 structure, or the fee owner's contractor upon explicit written
+457 authorization from the fee owner, may choose at any time to use
+458 a private provider to provide plans review or building code
+459 inspection services with regard to such building or structure
+460 and may make payment directly to the private provider for the
+461 provision of such services. All such services shall be the
+462 subject of a written contract between the private provider, or
+463 the private provider's firm, and the fee owner or the fee
+464 owner's contractor, upon explicit written authorization of the
+465 fee owner. A copy of such written authorization must be
+466 submitted to the local building official. The local enforcement
+467 agency may not require the contract to be provided as part of
+468 the permit application or as a condition for issuing a permit.
+469 The fee owner may elect to use a private provider to provide
+470 plans review or required building inspections, or both. However,
+471 if the fee owner or the fee owner's contractor uses a private
+472 provider to provide plans review, the local building official,
+473 in his or her discretion and pursuant to duly adopted policies
+474 of the local enforcement agency, may require the fee owner or
+475 the fee owner's contractor to use a private provider to also
+Page 19 of 45
+CODING: Words stricken are deletions; words underlined are additions.
+hb803 -03-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 803, Engrossed 1 2026
+476 provide required building inspections.
+477 (b) If a fee an owner or the fee owner's contractor
+478 retains a private provider for purposes of plans review or
+479 building inspection services, the local jurisdiction must reduce
+480 the permit fee by the amount of cost savings realized by the
+481 local enforcement agency for not having to perform such
+482 services. Such reduction may be calculated on a flat fee or
+483 percentage basis, or any other reasonable means by which a local
+484 enforcement agency assesses the cost for its plans review or
+485 inspection services. The permit fee must be based on the cost
+486 incurred by the local jurisdiction, including the labor cost of
+487 the personnel providing such services and the clerical and
+488 supervisory assistance required to comply with this section. The
+489 local jurisdiction may not charge fees for plans review or
+490 building inspections if the fee owner or the fee owner's
+491 contractor hires a private provider to perform such services.
+492 The local enforcement agency may not charge punitive
+493 administrative fees when a fee owner has chosen to work with a
+494 private provider; however, the local jurisdiction may charge a
+495 reasonable administrative fee, which shall be based on the cost
+496 that is actually incurred, including the labor cost of the
+497 personnel providing the service, by the local jurisdiction or
+498 attributable to the local jurisdiction for the clerical and
+499 supervisory assistance required, or both.
+500 (c) If a fee an owner or the fee owner's a contractor
+Page 20 of 45
+CODING: Words stricken are deletions; words underlined are additions.
+hb803 -03-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 803, Engrossed 1 2026
+501 retains a private provider for purposes of plans review or
+502 building inspection services, the local jurisdiction must
+503 provide equal access to all permitting and inspection documents
+504 and reports to the private provider, owner, and contractor if
+505 such access is provided by software that protects exempt records
+506 from disclosure. Access to these documents must be promptly
+507 provided.
+508 (d) If a fee owner or the fee owner's contractor retains a
+509 private provider for purposes of plans review or building
+510 inspection services for a commercial construction project, the
+511 local enforcement agency must reduce the permit fee by at least
+512 25 percent of the portion of the permit fee attributable to
+513 plans review or building inspection services, as applicable. If
+514 the fee owner or the fee owner's contractor retains a private
+515 provider for all required plans review and building inspection
+516 services, the local enforcement agency must reduce the total
+517 permit fee by at least 50 percent of the amount otherwise
+518 charged for such services. If the local enforcement agency does
+519 not reduce such fee by at least the percentages provided in this
+520 paragraph, the local enforcement agency forfeits the ability to
+521 collect any fees for the commercial construction project. The
+522 surcharge required by s. 553.721 must be calculated based on the
+523 amount of the reduced permit fee. This paragraph does not
+524 prohibit a local enforcement agency from reducing a permit fee
+525 in excess of the percentages provided in this paragraph.
+Page 21 of 45
+CODING: Words stricken are deletions; words underlined are additions.
+hb803 -03-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 803, Engrossed 1 2026
+526 (e) A local government or local building official may not
+527 require additional forms beyond those required at registration,
+528 except for the written notice required under subsection (5), if
+529 a fee owner or the fee owner's contractor uses a private
+530 provider.
+531 (3) A private provider and any duly authorized
+532 representative may only perform building code inspection
+533 services that are within the disciplines covered by that
+534 person's licensure or certification under chapter 468, chapter
+535 471, or chapter 481, including single-trade inspections. A
+536 private provider may not provide building code inspection
+537 services pursuant to this section upon any building designed or
+538 constructed by the private provider or the private provider's
+539 firm.
+540 (4) A local enforcement agency must create a registration
+541 system for private providers and private provider firms working
+542 in the local enforcement agency's jurisdiction. A local
+543 enforcement agency must have a method to register and update
+544 registration information electronically. The local enforcement
+545 agency may not charge an administrative fee for registration or
+546 updates to a registration. The private provider or private
+547 provider firm must provide its contact information and verify
+548 compliance with the licensure requirements of paragraph (1)(n)
+549 or paragraph (1)(o), as applicable, and the insurance
+550 requirements of subsection (20). The private provider or private
+Page 22 of 45
+CODING: Words stricken are deletions; words underlined are additions.
+hb803 -03-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 803, Engrossed 1 2026
+551 provider firm must register with the local enforcement agency in
+552 the jurisdiction in which the provider or firm is working before
+553 contracting to provide services in such jurisdiction. The
+554 private provider or private provider firm must update its
+555 registration within 5 business days after any change to the
+556 provider's or firm's contact information, licensure, or
+557 insurance coverage.
+558 (5)(4) A fee owner or the fee owner's contractor using a
+559 private provider to provide building code inspection services
+560 shall notify the local building official in writing at the time
+561 of permit application, or by 2 p.m. local time, 2 business days
+562 before the first scheduled inspection by the local building
+563 official or building code enforcement agency that a private
+564 provider has been contracted to perform the required inspections
+565 of construction under this section, including single-trade
+566 inspections, on a form to be adopted by the commission. The
+567 local enforcement agency may not alter the form. This notice
+568 must shall include the following information:
+569 (a) The services to be performed by the private provider.
+570 (b) The name, firm, address, telephone number, and e-mail
+571 address of each private provider who is performing or will
+572 perform such services, his or her professional license or
+573 certification number, qualification statements or resumes, and,
+574 if required by the local building official, a certificate of
+575 insurance demonstrating that professional liability insurance
+Page 23 of 45
+CODING: Words stricken are deletions; words underlined are additions.
+hb803 -03-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 803, Engrossed 1 2026
+576 coverage is in place for the private provider's firm, the
+577 private provider, and any duly authorized representative in the
+578 amounts required by this section.
+579 (c) An acknowledgment from the fee owner or the fee
+580 owner's contractor in substantially the following form:
+581
+582 I have elected to use one or more private providers to
+583 provide building code plans review and/or inspection
+584 services on the building or structure that is the
+585 subject of the enclosed permit application, as
+586 authorized by s. 553.791, Florida Statutes. I
+587 understand that the local building official may not
+588 review the plans submitted or perform the required
+589 building inspections to determine compliance with the
+590 applicable codes, except to the extent specified in
+591 said law. Instead, plans review and/or required
+592 building inspections will be performed by licensed or
+593 certified personnel identified in the application. The
+594 law requires minimum insurance requirements for such
+595 personnel, but I understand that I may require more
+596 insurance to protect my interests. By executing this
+597 form, I acknowledge that I have made inquiry regarding
+598 the competence of the licensed or certified personnel
+599 and the level of their insurance and am satisfied that
+600 my interests are adequately protected. I agree to
+Page 24 of 45
+CODING: Words stricken are deletions; words underlined are additions.
+hb803 -03-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 803, Engrossed 1 2026
+601 indemnify, defend, and hold harmless the local
+602 government, the local building official, and their
+603 building code enforcement personnel from any and all
+604 claims arising from my use of these licensed or
+605 certified personnel to perform building code
+606 inspection services with respect to the building or
+607 structure that is the subject of the enclosed permit
+608 application.
+609
+610 If the fee owner or the fee owner's contractor makes any changes
+611 to the listed private providers or the services to be provided
+612 by those private providers, the fee owner or the fee owner's
+613 contractor shall, within 1 business day after any change or
+614 within 2 business days before the next scheduled inspection,
+615 update the notice to reflect such changes. A change of a duly
+616 authorized representative named in the permit application does
+617 not require a revision of the permit, and the building code
+618 enforcement agency shall not charge a fee for making the change.
+619 (6)(5) After construction has commenced and if either the
+620 local building official is unable to provide inspection services
+621 in a timely manner or the work subject to inspection is related
+622 to a single-trade inspection for a single-family or two-family
+623 dwelling, the fee owner or the fee owner's contractor may elect
+624 to use a private provider to provide inspection services for a
+625 single-trade inspection for a single-family or two-family
+Page 25 of 45
+CODING: Words stricken are deletions; words underlined are additions.
+hb803 -03-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 803, Engrossed 1 2026
+626 dwelling by notifying the local building official of the owner's
+627 or contractor's intention to do so by 2 p.m. local time, 2
+628 business days before the next scheduled inspection using the
+629 notice provided for in paragraphs (5)(a)-(c) (4)(a)-(c).
+630 (7)(6) A private provider performing plans review under
+631 this section shall review the plans to determine compliance with
+632 the applicable codes. For single-trade plans reviews, a private
+633 provider may use an automated or software-based plans review
+634 system designed to determine compliance with one or more
+635 applicable codes, including, but not limited to, the National
+636 Electrical Code and the Florida Building Code. Upon determining
+637 that the plans reviewed comply with the applicable codes, the
+638 private provider shall prepare an affidavit or affidavits
+639 certifying, under oath, that the following is true and correct
+640 to the best of the private provider's knowledge and belief:
+641 (a) The plans were reviewed by the affiant, who is duly
+642 authorized to perform plans review pursuant to this section and
+643 holds the appropriate license or certificate.
+644 (b) The plans comply with the applicable codes.
+645
+646 Such affidavit may bear a written or electronic signature and
+647 may be submitted electronically to the local building official.
+648 A local enforcement agency must accept electronically submitted
+649 affidavits.
+650 (8)(a) The local building official may not review plans,
+Page 26 of 45
+CODING: Words stricken are deletions; words underlined are additions.
+hb803 -03-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 803, Engrossed 1 2026
+651 construction drawings, or any other related documents determined
+652 by a private provider to be compliant with the applicable codes,
+653 except to the extent necessary to determine compliance with
+654 local ordinances, floodplain management regulations, site review
+655 requirements, and any other administrative or life-safety review
+656 unrelated to building code compliance.
+657 (b) The local building official may review other forms and
+658 documents required under this section for completeness only. The
+659 local building official must provide written notice to a permit
+660 applicant of any incomplete forms or documents required under
+661 this section no later than 10 business days after receipt of a
+662 permit application or, if the permit application is relating to
+663 a single-trade plans review for a single-family or two-family
+664 dwelling, no later than 5 business days after receipt of a
+665 permit application, and an affidavit from the private provider
+666 as required in subsection (7). The written notice must state
+667 with specificity which forms or documents are incomplete.
+668 (7)(a) No more than 20 business days, or if the permit
+669 application is related to a single-trade plans review for a
+670 single-family or two-family dwelling, no more than 5 business
+671 days, after receipt of a permit application and the affidavit
+672 from the private provider required pursuant to subsection (6),
+673 the local building official shall issue the requested permit or
+674 provide a written notice to the permit applicant identifying the
+675 specific plan features that do not comply with the applicable
+Page 27 of 45
+CODING: Words stricken are deletions; words underlined are additions.
+hb803 -03-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 803, Engrossed 1 2026
+676 codes, as well as the specific code chapters and sections. If
+677 the local building official does not provide such a written
+678 notice of the plan deficiencies within the prescribed time
+679 period, the permit application must be deemed approved as a
+680 matter of law, and the permit must be issued by the local
+681 building official on the next business day.
+682 (c)(b) If the local building official provides a written
+683 notice of plan deficiencies to the permit applicant of any
+684 incomplete forms or documents required under this section at the
+685 time of plan submission within the prescribed time period, such
+686 the time period is tolled pending resolution of the matter. To
+687 resolve the issues raised in the notice plan deficiencies, the
+688 permit applicant may elect to dispute the issues deficiencies
+689 pursuant to subsection (17) (15) or to submit revisions to
+690 correct the issues deficiencies.
+691 (d)(c) If the permit applicant submits revisions, the
+692 local building official has the remainder of the tolled 10-day
+693 or 5-day time period plus 5 business days after the date of
+694 resubmittal to issue the requested permit or to provide a second
+695 written notice to the permit applicant stating which of the
+696 previously identified forms or documents plan features remain
+697 incomplete in noncompliance with the applicable codes, with
+698 specific reference to the relevant code chapters and sections.
+699 Any subsequent review by the local building official is limited
+700 to the issues deficiencies cited in the original written notice.
+Page 28 of 45
+CODING: Words stricken are deletions; words underlined are additions.
+hb803 -03-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 803, Engrossed 1 2026
+701 If the local building official does not provide the second
+702 written notice within the prescribed time period, the permit
+703 must be deemed approved as a matter of law, and the local
+704 building official must issue the permit on the next business
+705 day.
+706 (e)(d) If the local building official provides a second
+707 written notice of plan deficiencies to the permit applicant
+708 within the prescribed time period, the permit applicant may
+709 elect to dispute the issues raised in the second notice
+710 deficiencies pursuant to subsection (17) (15) or to submit
+711 additional revisions to correct the issues deficiencies. For all
+712 revisions submitted after the first revision, the local building
+713 official has an additional 5 business days after the date of
+714 resubmittal to issue the requested permit or to provide a
+715 written notice to the permit applicant stating which of the
+716 previously identified forms or documents plan features remain
+717 incomplete. If the local building official does not provide the
+718 notice within the prescribed time period, the permit shall be
+719 deemed approved as a matter of law, and the local building
+720 official must issue the permit on the next business day in
+721 noncompliance with the applicable codes, with specific reference
+722 to the relevant code chapters and sections.
+723 (9)(8) A private provider performing required inspections
+724 under this section shall inspect each phase of construction as
+725 required by the applicable codes. Such inspection, including a
+Page 29 of 45
+CODING: Words stricken are deletions; words underlined are additions.
+hb803 -03-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 803, Engrossed 1 2026
+726 single-trade inspection, may be performed in person or
+727 virtually. The private provider may have a duly authorized
+728 representative perform the required inspections, provided all
+729 required reports are prepared by and bear the written or
+730 electronic signature of the private provider or the private
+731 provider's duly authorized representative. The duly authorized
+732 representative must be an employee of the private provider
+733 entitled to receive reemployment assistance benefits under
+734 chapter 443. The contractor's contractual or legal obligations
+735 are not relieved by any action of the private provider.
+736 (10)(9) A private provider performing required inspections
+737 under this section shall provide notice to the local building
+738 official of the approximate date and time of any such
+739 inspection. The local building official may not prohibit the
+740 private provider from performing any inspection outside the
+741 local building official's normal operating hours, including
+742 after hours, weekends, or holidays. The local building official
+743 may visit the building site as often as necessary to verify that
+744 the private provider is performing all required inspections. A
+745 deficiency notice must be posted by the private provider, the
+746 duly authorized representative of the private provider, or the
+747 building department whenever a noncomplying item related to the
+748 building code or the permitted documents is found. Such notice
+749 may be physically posted at the job site or electronically
+750 posted. After corrections are made, the item must be reinspected
+Page 30 of 45
+CODING: Words stricken are deletions; words underlined are additions.
+hb803 -03-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 803, Engrossed 1 2026
+751 by the private provider or the representative of the private
+752 provider before being concealed. Reinspection or reaudit fees
+753 shall not be charged by The local jurisdiction may not charge
+754 reinspection or reaudit fees as a result of the local
+755 jurisdiction's audit inspection occurring before the performance
+756 of the private provider's inspection or for any other
+757 administrative matter not involving the detection of a violation
+758 of the building code or a permit requirement.
+759 (11) A local enforcement agency is not responsible for the
+760 regulatory administration or supervision of building code
+761 inspection services performed by a private provider hired by a
+762 fee owner or the fee owner's contractor. A local enforcement
+763 agency may not require additional verification of licensure or
+764 insurance requirements beyond that which is required at
+765 registration.
+766 (12)(10) If the private provider is a person licensed as
+767 an engineer under chapter 471 or an architect under chapter 481
+768 and affixes his or her professional seal to the affidavit
+769 required under subsection (7) (6), the local building official
+770 must issue the requested permit or provide a written notice to
+771 the permit applicant identifying the specific plan features that
+772 do not comply with the applicable codes, as well as the specific
+773 code chapters and sections, within 10 business days after
+774 receipt of the permit application and affidavit. In such written
+775 notice, the local building official must provide with
+Page 31 of 45
+CODING: Words stricken are deletions; words underlined are additions.
+hb803 -03-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 803, Engrossed 1 2026
+776 specificity the plan's deficiencies, the reasons the permit
+777 application failed, and the applicable codes being violated. If
+778 the local building official does not provide specific written
+779 notice to the permit applicant within the prescribed 10-day
+780 period, the permit application is deemed approved as a matter of
+781 law, and the local building official must issue the permit on
+782 the next business day.
+783 (13)(11) If equipment replacements and repairs must be
+784 performed in an emergency situation, subject to the emergency
+785 permitting provisions of the Florida Building Code, a private
+786 provider may perform emergency inspection services without first
+787 notifying the local building official pursuant to subsection
+788 (9). A private provider must conduct the inspection within 3
+789 business days after being contacted to conduct an emergency
+790 inspection and must submit the inspection report to the local
+791 building official within 1 day after the inspection is
+792 completed.
+793 (14)(12) Upon completing the required inspections at each
+794 applicable phase of construction, the private provider shall
+795 record such inspections on a form provided by the commission
+796 acceptable to the local building official. The form must bear
+797 the written or electronic signature of the private provider or
+798 the private provider's duly authorized representative. These
+799 inspection records must shall reflect those inspections required
+800 by the applicable codes of each phase of construction for which
+Page 32 of 45
+CODING: Words stricken are deletions; words underlined are additions.
+hb803 -03-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 803, Engrossed 1 2026
+801 permitting by a local enforcement agency is required. The
+802 private provider, upon completion of the required inspection,
+803 shall post each completed inspection record, indicating pass or
+804 fail, and provide the record to the local building official
+805 within 4 2 business days. Such inspection record may be
+806 electronically posted by the private provider, or the private
+807 provider may post such inspection record physically at the
+808 project site. The private provider may electronically transmit
+809 the record to the local building official. The local building
+810 official may waive the requirement to provide a record of each
+811 inspection within 4 2 business days if the record is
+812 electronically posted or transmitted or posted at the project
+813 site and all such inspection records are submitted with the
+814 certificate of compliance. Unless the records have been
+815 electronically posted or transmitted, records of all required
+816 and completed inspections shall be maintained at the building
+817 site at all times and made available for review by the local
+818 building official. A local building official may not fail any
+819 inspection performed by a private provider for not having the
+820 inspection records at the job site if the inspection records
+821 have been electronically transmitted to the local building
+822 official within the 4-business-day requirement. The private
+823 provider shall report to the local enforcement agency any
+824 condition that poses an immediate threat to public safety and
+825 welfare.
+Page 33 of 45
+CODING: Words stricken are deletions; words underlined are additions.
+hb803 -03-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 803, Engrossed 1 2026
+826 (15)(13) Upon completion of all required inspections, the
+827 private provider firm shall prepare a certificate of compliance,
+828 on a form provided by the commission acceptable to the local
+829 building official, summarizing the inspections performed and
+830 including a written representation, under oath, that the stated
+831 inspections have been performed and that, to the best of the
+832 private provider's knowledge and belief, the building
+833 construction inspected complies with the approved plans and
+834 applicable codes. The certificate of compliance may be signed by
+835 any qualified licensed individual employed full time by the
+836 private provider firm under whose authority the inspection was
+837 completed. The statement required of the private provider shall
+838 be substantially in the following form and shall be signed and
+839 sealed by a private provider as established in subsection (1) or
+840 may be electronically transmitted to the local building
+841 official:
+842
+843 To the best of my knowledge and belief, the building
+844 components and site improvements outlined herein and
+845 inspected under my authority have been completed in
+846 conformance with the approved plans and the applicable
+847 codes.
+848
+849 (16)(a)(14)(a) The local building official may only
+850 perform building inspections of construction that a private
+Page 34 of 45
+CODING: Words stricken are deletions; words underlined are additions.
+hb803 -03-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 803, Engrossed 1 2026
+851 provider has determined to be compliant with the applicable
+852 codes if the local building official has knowledge that the
+853 private provider did not perform the required inspections. If
+854 the local building official has such knowledge, the local
+855 building official must provide to the private provider written
+856 notice of the facts and circumstances upon which the local
+857 building official relied for such knowledge before performing a
+858 required inspection. The local building official may review
+859 forms and documents required under this section for completeness
+860 only. No more than 10 business days, or if the permit is related
+861 to single-family or two-family dwellings then no more than 2
+862 business days, after receipt of a request for a certificate of
+863 occupancy or certificate of completion and the applicant's
+864 presentation of a certificate of compliance and approval of all
+865 other government approvals required by law, including the
+866 payment of all outstanding fees, the local building official
+867 shall issue the certificate of occupancy or certificate of
+868 completion or provide a notice to the applicant of any
+869 incomplete forms or documents required under this section
+870 identifying the specific deficiencies, as well as the specific
+871 code chapters and sections.
+872 (b) If the local building official does not provide notice
+873 of any incomplete forms or documents the deficiencies within the
+874 applicable time periods under paragraph (a), the request for a
+875 certificate of occupancy or certificate of completion is
+Page 35 of 45
+CODING: Words stricken are deletions; words underlined are additions.
+hb803 -03-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 803, Engrossed 1 2026
+876 automatically granted and deemed issued as of the next business
+877 day. The local building official must provide the applicant with
+878 the written certificate of occupancy or certificate of
+879 completion within 10 days after it is automatically granted and
+880 issued. To resolve any identified issues deficiencies, the
+881 applicant may elect to dispute the issues deficiencies pursuant
+882 to subsection (17) (15) or to submit a corrected request for a
+883 certificate of occupancy or certificate of completion.
+884 (17)(15) If the local building official determines that
+885 the building construction or plans do not comply with the
+886 applicable codes, the official may deny the permit or request
+887 for a certificate of occupancy or certificate of completion, as
+888 appropriate, or may issue a stop-work order for the project or
+889 any portion thereof as provided by law, if the official
+890 determines that the noncompliance poses an immediate threat to
+891 public safety and welfare, subject to the following:
+892 (a) The local building official shall be available to meet
+893 with the private provider within 2 business days to resolve any
+894 dispute after issuing a stop-work order or providing notice to
+895 the applicant denying a permit or request for a certificate of
+896 occupancy or certificate of completion.
+897 (b) If the local building official and private provider
+898 are unable to resolve the dispute, the matter shall be referred
+899 to the local enforcement agency's board of appeals, if one
+900 exists, which shall consider the matter at its next scheduled
+Page 36 of 45
+CODING: Words stricken are deletions; words underlined are additions.
+hb803 -03-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 803, Engrossed 1 2026
+901 meeting or sooner. Any decisions by the local enforcement
+902 agency's board of appeals, or local building official if there
+903 is no board of appeals, may be appealed to the commission as
+904 provided by this chapter.
+905 (c) Notwithstanding any provision of this section, any
+906 decisions regarding the issuance of a building permit,
+907 certificate of occupancy, or certificate of completion may be
+908 reviewed by the local enforcement agency's board of appeals, if
+909 one exists. Any decision by the local enforcement agency's board
+910 of appeals, or local building official if there is no board of
+911 appeals, may be appealed to the commission as provided by this
+912 chapter, which shall consider the matter at the commission's
+913 next scheduled meeting.
+914 (18)(16) For the purposes of this section, any notice to
+915 be provided by the local building official shall be deemed to be
+916 provided to the person or entity when successfully transmitted
+917 to the e-mail address listed for that person or entity in the
+918 permit application or revised permit application, or, if no e-
+919 mail address is stated, when actually received by that person or
+920 entity.
+921 (19)(a)(17)(a) A local enforcement agency, local building
+922 official, or local government may not adopt or enforce any laws,
+923 rules, procedures, policies, qualifications, or standards more
+924 stringent than those prescribed by this section.
+925 (b) A local enforcement agency, local building official,
+Page 37 of 45
+CODING: Words stricken are deletions; words underlined are additions.
+hb803 -03-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 803, Engrossed 1 2026
+926 or local government may establish, for private providers,
+927 private provider firms, and duly authorized representatives
+928 working within that jurisdiction, a system of registration to
+929 verify compliance with the licensure requirements of paragraph
+930 (1)(n) and the insurance requirements of subsection (18).
+931 (b)(c) This section does not limit the authority of the
+932 local building official to issue a stop-work order for a
+933 building project or any portion of the project, as provided by
+934 law, if the official determines that a condition on the building
+935 site constitutes an immediate threat to public safety and
+936 welfare.
+937 (c) A local enforcement agency may not prohibit or limit
+938 private providers from using virtual inspections if a virtual
+939 inspection is not prohibited by any applicable code.
+940 (20)(18) A private provider may perform building code
+941 inspection services on a building project under this section
+942 only if the private provider maintains insurance for
+943 professional liability covering all services performed as a
+944 private provider. Such insurance shall have minimum policy
+945 limits of $1 million per occurrence and $2 million in the
+946 aggregate for any project with a construction cost of $5 million
+947 or less and $2 million per occurrence and $4 million in the
+948 aggregate for any project with a construction cost of over $5
+949 million. Nothing in this section limits the ability of a fee
+950 owner to require additional insurance or higher policy limits.
+Page 38 of 45
+CODING: Words stricken are deletions; words underlined are additions.
+hb803 -03-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 803, Engrossed 1 2026
+951 For these purposes, the term "construction cost" means the total
+952 cost of building construction as stated in the building permit
+953 application. If the private provider chooses to secure claims-
+954 made coverage to fulfill this requirement, the private provider
+955 must also maintain coverage for a minimum of 5 years after
+956 subsequent to the performance of building code inspection
+957 services. The insurance required under this subsection shall be
+958 written only by insurers authorized to do business in this state
+959 with a minimum A.M. Best's rating of A. Before providing
+960 building code inspection services within a local building
+961 official's jurisdiction, a private provider must provide to the
+962 local building official a certificate of insurance evidencing
+963 that the coverages required under this subsection are in force.
+964 (21)(19) When performing building code inspection
+965 services, a private provider is subject to the disciplinary
+966 guidelines of the applicable professional board with
+967 jurisdiction over his or her license or certification under
+968 chapter 468, chapter 471, or chapter 481. All private providers
+969 shall be subject to the disciplinary guidelines of s.
+970 468.621(1)(c)-(h). Any complaint processing, investigation, and
+971 discipline that arise out of a private provider's performance of
+972 building code inspection services shall be conducted by the
+973 applicable professional board.
+974 (22)(20) A local building code enforcement agency may not
+975 audit the performance of building code inspection services by
+Page 39 of 45
+CODING: Words stricken are deletions; words underlined are additions.
+hb803 -03-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 803, Engrossed 1 2026
+976 private providers operating within the local jurisdiction until
+977 the agency has created standard operating private provider audit
+978 procedures for the agency's internal inspection and review
+979 staff, which includes, at a minimum, the private provider audit
+980 purpose and scope, private provider audit criteria, an
+981 explanation of private provider audit processes and objections,
+982 and detailed findings of areas of noncompliance. Such private
+983 provider audit procedures must be publicly available online, and
+984 a printed version must be readily accessible in agency
+985 buildings. The private provider audit results of staff for the
+986 prior two quarters also must be publicly available. The agency's
+987 audit processes must adhere to the agency's posted standard
+988 operating audit procedures. The same private provider or private
+989 provider firm may not be audited more than four times in a year
+990 unless the local building official determines a condition of a
+991 building constitutes an immediate threat to public safety and
+992 welfare, which must be communicated in writing to the private
+993 provider or private provider firm. The private provider or
+994 private provider firm must be given notice of each audit to be
+995 performed at least 5 business days before the audit. Work on a
+996 building or structure may proceed after inspection and approval
+997 by a private provider. The work may not be delayed for
+998 completion of an inspection audit by the local building code
+999 enforcement agency.
+1000 (23)(21) The local government, the local building
+Page 40 of 45
+CODING: Words stricken are deletions; words underlined are additions.
+hb803 -03-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 803, Engrossed 1 2026
+1001 official, and their building code enforcement personnel shall be
+1002 immune from liability to any person or party for any action or
+1003 inaction by a fee owner of a building, or by a private provider
+1004 or its duly authorized representative, in connection with
+1005 building code inspection services as authorized in this act. The
+1006 local government, local enforcement agency, local building
+1007 official, and building code enforcement personnel may not
+1008 prohibit or discourage the use of a private provider or a
+1009 private provider firm.
+1010 (24)(22) Notwithstanding any other law, a county, a
+1011 municipality, a school district, or an independent special
+1012 district may use a private provider or a private provider firm,
+1013 or may employ a licensed building inspector as described in s.
+1014 468.603(5)(a) or a person who holds the same licensure or
+1015 certification as a private provider, to provide building code
+1016 inspection services for a public works project, an improvement,
+1017 a building, or any other structure that is owned by the county,
+1018 municipality, school district, or independent special district.
+1019 Section 6. Paragraph (a) of subsection (1) of section
+1020 553.792, Florida Statutes, is amended to read:
+1021 553.792 Building permit application to local government.—
+1022 (1)(a) A local government must approve, approve with
+1023 conditions, or deny a building permit application after receipt
+1024 of a completed and sufficient application within the following
+1025 timeframes, unless the applicant waives such timeframes in
+Page 41 of 45
+CODING: Words stricken are deletions; words underlined are additions.
+hb803 -03-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 803, Engrossed 1 2026
+1026 writing:
+1027 1. Within 5 business days after receiving a complete and
+1028 sufficient application, for an applicant using a local
+1029 government plans reviewer to obtain the following building
+1030 permits for an existing single-family residential dwelling if
+1031 the value of the work is less than $15,000: structural,
+1032 accessory structure, alarm, electrical, gas, irrigation,
+1033 landscaping, mechanical, plumbing, or roofing.
+1034 2.1. Within 30 business days after receiving a complete
+1035 and sufficient application, for an applicant using a local
+1036 government plans reviewer to obtain the following building
+1037 permits if the structure is less than 7,500 square feet:
+1038 residential units, including a single-family residential unit or
+1039 a single-family residential dwelling, accessory structure,
+1040 alarm, electrical, irrigation, landscaping, mechanical,
+1041 plumbing, or roofing.
+1042 3.2. Within 60 business days after receiving a complete
+1043 and sufficient application, for an applicant using a local
+1044 government plans reviewer to obtain the following building
+1045 permits if the structure is 7,500 square feet or more:
+1046 residential units, including a single-family residential unit or
+1047 a single-family residential dwelling, accessory structure,
+1048 alarm, electrical, irrigation, landscaping, mechanical,
+1049 plumbing, or roofing.
+1050 4.3. Within 60 business days after receiving a complete
+Page 42 of 45
+CODING: Words stricken are deletions; words underlined are additions.
+hb803 -03-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 803, Engrossed 1 2026
+1051 and sufficient application, for an applicant using a local
+1052 government plans reviewer to obtain the following building
+1053 permits: signs or nonresidential buildings that are less than
+1054 25,000 square feet.
+1055 5.4. Within 60 business days after receiving a complete
+1056 and sufficient application, for an applicant using a local
+1057 government plans reviewer to obtain the following building
+1058 permits: multifamily residential, not exceeding 50 units; site-
+1059 plan approvals and subdivision plats not requiring public
+1060 hearing or public notice; and lot grading and site alteration.
+1061 6.5. Within 12 business days after receiving a complete
+1062 and sufficient application, for an applicant using a master
+1063 building permit consistent with s. 553.794 to obtain a site-
+1064 specific building permit.
+1065 7.6. Within 10 business days after receiving a complete
+1066 and sufficient application, for an applicant for a single-family
+1067 residential dwelling applied for by a contractor licensed in
+1068 this state on behalf of a property owner who participates in a
+1069 Community Development Block Grant-Disaster Recovery program
+1070 administered by the Department of Commerce, unless the permit
+1071 application fails to satisfy the Florida Building Code or the
+1072 enforcing agency's laws or ordinances.
+1073
+1074 However, the local government may not require the waiver of the
+1075 timeframes in this section as a condition precedent to reviewing
+Page 43 of 45
+CODING: Words stricken are deletions; words underlined are additions.
+hb803 -03-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 803, Engrossed 1 2026
+1076 an applicant's building permit application.
+1077 Section 7. Paragraphs (b) through (m) of subsection (1) of
+1078 section 553.77, Florida Statutes, are redesignated as paragraphs
+1079 (c) through (n), respectively, present paragraph (c) of that
+1080 subsection is amended, and a new paragraph (b) is added to that
+1081 subsection, to read:
+1082 553.77 Specific powers of the commission.—
+1083 (1) The commission shall:
+1084 (b) By July 1, 2027, adopt by rule a uniform commercial
+1085 building permit application to be used statewide for commercial
+1086 construction projects and a uniform residential building permit
+1087 application to be used statewide for residential construction
+1088 projects. To the extent feasible, the uniform commercial
+1089 building permit application and the uniform residential building
+1090 permit application adopted by the commission must be capable of
+1091 integration with existing building permit software systems used
+1092 by local governments and must account for local amendments to
+1093 the Florida Building Code.
+1094 (d)(c) Upon written application by any substantially
+1095 affected person or a local enforcement agency, issue declaratory
+1096 statements pursuant to s. 120.565 relating to new technologies,
+1097 techniques, and materials which have been tested where necessary
+1098 and found to meet the objectives of the Florida Building Code.
+1099 This paragraph does not apply to the types of products,
+1100 materials, devices, or methods of construction required to be
+Page 44 of 45
+CODING: Words stricken are deletions; words underlined are additions.
+hb803 -03-e1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 803, Engrossed 1 2026
+1101 approved under paragraph (g) (f).
+1102 Section 8. Paragraph (c) is added to subsection (1) of
+1103 section 720.3035, Florida Statutes, to read:
+1104 720.3035 Architectural control covenants; parcel owner
+1105 improvements; rights and privileges.—
+1106 (1)
+1107 (c) An association or any architectural, construction
+1108 improvement, or other such similar committee of an association
+1109 may not require a building permit to be issued by a governmental
+1110 authority to a parcel owner as a prerequisite for review by the
+1111 association or committee concerning the construction of
+1112 structures or improvements on the parcel.
+1113 Section 9. This act shall take effect July 1, 2026.
+Page 45 of 45
+CODING: Words stricken are deletions; words underlined are additions.
+hb803 -03-e1

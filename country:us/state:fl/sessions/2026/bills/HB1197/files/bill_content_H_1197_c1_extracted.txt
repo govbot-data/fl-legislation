@@ -1,0 +1,930 @@
+Title: 
+Official Title: 
+Source: versions - H 1197 c1
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 1197 2026
+1 A bill to be entitled
+2 An act relating to information technology procurement
+3 and contracting; amending s. 20.22, F.S.; providing
+4 that the Bureau of Enterprise Project Management and
+5 Oversight is within the Florida Digital Service;
+6 amending s. 282.0041, F.S.; revising and providing
+7 definitions; amending s. 282.0051, F.S.; revising the
+8 duties and responsibilities of the Florida Digital
+9 Service; requiring the Florida Digital Service to
+10 manage certain contracts, report certain information
+11 to specified parties annually, and adopt certain
+12 rules; creating s. 282.00513, F.S.; creating the
+13 Bureau of Enterprise Project Management and Oversight
+14 within the Florida Digital Service; providing duties
+15 and responsibilities of the bureau; requiring certain
+16 parties to designate a chief of the bureau; creating
+17 s. 282.00514, F.S.; requiring state agencies include
+18 specified information in certain solicitations and
+19 contracts; requiring state agencies to follow certain
+20 processes and use certain forms in certain
+21 circumstances; requiring state agencies to consult
+22 with the Florida Digital Service and work
+23 cooperatively with specified entities in certain
+24 circumstances; requiring state agencies take certain
+25 actions related to information technology project
+Page 1 of 30
+CODING: Words stricken are deletions; words underlined are additions.
+hb1197-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 1197 2026
+26 procurement planning; requiring state agencies to
+27 comply with a specified framework established by the
+28 Bureau of Enterprise Project Management and Oversight;
+29 requiring state agencies provide information in a
+30 specified format; amending s. 282.00515, F.S.;
+31 conforming provisions to changes made by the act;
+32 amending s. 287.057, F.S.; requiring the Department of
+33 Management Services to maintain a specified repository
+34 for certain records; creating s. 287.0583, F.S.;
+35 providing contract requirements for certain
+36 information technology commodities and services;
+37 amending s. 287.0591, F.S.; revising requirements for
+38 information technology competitive solicitations;
+39 providing an effective date.
+40
+41 Be It Enacted by the Legislature of the State of Florida:
+42
+43 Section 1. Paragraph (b) of subsection (2) of section
+44 20.22, Florida Statutes, is amended to read:
+45 20.22 Department of Management Services.—There is created
+46 a Department of Management Services.
+47 (2) The following divisions, programs, and services within
+48 the Department of Management Services are established:
+49 (b) The Florida Digital Service, which shall include the
+50 Bureau of Enterprise Project Management and Oversight.
+Page 2 of 30
+CODING: Words stricken are deletions; words underlined are additions.
+hb1197-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 1197 2026
+51 Section 2. Subsections (24) through (38) of section
+52 282.0041, Florida Statutes, are renumbered as subsections (25)
+53 through (39), respectively, subsections (28) and (30) are
+54 amended, and a new subsection (24) is added to that section, to
+55 read:
+56 282.0041 Definitions.—As used in this chapter, the term:
+57 (24) "Major information technology system" means an
+58 information technology system with a total cost of ownership of
+59 $10 million or more, which directly serves or impacts end users
+60 in the delivery of constituent-facing services or which supports
+61 mission-critical operations essential to a state agency's
+62 statutory duties or core business functions.
+63 (28)(27) "Project oversight" means an independent review
+64 and assessment analysis of an information technology project
+65 that provides information on the project's scope, completion
+66 timeframes, performance measurement, and budget and that
+67 identifies and quantifies issues or risks affecting the
+68 successful and timely completion of the project.
+69 (30)(29) "Risk assessment" means the process of
+70 identifying operational risks and security risks, determining
+71 their magnitude, and identifying areas needing safeguards.
+72 Section 3. Section 282.0051, Florida Statutes, is amended
+73 to read:
+74 282.0051 Department of Management Services; Florida
+75 Digital Service; powers, duties, and functions.—
+Page 3 of 30
+CODING: Words stricken are deletions; words underlined are additions.
+hb1197-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 1197 2026
+76 (1) The Florida Digital Service is has been created within
+77 the department to propose innovative solutions that securely
+78 modernize state government, including technology and information
+79 services, to achieve value through digital transformation and
+80 interoperability, and to fully support the cloud-first policy as
+81 specified in s. 282.206. The department, through the Florida
+82 Digital Service, shall have the following powers, duties, and
+83 functions:
+84 (a) Develop and publish information technology policy for
+85 the management of the state's information technology resources.
+86 (b) Develop an enterprise architecture that:
+87 1. Acknowledges the unique needs of the entities within
+88 the enterprise in the development and publication of standards
+89 and terminologies to facilitate digital interoperability;
+90 2. Supports the cloud-first policy as specified in s.
+91 282.206; and
+92 3. Addresses how information technology infrastructure may
+93 be modernized to achieve cloud-first objectives.
+94 (c) Establish project management and oversight standards
+95 with which state agencies must comply when implementing
+96 information technology projects. The department, acting through
+97 the Florida Digital Service, shall update the provide training
+98 opportunities to state agencies to assist in the adoption of the
+99 project management and oversight standards by July 1, 2027, and
+100 at least once every 2 years thereafter, incorporating best
+Page 4 of 30
+CODING: Words stricken are deletions; words underlined are additions.
+hb1197-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 1197 2026
+101 practices from the public and private sectors, as well as any
+102 lessons learned by state agencies. When updating the standards,
+103 the Florida Digital Service shall solicit input from all state
+104 agencies. To support data-driven decisionmaking, the standards
+105 must include, but are not limited to:
+106 1. Performance measurements and metrics that objectively
+107 assess reflect the progress and risks status of an information
+108 technology project through performance baselines and monitoring
+109 mechanisms to determine whether the project is performing as
+110 planned and delivering the intended outcomes based on a defined
+111 and documented project scope, cost, and schedule.
+112 2. Methodologies for calculating acceptable variances
+113 between the planned and in the projected versus actual scope of
+114 a technology project which provide clear thresholds to guide
+115 corrective actions. Such methodologies must account for project
+116 complexity and scale, schedule, performance, quality, and the or
+117 cost of an information technology project.
+118 3. Reporting requirements, including requirements designed
+119 to alert all defined stakeholders and the chairs of the
+120 legislative appropriations committees when that an information
+121 technology project has exceeded acceptable variances and
+122 specifying procedures for escalating critical issues to
+123 appropriate individuals defined and documented in a project
+124 plan.
+125 4. Content, format, and frequency of project updates.
+Page 5 of 30
+CODING: Words stricken are deletions; words underlined are additions.
+hb1197-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 1197 2026
+126 5. Technical standards to ensure an information technology
+127 project complies with the enterprise architecture, including
+128 interoperability, security, scalability, and data management
+129 requirements.
+130 6. Mechanisms for engaging stakeholders throughout a
+131 project's life cycle.
+132 (d) Provide training opportunities to state agencies
+133 regarding the information technology project management and
+134 oversight standards.
+135 (e)(d) Perform project oversight on all state agency
+136 information technology projects that have total project costs of
+137 $10 million or more and that are funded in the General
+138 Appropriations Act or any other law. The department, acting
+139 through the Florida Digital Service, shall report at least
+140 quarterly to the Executive Office of the Governor, the President
+141 of the Senate, and the Speaker of the House of Representatives
+142 on any information technology project that the Florida Digital
+143 Service department identifies as high-risk due to the project
+144 exceeding the acceptable project variance thresholds provided in
+145 the project management and oversight standards ranges defined
+146 and documented in a project plan. The report must include:
+147 1. A risk assessment, including fiscal risks, associated
+148 with proceeding to the next stage of the project.
+149 2. Recommendations, and a recommendation for corrective
+150 actions required, including suspension or termination of the
+Page 6 of 30
+CODING: Words stricken are deletions; words underlined are additions.
+hb1197-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 1197 2026
+151 project.
+152 3. A list of all projects with a performance deficiency,
+153 reported pursuant to s. 287.057(26)(d)1., which has not been
+154 corrected by the vendor as of the end of the reporting period.
+155 (f)(e) Identify opportunities for standardization and
+156 consolidation of information technology services that support
+157 interoperability and the cloud-first policy, as specified in s.
+158 282.206, and business functions and operations, including
+159 administrative functions such as purchasing, accounting and
+160 reporting, cash management, and personnel, and that are common
+161 across state agencies. The department, acting through the
+162 Florida Digital Service, shall biennially on January 15 1 of
+163 each odd-numbered even-numbered year provide recommendations for
+164 standardization and consolidation to the Executive Office of the
+165 Governor, the President of the Senate, and the Speaker of the
+166 House of Representatives.
+167 (g)(f) Establish best practices for the procurement of
+168 information technology products and cloud-computing services in
+169 order to reduce costs, increase the quality of data center
+170 services, or improve government services.
+171 (h)(g) Develop standards for information technology
+172 reports and updates, including, but not limited to, operational
+173 work plans, project spend plans, and project status reports, for
+174 use by state agencies.
+175 (i)(h) Upon request, assist state agencies in the
+Page 7 of 30
+CODING: Words stricken are deletions; words underlined are additions.
+hb1197-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 1197 2026
+176 development of information technology-related legislative budget
+177 requests.
+178 (j)(i) Conduct annual assessments of state agencies to
+179 determine compliance with all information technology standards
+180 and guidelines developed and published by the department and
+181 provide results of the assessments to the Executive Office of
+182 the Governor, the President of the Senate, and the Speaker of
+183 the House of Representatives.
+184 (j) Conduct a market analysis not less frequently than
+185 every 3 years beginning in 2021 to determine whether the
+186 information technology resources within the enterprise are
+187 utilized in the most cost-effective and cost-efficient manner,
+188 while recognizing that the replacement of certain legacy
+189 information technology systems within the enterprise may be cost
+190 prohibitive or cost inefficient due to the remaining useful life
+191 of those resources; whether the enterprise is complying with the
+192 cloud-first policy specified in s. 282.206; and whether the
+193 enterprise is utilizing best practices with respect to
+194 information technology, information services, and the
+195 acquisition of emerging technologies and information services.
+196 Each market analysis shall be used to prepare a strategic plan
+197 for continued and future information technology and information
+198 services for the enterprise, including, but not limited to,
+199 proposed acquisition of new services or technologies and
+200 approaches to the implementation of any new services or
+Page 8 of 30
+CODING: Words stricken are deletions; words underlined are additions.
+hb1197-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 1197 2026
+201 technologies. Copies of each market analysis and accompanying
+202 strategic plan must be submitted to the Executive Office of the
+203 Governor, the President of the Senate, and the Speaker of the
+204 House of Representatives not later than December 31 of each year
+205 that a market analysis is conducted.
+206 (k) Recommend other information technology services that
+207 should be designed, delivered, and managed as enterprise
+208 information technology services. Recommendations must include
+209 the identification of existing information technology resources
+210 associated with the services, if existing services must be
+211 transferred as a result of being delivered and managed as
+212 enterprise information technology services. The recommendations
+213 must be submitted to the Governor, the President of the Senate,
+214 and the Speaker of the House of Representatives no later than
+215 January 15 of each odd-numbered year.
+216 (l) In consultation with state agencies, propose a
+217 methodology and approach for identifying and collecting both
+218 current and planned information technology expenditure data at
+219 the state agency level.
+220 (m)1. Notwithstanding any other law, provide project
+221 oversight on any information technology project of the
+222 Department of Financial Services, the Department of Legal
+223 Affairs, and the Department of Agriculture and Consumer Services
+224 which has a total project cost of $20 million or more. Such
+225 information technology projects must also comply with the
+Page 9 of 30
+CODING: Words stricken are deletions; words underlined are additions.
+hb1197-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 1197 2026
+226 applicable information technology architecture, project
+227 management and oversight, and reporting standards established by
+228 the department, acting through the Florida Digital Service.
+229 2. When performing the project oversight function
+230 specified in subparagraph 1., report at least quarterly to the
+231 Executive Office of the Governor, the President of the Senate,
+232 and the Speaker of the House of Representatives on any
+233 information technology project that the department, acting
+234 through the Florida Digital Service, identifies as high-risk due
+235 to the project exceeding the established acceptable project
+236 variance thresholds ranges defined and documented in the project
+237 plan. The report shall include a risk assessment, including
+238 fiscal risks, associated with proceeding to the next stage of
+239 the project and a recommendation for corrective actions
+240 required, including suspension or termination of the project.
+241 (n) If an information technology project implemented by a
+242 state agency must be connected to or otherwise accommodated by
+243 an information technology system administered by the Department
+244 of Financial Services, the Department of Legal Affairs, or the
+245 Department of Agriculture and Consumer Services, consult with
+246 these departments regarding the risks and other effects of such
+247 projects on their information technology systems and work
+248 cooperatively with these departments regarding the connections,
+249 interfaces, timing, or accommodations required to implement such
+250 projects.
+Page 10 of 30
+CODING: Words stricken are deletions; words underlined are additions.
+hb1197-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 1197 2026
+251 (n)(o) If adherence to standards or policies adopted by or
+252 established pursuant to this section causes conflict with
+253 federal regulations or requirements imposed on an entity within
+254 the enterprise and results in adverse action against an entity
+255 or federal funding, work with the entity to provide alternative
+256 standards, policies, or requirements that do not conflict with
+257 the federal regulation or requirement. The department, acting
+258 through the Florida Digital Service, shall annually report each
+259 January 15 such alternative standards to the Executive Office of
+260 the Governor, the President of the Senate, and the Speaker of
+261 the House of Representatives.
+262 (o)(p)1. Establish an information technology policy for
+263 all information technology-related state contracts, including
+264 state term contracts for information technology commodities,
+265 consultant services, and staff augmentation services. The
+266 information technology policy must include:
+267 a. Identification of the information technology product
+268 and service categories to be included in state term contracts.
+269 b. Requirements to be included in solicitations for state
+270 term contracts.
+271 c. Evaluation criteria for the award of information
+272 technology-related state term contracts.
+273 d. The term of each information technology-related state
+274 term contract.
+275 e. The maximum number of vendors authorized on each state
+Page 11 of 30
+CODING: Words stricken are deletions; words underlined are additions.
+hb1197-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 1197 2026
+276 term contract.
+277 f. At a minimum, a requirement that any contract for
+278 information technology commodities or services meet the National
+279 Institute of Standards and Technology Cybersecurity Framework.
+280 g. For an information technology project wherein project
+281 oversight is required pursuant to paragraph (e) (d) or paragraph
+282 (m), a requirement that independent verification and validation
+283 be employed throughout the project life cycle with the primary
+284 objective of independent verification and validation being to
+285 provide an objective assessment of products and processes
+286 throughout the project life cycle. An entity providing
+287 independent verification and validation may not have technical,
+288 managerial, or financial interest in the project and may not
+289 have responsibility for, or participate in, any other aspect of
+290 the project.
+291 2. Evaluate vendor responses for information technology-
+292 related state term contract solicitations and invitations to
+293 negotiate.
+294 3. Answer vendor questions on information technology-
+295 related state term contract solicitations.
+296 4. Ensure that the information technology policy
+297 established pursuant to subparagraph 1. is included in all
+298 solicitations and contracts that are administratively executed
+299 by the department.
+300 (p)(q) Recommend potential methods for standardizing data
+Page 12 of 30
+CODING: Words stricken are deletions; words underlined are additions.
+hb1197-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 1197 2026
+301 across state agencies which will promote interoperability and
+302 reduce the collection of duplicative data.
+303 (q)(r) Recommend open data technical standards and
+304 terminologies for use by the enterprise.
+305 (r)(s) Ensure that enterprise information technology
+306 solutions are capable of utilizing an electronic credential and
+307 comply with the enterprise architecture standards.
+308 (s) Review all state agency information technology
+309 legislative budget requests to identify compliance issues
+310 related to the enterprise architecture, project planning
+311 standards, data interoperability, and cybersecurity.
+312 (t) Identify efficiency opportunities in the use of
+313 information technology resources.
+314 (u) Submit recommendations for improvement or any
+315 statutory changes necessary to implement the improvements to the
+316 Governor, the President of the Senate, and the Speaker of the
+317 House of Representatives no later than November 15 of each year.
+318 (v) Develop, maintain, and publish, in collaboration with
+319 the enterprise, a data dictionary for each agency that reflects
+320 the nomenclature in the comprehensive indexed data catalog.
+321 (w) Each December 1, compile an enterprise report of major
+322 information technology systems approaching end-of-life within 5
+323 fiscal years after such December 1, and submit the report to the
+324 Governor, the President of the Senate, and the Speaker of the
+325 House of Representatives. For purposes of this paragraph, "end-
+Page 13 of 30
+CODING: Words stricken are deletions; words underlined are additions.
+hb1197-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 1197 2026
+326 of-life" means the point at which an information technology
+327 resource no longer receives vendor support, uses obsolete
+328 technology, cannot be adequately maintained, or fails to meet
+329 enterprise architecture standards. The report must:
+330 1. Describe each major information technology system,
+331 including its primary functions, user base, and interconnections
+332 or dependencies with other systems.
+333 2. Provide the age, projected end-of-life date, technology
+334 platform, and vendor support status of such system.
+335 3. Identify the risks to operations, service delivery, or
+336 cybersecurity if such system reaches end-of-life without
+337 replacement.
+338 4. Describe the plan for such system's replacement,
+339 modernization, or retirement.
+340 (2)(a) The Secretary of Management Services shall
+341 designate a state chief information officer, who shall
+342 administer the Florida Digital Service. The state chief
+343 information officer, prior to appointment, must have at least 5
+344 years of experience in the development of information system
+345 strategic planning and development or information technology
+346 policy, and, preferably, have leadership-level experience in the
+347 design, development, and deployment of interoperable software
+348 and data solutions.
+349 (b) The state chief information officer, in consultation
+350 with the Secretary of Management Services, shall designate a
+Page 14 of 30
+CODING: Words stricken are deletions; words underlined are additions.
+hb1197-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 1197 2026
+351 state chief data officer. The chief data officer must be a
+352 proven and effective administrator who must have significant and
+353 substantive experience in data management, data governance,
+354 interoperability, and security.
+355 (3) The department, acting through the Florida Digital
+356 Service and from funds appropriated to the Florida Digital
+357 Service, shall:
+358 (a) Create, not later than December 1, 2022, and maintain
+359 a comprehensive indexed data catalog in collaboration with the
+360 enterprise that lists the data elements housed within the
+361 enterprise and the legacy system or application in which these
+362 data elements are located. The data catalog must, at a minimum,
+363 specifically identify all data that is restricted from public
+364 disclosure based on federal or state laws and regulations and
+365 require that all such information be protected in accordance
+366 with s. 282.318.
+367 (4) The Florida Digital Service shall procure, execute,
+368 and manage all independent verification and validation contracts
+369 for state agencies entered into or amended on or after July 1,
+370 2026.
+371 (b) Develop and publish, not later than December 1, 2022,
+372 in collaboration with the enterprise, a data dictionary for each
+373 agency that reflects the nomenclature in the comprehensive
+374 indexed data catalog.
+375 (c) Adopt, by rule, standards that support the creation
+Page 15 of 30
+CODING: Words stricken are deletions; words underlined are additions.
+hb1197-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 1197 2026
+376 and deployment of an application programming interface to
+377 facilitate integration throughout the enterprise.
+378 (d) Adopt, by rule, standards necessary to facilitate a
+379 secure ecosystem of data interoperability that is compliant with
+380 the enterprise architecture.
+381 (e) Adopt, by rule, standards that facilitate the
+382 deployment of applications or solutions to the existing
+383 enterprise system in a controlled and phased approach.
+384 (f) After submission of documented use cases developed in
+385 conjunction with the affected agencies, assist the affected
+386 agencies with the deployment, contingent upon a specific
+387 appropriation therefor, of new interoperable applications and
+388 solutions:
+389 1. For the Department of Health, the Agency for Health
+390 Care Administration, the Agency for Persons with Disabilities,
+391 the Department of Education, the Department of Elderly Affairs,
+392 and the Department of Children and Families.
+393 2. To support military members, veterans, and their
+394 families.
+395 (5)(4) For information technology projects that have a
+396 total project cost of $10 million or more, the Florida Digital
+397 Service shall:
+398 (a) No later than January 1, 2027, establish a
+399 presolicitation planning framework that includes standards,
+400 procedures, forms, and guidance that state agencies must follow
+Page 16 of 30
+CODING: Words stricken are deletions; words underlined are additions.
+hb1197-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 1197 2026
+401 before issuing a competitive solicitation provide the Florida
+402 Digital Service with written notice of any planned procurement
+403 of an information technology project.
+404 (b) The Florida Digital Service must Participate in the
+405 development of specifications and recommend modifications to any
+406 planned procurement of an information technology project by
+407 state agencies so that the procurement complies with the
+408 enterprise architecture and the presolicitation planning
+409 framework.
+410 (c) Certify that a state agency has complied with the
+411 presolicitation planning framework and is ready to initiate the
+412 planned procurement. The Florida Digital Service shall withhold
+413 certification for any procurement that does not comply with the
+414 established presolicitation planning framework.
+415 (d)(c) The Florida Digital Service must Participate in
+416 post-award contract monitoring, including risk oversight and
+417 monitoring for issues or situations that should be elevated to
+418 ensure timely resolution of the issue or situation.
+419 (6)(5) The department, acting through the Florida Digital
+420 Service, may not retrieve or disclose any data without a shared-
+421 data agreement in place between the Florida Digital Service
+422 department and the enterprise entity that has primary custodial
+423 responsibility of, or data-sharing responsibility for, that
+424 data. The Florida Digital Service shall report to the Governor,
+425 the President of the Senate, and the Speaker of the House of
+Page 17 of 30
+CODING: Words stricken are deletions; words underlined are additions.
+hb1197-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 1197 2026
+426 Representatives each January 15 any failure to reach a shared-
+427 data agreement with a state agency that prevents the Florida
+428 Digital Service from fulfilling its duties and responsibilities.
+429 (7)(6) The department, acting through the Florida Digital
+430 Service, shall adopt rules:
+431 (a) To administer this section and s. 282.00513.
+432 (b) To support the creation and deployment of an
+433 application programming interface to facilitate integration
+434 throughout the enterprise.
+435 (c) Necessary to facilitate a secure ecosystem of data
+436 interoperability which is compliant with the enterprise
+437 architecture.
+438 (d) To facilitate the deployment of applications or
+439 solutions to the existing enterprise system in a controlled and
+440 phased approach.
+441 Section 4. Section 282.00513, Florida Statutes, is created
+442 to read:
+443 282.00513 Bureau of Enterprise Project Management and
+444 Oversight; duties.—
+445 (1) There is created a Bureau of Enterprise Project
+446 Management and Oversight within the Florida Digital Service,
+447 which shall:
+448 (a) Oversee the procurement of information technology
+449 commodities and services by state agencies related to
+450 information technology projects.
+Page 18 of 30
+CODING: Words stricken are deletions; words underlined are additions.
+hb1197-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 1197 2026
+451 (b) Oversee the performance of vendors under information
+452 technology contracts for commodities or services entered into by
+453 state agencies related to information technology projects.
+454 (c) Develop a framework that provides processes,
+455 activities, and deliverables state agencies must comply with
+456 when planning an information technology project. The processes,
+457 activities, and deliverables must include, but are not limited
+458 to:
+459 1. Business case development. The business case
+460 development must include the information required by s.
+461 287.0571(4), the expected business outcomes, full life cycle
+462 cost estimates, governance structure, system interoperability
+463 goals, data management plans, scalability approach, evaluation
+464 of cybersecurity and data privacy risks, technology-specific
+465 performance metrics and service levels, and outcome-based
+466 performance indicators.
+467 2. Market research, including the use of a request for
+468 information, as defined in s. 287.012, to solicit information
+469 about industry approaches and to view live demonstrations that
+470 may enable the agency's business outcomes. Market research may
+471 not be conducted in a manner that confers an unfair competitive
+472 advantage including, but not limited to, the use of nonpublic
+473 information, preferential access, or conducting evaluative
+474 activities that may favor a specific vendor or group of vendors.
+475 3. Planning and scheduling.
+Page 19 of 30
+CODING: Words stricken are deletions; words underlined are additions.
+hb1197-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 1197 2026
+476 4. Stakeholder engagement.
+477 5. Risk assessment.
+478 6. Procurement strategy.
+479 7. Project governance definition.
+480 8. System design and requirements.
+481 9. Change management.
+482 10. Monitoring and reporting.
+483 11. Postimplementation review and planning.
+484 12. Solicitation documentation.
+485 (d) Develop a standardized governance structure with
+486 clearly defined roles and decisionmaking authority a state
+487 agency must use for an information technology project. The
+488 governance structure must incorporate approval processes and
+489 ongoing interagency engagement throughout the project lifecycle
+490 for an information technology project that integrates with one
+491 or more state agencies. The governance structure must also
+492 include an executive steering committee responsible for:
+493 1. Approving the project charter, scope, budget, and
+494 schedule.
+495 2. Approving changes to project scope, budget, or schedule
+496 that exceed the variance thresholds established in the project
+497 management and oversight standards adopted pursuant to s.
+498 282.0051(1)(c).
+499 3. Monitoring project progress and addressing risks.
+500 4. Reviewing, evaluating, and determining whether to
+Page 20 of 30
+CODING: Words stricken are deletions; words underlined are additions.
+hb1197-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 1197 2026
+501 proceed with or suspend a project phase at major project
+502 milestones.
+503 5. Providing oversight of vendor performance.
+504 6. Meeting at least quarterly and documenting decisions
+505 and actionable items.
+506 7. Notifying the chairs of the legislative appropriations
+507 committees, in a timely manner, of any actual or forecasted
+508 risks that exceed the established variance thresholds or impede
+509 the ability to achieve the project's intended business outcomes
+510 or overall success.
+511 (e) Develop forms for state agencies to use to evaluate
+512 and report the performance of information technology vendors in
+513 the delivery of information technology commodities or services
+514 on or before January 1, 2027.
+515 (f) Develop trainings specific to information technology
+516 that supplement and enhance the trainings offered by the
+517 department under s. 287.057(15)(c) and (17)(b) and the Chief
+518 Financial Officer under s. 287.057(15)(b). The bureau shall
+519 evaluate such training at least once every 4 years to assess the
+520 effectiveness and update the training curriculum. The training
+521 must be designed to:
+522 1. Address the unique requirements and risk profiles of
+523 state information technology projects, procurements, contract
+524 management, and vendor management.
+525 2. Improve the technical understanding of the job
+Page 21 of 30
+CODING: Words stricken are deletions; words underlined are additions.
+hb1197-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 1197 2026
+526 requirements, certifications, and skill sets required by state
+527 agencies recruiting for information technology roles.
+528 (2) The state chief information officer, in consultation
+529 with the Secretary of Management Services, shall designate a
+530 chief of the Bureau of Enterprise Project Management and
+531 Oversight. The chief must have demonstrable experience in the
+532 governance of large-scale public sector information technology
+533 initiatives and portfolios, negotiation and management of
+534 information technology contracts, modular contracting and
+535 delivery, and performance management.
+536 Section 5. Section 282.00514, Florida Statutes, is created
+537 to read:
+538 282.00514 Duties of state agencies.—
+539 (1) State agencies must include the information technology
+540 policy adopted pursuant to s. 282.0051(1)(o) in all
+541 solicitations and contracts for information technology
+542 commodities or services.
+543 (2) State agencies must follow the processes and use the
+544 forms developed by the Bureau of Enterprise Project Management
+545 and Oversight to evaluate and report the performance of
+546 information technology vendors in the delivery of information
+547 technology commodities or services.
+548 (3) If an information technology project implemented by a
+549 state agency must be connected to or otherwise accommodated by
+550 an information technology system administered by the Department
+Page 22 of 30
+CODING: Words stricken are deletions; words underlined are additions.
+hb1197-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 1197 2026
+551 of Financial Services, the Department of Legal Affairs, or the
+552 Department of Agriculture and Consumer Services, the state
+553 agency must consult with the Florida Digital Service and with
+554 such departments regarding the risks and other effects of such
+555 projects on their information technology systems and work
+556 cooperatively with these departments regarding the connections,
+557 interfaces, timing, or accommodations required to implement such
+558 projects.
+559 (4) For information technology projects that have a total
+560 project cost of $10 million or more, state agencies must:
+561 (a) Provide the Florida Digital Service with written
+562 notice of any planned procurement of an information technology
+563 project, the proposed scope, the project specifications, and the
+564 project business case at least 90 days before the planned
+565 publication date of the competitive solicitation.
+566 (b) Receive certification by the Florida Digital Service
+567 that the project planning complies with the presolicitation
+568 planning framework established by the Florida Digital Service
+569 before any competitive solicitation related to an information
+570 technology project may be issued.
+571 (c) Comply with the governance framework established by
+572 the Bureau of Enterprise Project Management and Oversight when
+573 implementing an information technology project.
+574 (d) Provide the Florida Digital Service all information
+575 necessary for the Florida Digital Service to fulfill its project
+Page 23 of 30
+CODING: Words stricken are deletions; words underlined are additions.
+hb1197-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 1197 2026
+576 oversight responsibilities.
+577 (5) State agencies must provide the information required
+578 to complete the report in s. 282.0051(1)(w) in a format and
+579 manner prescribed by the Florida Digital Service and must
+580 certify the information provided is accurate and complete to the
+581 best of their knowledge as of the submission date.
+582 Section 6. Subsections (1) and (3) and paragraph (b) of
+583 subsection (4) of section 282.00515, Florida Statutes, are
+584 amended to read:
+585 282.00515 Duties of Cabinet agencies.—
+586 (1) The Department of Legal Affairs, the Department of
+587 Financial Services, and the Department of Agriculture and
+588 Consumer Services shall adopt the standards established in s.
+589 282.0051(1)(b), (c), and (q) and (7)(d) s. 282.0051(1)(b), (c),
+590 and (r) and (3)(e) or adopt alternative standards based on best
+591 practices and industry standards that allow for open data
+592 interoperability.
+593 (3) The Department of Legal Affairs, the Department of
+594 Financial Services, and the Department of Agriculture and
+595 Consumer Services may contract with the Florida Digital Service
+596 department to provide or perform any of the services and
+597 functions described in s. 282.0051.
+598 (4)
+599 (b) The department, acting through the Florida Digital
+600 Service, may not retrieve or disclose any data without a shared-
+Page 24 of 30
+CODING: Words stricken are deletions; words underlined are additions.
+hb1197-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 1197 2026
+601 data agreement in place between the Florida Digital Service
+602 department and the Department of Legal Affairs, the Department
+603 of Financial Services, or the Department of Agriculture and
+604 Consumer Services.
+605 Section 7. Paragraph (e) is added to subsection (26) of
+606 section 287.057, Florida Statutes, to read:
+607 287.057 Procurement of commodities or contractual
+608 services.—
+609 (26)
+610 (e) The department must maintain a centralized repository
+611 of vendor performance records developed by the continuing
+612 oversight teams for information technology services contracts.
+613 Section 8. Section 287.0583, Florida Statutes, is created
+614 to read:
+615 287.0583 Contract requirements for information technology
+616 commodities or services.—A contract for information technology
+617 commodities or services involving the development,
+618 customization, implementation, integration, support or
+619 maintenance of software systems, applications, platforms, or
+620 related services must ensure the following:
+621 (1) Any data created, processed, or maintained under the
+622 contract is portable and can be extracted in a machine-readable
+623 format upon request.
+624 (2) The vendor will provide, upon request, comprehensive
+625 operational documentation sufficient to allow continued
+Page 25 of 30
+CODING: Words stricken are deletions; words underlined are additions.
+hb1197-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 1197 2026
+626 operation and maintenance by the agency or a new vendor.
+627 (3) The vendor will provide, upon request, reasonable
+628 assistance and support during a transition to the agency or to a
+629 new vendor.
+630 (4) All anticipated software license fees, license renewal
+631 fees, and operation and maintenance costs are documented in
+632 detail. If exact figures are not feasible, the vendor must
+633 provide a reasonable cost range.
+634 Section 9. Section 287.0591, Florida Statutes, is amended
+635 to read:
+636 287.0591 Information technology competitive solicitations;
+637 vendor performance disqualification.—
+638 (1)(a) Any competitive solicitation issued by the
+639 department for a state term contract for information technology
+640 commodities must include a term that does not exceed 48 months.
+641 (b)(2) Any competitive solicitation issued by the
+642 department for a state term contract for information technology
+643 consultant services or information technology staff augmentation
+644 contractual services must include a term that does not exceed 48
+645 months.
+646 (c)(3) The department may execute a state term contract
+647 for information technology commodities, consultant services, or
+648 staff augmentation contractual services that exceeds the 48-
+649 month requirement if the Secretary of Management Services and
+650 the state chief information officer certify in writing to the
+Page 26 of 30
+CODING: Words stricken are deletions; words underlined are additions.
+hb1197-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 1197 2026
+651 Executive Office of the Governor that a longer contract term is
+652 in the best interest of the state.
+653 (2)(4) If the department issues a competitive solicitation
+654 for information technology commodities, consultant services, or
+655 staff augmentation contractual services, The Florida Digital
+656 Service within the department shall participate in such
+657 competitive solicitations for information technology
+658 commodities, consultant services, or staff augmentation
+659 contractual services issued by the department, which shall
+660 include reviewing the solicitation specifications to verify
+661 compliance with enterprise architecture and cybersecurity
+662 standards, evaluating vendor responses under established
+663 criteria, answering vendor questions, and providing any other
+664 technical expertise necessary.
+665 (3)(a)(5) If an agency issues a request for quote to
+666 purchase information technology commodities, information
+667 technology consultant services, or information technology staff
+668 augmentation contractual services from the state term contract
+669 that meets the CATEGORY TWO threshold amount, but is less than
+670 the CATEGORY FOUR threshold amount:
+671 1. For any contract with 25 approved vendors or fewer, the
+672 agency must issue a request for quote to all vendors approved to
+673 provide such commodity or service.
+674 2. For any contract with more than 25 approved vendors,
+675 the agency must issue a request for quote to at least 25 of the
+Page 27 of 30
+CODING: Words stricken are deletions; words underlined are additions.
+hb1197-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 1197 2026
+676 vendors approved to provide such commodity or contractual
+677 service.
+678 (b) The agency must maintain a copy of the request for
+679 quote, the identity of the vendor that was sent the request for
+680 quote, and any vendor responses to the request for quote for 2
+681 years after the date of issuance of the purchase order.
+682 (c) Use of a request for quote does not constitute a
+683 decision or intended decision that is subject to protest under
+684 s. 120.57(3).
+685 (4)(a) An agency procuring information technology
+686 commodities, information technology consultant services, or
+687 information technology staff augmentation contractual services
+688 that meet or exceed the CATEGORY FOUR threshold amount must
+689 publish on a searchable and publicly available system of record
+690 maintained by the department:
+691 1. The written request for vendor pricing and services
+692 information for at least 5 business days before executing a
+693 contract or purchase order.
+694 2. The name of the selected vendor.
+695 (b) The agency must maintain a copy of the request for
+696 vendor pricing and services information, the identity of the
+697 vendors to whom the request was sent, and any vendor responses
+698 for 2 years after the date of issuance of the purchase order.
+699 (5) Agencies issuing a competitive solicitation to
+700 purchase information technology services must consult the
+Page 28 of 30
+CODING: Words stricken are deletions; words underlined are additions.
+hb1197-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 1197 2026
+701 repository of vendor performance records developed under s.
+702 287.057(26)(e), and consider any relevant records when
+703 evaluating vendor responses to the competitive solicitation.
+704 (6) To the extent practicable, an agency's contract for
+705 the procurement of a major information technology system must be
+706 divided into increments that:
+707 (a) Address complex information technology objectives
+708 incrementally to enhance the likelihood of attaining those
+709 objectives.
+710 (b) Provide for delivery, implementation, and testing of
+711 workable systems or solutions in discrete increments, each of
+712 which comprises a system or solution that is not dependent on a
+713 subsequent increment in order to perform its principal
+714 functions.
+715 (c) Provide an opportunity for subsequent increments of
+716 the acquisition to take advantage of any evolution in technology
+717 or needs that occurs during the implementation of earlier
+718 increments.
+719 (7)(a)(6) Beginning October 1, 2021, and Each October 1
+720 thereafter, the department shall prequalify firms and
+721 individuals to provide information technology staff augmentation
+722 contractual services and information technology commodities on
+723 state term contract.
+724 (b) In order to prequalify a firm or individual for
+725 participation on the state term contract, the department must
+Page 29 of 30
+CODING: Words stricken are deletions; words underlined are additions.
+hb1197-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 1197 2026
+726 consider, at a minimum, the capability, experience, and past
+727 performance record of the firm or individual.
+728 (c) A firm or individual removed from the source of supply
+729 pursuant to s. 287.042(1)(b) or placed on a disqualified vendor
+730 list pursuant to s. 287.133 or s. 287.134 is immediately
+731 disqualified from state term contract eligibility.
+732 (d) Once a firm or individual has been prequalified to
+733 provide information technology staff augmentation contractual
+734 services or information technology commodities on state term
+735 contract, the firm or individual may respond to requests for
+736 quotes from an agency to provide such services.
+737 (8) Notwithstanding s. 287.057, a competitive solicitation
+738 is required for the procurement of information technology, as
+739 defined in s. 282.0041, only when the total contract value
+740 exceeds the CATEGORY FOUR threshold. Except as expressly
+741 provided in this subsection, all other requirements continue to
+742 apply to the procurement of information technology.
+743 Section 10. This act shall take effect July 1, 2026.
+Page 30 of 30
+CODING: Words stricken are deletions; words underlined are additions.
+hb1197-01-c1

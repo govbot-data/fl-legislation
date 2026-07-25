@@ -1,0 +1,117 @@
+Title: 
+Official Title: 
+Source: versions - H 1299 Filed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1299 2026
+1 A bill to be entitled
+2 An act relating to caller identification information;
+3 creating s. 364.242, F.S.; prohibiting the
+4 transmission of misleading or inaccurate caller
+5 identification information; requiring a
+6 telecommunications company to provide the telephone
+7 number and location from which each telephone call
+8 originates; requiring a telecommunications company to
+9 block all telephone calls and text messages that
+10 contain manipulated caller identification information;
+11 providing exceptions; providing penalties; creating s.
+12 364.243, F.S.; defining the term "STIR/SHAKEN
+13 authentication framework"; requiring
+14 telecommunications companies to implement a framework
+15 to verify and authenticate caller identification
+16 information; requiring each telecommunications company
+17 to file a certification with the Federal
+18 Communications Commission; providing penalties;
+19 amending s. 365.176, F.S.; conforming provisions to
+20 changes made by the act; providing an effective date.
+21
+22 Be It Enacted by the Legislature of the State of Florida:
+23
+24 Section 1. Section 364.242, Florida Statutes, is created
+25 to read:
+Page 1 of 4
+CODING: Words stricken are deletions; words underlined are additions.
+hb1299-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1299 2026
+26 364.242 Misleading or inaccurate caller identification.—
+27 (1) A person may not, in connection with a
+28 telecommunications company, cause a caller identification
+29 service as defined in s. 365.176 to knowingly transmit
+30 misleading or inaccurate caller identification information with
+31 the intent to defraud, cause harm, or wrongfully obtain anything
+32 of value.
+33 (2) A telecommunications company must provide the
+34 telephone number and location from which each telephone call
+35 originates and must block all telephone calls and text messages
+36 that contain manipulated caller identification information that
+37 does not match such telephone number or location.
+38 (3) This section does not apply to transmissions in
+39 connection with:
+40 (a) Any authorized activity of a law enforcement agency;
+41 or
+42 (b) A court order that specifically authorizes
+43 manipulation of caller identification information.
+44
+45 The commission shall determine additional exemptions from this
+46 section as it deems appropriate.
+47 (4) A telecommunications company may be held civilly
+48 liable and, notwithstanding s. 364.285(1), subject to a penalty
+49 of $250,000 if it is found to be in violation of this section.
+50 Section 2. Section 364.243, Florida Statutes, is created
+Page 2 of 4
+CODING: Words stricken are deletions; words underlined are additions.
+hb1299-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1299 2026
+51 to read:
+52 364.243 Authentication framework implementation.—
+53 (1) As used in this section, the term "STIR/SHAKEN
+54 authentication framework" means the Secure Telephone Identity
+55 Revisited (STIR) and Signature-based Handling of Asserted
+56 Information Using toKENs (SHAKEN) standards proposed by the
+57 information and communications technology industry.
+58 (2) By July 1, 2027, the commission shall require every
+59 telecommunications company to implement the STIR/SHAKEN
+60 authentication framework or alternative technology that provides
+61 comparable or superior capability to verify and authenticate
+62 caller identification information in the Internet protocol
+63 networks of the telecommunications company.
+64 (3) Notwithstanding any other provision of law, a
+65 telecommunications company shall file a certification with the
+66 Federal Communications Commission that the company's traffic is
+67 either digitally verified by the STIR/SHAKEN authentication
+68 framework or subject to a compliant automated call mitigation
+69 program. The company shall provide a copy of such certification
+70 to the Attorney General or the commission upon request.
+71 (4) A telecommunications company may be held civilly
+72 liable and, notwithstanding s. 364.285(1), subject to a penalty
+73 of $250,000 if it is found to be in violation of this section.
+74 Section 3. Subsection (4) of section 365.176, Florida
+75 Statutes, is renumbered as subsection (5) and amended, and a new
+Page 3 of 4
+CODING: Words stricken are deletions; words underlined are additions.
+hb1299-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1299 2026
+76 subsection (4) is added to that section, to read:
+77 365.176 Florida Call-Blocking Act.—
+78 (4) Under s. 364.242, providers must block calls that
+79 contain manipulated caller identification information that does
+80 not match the originating number or location of the call.
+81 (5)(4) For purposes of blocking calls from certain
+82 originating numbers as authorized and required in this section,
+83 a provider may rely on caller identification service information
+84 provided by the pooling administrator to determine the
+85 originating number.
+86 Section 4. This act shall take effect October 1, 2026.
+Page 4 of 4
+CODING: Words stricken are deletions; words underlined are additions.
+hb1299-00

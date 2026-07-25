@@ -1,0 +1,511 @@
+Title: 
+Official Title: 
+Source: versions - H 1007 c2
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 1007 2026
+1 A bill to be entitled
+2 An act relating to data centers; creating s. 112.231,
+3 F.S.; defining terms; prohibiting an agency from
+4 entering into a nondisclosure agreement or other
+5 contract that restricts the agency from disclosing
+6 certain information to the public; providing that an
+7 agreement or contract, or a provision of an agreement
+8 or contract, is void and unenforceable under certain
+9 circumstances; providing civil penalties; authorizing
+10 the state attorney to bring an action to collect a
+11 fine; providing applicability; creating s. 163.326,
+12 F.S.; providing legislative findings; specifying that
+13 local governments maintain authority to exercise power
+14 and responsibility over comprehensive planning and
+15 land development regulations related to large load
+16 customers; prohibiting a large load customer from
+17 being considered an electric substation; requiring
+18 applicants for construction permits for a certain new
+19 data center in specified areas to demonstrate that the
+20 operation of the data center will comply with certain
+21 provisions and submit a specified study in support of
+22 such application; providing applicability; authorizing
+23 the local government to waive the prohibition under
+24 certain circumstances; providing a directive to the
+25 Division of Law Revision; amending s. 288.075, F.S.;
+Page 1 of 17
+CODING: Words stricken are deletions; words underlined are additions.
+hb1007-02-c2
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 1007 2026
+26 providing a definition; providing an exception to a
+27 provision allowing an extension of certain
+28 confidentiality protections; creating s. 366.043,
+29 F.S.; providing legislative findings; defining terms;
+30 requiring the Florida Public Service Commission to
+31 develop minimum tariff and service requirements for
+32 large load customers; requiring that such requirements
+33 ensure that large load customers bear their costs of
+34 service and that such costs are not shifted to the
+35 general body of ratepayers; requiring certain measures
+36 to minimize the risk of nonpayment of such costs;
+37 requiring that such minimum tariff and service
+38 requirements include certain provisions designed to
+39 prevent a public utility from providing electric
+40 service to a large load customer that is a foreign
+41 entity; prohibiting a customer from separating a
+42 certain electrical load into multiple smaller
+43 connections for a specified purpose; authorizing the
+44 commission to include certain measures in minimum
+45 tariff and service requirements; prohibiting any
+46 tariff, contractual provision, service requirement, or
+47 other public utility policy from preventing or
+48 hindering the curtailment or interruption of electric
+49 service to a large load customer for certain purposes;
+50 prohibiting a public utility from knowingly providing
+Page 2 of 17
+CODING: Words stricken are deletions; words underlined are additions.
+hb1007-02-c2
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 1007 2026
+51 electric service to a large load customer that is a
+52 foreign entity; requiring the commission to adopt
+53 rules by a specified date; specifying a deadline for
+54 utilities to file a tariff in compliance with the
+55 final rule; amending s. 373.203, F.S.; defining terms;
+56 creating s. 373.262, F.S.; providing legislative
+57 intent; prohibiting the governing board of a water
+58 management district or the Department of Environmental
+59 Protection from issuing a permit for the consumptive
+60 use of water to a large-scale data center under
+61 certain circumstances; requiring that such permit be
+62 issued to a large-scale data center applicant if the
+63 applicant establishes that the proposed use of water
+64 satisfies certain requirements; requiring the
+65 governing board or the department to require the use
+66 of reclaimed water for a large-scale data center
+67 applicant's allocation when certain requirements are
+68 met; specifying requirements for certain permit
+69 applications; prohibiting the approval of permit
+70 applications without a hearing; amending s. 373.239,
+71 F.S.; requiring that consumptive use permit
+72 modifications proposed by a large-scale data center be
+73 treated in a specified manner; providing effective
+74 dates.
+75
+Page 3 of 17
+CODING: Words stricken are deletions; words underlined are additions.
+hb1007-02-c2
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 1007 2026
+76 Be It Enacted by the Legislature of the State of Florida:
+77
+78 Section 1. Section 112.231, Florida Statutes, is created
+79 to read:
+80 112.231 Data center nondisclosure agreements.—
+81 (1) As used in this section, the term:
+82 (a) "Agency" means any state, county, district, authority,
+83 or municipal officer, public employee, department, division,
+84 board, bureau, or commission, or other separate unit of
+85 government created or established by law and any other public or
+86 private agency, person, partnership, corporation, or business
+87 entity acting on behalf of any such agency.
+88 (b) "Data center" means a facility that primarily contains
+89 electronic equipment used to process, store, and transmit
+90 digital information, which may be:
+91 1. A free-standing structure; or
+92 2. A facility within a larger structure which uses
+93 environmental control equipment to maintain the proper
+94 conditions for the operation of electronic equipment.
+95 (2) An agency may not enter into a nondisclosure agreement
+96 or other contract restricting the agency from disclosing
+97 information about a potential data center development to members
+98 of the public.
+99 (3) An agreement or contract, or a provision of an
+100 agreement or contract, that violates this section is against
+Page 4 of 17
+CODING: Words stricken are deletions; words underlined are additions.
+hb1007-02-c2
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 1007 2026
+101 public policy and is void and unenforceable.
+102 (4) An agency that violates this section is subject to a
+103 civil fine of not more than $1,000. The state attorney of the
+104 county in which the violation occurred may bring an action to
+105 collect the fine.
+106 (5) This section applies to agreements entered into on or
+107 after July 1, 2026.
+108 Section 2. Effective upon becoming a law, section 163.326,
+109 Florida Statutes, is created to read:
+110 163.326 Large load customer considerations.—
+111 (1) The Legislature finds that certain land uses,
+112 including facilities with substantial electric or other utility
+113 demands, such as data centers and other large load customers as
+114 defined in s. 366.043(2), may present unique planning,
+115 infrastructure, and compatibility considerations. The
+116 Legislature intends that such considerations shall be addressed
+117 through local comprehensive planning and land development
+118 regulations adopted pursuant to this chapter, including
+119 provisions related to infrastructure capacity, land use
+120 compatibility, environmental impacts, and the efficient
+121 provision of public facilities and services.
+122 (2) Local governments shall maintain the authority to
+123 exercise the powers and responsibilities for comprehensive
+124 planning and land development regulation granted by law with
+125 respect to large load customers. A large load customer may not
+Page 5 of 17
+CODING: Words stricken are deletions; words underlined are additions.
+hb1007-02-c2
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 1007 2026
+126 be considered an electric substation for the purposes of s.
+127 163.3208.
+128 (3)(a) If the proposed location of a new large-scale data
+129 center, as defined in s. 373.203, is within 5 miles of any
+130 residential property or school, as measured from the proposed
+131 location of the nearest noise producing structure on the
+132 proposed data center site, an applicant for a construction
+133 permit for the data center must demonstrate that operation of
+134 the data center will comply with applicable federal and state
+135 rules and regulations relating to radiofrequency emissions,
+136 applicable local noise control or abatement ordinances, and all
+137 other applicable land use regulations. In support of the
+138 construction permit application, the applicant must submit an
+139 independently prepared noise impact study that uses
+140 scientifically accepted methodologies. The study must describe
+141 the methodologies and assumptions relied upon in developing the
+142 study, provide all relevant data relied upon in developing the
+143 study, and be readily understandable by both technical and
+144 nontechnical audiences. The study must address the expected
+145 levels of noise emissions from operation of the proposed data
+146 center as compared to no-build noise emission levels and address
+147 the impacts of all noise mitigation measures proposed by the
+148 applicant to ensure compliance with applicable noise control or
+149 abatement requirements. Such measures may include, but are not
+150 limited to, facility soundproofing measures, external noise
+Page 6 of 17
+CODING: Words stricken are deletions; words underlined are additions.
+hb1007-02-c2
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 1007 2026
+151 attenuation measures, low-frequency noise attenuation measures,
+152 low-noise equipment, and natural or geographic features. This
+153 subsection does not apply to any existing construction, current
+154 operation, or modification of a data center in existence on the
+155 effective date of this section, unless such construction,
+156 operation, or modification results in the data center meeting
+157 the criteria to be considered a large-scale data center as
+158 defined in s. 373.203.
+159 (b) The requirements in paragraph (a) may be waived by a
+160 unanimous vote of the total membership of the governing body of
+161 the local government with jurisdiction over the parcel of land
+162 that will include the proposed data center.
+163 Section 3. The Division of Law Revision is directed to
+164 replace the phrase "the effective date of this section" wherever
+165 it occurs in this act with the date that section becomes a law.
+166 Section 4. Paragraphs (a), (b), and (c) of subsection (1)
+167 of section 288.075, Florida Statutes, are redesignated as
+168 paragraphs (b), (c), and (d), respectively, paragraph (a) of
+169 subsection (2) is amended, and a new paragraph (a) is added to
+170 subsection (1) of that section, to read:
+171 288.075 Confidentiality of records.—
+172 (1) DEFINITIONS.—As used in this section, the term:
+173 (a) "Data center" has the same meaning as in s. 373.203.
+174 (2) PLANS, INTENTIONS, AND INTERESTS.—
+175 (a)1. If a private corporation, partnership, or person
+Page 7 of 17
+CODING: Words stricken are deletions; words underlined are additions.
+hb1007-02-c2
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 1007 2026
+176 requests in writing before an economic incentive agreement is
+177 signed that an economic development agency maintain the
+178 confidentiality of information concerning plans, intentions, or
+179 interests of such private corporation, partnership, or person to
+180 locate, relocate, or expand any of its business activities in
+181 this state, the information is confidential and exempt from s.
+182 119.07(1) and s. 24(a), Art. I of the State Constitution for 12
+183 months after the date an economic development agency receives a
+184 request for confidentiality or until the information is
+185 otherwise disclosed, whichever occurs first.
+186 2. An economic development agency may extend the period of
+187 confidentiality specified in subparagraph 1. for up to an
+188 additional 12 months upon written request from the private
+189 corporation, partnership, or person who originally requested
+190 confidentiality under this section and upon a finding by the
+191 economic development agency that such private corporation,
+192 partnership, or person is still actively considering locating,
+193 relocating, or expanding its business activities in this state.
+194 Such a request for an extension in the period of confidentiality
+195 must be received prior to the expiration of any confidentiality
+196 originally provided under subparagraph 1. This subparagraph does
+197 not apply to information described in subparagraph 1. related to
+198 data centers.
+199
+200 If a final project order for a signed economic development
+Page 8 of 17
+CODING: Words stricken are deletions; words underlined are additions.
+hb1007-02-c2
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 1007 2026
+201 agreement is issued, then the information will remain
+202 confidential and exempt for 180 days after the final project
+203 order is issued, until a date specified in the final project
+204 order, or until the information is otherwise disclosed,
+205 whichever occurs first. However, such period of confidentiality
+206 may not extend beyond the period of confidentiality established
+207 in subparagraph 1. or subparagraph 2.
+208 Section 5. Section 366.043, Florida Statutes, is created
+209 to read:
+210 366.043 Large load tariffs for public electric utilities.—
+211 (1) The Legislature finds that the provision of safe and
+212 reliable electric services, provided at fair, just, and
+213 reasonable rates, is essential to the welfare of the ratepayers
+214 of this state. The Legislature further finds that when one class
+215 of electric service customer requires uniquely large electrical
+216 loads at a single location, it imposes a disproportionate risk
+217 on the other ratepayers of this state and makes it necessary for
+218 the commission to develop and enforce rate structures and other
+219 policies for such customers which ensure such risk is mitigated
+220 as much as possible and prevent shifting the costs of serving
+221 large load customers to the general body of ratepayers.
+222 (2) As used in this section, the term:
+223 (a) "Controlled by" means having the power to direct or
+224 cause the direction of the management or policies of a company,
+225 whether through ownership of securities, by contract, or
+Page 9 of 17
+CODING: Words stricken are deletions; words underlined are additions.
+hb1007-02-c2
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 1007 2026
+226 otherwise. A person or an entity that directly or indirectly has
+227 the right to vote 25 percent or more of the voting interests of
+228 the company or that is entitled to 25 percent or more of its
+229 profits is presumed to control the entity.
+230 (b) "Foreign country of concern" has the same meaning as
+231 in s. 692.201.
+232 (c) "Foreign entity" means an entity that is:
+233 1. Owned or controlled by the government of a foreign
+234 country of concern; or
+235 2. A partnership, an association, a corporation, an
+236 organization, or other combination of persons organized under
+237 the laws of or having its principal place of business in a
+238 foreign country of concern, or a subsidiary of such entity.
+239 (d) "Large load customer" means a customer with an
+240 anticipated monthly peak load of 50 megawatts or more,
+241 calculated as the highest average load over a 15-minute interval
+242 at a single location. The term does not include a load
+243 aggregated across multiple locations owned by the same customer.
+244 However, the term includes all customers or other entities that
+245 have entered into a colocation or similar agreement at a single
+246 location that otherwise meets the anticipated monthly peak load
+247 provided in this paragraph.
+248 (e) "Public utility" has the same meaning as in s. 366.02,
+249 except that the term does not include a gas utility.
+250 (3) The commission shall develop minimum tariff and
+Page 10 of 17
+CODING: Words stricken are deletions; words underlined are additions.
+hb1007-02-c2
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 1007 2026
+251 service requirements for large load customers pursuant to all of
+252 the following:
+253 (a) The minimum tariff and service requirements must
+254 reasonably ensure that each large load customer bears its own
+255 full cost of service and that such cost is not shifted to the
+256 general body of ratepayers. Such cost of service includes, but
+257 is not limited to, connection, incremental transmission,
+258 incremental generation, and other infrastructure costs;
+259 operations and maintenance expenses; and any other costs
+260 required to serve a large load customer. The risk of nonpayment
+261 of such costs may not be borne by the general body of
+262 ratepayers.
+263 (b) The minimum tariff and service requirements must
+264 include provisions reasonably designed to prevent a public
+265 utility from providing electric service to a customer that would
+266 otherwise qualify as a large load customer if that customer is a
+267 foreign entity.
+268 (4) A customer may not separate an electrical load at a
+269 single location into multiple smaller connections to avoid being
+270 classified as a large load customer.
+271 (5) To effectuate the requirements of subsection (3), the
+272 commission may include in such requirements utility industry-
+273 accepted ratemaking and other financial tools, including, but
+274 not limited to, all of the following:
+275 (a) Contributions in aid of construction or other required
+Page 11 of 17
+CODING: Words stricken are deletions; words underlined are additions.
+hb1007-02-c2
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 1007 2026
+276 customer infrastructure investments that may be returned, in
+277 whole or in part, to such customers over time.
+278 (b) Demand charges, including minimum demand charges.
+279 (c) Incremental generation charges.
+280 (d) Financial guarantees.
+281 (e) Minimum load factors.
+282 (f) Take-or-pay provisions or similar provisions requiring
+283 payment for contracted capacity, regardless of a large load
+284 customer's actual electricity use or demand.
+285 (g) Minimum period of service contract requirements,
+286 including early termination fees or other fees for violation of
+287 such contracts.
+288 (6) Any tariff, contractual provision, service
+289 requirement, or other public utility policy relating to large
+290 load customers may not prevent or otherwise hinder the
+291 curtailment or interruption of electric service to a large load
+292 customer where such curtailment or interruption is intended to
+293 ensure grid stability, reduce the likelihood or breadth of wider
+294 service outages, or ensure public safety during an emergency or
+295 other exceptional circumstance.
+296 (7) A public utility may not knowingly provide electric
+297 service to a customer that would otherwise qualify as a large
+298 load customer if that customer is a foreign entity.
+299 (8) The commission shall adopt rules to implement and
+300 administer this section and shall propose a rule for adoption by
+Page 12 of 17
+CODING: Words stricken are deletions; words underlined are additions.
+hb1007-02-c2
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 1007 2026
+301 March 1, 2027.
+302 (9) Within 60 days after adoption of the final rule
+303 implementing this section, each public utility shall file, for
+304 commission approval, a tariff that complies with the final rule.
+305 Section 6. Effective upon becoming a law, subsections (3)
+306 and (4) of section 373.203, Florida Statutes, are redesignated
+307 as subsections (5) and (6), respectively, and new subsections
+308 (3) and (4) are added to that section, to read:
+309 373.203 Definitions.—
+310 (3) "Data center" means a facility that primarily contains
+311 electronic equipment used to process, store, and transmit
+312 digital information, which may be:
+313 (a) A free-standing structure; or
+314 (b) A facility within a larger structure which uses
+315 environmental control equipment to maintain the proper
+316 conditions for the operation of electronic equipment.
+317 (4) "Large-scale data center" means a single location,
+318 with a data center on site, that has an anticipated monthly peak
+319 load of 50 megawatts or more, calculated as the highest average
+320 load over a 15-minute interval. The term does not include a load
+321 aggregated across multiple locations owned by the same customer.
+322 However, the term includes all customers or other entities that
+323 have entered into a colocation or similar agreement at a single
+324 location that otherwise meets the anticipated monthly peak load
+325 provided in this subsection.
+Page 13 of 17
+CODING: Words stricken are deletions; words underlined are additions.
+hb1007-02-c2
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 1007 2026
+326 Section 7. Section 373.262, Florida Statutes, is created
+327 to read:
+328 373.262 Large-scale data center permitting.—
+329 (1) It is the intent of the Legislature that the
+330 development and operation of large-scale data centers in this
+331 state be managed under a permitting framework that ensures this
+332 state's water resources are used in the public interest, in a
+333 manner that is not harmful to the water resources of this state,
+334 and consistent with local government zoning regulations and
+335 comprehensive plans.
+336 (2) Consistent with other provisions of this part, the
+337 governing board of a water management district or the department
+338 may not issue a permit to a large-scale data center applicant
+339 for an allocation of water if the proposed use of the water is
+340 harmful to the water resources of the area or is prohibited by
+341 the applicable local government zoning regulations and
+342 comprehensive plan. A permit shall be issued to a large-scale
+343 data center applicant for an allocation of water if the
+344 applicant establishes that the proposed use of water:
+345 (a) Is a reasonable-beneficial use as defined in s.
+346 373.019;
+347 (b) Will not interfere with any presently existing legal
+348 use of water; and
+349 (c) Is consistent with the public interest.
+350 (3) The governing board or the department shall require
+Page 14 of 17
+CODING: Words stricken are deletions; words underlined are additions.
+hb1007-02-c2
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 1007 2026
+351 the use of reclaimed water in lieu of all or a portion of a
+352 proposed use of surface water or groundwater by a large-scale
+353 data center applicant when:
+354 (a) A suitable reclaimed water supply source is available
+355 and permitted;
+356 (b) Reclaimed water distribution or supply lines are
+357 available at the property boundary in sufficient capacity and
+358 quality to serve the applicant's needs;
+359 (c) The applicant is capable of accessing the reclaimed
+360 water source through distribution or supply lines;
+361 (d) Use of reclaimed water is environmentally,
+362 economically, and technically feasible; and
+363 (e) Use of reclaimed water would not conflict with the
+364 requirements contained in the applicant's surface water
+365 discharge permit, if applicable.
+366 (4)(a) In addition to the requirements of s. 373.229, all
+367 permit applications made under this part requesting an
+368 allocation of at least an average daily flow of 100,000 gallons
+369 of water per day by a large-scale data center must contain:
+370 1. All sources and amounts of water and losses of water
+371 used for cooling, industrial and treatment processes, personal
+372 or sanitary needs of employees, and landscape irrigation; and
+373 2. A water conservation plan that, at a minimum,
+374 incorporates recycling cooling water before discharge or
+375 disposal, implementation of a leak detection and repair program,
+Page 15 of 17
+CODING: Words stricken are deletions; words underlined are additions.
+hb1007-02-c2
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 1007 2026
+376 use of water efficient fixtures, and implementation of an
+377 employee awareness and education program concerning water
+378 conservation.
+379 (b) Notwithstanding s. 373.229(4), the governing board or
+380 the department may not approve a permit application made under
+381 this part by a large-scale data center without a hearing.
+382 Section 8. Subsection (2) of section 373.239, Florida
+383 Statutes, is amended to read:
+384 373.239 Modification and renewal of permit terms.—
+385 (2) If the proposed modification involves water use of
+386 100,000 gallons or more per day or is proposed by a large-scale
+387 data center as defined in s. 373.203, the application shall be
+388 treated under the provisions of s. 373.229 in the same manner as
+389 the initial permit application. Otherwise, the governing board
+390 or the department may at its discretion approve the proposed
+391 modification without a hearing, provided the permittee
+392 establishes that:
+393 (a) A change in conditions has resulted in the water
+394 allowed under the permit becoming inadequate for the permittee's
+395 need, or
+396 (b) The proposed modification would result in a more
+397 efficient utilization of water than is possible under the
+398 existing permit.
+399 Section 9. Except as otherwise expressly provided in this
+400 act and except for this section, which shall take effect upon
+Page 16 of 17
+CODING: Words stricken are deletions; words underlined are additions.
+hb1007-02-c2
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 1007 2026
+401 becoming a law, this act shall take effect July 1, 2026.
+402
+Page 17 of 17
+CODING: Words stricken are deletions; words underlined are additions.
+hb1007-02-c2

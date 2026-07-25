@@ -1,0 +1,221 @@
+Title: 
+Official Title: 
+Source: versions - H 635 Filed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 635 2026
+1 A bill to be entitled
+2 An act relating to cybersecurity standards and
+3 liability; amending s. 282.3185, F.S.; authorizing
+4 local governments to only adopt specified
+5 cybersecurity standards; prohibiting the Department of
+6 Management Services from delegating the authority to
+7 set such standards to local governments; requiring
+8 vendors to comply with specified cybersecurity
+9 standards; defining the term "vendor"; providing for
+10 preemption; creating s. 768.401, F.S.; providing
+11 definitions; providing that a local government, a
+12 covered entity, or a third-party agent that complies
+13 with certain requirements is not liable in connection
+14 with a cybersecurity incident under certain
+15 circumstances; requiring covered entities and third-
+16 party agents to implement revised frameworks,
+17 standards, laws, or regulations within a specified
+18 time period; providing that a private cause of action
+19 is not established; providing that the fact that a
+20 specified defendant could have obtained a liability
+21 shield or a presumption against liability is not
+22 admissible as evidence of negligence, does not
+23 constitute negligence per se, and may not be used as
+24 evidence of fault; specifying that the defendant in
+25 certain actions has a certain burden of proof;
+Page 1 of 7
+CODING: Words stricken are deletions; words underlined are additions.
+hb635-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 635 2026
+26 providing applicability; providing a directive to the
+27 Division of Law Revision; providing an effective date.
+28
+29 Be It Enacted by the Legislature of the State of Florida:
+30
+31 Section 1. Subsection (4) of section 282.3185, Florida
+32 Statutes, is amended to read:
+33 282.3185 Local government cybersecurity.—
+34 (4) CYBERSECURITY STANDARDS.—
+35 (a)1. A local government may only adopt cybersecurity
+36 standards Each local government shall adopt cybersecurity
+37 standards that safeguard its data, information technology, and
+38 information technology resources to ensure availability,
+39 confidentiality, and integrity. The cybersecurity standards must
+40 be consistent with the standards and processes established by
+41 the department through the Florida Digital Service pursuant to
+42 s. 282.318 generally accepted best practices for cybersecurity,
+43 including the National Institute of Standards and Technology
+44 Cybersecurity Framework. The department may not delegate the
+45 authority to set cybersecurity standards to a local government.
+46 2. Unless otherwise required by state or federal laws or
+47 regulations, a vendor shall comply with cybersecurity standards
+48 consistent with the standards and processes established by The
+49 National Institute of Standards and Technology (NIST)
+50 Cybersecurity Framework 2.0. For purposes of this subparagraph,
+Page 2 of 7
+CODING: Words stricken are deletions; words underlined are additions.
+hb635-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 635 2026
+51 "vendor" means a sole proprietorship, partnership, corporation,
+52 trust, estate, cooperative, association, or other commercial
+53 entity.
+54 (b) This subsection preempts any prior cybersecurity
+55 standards or processes adopted by a local government that are
+56 inconsistent with this subsection Each county with a population
+57 of 75,000 or more must adopt the cybersecurity standards
+58 required by this subsection by January 1, 2024. Each county with
+59 a population of less than 75,000 must adopt the cybersecurity
+60 standards required by this subsection by January 1, 2025.
+61 (c) Each municipality with a population of 25,000 or more
+62 must adopt the cybersecurity standards required by this
+63 subsection by January 1, 2024. Each municipality with a
+64 population of less than 25,000 must adopt the cybersecurity
+65 standards required by this subsection by January 1, 2025.
+66 (d) Each local government shall notify the Florida Digital
+67 Service of its compliance with this subsection as soon as
+68 possible.
+69 Section 2. Section 768.401, Florida Statutes, is created
+70 to read:
+71 768.401 Limitation on liability for cybersecurity
+72 incidents.—
+73 (1) As used in this section, the term:
+74 (a) "Covered entity" means a sole proprietorship,
+75 partnership, corporation, trust, estate, cooperative,
+Page 3 of 7
+CODING: Words stricken are deletions; words underlined are additions.
+hb635-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 635 2026
+76 association, or other commercial entity.
+77 (b) "Cybersecurity standards or frameworks" means one or
+78 more of the following:
+79 1. The National Institute of Standards and Technology
+80 (NIST) Cybersecurity Framework 2.0;
+81 2. NIST special publication 800-171;
+82 3. NIST special publications 800-53 and 800-53A;
+83 4. The Federal Risk and Authorization Management Program
+84 security assessment framework;
+85 5. The Center for Internet Security (CIS) Critical
+86 Security Controls;
+87 6. The International Organization for
+88 Standardization/International Electrotechnical Commission 27000
+89 series (ISO/IEC 27000) family of standards;
+90 7. HITRUST Common Security Framework (CSF);
+91 8. Service Organization Control Type 2 Framework (SOC 2);
+92 9. Secure Controls Framework; or
+93 10. Other similar industry frameworks or standards.
+94 (c) "Disaster recovery" has the same meaning as in s.
+95 282.0041.
+96 (d) "Local government" means a county, municipality, or
+97 other political subdivision of this state.
+98 (e) "Personal information" has the same meaning as in s.
+99 501.171(1).
+100 (f) "Third-party agent" means an entity that has been
+Page 4 of 7
+CODING: Words stricken are deletions; words underlined are additions.
+hb635-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 635 2026
+101 contracted to maintain, store, or process personal information
+102 on behalf of a covered entity.
+103 (2) A local government is not liable in connection with a
+104 cybersecurity incident if the local government has implemented
+105 one or more policies that substantially comply with
+106 cybersecurity standards or align with cybersecurity frameworks,
+107 disaster recovery plans for cybersecurity incidents, and multi-
+108 factor authentication.
+109 (3) A covered entity or third-party agent that acquires,
+110 maintains, stores, processes, or uses personal information has a
+111 presumption against liability in a class action resulting from a
+112 cybersecurity incident if the covered entity or third-party
+113 agent has a cybersecurity program that does all of the
+114 following, as applicable:
+115 (a) Substantially complies with s. 501.171(3)-(6), as
+116 applicable.
+117 (b) Has implemented:
+118 1. One or more policies that substantially comply with
+119 cybersecurity standards or align with cybersecurity frameworks,
+120 a disaster recovery plan for cybersecurity incidents, and multi-
+121 factor authentication; or
+122 2. If regulated by the state or Federal Government, or
+123 both, or if otherwise subject to the requirements of any of the
+124 following laws and regulations, a cybersecurity program that
+125 substantially complies with the current version of such laws and
+Page 5 of 7
+CODING: Words stricken are deletions; words underlined are additions.
+hb635-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 635 2026
+126 regulations, as applicable:
+127 a. The Health Insurance Portability and Accountability Act
+128 of 1996 security requirements in 45 C.F.R. part 160 and part 164
+129 subparts A and C.
+130 b. Title V of the Gramm-Leach-Bliley Act of 1999, Pub. L.
+131 No. 106-102, as amended, and its implementing regulations.
+132 c. The Federal Information Security Modernization Act of
+133 2014, Pub. L. No. 113-283.
+134 d. The Health Information Technology for Economic and
+135 Clinical Health Act requirements in 45 C.F.R. parts 160 and 164.
+136 e. The Criminal Justice Information Services (CJIS)
+137 Security Policy.
+138 f. Other similar requirements mandated by state or federal
+139 laws or regulations.
+140 (4) A covered entity's or third-party agent's
+141 cybersecurity program's compliance with paragraph (3)(b) may be
+142 demonstrated by providing documentation or other evidence of an
+143 assessment, conducted internally or by a third-party, reflecting
+144 that the covered entity's or third-party agent's cybersecurity
+145 program has implemented the requirements of that paragraph.
+146 (5) Any covered entity or third-party agent must update
+147 its cybersecurity program to incorporate any revisions of
+148 relevant frameworks or standards or of applicable state or
+149 federal laws or regulations within 1 year after the latest
+150 publication date stated in any such revisions in order to retain
+Page 6 of 7
+CODING: Words stricken are deletions; words underlined are additions.
+hb635-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 635 2026
+151 protection from liability.
+152 (6) This section does not establish a private cause of
+153 action.
+154 (7) If a civil action is filed against a local government,
+155 covered entity, or third-party agent that failed to implement a
+156 cybersecurity program in compliance with this section, the fact
+157 that such defendant could have obtained a liability shield or
+158 presumption against liability upon compliance is not admissible
+159 as evidence of negligence, does not constitute negligence per
+160 se, and may not be used as evidence of fault under any other
+161 theory of liability.
+162 (8) In a civil action relating to a cybersecurity
+163 incident, if the defendant is a local government covered by
+164 subsection (2) or a covered entity or third-party agent covered
+165 by subsection (3), the defendant has the burden of proof to
+166 establish substantial compliance with this section.
+167 (9) This section applies to any putative class action
+168 filed before, on, or after the effective date of this act.
+169 Section 3. The Division of Law Revision is directed to
+170 replace the phrase "the effective date of this act" wherever it
+171 occurs in this act with the date this act becomes a law.
+172 Section 4. This act shall take effect upon becoming a law.
+Page 7 of 7
+CODING: Words stricken are deletions; words underlined are additions.
+hb635-00

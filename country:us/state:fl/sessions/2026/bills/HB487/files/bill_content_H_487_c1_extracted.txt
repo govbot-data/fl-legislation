@@ -1,0 +1,239 @@
+Title: 
+Official Title: 
+Source: versions - H 487 c1
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 487 2026
+1 A bill to be entitled
+2 An act relating to repair of mobility devices;
+3 creating part XIV of ch. 559, F.S., entitled "Repair
+4 of Mobility Devices"; creating s. 559.971, F.S.;
+5 providing a short title; creating s. 559.972, F.S.;
+6 providing definitions; creating s. 559.973, F.S.;
+7 requiring original equipment manufacturers to make
+8 available documentation, embedded software, firmware,
+9 parts, and tools required to service mobility devices
+10 and parts of such devices; requiring original
+11 equipment manufacturers of mobility devices with
+12 electronic security locks to make available any
+13 special documentation, embedded software, firmware,
+14 parts, and tools required to access and reset the
+15 locks when disabled in the course of service; creating
+16 s. 559.974, F.S.; providing that violation of the act
+17 is an unlawful practice under the Florida Deceptive
+18 and Unfair Trade Practices Act; creating s. 559.975,
+19 F.S.; providing that original equipment manufacturers
+20 are not required to divulge trade secrets; providing
+21 that the act does not alter the terms of an
+22 arrangement between an authorized repair provider and
+23 an original equipment manufacturer; providing an
+24 exception; limiting the liability of original
+25 equipment manufacturers and authorized repair
+Page 1 of 8
+CODING: Words stricken are deletions; words underlined are additions.
+hb487-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 487 2026
+26 providers in certain circumstances; creating s.
+27 559.976, F.S.; providing applicability; providing an
+28 effective date.
+29
+30 Be It Enacted by the Legislature of the State of Florida:
+31
+32 Section 1. Part XIV of chapter 559, Florida Statutes,
+33 consisting of ss. 559.971-559.976, Florida Statutes, is created
+34 and entitled "Repair of Mobility Devices."
+35 Section 2. Section 559.971, Florida Statutes, is created
+36 to read:
+37 559.971 Short title.-This part may be cited as the "Right
+38 to Repair Act for Mobility Devices."
+39 Section 3. Section 559.972, Florida Statutes, is created
+40 to read:
+41 559.972 Definitions.-As used in this part, the term:
+42 (1) "Authorized repair provider" means an individual or a
+43 business that has an arrangement with the original equipment
+44 manufacturer under which the original equipment manufacturer
+45 grants to the individual or business a license to use a trade
+46 name, service mark, or other proprietary identifier for the
+47 purposes of servicing a mobility device under the name of the
+48 original equipment manufacturer, or other arrangement with the
+49 original equipment manufacturer to offer such services on behalf
+50 of the original equipment manufacturer. An original equipment
+Page 2 of 8
+CODING: Words stricken are deletions; words underlined are additions.
+hb487-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 487 2026
+51 manufacturer that services its own mobility device, and that
+52 does not have an arrangement with an unaffiliated individual or
+53 business, is an authorized repair provider with respect to
+54 mobility devices.
+55 (2) "Documentation" means a manual, diagram, reporting
+56 output, service code description, schematic diagram, security
+57 code, password, or any other guidance or information used in
+58 servicing a mobility device.
+59 (3) "Embedded software" means programmable instructions
+60 provided on firmware delivered with an electronic component of a
+61 mobility device or with any part for the purpose of restoring or
+62 improving operation of the mobility device or part and includes
+63 all relevant patches and fixes that the original equipment
+64 manufacturer makes to a mobility device or to any part for the
+65 purpose of restoring or improving the mobility device or part.
+66 (4) "Fair and reasonable terms" means making available
+67 documentation, tools, or parts as follows:
+68 (a) Documentation must be made available by the original
+69 equipment manufacturer at no charge, except that when a physical
+70 copy is requested, a charge may be included for the reasonable
+71 actual costs of preparing and sending the copy.
+72 (b) Tools must be made available by the original equipment
+73 manufacturer at no charge:
+74 1. Without requiring authorization or Internet access for
+75 use or operation.
+Page 3 of 8
+CODING: Words stricken are deletions; words underlined are additions.
+hb487-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 487 2026
+76 2. Without imposing impediments to access or use.
+77 3. In a manner that does not impair the efficient and
+78 cost-effective performance of any such service and ensures that
+79 full functionality of digital electronic equipment is enabled.
+80
+81 However, if a tool is requested in physical form, a charge may
+82 be included for the reasonable, actual costs of preparing and
+83 sending the tool.
+84 (c) Parts must be made available by the original equipment
+85 manufacturer, either directly or through an authorized repair
+86 provider, to an independent repair provider or owner at costs
+87 and terms that are equivalent to the most favorable costs and
+88 terms under which an original equipment manufacturer offers the
+89 parts to an authorized repair provider, and that:
+90 1. Accounts for:
+91 a. Any discount, rebate, delivery method, functionality,
+92 rights of use, incentive, preference; or
+93 b. Any additional cost or impediment the original
+94 equipment manufacturer imposes on an authorized repair provider.
+95 2. Does not condition or impose a substantial obligation
+96 or restriction that is not reasonably necessary for enabling the
+97 independent repair provider or owner to service a mobility
+98 device.
+99 3. Is not conditioned upon an arrangement with the
+100 original equipment manufacturer.
+Page 4 of 8
+CODING: Words stricken are deletions; words underlined are additions.
+hb487-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 487 2026
+101 (5) "Firmware" means a software program or set of
+102 instructions programmed on a mobility device or a part to allow
+103 a mobility device or a part to communicate with itself or with
+104 other computer hardware.
+105 (6) "Independent repair provider" means an individual or
+106 business operating in this state engaged in servicing mobility
+107 devices, which is unaffiliated with an original equipment
+108 manufacturer.
+109 (7) "Mobility device" means equipment designed for people
+110 with a mobility disability, including power wheelchairs, manual
+111 wheelchairs, mobility scooters, and power assist devices for
+112 manual wheelchairs.
+113 (8) "Original equipment manufacturer" means an individual
+114 or business that is engaged in manufacturing, selling, leasing,
+115 or supplying new mobility devices.
+116 (9) "Owner" means an individual or business that owns or
+117 leases a mobility device purchased or used in this state.
+118 (10) "Part" means any replacement part, either new or
+119 used, made available by an original equipment manufacturer to
+120 service a mobility device manufactured by or on behalf of, sold,
+121 or otherwise supplied by the original equipment manufacturer.
+122 (11) "Service," "services," or "servicing" means any
+123 activity related to the diagnosis, maintenance, or repair of a
+124 mobility device or a part thereof.
+125 (12) "Tool" means any software, hardware, or other
+Page 5 of 8
+CODING: Words stricken are deletions; words underlined are additions.
+hb487-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 487 2026
+126 apparatus used for the service of a mobility device, including,
+127 but not limited to, software or any other mechanism that
+128 programs a new part, calibrates functionality, or performs any
+129 other function required to return the mobility device to its
+130 fully functional condition, which includes any updates.
+131 (13) "Trade secret" has the same meaning as in s. 688.002.
+132 Section 4. Section 559.973, Florida Statutes, is created
+133 to read:
+134 559.973 Requirements.—
+135 (1) For the purpose of servicing mobility devices and
+136 parts of mobility devices that are sold or used in this state,
+137 an original equipment manufacturer must make available to any
+138 independent repair provider or owner of the original equipment
+139 manufacturer's mobility device, on fair and reasonable terms,
+140 any documentation, embedded software, firmware, parts, and tools
+141 that are necessary to service such mobility devices and parts,
+142 including any updates to documentation, embedded software,
+143 firmware, parts, and tools. The documentation, embedded
+144 software, firmware, parts, and tools must be made available
+145 either directly by the original equipment manufacturer or by an
+146 authorized repair provider.
+147 (2) For equipment that contains an electronic security
+148 lock or other security-related function, the original equipment
+149 manufacturer must make available to an independent repair
+150 provider or owner, on fair and reasonable terms, any special
+Page 6 of 8
+CODING: Words stricken are deletions; words underlined are additions.
+hb487-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 487 2026
+151 documentation, embedded software, firmware, tools, and parts
+152 required to access and reset the lock or function when disabled
+153 in the course of servicing the mobility device. The
+154 documentation, embedded software, firmware, parts, and tools may
+155 be made available through appropriate secure release systems.
+156 Section 5. Section 559.974, Florida Statutes, is created
+157 to read:
+158 559.974 Enforcement.—A violation of this part is
+159 punishable under the Florida Deceptive and Unfair Trade
+160 Practices Act.
+161 Section 6. Section 559.975, Florida Statutes, is created
+162 to read:
+163 559.975 Limitations.—
+164 (1) This part does not require an original equipment
+165 manufacturer to divulge a trade secret to an independent service
+166 provider or an owner of the original equipment manufacturer's
+167 mobility device.
+168 (2) This part does not alter the terms of an arrangement
+169 between an authorized repair provider and an original equipment
+170 manufacturer, including, but not limited to, the performance or
+171 provision of warranty or recall repair work by an authorized
+172 repair provider on behalf of an original equipment manufacturer
+173 and pursuant to such arrangement. However, any terms that waive,
+174 avoid, restrict, or limit the original equipment manufacturer's
+175 obligation to comply with this part are void.
+Page 7 of 8
+CODING: Words stricken are deletions; words underlined are additions.
+hb487-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 487 2026
+176 (3) An original equipment manufacturer and an authorized
+177 repair provider are not liable for any damage or injury caused
+178 by an independent repair provider or owner to a mobility device
+179 that occurs during the course of service of a mobility device.
+180 Section 7. Section 559.976, Florida Statutes, is created
+181 to read:
+182 559.976 Applicability.—This part applies with respect to
+183 mobility devices sold or in use on or after July 1, 2026.
+184 Section 8. This act shall take effect July 1, 2026.
+Page 8 of 8
+CODING: Words stricken are deletions; words underlined are additions.
+hb487-01-c1

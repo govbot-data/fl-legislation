@@ -1,0 +1,1180 @@
+Title: 
+Official Title: 
+Source: versions - H 1007 Filed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1007 2026
+1 A bill to be entitled
+2 An act relating to hyperscale data centers; amending
+3 ss. 125.66 and 166.041, F.S.; revising applicability
+4 to not require the preparation a business impact
+5 estimate before enactment of ordinances relating to
+6 the construction, operation, siting, or zoning of a
+7 hyperscale data center; amending s. 163.3164, F.S.;
+8 defining the term "hyperscale data center"; amending
+9 s. 163.3177, F.S.; prohibiting a future land use
+10 element required to be included in a comprehensive
+11 plan from combining any mix of uses intended to be
+12 used for a specified purpose; amending s. 163.3184,
+13 F.S.; revising the definition of the term "reviewing
+14 agencies" to include the Public Service Commission in
+15 certain cases; requiring plans or plan amendments that
+16 seek to change a land classification or relate to a
+17 hyperscale data center to follow a specified state
+18 coordinated review process; amending s. 163.3187,
+19 F.S.; providing that the process for adoption of small
+20 scale comprehensive plan amendments does not apply to
+21 plan amendments relating to hyperscale data centers;
+22 amending s. 163.3202, F.S.; requiring local land
+23 development regulations to contain certain
+24 requirements relating to hyperscale data centers;
+25 providing construction; creating s. 163.32065, F.S.;
+Page 1 of 38
+CODING: Words stricken are deletions; words underlined are additions.
+hb1007-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1007 2026
+26 providing legislative policy; providing definitions;
+27 providing that hyperscale data centers are a
+28 prohibited use on or after a date certain for
+29 specified land use categories in local comprehensive
+30 plans and agricultural zoning districts within
+31 unincorporated areas; providing for a specified
+32 setback requirement between real property on which a
+33 hyperscale data center is located; defining the term
+34 "ornamental"; amending s. 163.3208, F.S.; revising the
+35 definition of the term "electric substation"; creating
+36 s. 288.008, F.S.; providing definitions; prohibiting
+37 governmental entities from knowingly entering into
+38 certain contracts; requiring governmental entities to
+39 require an affidavit from applicants before providing
+40 any economic incentive; requiring the Department of
+41 Commerce to adopt rules; amending s. 212.055, F.S.;
+42 conforming a cross-reference; creating s. 339.86,
+43 F.S.; defining the term "hyperscale data center";
+44 requiring the Department of Transportation to use
+45 noise-control methods for specified projects;
+46 requiring such projects to be developed in conformity
+47 with specified federal noise abatement standards;
+48 amending s. 366.032, F.S.; providing construction;
+49 creating s. 366.0415, F.S.; prohibiting utilities, in
+50 fixing rates for hyperscale data centers, from
+Page 2 of 38
+CODING: Words stricken are deletions; words underlined are additions.
+hb1007-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1007 2026
+51 collecting certain impact fees; amending s. 373.219,
+52 F.S.; requiring permit applications for consumptive
+53 use of water relating to hyperscale data centers to
+54 contain a specified disclosure; requiring certain
+55 approvals of such applications before issuance of
+56 permit; amending s. 373.229, F.S.; requiring permit
+57 applications to contain a specified disclosure;
+58 providing applicability; providing hearing
+59 requirements for proposed permit applications for
+60 hyperscale data centers; requiring specified notices;
+61 defining the term "hyperscale data center"; creating
+62 s. 377.7055, F.S.; providing legislative intent;
+63 providing definitions; prohibiting the construction
+64 and operation of hyperscale data centers on specified
+65 lands and water on or after a date certain; providing
+66 for a hearing requirement before the construction and
+67 operation of hyperscale data centers; requiring
+68 specified notices; requiring the governing body of a
+69 local government that approves the construction and
+70 operation of a hyperscale data center to request, in
+71 concurrence with a specified board, approval; creating
+72 s. 403.5341, F.S.; defining the terms "board" and
+73 "hyperscale data center"; requiring a specified board
+74 on or after a date certain to have published in the
+75 Florida Administrative Register notice of a
+Page 3 of 38
+CODING: Words stricken are deletions; words underlined are additions.
+hb1007-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1007 2026
+76 concurrence request; requiring specified notice by a
+77 local government when the notice is published in the
+78 Florida Administrative Register; providing concurrence
+79 hearing requirements; prohibiting the construction of
+80 a hyperscale data center if the board does not approve
+81 a concurrence request at such hearing; amending s.
+82 624.406, F.S.; prohibiting certain underwriting
+83 practices for hyperscale data centers; providing a
+84 penalty; providing an effective date.
+85
+86 Be It Enacted by the Legislature of the State of Florida:
+87
+88 Section 1. Paragraph (c) of subsection (3) of section
+89 125.66, Florida Statutes, is amended read:
+90 125.66 Ordinances; enactment procedure; emergency
+91 ordinances; rezoning or change of land use ordinances or
+92 resolutions.—
+93 (3)
+94 (c) This subsection does not apply to:
+95 1. Ordinances required for compliance with federal or
+96 state law or regulation;
+97 2. Ordinances relating to the issuance or refinancing of
+98 debt;
+99 3. Ordinances relating to the adoption of budgets or
+100 budget amendments, including revenue sources necessary to fund
+Page 4 of 38
+CODING: Words stricken are deletions; words underlined are additions.
+hb1007-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1007 2026
+101 the budget;
+102 4. Ordinances required to implement a contract or an
+103 agreement, including, but not limited to, any federal, state,
+104 local, or private grant, or other financial assistance accepted
+105 by a county government;
+106 5. Emergency ordinances;
+107 6. Ordinances relating to procurement; or
+108 7. Ordinances enacted to implement the following:
+109 a. Development orders and development permits, as those
+110 terms are defined in s. 163.3164, and development agreements, as
+111 authorized by the Florida Local Government Development Agreement
+112 Act under ss. 163.3220-163.3243;
+113 b. Comprehensive plan amendments and land development
+114 regulation amendments initiated by an application by a private
+115 party other than the county;
+116 c. Sections 190.005 and 190.046;
+117 d. Section 553.73, relating to the Florida Building Code;
+118 or
+119 e. Section 633.202, relating to the Florida Fire
+120 Prevention Code; or.
+121 8. Ordinances relating to the construction, operation,
+122 siting, or zoning of a hyperscale data center as defined in s.
+123 377.7055, including, but not limited to:
+124 a. Ordinances required for compliance with federal or
+125 state law or regulation;
+Page 5 of 38
+CODING: Words stricken are deletions; words underlined are additions.
+hb1007-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1007 2026
+126 b. Ordinances relating to the issuance or refinancing of
+127 debt;
+128 c. Ordinances relating to the adoption of a budget or
+129 budget amendment, including revenue sources necessary to fund a
+130 budget;
+131 d. Ordinances required to implement a contract or an
+132 agreement, including, but not limited to, any federal, state,
+133 local, or private grant, or other financial assistance accepted
+134 by a county government;
+135 e. Emergency ordinances;
+136 f. Ordinances relating to procurement;
+137 g. Ordinances enacted to implement the following:
+138 (I) Development orders and development permits, as those
+139 terms are defined in s. 163.3164, and development agreements, as
+140 authorized by the Florida Local Government Development Agreement
+141 Act under ss. 163.3220-163.3243;
+142 (II) Comprehensive plan amendments and land development
+143 regulation amendments initiated by an application by a private
+144 party other than the county;
+145 (III) Sections 190.005 and 190.046;
+146 (IV) Section 553.73, relating to the Florida Building
+147 Code; or
+148 (V) Section 633.202, relating to the Florida Fire
+149 Prevention Code.
+150 Section 2. Subsections (22) through (54) of section
+Page 6 of 38
+CODING: Words stricken are deletions; words underlined are additions.
+hb1007-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1007 2026
+151 163.3164, Florida Statutes, are renumbered as subsections (23)
+152 through (55), respectively, and subsection (22) is added to that
+153 section, to read:
+154 163.3164 Community Planning Act; definitions.—As used in
+155 this act:
+156 (22) "Hyperscale data center" has the same meaning as s.
+157 377.755.
+158 Section 3. Paragraph (a) of subsection (6) of section
+159 163.3177, Florida Statutes, is amended to read:
+160 163.3177 Required and optional elements of comprehensive
+161 plan; studies and surveys.—
+162 (6) In addition to the requirements of subsections (1)-
+163 (5), the comprehensive plan shall include the following
+164 elements:
+165 (a) A future land use plan element designating proposed
+166 future general distribution, location, and extent of the uses of
+167 land for residential uses, commercial uses, industry,
+168 agriculture, recreation, conservation, education, public
+169 facilities, and other categories of the public and private uses
+170 of land. The approximate acreage and the general range of
+171 density or intensity of use shall be provided for the gross land
+172 area included in each existing land use category. The element
+173 shall establish the long-term end toward which land use programs
+174 and activities are ultimately directed.
+175 1. Each future land use category must be defined in terms
+Page 7 of 38
+CODING: Words stricken are deletions; words underlined are additions.
+hb1007-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1007 2026
+176 of uses included, and must include standards to be followed in
+177 the control and distribution of population densities and
+178 building and structure intensities. The proposed distribution,
+179 location, and extent of the various categories of land use shall
+180 be shown on a land use map or map series which shall be
+181 supplemented by goals, policies, and measurable objectives.
+182 2. The future land use plan and plan amendments shall be
+183 based upon surveys, studies, and data regarding the area, as
+184 applicable, including:
+185 a. The amount of land required to accommodate anticipated
+186 growth.
+187 b. The projected permanent and seasonal population of the
+188 area.
+189 c. The character of undeveloped land.
+190 d. The availability of water supplies, public facilities,
+191 and services.
+192 e. The need for redevelopment, including the renewal of
+193 blighted areas and the elimination of nonconforming uses which
+194 are inconsistent with the character of the community.
+195 f. The compatibility of uses on lands adjacent to or
+196 closely proximate to military installations.
+197 g. The compatibility of uses on lands adjacent to an
+198 airport as defined in s. 330.35 and consistent with s. 333.02.
+199 h. The discouragement of urban sprawl.
+200 i. The need for job creation, capital investment, and
+Page 8 of 38
+CODING: Words stricken are deletions; words underlined are additions.
+hb1007-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1007 2026
+201 economic development that will strengthen and diversify the
+202 community's economy.
+203 j. The need to modify land uses and development patterns
+204 within antiquated subdivisions.
+205 3. The future land use plan element shall include criteria
+206 to be used to:
+207 a. Achieve the compatibility of lands adjacent or closely
+208 proximate to military installations, considering factors
+209 identified in s. 163.3175(5).
+210 b. Achieve the compatibility of lands adjacent to an
+211 airport as defined in s. 330.35 and consistent with s. 333.02.
+212 c. Encourage preservation of recreational and commercial
+213 working waterfronts for water-dependent uses in coastal
+214 communities.
+215 d. Encourage the location of schools proximate to urban
+216 residential areas to the extent possible.
+217 e. Coordinate future land uses with the topography and
+218 soil conditions, and the availability of facilities and
+219 services.
+220 f. Ensure the protection of natural and historic
+221 resources.
+222 g. Provide for the compatibility of adjacent land uses.
+223 h. Provide guidelines for the implementation of mixed-use
+224 development including the types of uses allowed, the percentage
+225 distribution among the mix of uses, or other standards, and the
+Page 9 of 38
+CODING: Words stricken are deletions; words underlined are additions.
+hb1007-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1007 2026
+226 density and intensity of each use.
+227 4. The amount of land designated for future planned uses
+228 shall provide a balance of uses that foster vibrant, viable
+229 communities and economic development opportunities and address
+230 outdated development patterns, such as antiquated subdivisions.
+231 The amount of land designated for future land uses should allow
+232 the operation of real estate markets to provide adequate choices
+233 for permanent and seasonal residents and business and may not be
+234 limited solely by the projected population. The element shall
+235 accommodate at least the minimum amount of land required to
+236 accommodate the medium projections as published by the Office of
+237 Economic and Demographic Research for at least a 10-year
+238 planning period unless otherwise limited under s. 380.05,
+239 including related rules of the Administration Commission.
+240 5. The future land use plan of a county may designate
+241 areas for possible future municipal incorporation.
+242 6. The land use maps or map series shall generally
+243 identify and depict historic district boundaries and shall
+244 designate historically significant properties meriting
+245 protection.
+246 7. The future land use element must clearly identify the
+247 land use categories in which public schools are an allowable
+248 use. When delineating the land use categories in which public
+249 schools are an allowable use, a local government shall include
+250 in the categories sufficient land proximate to residential
+Page 10 of 38
+CODING: Words stricken are deletions; words underlined are additions.
+hb1007-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1007 2026
+251 development to meet the projected needs for schools in
+252 coordination with public school boards and may establish
+253 differing criteria for schools of different type or size. Each
+254 local government shall include lands contiguous to existing
+255 school sites, to the maximum extent possible, within the land
+256 use categories in which public schools are an allowable use.
+257 8. Future land use map amendments shall be based upon the
+258 following analyses:
+259 a. An analysis of the availability of facilities and
+260 services.
+261 b. An analysis of the suitability of the plan amendment
+262 for its proposed use considering the character of the
+263 undeveloped land, soils, topography, natural resources, and
+264 historic resources on site.
+265 c. An analysis of the minimum amount of land needed to
+266 achieve the goals and requirements of this section.
+267 9. The future land use element and any amendment to the
+268 future land use element shall discourage the proliferation of
+269 urban sprawl.
+270 a. The primary indicators that a plan or plan amendment
+271 does not discourage the proliferation of urban sprawl are listed
+272 below. The evaluation of the presence of these indicators shall
+273 consist of an analysis of the plan or plan amendment within the
+274 context of features and characteristics unique to each locality
+275 in order to determine whether the plan or plan amendment:
+Page 11 of 38
+CODING: Words stricken are deletions; words underlined are additions.
+hb1007-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1007 2026
+276 (I) Promotes, allows, or designates for development
+277 substantial areas of the jurisdiction to develop as low-
+278 intensity, low-density, or single-use development or uses.
+279 (II) Promotes, allows, or designates significant amounts
+280 of urban development to occur in rural areas at substantial
+281 distances from existing urban areas while not using undeveloped
+282 lands that are available and suitable for development.
+283 (III) Promotes, allows, or designates urban development in
+284 radial, strip, isolated, or ribbon patterns generally emanating
+285 from existing urban developments.
+286 (IV) Fails to adequately protect and conserve natural
+287 resources, such as wetlands, floodplains, native vegetation,
+288 environmentally sensitive areas, natural groundwater aquifer
+289 recharge areas, lakes, rivers, shorelines, beaches, bays,
+290 estuarine systems, and other significant natural systems.
+291 (V) Fails to adequately protect adjacent agricultural
+292 areas and activities, including silviculture, active
+293 agricultural and silvicultural activities, passive agricultural
+294 activities, and dormant, unique, and prime farmlands and soils.
+295 (VI) Fails to maximize use of existing public facilities
+296 and services.
+297 (VII) Fails to maximize use of future public facilities
+298 and services.
+299 (VIII) Allows for land use patterns or timing which
+300 disproportionately increase the cost in time, money, and energy
+Page 12 of 38
+CODING: Words stricken are deletions; words underlined are additions.
+hb1007-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1007 2026
+301 of providing and maintaining facilities and services, including
+302 roads, potable water, sanitary sewer, stormwater management, law
+303 enforcement, education, health care, fire and emergency
+304 response, and general government.
+305 (IX) Fails to provide a clear separation between rural and
+306 urban uses.
+307 (X) Discourages or inhibits infill development or the
+308 redevelopment of existing neighborhoods and communities.
+309 (XI) Fails to encourage a functional mix of uses.
+310 (XII) Results in poor accessibility among linked or
+311 related land uses.
+312 (XIII) Results in the loss of significant amounts of
+313 functional open space.
+314 b. The future land use element or plan amendment shall be
+315 determined to discourage the proliferation of urban sprawl if it
+316 incorporates a development pattern or urban form that achieves
+317 four or more of the following:
+318 (I) Directs or locates economic growth and associated land
+319 development to geographic areas of the community in a manner
+320 that does not have an adverse impact on and protects natural
+321 resources and ecosystems.
+322 (II) Promotes the efficient and cost-effective provision
+323 or extension of public infrastructure and services.
+324 (III) Promotes walkable and connected communities and
+325 provides for compact development and a mix of uses at densities
+Page 13 of 38
+CODING: Words stricken are deletions; words underlined are additions.
+hb1007-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1007 2026
+326 and intensities that will support a range of housing choices and
+327 a multimodal transportation system, including pedestrian,
+328 bicycle, and transit, if available.
+329 (IV) Promotes conservation of water and energy.
+330 (V) Preserves agricultural areas and activities, including
+331 silviculture, and dormant, unique, and prime farmlands and
+332 soils.
+333 (VI) Preserves open space and natural lands and provides
+334 for public open space and recreation needs.
+335 (VII) Creates a balance of land uses based upon demands of
+336 the residential population for the nonresidential needs of an
+337 area.
+338 (VIII) Provides uses, densities, and intensities of use
+339 and urban form that would remediate an existing or planned
+340 development pattern in the vicinity that constitutes sprawl or
+341 if it provides for an innovative development pattern such as
+342 transit-oriented developments or new towns as defined in s.
+343 163.3164.
+344 10. The future land use element shall include a future
+345 land use map or map series.
+346 a. The proposed distribution, extent, and location of the
+347 following uses shall be shown on the future land use map or map
+348 series:
+349 (I) Residential.
+350 (II) Commercial.
+Page 14 of 38
+CODING: Words stricken are deletions; words underlined are additions.
+hb1007-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1007 2026
+351 (III) Industrial.
+352 (IV) Agricultural.
+353 (V) Recreational.
+354 (VI) Conservation.
+355 (VII) Educational.
+356 (VIII) Public.
+357 b. The following areas shall also be shown on the future
+358 land use map or map series, if applicable:
+359 (I) Historic district boundaries and designated
+360 historically significant properties.
+361 (II) Transportation concurrency management area boundaries
+362 or transportation concurrency exception area boundaries.
+363 (III) Multimodal transportation district boundaries.
+364 (IV) Mixed-use categories.
+365 c. The following natural resources or conditions shall be
+366 shown on the future land use map or map series, if applicable:
+367 (I) Existing and planned public potable waterwells, cones
+368 of influence, and wellhead protection areas.
+369 (II) Beaches and shores, including estuarine systems.
+370 (III) Rivers, bays, lakes, floodplains, and harbors.
+371 (IV) Wetlands.
+372 (V) Minerals and soils.
+373 (VI) Coastal high hazard areas.
+374 d. The future land use element may not combine any mix of
+375 uses intended to be used for a hyperscale data center.
+Page 15 of 38
+CODING: Words stricken are deletions; words underlined are additions.
+hb1007-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1007 2026
+376 Section 4. Paragraph (c) of subsection (1) and paragraph
+377 (c) of subsection (2) of section 163.3184, Florida Statutes, are
+378 amended to read:
+379 163.3184 Process for adoption of comprehensive plan or
+380 plan amendment.—
+381 (1) DEFINITIONS.—As used in this section, the term:
+382 (c) "Reviewing agencies" means:
+383 1. The state land planning agency;
+384 2. The appropriate regional planning council;
+385 3. The appropriate water management district;
+386 4. The Department of Environmental Protection;
+387 5. The Department of State;
+388 6. The Department of Transportation;
+389 7. In the case of plan amendments relating to public
+390 schools, the Department of Education;
+391 8. In the case of plans or plan amendments that affect a
+392 military installation listed in s. 163.3175, the commanding
+393 officer of the affected military installation;
+394 9. In the case of plans or plan amendments relating to a
+395 hyperscale data center, the Public Service Commission;
+396 10.9. In the case of county plans and plan amendments, the
+397 Fish and Wildlife Conservation Commission and the Department of
+398 Agriculture and Consumer Services; and
+399 11.10. In the case of municipal plans and plan amendments,
+400 the county in which the municipality is located.
+Page 16 of 38
+CODING: Words stricken are deletions; words underlined are additions.
+hb1007-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1007 2026
+401 (2) COMPREHENSIVE PLANS AND PLAN AMENDMENTS.—
+402 (c) Plan amendments that are in an area of critical state
+403 concern designated pursuant to s. 380.05; propose a rural land
+404 stewardship area pursuant to s. 163.3248; propose a sector plan
+405 pursuant to s. 163.3245 or an amendment to an adopted sector
+406 plan; update a comprehensive plan based on an evaluation and
+407 appraisal pursuant to s. 163.3191; propose a development that is
+408 subject to the state coordinated review process pursuant to s.
+409 380.06; plans or plan amendments that seek to change a land
+410 classification or relate to a hyperscale data center; or are new
+411 plans for newly incorporated municipalities adopted pursuant to
+412 s. 163.3167, must follow the state coordinated review process in
+413 subsection (4).
+414 Section 5. Subsection (6) is added to section 163.3187,
+415 Florida Statutes, to read:
+416 163.3187 Process for adoption of small scale comprehensive
+417 plan amendment.—
+418 (6) This section does not apply to a plan amendment
+419 relating to a hyperscale data center.
+420 Section 6. Paragraph (k) is added to subsection (2) of
+421 section 163.3202, Florida Statutes, to read:
+422 163.3202 Land development regulations.—
+423 (2) Local land development regulations shall contain
+424 specific and detailed provisions necessary or desirable to
+425 implement the adopted comprehensive plan and shall at a minimum:
+Page 17 of 38
+CODING: Words stricken are deletions; words underlined are additions.
+hb1007-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1007 2026
+426 (k) Meet the requirements of s. 163.32065 relating to
+427 hyperscale data centers; however, this paragraph does not
+428 prohibit, limit, or restrict a county or municipality from
+429 adopting or amending and enforcing more restrictive land
+430 development regulations.
+431 Section 7. Section 163.32065, Florida Statutes, is created
+432 to read:
+433 163.32065 Hyperscale data centers; prohibited use.—
+434 (1) It is the policy of this state to empower and
+435 encourage local governments to protect residents against the
+436 negative impacts of hyperscale data centers.
+437 (2) As used in this section, the term:
+438 (a) "Hyperscale data center" has the same meaning as in s.
+439 377.7055.
+440 (b) "Hyperscale data center property" has the same meaning
+441 as in s. 377.7055.
+442 (c) "Real property" has the same meaning as in s.
+443 377.7055.
+444 (3) On or after July 1, 2026, a hyperscale data center,
+445 including a hyperscale data center property, is a prohibited use
+446 for all agricultural, conservation, environmental stewardship,
+447 mixed use, and residential land use categories in a local
+448 government comprehensive plan and agricultural zoning districts
+449 within an unincorporated area.
+450 (4)(a) Unless a local government approves a more
+Page 18 of 38
+CODING: Words stricken are deletions; words underlined are additions.
+hb1007-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1007 2026
+451 restrictive requirement, a setback of at least 500 feet between
+452 real property on which a hyperscale data center is located must
+453 be maintained by the use of Florida-friendly landscaping
+454 practices, as defined in s. 373.185, which may include an
+455 ornamental barrier that must be the height of the tallest point
+456 of the hyperscale data center at the time construction of the
+457 hyperscale data center is completed.
+458 (b) As used in paragraph (a), the term "ornamental" has
+459 the same meaning as in s. 482.021.
+460 Section 8. Subsection (2) of section 163.3208, Florida
+461 Statutes, is amended to read:
+462 163.3208 Substation approval process.—
+463 (2) The term "electric substation" means an electric
+464 substation, including accessory administration or maintenance
+465 buildings and related accessory uses and structures, which takes
+466 electricity from the transmission grid and converts it to
+467 another voltage or lower voltage so it can be distributed to a
+468 residential or commercial customer, except a hyperscale data
+469 center as defined in s. 377.7055, customers through one or more
+470 lines.
+471 Section 9. Paragraph (c) of subsection (4) of section
+472 166.041, Florida Statutes, is amended to read:
+473 166.041 Procedures for adoption of ordinances and
+474 resolutions.—
+475 (4)
+Page 19 of 38
+CODING: Words stricken are deletions; words underlined are additions.
+hb1007-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1007 2026
+476 (c) This subsection does not apply to:
+477 1. Ordinances required for compliance with federal or
+478 state law or regulation;
+479 2. Ordinances relating to the issuance or refinancing of
+480 debt;
+481 3. Ordinances relating to the adoption of budgets or
+482 budget amendments, including revenue sources necessary to fund
+483 the budget;
+484 4. Ordinances required to implement a contract or an
+485 agreement, including, but not limited to, any federal, state,
+486 local, or private grant, or other financial assistance accepted
+487 by a municipal government;
+488 5. Emergency ordinances;
+489 6. Ordinances relating to procurement; or
+490 7. Ordinances enacted to implement the following:
+491 a. Development orders and development permits, as those
+492 terms are defined in s. 163.3164, and development agreements, as
+493 authorized by the Florida Local Government Development Agreement
+494 Act under ss. 163.3220-163.3243;
+495 b. Comprehensive plan amendments and land development
+496 regulation amendments initiated by an application by a private
+497 party other than the municipality;
+498 c. Sections 190.005 and 190.046;
+499 d. Section 553.73, relating to the Florida Building Code;
+500 or
+Page 20 of 38
+CODING: Words stricken are deletions; words underlined are additions.
+hb1007-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1007 2026
+501 e. Section 633.202, relating to the Florida Fire
+502 Prevention Code; or.
+503 8. Ordinances relating to the construction, operation,
+504 siting, or zoning of a hyperscale data center as defined in s.
+505 377.7055, including, but not limited to:
+506 a. Ordinances required for compliance with federal or
+507 state law or regulation;
+508 b. Ordinances relating to the issuance or refinancing of
+509 debt;
+510 c. Ordinances relating to the adoption of budgets or
+511 budget amendments, including revenue sources necessary to fund
+512 the budget;
+513 d. Ordinances required to implement a contract or an
+514 agreement, including, but not limited to, any federal, state,
+515 local, or private grant, or other financial assistance accepted
+516 by a municipal government;
+517 e. Emergency ordinances;
+518 f. Ordinances relating to procurement; or
+519 g. Ordinances enacted to implement the following:
+520 (I) Development orders and development permits, as those
+521 terms are defined in s. 163.3164, and development agreements, as
+522 authorized by the Florida Local Government Development Agreement
+523 Act under ss. 163.3220-163.3243;
+524 (II) Comprehensive plan amendments and land development
+525 regulation amendments initiated by an application by a private
+Page 21 of 38
+CODING: Words stricken are deletions; words underlined are additions.
+hb1007-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1007 2026
+526 party other than the municipality;
+527 (III) Sections 190.005 and 190.046;
+528 (IV) Section 553.73, relating to the Florida Building
+529 Code; or
+530 (IV) Section 633.202, relating to the Florida Fire
+531 Prevention Code.
+532 Section 10. Paragraph (d) of subsection (2) of section
+533 212.055, Florida Statutes, is amended to read:
+534 212.055 Discretionary sales surtaxes; legislative intent;
+535 authorization and use of proceeds.—It is the legislative intent
+536 that any authorization for imposition of a discretionary sales
+537 surtax shall be published in the Florida Statutes as a
+538 subsection of this section, irrespective of the duration of the
+539 levy. Each enactment shall specify the types of counties
+540 authorized to levy; the rate or rates which may be imposed; the
+541 maximum length of time the surtax may be imposed, if any; the
+542 procedure which must be followed to secure voter approval, if
+543 required; the purpose for which the proceeds may be expended;
+544 and such other requirements as the Legislature may provide.
+545 Taxable transactions and administrative procedures shall be as
+546 provided in s. 212.054.
+547 (2) LOCAL GOVERNMENT INFRASTRUCTURE SURTAX.—
+548 (d) The proceeds of the surtax authorized by this
+549 subsection and any accrued interest shall be expended by the
+550 school district, within the county and municipalities within the
+Page 22 of 38
+CODING: Words stricken are deletions; words underlined are additions.
+hb1007-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1007 2026
+551 county, or, in the case of a negotiated joint county agreement,
+552 within another county, to finance, plan, and construct
+553 infrastructure; to acquire any interest in land for public
+554 recreation, conservation, or protection of natural resources or
+555 to prevent or satisfy private property rights claims resulting
+556 from limitations imposed by the designation of an area of
+557 critical state concern; to provide loans, grants, or rebates to
+558 residential or commercial property owners who make energy
+559 efficiency improvements to their residential or commercial
+560 property, if a local government ordinance authorizing such use
+561 is approved by referendum; or to finance the closure of county-
+562 owned or municipally owned solid waste landfills that have been
+563 closed or are required to be closed by order of the Department
+564 of Environmental Protection. Any use of the proceeds or interest
+565 for purposes of landfill closure before July 1, 1993, is
+566 ratified. The proceeds and any interest may not be used for the
+567 operational expenses of infrastructure, except that a county
+568 that has a population of fewer than 75,000 and that is required
+569 to close a landfill may use the proceeds or interest for long-
+570 term maintenance costs associated with landfill closure.
+571 Counties, as defined in s. 125.011, and charter counties may, in
+572 addition, use the proceeds or interest to retire or service
+573 indebtedness incurred for bonds issued before July 1, 1987, for
+574 infrastructure purposes, and for bonds subsequently issued to
+575 refund such bonds. Any use of the proceeds or interest for
+Page 23 of 38
+CODING: Words stricken are deletions; words underlined are additions.
+hb1007-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1007 2026
+576 purposes of retiring or servicing indebtedness incurred for
+577 refunding bonds before July 1, 1999, is ratified.
+578 1. For the purposes of this paragraph, the term
+579 "infrastructure" means:
+580 a. Any fixed capital expenditure or fixed capital outlay
+581 associated with the construction, reconstruction, or improvement
+582 of public facilities that have a life expectancy of 5 or more
+583 years, any related land acquisition, land improvement, design,
+584 and engineering costs, and all other professional and related
+585 costs required to bring the public facilities into service. For
+586 purposes of this sub-subparagraph, the term "public facilities"
+587 means facilities as defined in s. 163.3164 s. 163.3164(41), s.
+588 163.3221(13), or s. 189.012(5), and includes facilities that are
+589 necessary to carry out governmental purposes, including, but not
+590 limited to, fire stations, general governmental office
+591 buildings, and animal shelters, regardless of whether the
+592 facilities are owned by the local taxing authority or another
+593 governmental entity.
+594 b. A fire department vehicle, an emergency medical service
+595 vehicle, a sheriff's office vehicle, a police department
+596 vehicle, or any other vehicle, and the equipment necessary to
+597 outfit the vehicle for its official use or equipment that has a
+598 life expectancy of at least 5 years.
+599 c. Any expenditure for the construction, lease, or
+600 maintenance of, or provision of utilities or security for,
+Page 24 of 38
+CODING: Words stricken are deletions; words underlined are additions.
+hb1007-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1007 2026
+601 facilities, as defined in s. 29.008.
+602 d. Any fixed capital expenditure or fixed capital outlay
+603 associated with the improvement of private facilities that have
+604 a life expectancy of 5 or more years and that the owner agrees
+605 to make available for use on a temporary basis as needed by a
+606 local government as a public emergency shelter or a staging area
+607 for emergency response equipment during an emergency officially
+608 declared by the state or by the local government under s.
+609 252.38. Such improvements are limited to those necessary to
+610 comply with current standards for public emergency evacuation
+611 shelters. The owner must enter into a written contract with the
+612 local government providing the improvement funding to make the
+613 private facility available to the public for purposes of
+614 emergency shelter at no cost to the local government for a
+615 minimum of 10 years after completion of the improvement, with
+616 the provision that the obligation will transfer to any
+617 subsequent owner until the end of the minimum period.
+618 e. Any land acquisition expenditure for a residential
+619 housing project in which at least 30 percent of the units are
+620 affordable to individuals or families whose total annual
+621 household income does not exceed 120 percent of the area median
+622 income adjusted for household size, if the land is owned by a
+623 local government or by a special district that enters into a
+624 written agreement with the local government to provide such
+625 housing. The local government or special district may enter into
+Page 25 of 38
+CODING: Words stricken are deletions; words underlined are additions.
+hb1007-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1007 2026
+626 a ground lease with a public or private person or entity for
+627 nominal or other consideration for the construction of the
+628 residential housing project on land acquired pursuant to this
+629 sub-subparagraph.
+630 f. Instructional technology used solely in a school
+631 district's classrooms. As used in this sub-subparagraph, the
+632 term "instructional technology" means an interactive device that
+633 assists a teacher in instructing a class or a group of students
+634 and includes the necessary hardware and software to operate the
+635 interactive device. The term also includes support systems in
+636 which an interactive device may mount and is not required to be
+637 affixed to the facilities.
+638 2. For the purposes of this paragraph, the term "energy
+639 efficiency improvement" means any energy conservation and
+640 efficiency improvement that reduces consumption through
+641 conservation or a more efficient use of electricity, natural
+642 gas, propane, or other forms of energy on the property,
+643 including, but not limited to, air sealing; installation of
+644 insulation; installation of energy-efficient heating, cooling,
+645 or ventilation systems; installation of solar panels; building
+646 modifications to increase the use of daylight or shade;
+647 replacement of windows; installation of energy controls or
+648 energy recovery systems; installation of electric vehicle
+649 charging equipment; installation of systems for natural gas fuel
+650 as defined in s. 206.9951; and installation of efficient
+Page 26 of 38
+CODING: Words stricken are deletions; words underlined are additions.
+hb1007-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1007 2026
+651 lighting equipment.
+652 3. Notwithstanding any other provision of this subsection,
+653 a local government infrastructure surtax imposed or extended
+654 after July 1, 1998, may allocate up to 15 percent of the surtax
+655 proceeds for deposit into a trust fund within the county's
+656 accounts created for the purpose of funding economic development
+657 projects having a general public purpose of improving local
+658 economies, including the funding of operational costs and
+659 incentives related to economic development. The ballot statement
+660 must indicate the intention to make an allocation under the
+661 authority of this subparagraph.
+662 4. Surtax revenues that are shared with eligible charter
+663 schools pursuant to paragraph (c) shall be allocated among such
+664 schools based on each school's proportionate share of total
+665 school district capital outlay full-time equivalent enrollment
+666 as adopted by the education estimating conference established in
+667 s. 216.136. Surtax revenues must be expended by the charter
+668 school in a manner consistent with the allowable uses provided
+669 in s. 1013.62(4). All revenues and expenditures shall be
+670 accounted for in a charter school's monthly or quarterly
+671 financial statement pursuant to s. 1002.33(9). If a school's
+672 charter is not renewed or is terminated and the school is
+673 dissolved under the provisions of law under which the school was
+674 organized, any unencumbered funds received under this paragraph
+675 shall revert to the sponsor.
+Page 27 of 38
+CODING: Words stricken are deletions; words underlined are additions.
+hb1007-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1007 2026
+676 Section 11. Section 288.008, Florida Statutes, is created
+677 to read:
+678 288.008 Economic incentives to hyperscale data centers
+679 prohibited.—
+680 (1) As used in this section, the term:
+681 (a) "Hyperscale data center" has the same meaning as in s.
+682 377.7055.
+683 (b) "Economic incentive" means, unless otherwise expressly
+684 provided by law, all programs administered by, or for which an
+685 applicant for the program must seek certification, approval, or
+686 other action by the department under this chapter, chapter 212,
+687 or chapter 220; and all local economic development programs,
+688 grants, or financial benefits administered by a political
+689 subdivision or an agent thereof.
+690 (c) "Governmental entity" means a state agency, a
+691 political subdivision, or any other public or private agency,
+692 person, partnership, corporation, or business entity acting on
+693 behalf of any public agency.
+694 (2) A governmental entity may not knowingly enter into an
+695 agreement or contract for an economic incentive with an entity
+696 to support the siting, construction, powering, or operation of a
+697 hyperscale data center.
+698 (3) Before providing any economic incentive, a
+699 governmental entity must require the recipient or applicant to
+700 provide the governmental entity with an affidavit signed under
+Page 28 of 38
+CODING: Words stricken are deletions; words underlined are additions.
+hb1007-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1007 2026
+701 penalty of perjury attesting that the recipient or applicant is
+702 not a hyperscale data center.
+703 (4) The department shall adopt rules to administer this
+704 section, including rules establishing the form for the affidavit
+705 required under subsection (3).
+706 Section 12. Section 339.86, Florida Statutes, is created
+707 to read:
+708 339.86 Hyperscale data center construction; means of noise
+709 abatement.—
+710 (1) As used in this section, "hyperscale data center" has
+711 the same meaning as in s. 377.7055.
+712 (2) The department shall require the use of noise-control
+713 methods as part of hyperscale data center construction projects
+714 located adjacent to or along a highway or upon request of an
+715 owner of property adjacent to such a project or a local
+716 government.
+717 (3) All hyperscale data center construction projects shall
+718 be developed in conformity with federal standards for noise
+719 abatement as contained in 23 C.F.R. 772 as such regulations
+720 existed on July 13, 2011. The department shall, at a minimum,
+721 comply with federal requirements in the following areas:
+722 (a) Noise abatement.
+723 (b) Information for local officials.
+724 (c) Construction noise.
+725 Section 13. Subsections (5) and (6) of section 366.032,
+Page 29 of 38
+CODING: Words stricken are deletions; words underlined are additions.
+hb1007-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1007 2026
+726 Florida Statutes, are renumbered as subsections (6) and (7),
+727 respectively, and a new subsection (5) is added to that section,
+728 to read:
+729 366.032 Preemption over utility service restrictions.—
+730 (5) This section does not prevent a municipality, county,
+731 board, agency, commission, or authority of any county, municipal
+732 corporation, or political subdivision, special district,
+733 community development district created under chapter 190, or
+734 other political subdivision of this state from enacting or
+735 enforcing a resolution, ordinance, rule, code, or policy or
+736 taking any action that restricts the construction or operation
+737 of a hyperscale data center as defined in s. 377.7055.
+738 Section 14. Section 366.0415, Florida Statutes, is created
+739 to read:
+740 366.0415 Rate fixing; hyperscale data centers.—In fixing
+741 rates for hyperscale data centers, as defined in s. 377.7055, a
+742 public utility may not collect from a residential customer or a
+743 commercial customer impact fees designed to recover capital
+744 costs for the construction of a new hyperscale data center if
+745 the customer does not have a similar energy use as the projected
+746 energy use from the hyperscale data center.
+747 Section 15. Subsection (1) of section 373.219, Florida
+748 Statutes, is amended to read:
+749 373.219 Permits required.—
+750 (1)(a) The governing board or the department may require
+Page 30 of 38
+CODING: Words stricken are deletions; words underlined are additions.
+hb1007-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1007 2026
+751 such permits for consumptive use of water and may impose such
+752 reasonable conditions as are necessary to assure that such use
+753 is consistent with the overall objectives of the district or
+754 department and is not harmful to the water resources of the
+755 area. However, no permit shall be required for domestic
+756 consumption of water by individual users.
+757 (b) A permit application for consumptive use of water for
+758 a hyperscale data center, as defined in s. 377.7055, must
+759 contain the disclosure required in s. 373.229(1)(i). Before
+760 issuance of such a permit, an application before:
+761 1. A governing board must be approved by the governing
+762 board following a public hearing as required by s. 377.7055(4).
+763 2. The application must be approved by the department
+764 during a public hearing as required by s. 373.229(4).
+765 Section 16. Paragraph (i) of subsection (1) of section
+766 373.229, Florida Statutes, is redesignated as paragraph (j),
+767 paragraph (h) of subsection (1) and subsection (4) are amended,
+768 a new paragraph (i) is added to subsection (1), and subsection
+769 (5) is added to that section, to read:
+770 373.229 Application for permit.—
+771 (1) All permit applications filed with the governing board
+772 or the department under this part and notice thereof required
+773 under s. 373.116 shall contain:
+774 (h) The location of the well or point of diversion; and
+775 (i) A disclosure of whether the proposed application is
+Page 31 of 38
+CODING: Words stricken are deletions; words underlined are additions.
+hb1007-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1007 2026
+776 for a hyperscale data center as defined in s. 377.7055. Such
+777 disclosure requirement applies to individual applicants and
+778 applicants applying on behalf of customers, including a county,
+779 municipality, private utility, or regional water supply
+780 authority; and
+781 (4)(a) Except for a proposed application for a hyperscale
+782 data center, if the proposed application is for less than
+783 100,000 gallons per day, the governing board or the department
+784 may consider the application and any objections thereto without
+785 a hearing. If the proposed application is for 100,000 gallons
+786 per day or more and no objection is received, the governing
+787 board or the department, after proper investigation by its
+788 staff, may, at its discretion, approve the application without a
+789 hearing.
+790 (b) If the proposed application is for a hyperscale data
+791 center, a hearing must be held in the county in which the use of
+792 water is proposed to occur. Notice of such hearing must be
+793 advertised pursuant to requirements prescribed by the governing
+794 board or department. Notice must also be sent by certified mail
+795 at least 30 days before the hearing to all property owners
+796 located within a 10-mile radius of the real property associated
+797 with the hyperscale data center. A true copy of the notice
+798 advertised must be posted on the real property associated with
+799 the hyperscale data center. Within 15 days after the hearing or
+800 at the next regularly scheduled meeting of the governing board
+Page 32 of 38
+CODING: Words stricken are deletions; words underlined are additions.
+hb1007-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1007 2026
+801 or department, whichever is later, another hearing must be held
+802 to consider the application.
+803 (5) As used in this section, the term "hyperscale data
+804 center" has the same meaning as in s. 377.7055.
+805 Section 17. Section 377.7055, Florida Statutes, is created
+806 to read:
+807 377.7055 Hyperscale data centers.—
+808 (1) It is the policy of this state to empower and
+809 encourage the governing body of a local government to protect
+810 residents against the negative impacts of hyperscale data
+811 centers.
+812 (2) As used in this section, the term:
+813 (a)1. "Data" means information in a specific
+814 representation, usually as a sequence of symbols that have
+815 meaning.
+816 2. As used in this paragraph, "information" means any
+817 communication or representation of knowledge, such as facts,
+818 data, or opinions, in any medium or format, including, but not
+819 limited to, textual, numerical, graphic, cartographic,
+820 narrative, or audiovisual.
+821 (b) "Department" means the Department of Agriculture and
+822 Consumer Services.
+823 (c) "Hyperscale data center" means a facility that:
+824 1. Consists of one or more contiguous parcels of land in
+825 this state, including a building, substation, information
+Page 33 of 38
+CODING: Words stricken are deletions; words underlined are additions.
+hb1007-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1007 2026
+826 technology as defined in 282.0041, or other infrastructure,
+827 fixture, or personal property located on the land.
+828 2. Is used to house, store, or operate equipment that
+829 receives, stores, aggregates, manages, processes, transforms,
+830 retrieves, researches, or transmits data, or is necessary for
+831 the proper operation of such equipment.
+832 3.a Requires at least 25 megawatts of energy resources to
+833 support its operations, including any hyperscale data center
+834 property.
+835 b. As used in this subparagraph, the term:
+836 (I) "Energy resources" includes, but is not be limited to:
+837 (A) Energy converted from solar radiation, wind, hydraulic
+838 potential, hydroelectric power, and other energy resources
+839 created by tidal movements, biomass, and geothermal sources.
+840 (B) Propane, butane, motor gasoline, kerosene, home
+841 heating oil, diesel fuel, other middle distillates, aviation
+842 gasoline, kerosene-type jet fuel, naphtha-type jet fuel,
+843 residual fuels, crude oil, and other petroleum products and
+844 hydrocarbons as may be determined by the department to be of
+845 importance.
+846 (C) All natural gas, including casinghead gas, all other
+847 hydrocarbons that are not petroleum products in subparagraph 2.,
+848 and liquefied petroleum gas as defined in s. 527.01(1).
+849 (D) All types of coal and products derived from its
+850 conversion and used as fuel.
+Page 34 of 38
+CODING: Words stricken are deletions; words underlined are additions.
+hb1007-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1007 2026
+851 (E) All types of nuclear energy, special nuclear material,
+852 and source material, as defined in former s. 290.07.
+853 (F) All electrical energy.
+854 (II) "Hyperscale data center property" means any real
+855 property, or any tangible property associated with a hyperscale
+856 data center, which supports, constructs, outfits, operates,
+857 powers, cools, dehumidifies, secures, or protects a hyperscale
+858 data center and any related substation. The term includes, but
+859 is not be limited to:
+860 (A) Construction materials.
+861 (B) Component parts.
+862 (C) Machinery.
+863 (D) Equipment.
+864 (E) Computers;
+865 (F) Computing devices.
+866 (G) Information technology as defined in s. 282.0041.
+867 (H) Servers.
+868 (I) Installation, redundancy, and operating or enabling
+869 software, including any replacement, update, or new version or
+870 upgrade to or for such property,
+871
+872 regardless of whether the property is a fixture or is otherwise
+873 affixed to or incorporated into the real property. The term also
+874 includes any energy or water resources supporting a hyperscale
+875 data center.
+Page 35 of 38
+CODING: Words stricken are deletions; words underlined are additions.
+hb1007-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1007 2026
+876 (d) "Local government" means any county or municipality.
+877 (e) "Real property" has the same meaning as in s.
+878 192.001(12).
+879 (f) "Waters of this state" has the same meaning in s.
+880 327.02. The term includes all submerged lands or territorial
+881 waters that are not under the jurisdiction of this state.
+882 (3) On or after July 1, 2026, a hyperscale data center may
+883 not be constructed and operated on:
+884 (a) Land classified as agricultural land under s. 193.461.
+885 (b) Land that, at the time of a proposed reclassification,
+886 siting, or construction, is located within 10 miles of an area
+887 of agricultural, recreational, or conservation land use.
+888 (c) Waters of this state, or any land that is located
+889 within 5 miles of waters of this state.
+890 (4)(a) Before the construction and operation of any
+891 hyperscale data center, in addition to adopting any necessary
+892 comprehensive plan amendments or land use changes or issuing a
+893 consumptive use permit, the governing body of a local government
+894 must hold a public hearing to approve the project. The public
+895 hearing for such approval must be advertised in newspapers of
+896 general circulation within the local government and any affected
+897 local government must allow for public comment. Notice must also
+898 be sent by certified mail at least 30 days before the hearing to
+899 each property owner located within a 10-mile radius of the real
+900 property associated with the project. A true copy of the notice
+Page 36 of 38
+CODING: Words stricken are deletions; words underlined are additions.
+hb1007-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1007 2026
+901 published must be posted on the real property associated with
+902 the project.
+903 (b) If a governing body of the local government votes to
+904 approve a project for a hyperscale data center under paragraph
+905 (a), the governing body of the local government shall request,
+906 in concurrence and cooperation with the siting board under s.
+907 403.5341, approval of such project.
+908 Section 18. Section 403.5341, Florida Statutes, is created
+909 to read:
+910 403.5341 Hyperscale data centers; siting board.—
+911 (1) As used in this section, the term:
+912 (a) "Board" means the Governor and Cabinet sitting as the
+913 siting board.
+914 (b) "Hyperscale data center" has the same meaning as in s.
+915 377.7055.
+916 (2) On or after July 1, 2026, upon receipt of a
+917 concurrence request by the governing body of a local government
+918 pursuant to s. 377.7055(4), the board shall have published in
+919 the Florida Administrative Register notice of the request. The
+920 board shall require the local government seeking to construct
+921 and operate a hyperscale data center to notify, in writing or by
+922 email, each member of the legislative delegation of the county
+923 or municipality in which the real property associated with the
+924 project is located when the notice is published. The board shall
+925 schedule and hold a concurrence hearing no later than 30 days
+Page 37 of 38
+CODING: Words stricken are deletions; words underlined are additions.
+hb1007-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1007 2026
+926 after the date the notice is published in the Florida
+927 Administrative Register and notice is provided to each member of
+928 the legislative delegation.
+929 (3) If the board does not approve a concurrence request at
+930 a hearing held under subsection (2), the hyperscale data center
+931 may not be constructed, and no appeal may be granted.
+932 Section 19. Subsection (5) is added to section 624.406,
+933 Florida Statutes, to read:
+934 624.406 Combinations of insuring powers, one insurer.—An
+935 insurer which otherwise qualifies therefor may be authorized to
+936 transact any one kind or combination of kinds of insurance as
+937 defined in part V except:
+938 (5) An authorized insurer's underwriting practices for a
+939 hyperscale data center, as defined in s. 377.7055, may not
+940 authorize the pooling or commingling of hyperscale data centers
+941 assigned risk with any other kind or combination of kinds of
+942 insurance as a risk management strategy. If an insurer violates
+943 this subsection, the department may deny, suspend, or revoke the
+944 insurer's authority to transact insurance in this state.
+945 Section 20. This act shall take effect July 1, 2026.
+Page 38 of 38
+CODING: Words stricken are deletions; words underlined are additions.
+hb1007-00
