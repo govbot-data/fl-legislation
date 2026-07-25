@@ -1,0 +1,190 @@
+Title: 
+Official Title: 
+Source: versions - H 1345 Filed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1345 2026
+1 A bill to be entitled
+2 An act relating to the pawn data statewide system;
+3 creating s. 539.004, F.S.; providing legislative
+4 intent; providing definitions; requiring the
+5 Department of Law Enforcement to establish, operate,
+6 and maintain a statewide system for the collection of
+7 pawn data; providing system requirements; providing
+8 procurement authority to the department to contract
+9 with a single vendor to provide pawn data collection
+10 as a service; providing contract terms; prohibiting
+11 the department from making a specified delegation;
+12 providing mandatory participation in the statewide
+13 system by specified dealers and recyclers; prohibiting
+14 certain agencies from requiring or maintaining
+15 separate contracts for pawn data collection services;
+16 prohibiting law enforcement agencies from being
+17 charged a fee for accessing pawn data through the
+18 system; establishing contract provisions for vendors;
+19 providing that all pawn data collected is the
+20 exclusive property of the state; providing an
+21 exception; providing that vendors do not acquire
+22 certain interests in the pawn data; providing for
+23 collection and storage of firearms transaction data;
+24 prohibiting specified acts; providing enforcement and
+25 penalties for violations; authorizing rulemaking;
+Page 1 of 6
+CODING: Words stricken are deletions; words underlined are additions.
+hb1345-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1345 2026
+26 providing an effective date.
+27
+28 Be It Enacted by the Legislature of the State of Florida:
+29
+30 Section 1. Section 539.004, Florida Statutes, is created
+31 to read:
+32 539.004 Statewide system for the collection of pawn data.—
+33 (1) INTENT.—It is the intent of the Legislature to
+34 establish a single, secure, statewide pawn data collection
+35 system under the control of the Department of Law Enforcement
+36 to:
+37 (a) Support criminal investigations and public safety
+38 statewide.
+39 (b) Eliminate fragmented data collection and duplicative
+40 costs to law enforcement agencies.
+41 (c) Ensure statewide data ownership, continuity, and
+42 interoperability.
+43 (d) Protect sensitive transaction and firearms information
+44 from unauthorized use or commercialization.
+45 (2) DEFINITIONS.—As used in this section, the term:
+46 (a) "Department" means the Department of Law Enforcement.
+47 (b) "Firearms transaction data" means pawn data relating
+48 to firearms as defined in s. 790.001.
+49 (c) "Pawn data" means information related to the
+50 transactions of secondhand dealers and secondary metals
+Page 2 of 6
+CODING: Words stricken are deletions; words underlined are additions.
+hb1345-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1345 2026
+51 recyclers, including pawn shops, which is required by chapter
+52 538 and this chapter to be reported electronically to law
+53 enforcement officials. This data includes, but is not limited
+54 to, descriptions of property, seller information, transaction
+55 dates, and any other data related to the exchange of goods.
+56 (d) "Statewide system" means the centralized pawn data
+57 collection and access system established and operated by the
+58 department under this section.
+59 (e) "Vendor" means a single private entity procured by the
+60 department to provide pawn data collection as a service.
+61 (3) ESTABLISHMENT OF STATEWIDE SYSTEM.—
+62 (a) The department shall establish, operate, and maintain
+63 a statewide system for the collection of pawn data.
+64 (b) The department shall ensure that the statewide system:
+65 1. Accepts electronic reports from all required reporting
+66 entities statewide.
+67 2. Provides access to pawn data for law enforcement
+68 agencies in real time or near real-time.
+69 3. Supports multijurisdictional investigations.
+70 4. Meets state and federal security, privacy, and records
+71 management requirements.
+72 (4) PROCUREMENT AUTHORITY.—
+73 (a) Pursuant to chapter 287, the department shall
+74 competitively procure and contract with a single vendor to
+75 provide pawn data collection as a service on a statewide basis.
+Page 3 of 6
+CODING: Words stricken are deletions; words underlined are additions.
+hb1345-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1345 2026
+76 (b) The department may enter into a multiyear contract,
+77 which may include renewal options, performance benchmarks,
+78 transition periods, and termination provisions consistent with
+79 state procurement law.
+80 (c) The department may not delegate data ownership,
+81 governance authority, or law enforcement access control to a
+82 vendor.
+83 (5) MANDATORY PARTICIPATION.—
+84 (a) All secondhand dealers and secondary metals recyclers
+85 required to report under chapter 538 and this chapter shall
+86 submit required data through the statewide system.
+87 (b) A local or regional law enforcement agency may not
+88 require or maintain a separate contract for pawn data collection
+89 services that duplicates the statewide system.
+90 (c) A law enforcement agency may not be charged a fee for
+91 accessing pawn data through the statewide system.
+92 (6) CONTRACTUAL REQUIREMENTS.—A contract executed under
+93 this section must require the vendor to:
+94 (a) Maintain and support integrations with commonly used
+95 point-of-sale systems and web-based reporting tools.
+96 (b) Provide compliance monitoring and technical assistance
+97 to reporting businesses.
+98 (c) Transmit all pawn data to the department in real time
+99 or near real-time.
+100 (d) Provide full and continuous access to current and
+Page 4 of 6
+CODING: Words stricken are deletions; words underlined are additions.
+hb1345-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1345 2026
+101 historical pawn data to the department.
+102 (e) Transfer all pawn data, including metadata and
+103 historical records, to the department immediately upon request
+104 or upon contract expiration or termination, without any
+105 additional cost.
+106 (f) Provide a department-approved transition plan to
+107 prevent disruption of law enforcement operations.
+108 (g) Comply with all state cybersecurity, public records,
+109 and data retention requirements.
+110 (7) OWNERSHIP AND USE OF DATA.—
+111 (a) All pawn data collected under this section is the
+112 exclusive property of this state, except firearms transaction
+113 data pursuant to subsection (8).
+114 (b) A vendor acts solely as a service provider and data
+115 processor and does not acquire any ownership or proprietary
+116 interest in the pawn data.
+117 (c) Pawn data may be used only for official law
+118 enforcement, regulatory, or public safety purposes authorized by
+119 general law.
+120 (8) FIREARMS TRANSACTION DATA.—
+121 (a) Firearms transaction data may be collected by a vendor
+122 as an agent of the department and stored or managed in
+123 compliance with s. 790.335.
+124 (b) The department may authorize storage of firearms
+125 transaction data by a vendor or by a not-for-profit entity
+Page 5 of 6
+CODING: Words stricken are deletions; words underlined are additions.
+hb1345-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1345 2026
+126 designated by the department, subject to strict access and audit
+127 controls.
+128 (9) PROHIBITED ACTS.—
+129 (a) A vendor may not sell, license, lease, sublicense,
+130 monetize, or otherwise commercially exploit pawn data or
+131 firearms transaction data.
+132 (b) A person may not knowingly misuse, disclose, or access
+133 pawn data for any purpose not authorized by general law.
+134 (10) ENFORCEMENT AND PENALTIES.—
+135 (a) A vendor that violates this section, or the terms of a
+136 contract entered into pursuant to subsection (4), is subject to:
+137 1. A civil penalty of up to $500,000 per violation.
+138 2. Contract termination.
+139 3. Disqualification from future state contracts.
+140 (b) A person who knowingly and willfully violates
+141 subsection (9) commits a felony of the third degree, punishable
+142 as provided in s. 775.082 or s. 775.083.
+143 (11) RULEMAKING.—The department may adopt rules to
+144 implement this section, including, but not limited to,
+145 procurement administration, system standards, access controls,
+146 data security, audits, and compliance enforcement.
+147 Section 2. This act shall take effect July 1, 2026.
+Page 6 of 6
+CODING: Words stricken are deletions; words underlined are additions.
+hb1345-00

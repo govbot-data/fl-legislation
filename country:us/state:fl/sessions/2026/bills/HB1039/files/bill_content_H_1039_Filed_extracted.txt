@@ -1,0 +1,278 @@
+Title: 
+Official Title: 
+Source: versions - H 1039 Filed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1039 2026
+1 A bill to be entitled
+2 An act relating to the establishment and
+3 administration of a state cryptocurrency reserve;
+4 creating s. 17.613, F.S.; providing definitions;
+5 establishing the Florida Strategic Cryptocurrency
+6 Reserve as a special fund outside the State Treasury;
+7 providing sources of the reserve; providing for the
+8 administration and management of the reserve;
+9 authorizing the Chief Financial Officer to pay certain
+10 costs using the cryptocurrency in the reserve or the
+11 net proceed from the sale of cryptocurrency in the
+12 reserve; providing for investment of money in the
+13 reserve; authorizing transfer of the reserve money to
+14 the State Treasury under certain circumstances;
+15 providing exceptions; providing requirements for
+16 cryptocurrency to be purchased for the reserve;
+17 authorizing contracts with third parties for the
+18 administration and management of the reserve;
+19 authorizing the Chief Financial Officer to use
+20 derivatives under certain circumstances; authorizing
+21 contracts with certified public accountants for
+22 independent audits; authorizing temporary transfers of
+23 money from the reserve for specified purposes;
+24 establishing the Florida Strategic Cryptocurrency
+25 Reserve Advisory Committee within the Department of
+Page 1 of 9
+CODING: Words stricken are deletions; words underlined are additions.
+hb1039-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1039 2026
+26 Financial Affairs; providing for committee membership;
+27 providing duties of committee members; providing
+28 reporting requirements; requiring the Chief Financial
+29 Officer to adopt rules; providing an effective date.
+30
+31 WHEREAS, cryptocurrencies are assets with strategic
+32 potential for enhancing this state's financial resilience and
+33 positioning this state for the future digital economy, and
+34 WHEREAS, cryptocurrencies can serve as a hedge against
+35 inflation and economic volatility, and
+36 WHEREAS, the establishment of a cryptocurrency reserve
+37 serves the public purpose of providing enhanced financial
+38 security to residents of this state, NOW, THEREFORE,
+39
+40 Be It Enacted by the Legislature of the State of Florida:
+41
+42 Section 1. Section 17.613, Florida Statutes, is created to
+43 read:
+44 17.613 State cryptocurrency reserve.—
+45 (1) DEFINITIONS.—As used in this section, the term:
+46 (a) "Airdrop" means a gratuitous distribution of
+47 cryptocurrency to users of a blockchain or protocol, generally
+48 made in a broad, equitable, and nondiscretionary manner.
+49 (b) "Committee" means the Florida Strategic Cryptocurrency
+50 Reserve Advisory Committee established in this section.
+Page 2 of 9
+CODING: Words stricken are deletions; words underlined are additions.
+hb1039-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1039 2026
+51 (c) "Cryptocurrency" means a type of virtual currency, as
+52 defined in s. 896.101(2), which uses cryptography to secure
+53 transactions that are digitally recorded on a distributed
+54 ledger, such as blockchain.
+55 (d) "Fork" means a change to the protocol of a distributed
+56 ledger system which creates a separate ledger, which may result
+57 in a new cryptocurrency that shares a common transaction history
+58 with the previous cryptocurrency up to the point of change.
+59 (e) "Private key" means a unique element of cryptographic
+60 data used for signing transactions on blockchain, known only to
+61 the owner.
+62 (f) "Qualified custodian" means a state or federally
+63 chartered financial institution or other entity regulated by
+64 this state which is authorized to have custody of virtual
+65 currencies on behalf of its clients.
+66 (g) "Qualified liquidity provider" means an entity that
+67 meets all of the following requirements:
+68 1. Is licensed or regulated under applicable federal or
+69 state law.
+70 2. Maintains audited financial statements prepared by a
+71 regulated auditor.
+72 3. Has at least 5 years of experience trading in the
+73 digital assets industry.
+74 4. Maintains an office and has registered principal in
+75 this state.
+Page 3 of 9
+CODING: Words stricken are deletions; words underlined are additions.
+hb1039-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1039 2026
+76 5. Has certified in a manner prescribed by the Chief
+77 Financial Officer that the provider meets the requirements of
+78 subparagraphs 1.-4.
+79 (h) "Reserve" means the Florida Strategic Cryptocurrency
+80 Reserve established is this section.
+81 (i) "Secure custody solution" means a technological
+82 product or blended product and service meeting all of the
+83 following criteria:
+84 1. The cryptographic private keys are:
+85 a. Exclusively known by and accessible to the governmental
+86 entity.
+87 b. Contained within an encrypted environment and
+88 accessible only through end-to-end encrypted channels.
+89 c. Never stored on or accessible through a smartphone.
+90 2. The hardware containing the cryptographic private keys
+91 is maintained in a secure data center.
+92 3. A multiparty governance structure for authorizing
+93 transactions is implemented, user access control is enforced,
+94 and all user-initiated actions are logged.
+95 4. The provider of the technological product or blended
+96 product and service has implemented a disaster recovery protocol
+97 ensuring state access to assets if the provider becomes
+98 unavailable.
+99 5. The technological product or blended product and
+100 service undergoes regular code audits and penetration testing,
+Page 4 of 9
+CODING: Words stricken are deletions; words underlined are additions.
+hb1039-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1039 2026
+101 with identified vulnerabilities promptly addressed.
+102 (2) ESTABLISHMENT; ADMINISTRATION.—
+103 (a) The Florida Strategic Cryptocurrency Reserve is
+104 established as a special fund outside the State Treasury. The
+105 Chief Financial Officer has custody of and shall administer and
+106 manage the reserve. The reserve consists of:
+107 1. Money transferred or deposited to the credit of the
+108 reserve by legislative appropriation.
+109 2. Revenue that the Legislature by general law dedicates
+110 for deposit to the credit of the reserve.
+111 3. Cryptocurrency purchased using money in or received by
+112 the reserve, including any cryptocurrency:
+113 a. Derived from the fork of a distributed ledger; or
+114 b. Distributed pursuant to an airdrop to this state's
+115 cryptocurrency addresses.
+116 4. Investment earnings and interest or rewards earned on
+117 assets in the reserve.
+118 (b) To administer and manage the reserve, the Chief
+119 Financial Officer may acquire, exchange, sell, supervise,
+120 manage, or retain any kind of investments that a prudent
+121 investor exercising reasonable care, skill, and caution would
+122 acquire, exchange, sell, supervise, manage, or retain in light
+123 of the purposes, terms, distribution requirements, and other
+124 circumstances then prevailing for the reserve, taking into
+125 consideration the investment of all the assets of the reserve
+Page 5 of 9
+CODING: Words stricken are deletions; words underlined are additions.
+hb1039-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1039 2026
+126 rather than a single investment.
+127 (c) The Legislature may appropriate funds for deposit to
+128 the credit of the reserve for the purposes of:
+129 1. Investing in cryptocurrency.
+130 2. Administering and managing the reserve.
+131 (d) The Chief Financial Officer may spend cryptocurrency
+132 in the reserve or use the net proceed from the sale of
+133 cryptocurrency in the reserve to pay the reasonable costs
+134 associated with administering and managing the reserve.
+135 (e) Money in the reserve may be invested with the State
+136 Treasury pool.
+137 (f) Except as provided in s. 250.26, the Chief Financial
+138 Officer may transfer money in the reserve to the State Treasury
+139 only when authorized by the Legislature in the General
+140 Appropriations Act or other law.
+141 (3) MARKET CAPITALIZATION REQUIREMENT.—To be eligible to
+142 be purchased for the reserve, a cryptocurrency must have an
+143 average market capitalization of at least $500 billion over the
+144 most recent 24-month period.
+145 (4) THIRD-PARTY CONTRACTS AND PERMISSIBLE TRANSACTIONS;
+146 AUDITS.—
+147 (a) The Chief Financial Officer may contract with one or
+148 more third-party entities for the administration or management
+149 of the reserve, including:
+150 1. A technology provider of a secure custody solution.
+Page 6 of 9
+CODING: Words stricken are deletions; words underlined are additions.
+hb1039-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1039 2026
+151 2. A qualified custodian that uses a secure custody
+152 solution.
+153 3. A qualified liquidity provider to facilitate the
+154 purchase and sale of assets in the reserve.
+155 (b) If the Chief Financial Officer determines it is in the
+156 best interest of the reserve, the Chief Financial Officer may
+157 use derivatives.
+158 (c) The Chief Financial Officer may contract with a
+159 certified public accountant to perform an independent audit of
+160 the reserve.
+161 (5) TEMPORARY TRANSFER FOR CASH MANAGEMENT.—
+162 (a) The Chief Financial Officer may liquidate the
+163 reserve's assets and temporarily transfer money from the reserve
+164 to the State Treasury if necessary for the purposes described in
+165 s. 250.26.
+166 (b) The Chief Financial Officer shall, as soon as
+167 practicable after a transfer under paragraph (a), return the
+168 transferred money to the reserve along with the interest, if
+169 any, earned on the money while held in the State Treasury.
+170 (6) FLORIDA STRATEGIC CRYPTOCURRENCY RESERVE ADVISORY
+171 COMMITTEE.—
+172 (a) There is established the Florida Strategic
+173 Cryptocurrency Reserve Advisory Committee within the Department
+174 of Financial Affairs.
+175 (b) The committee shall be composed of the following five
+Page 7 of 9
+CODING: Words stricken are deletions; words underlined are additions.
+hb1039-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1039 2026
+176 members:
+177 1. The Chief Financial Officer, who shall serve as the
+178 chair.
+179 2. Four members appointed by the Chief Financial Officer
+180 as follows:
+181 a. Three members with expertise in cryptocurrency
+182 investments.
+183 b. One member with expertise in digital asset security.
+184 (c) The committee shall advise the Chief Financial Officer
+185 regarding the administration and management of the reserve,
+186 including:
+187 1. Recommendations for valuing assets in the reserve.
+188 2. The establishment of prudent investment policies
+189 relating to the investment objectives of and asset allocation in
+190 the reserve.
+191 3. Recommendations for the establishment of prudent
+192 custody and security policies for the reserve.
+193 (d) A member of the committee is not entitled to receive
+194 compensation for service on the committee.
+195 (e) Members appointed by the Chief Financial Officer serve
+196 at the will of the Chief Financial Officer.
+197 (7) BIENNIAL REPORT.—
+198 (a) No later than December 31 of each even-numbered
+199 calendar year, the Chief Financial Officer shall publish and
+200 submit to the President of the Senate and the Speaker of the
+Page 8 of 9
+CODING: Words stricken are deletions; words underlined are additions.
+hb1039-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1039 2026
+201 House of Representatives a report that includes:
+202 1. The amount of cryptocurrency held in the reserve on the
+203 last day of the preceding fiscal year biennium.
+204 2. An estimate of the monetary value of the cryptocurrency
+205 held in the reserve on the last day of the preceding fiscal year
+206 biennium.
+207 3. Any changes in the amount and estimated monetary value
+208 of cryptocurrency in the reserve during the period the
+209 cryptocurrency has been held in the reserve, disaggregated by
+210 the cryptocurrency type.
+211 4. A description of the actions taken by the Chief
+212 Financial Officer to administer and manage the reserve during
+213 the preceding fiscal year biennium.
+214 (8) RULEMAKING.—The Chief Financial Officer shall adopt
+215 rules as necessary to administer the Florida Strategic
+216 Cryptocurrency Reserve.
+217 Section 2. This act shall take effect July 1, 2026.
+Page 9 of 9
+CODING: Words stricken are deletions; words underlined are additions.
+hb1039-00

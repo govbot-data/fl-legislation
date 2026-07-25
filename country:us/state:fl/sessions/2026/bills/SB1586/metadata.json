@@ -124,6 +124,7 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-25T10:12:45Z"
+    "logs_latest_update": "2026-07-25T10:12:45Z",
+    "text_extraction_latest_update": "2026-07-25T12:18:07.712226Z"
   }
 }

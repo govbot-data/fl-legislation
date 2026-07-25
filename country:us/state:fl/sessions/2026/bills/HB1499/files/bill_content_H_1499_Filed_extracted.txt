@@ -1,0 +1,280 @@
+Title: 
+Official Title: 
+Source: versions - H 1499 Filed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1499 2026
+1 A bill to be entitled
+2 An act relating to pricing based on collection of
+3 consumer information; providing a short title;
+4 creating s. 501.003, F.S.; providing definitions;
+5 declaring unlawful any act or practice of surveillance
+6 pricing; providing applicability; providing
+7 exceptions; requiring certain individuals who
+8 advertise, promote, label, or publish a statement,
+9 display, image, offer, or announcement of surveillance
+10 pricing to include a specified clear and conspicuous
+11 disclosure with such statement, display, image, offer,
+12 or announcement; providing penalties; providing
+13 construction; prohibiting a person from requiring
+14 consumers to waive certain rights or refusing a
+15 consumer access to goods and services under certain
+16 conditions; declaring any such waiver void; providing
+17 an effective date.
+18
+19 Be It Enacted by the Legislature of the State of Florida:
+20
+21 Section 1. This act may be cited as the "Florida Consumer
+22 Privacy Act."
+23 Section 2. Section 501.003, Florida Statutes, is created
+24 to read:
+25 501.003 Florida Consumer Privacy Act.—
+Page 1 of 9
+CODING: Words stricken are deletions; words underlined are additions.
+hb1499-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1499 2026
+26 (1) As used in this section, the term:
+27 (a) "Collects," "collected," or "collection" means buying,
+28 renting, gathering, obtaining, receiving, or accessing any
+29 personal information relating to a consumer by any means. The
+30 term includes receiving information from the consumer, either
+31 actively or passively, or by observing the consumer's behavior.
+32 (b) "Consumer" means an individual who obtains, maintains,
+33 uses, purchases, leases, or receives goods, services, real
+34 property, or personal property or the representative of such
+35 individual.
+36 (c) "Covered information" means aggregate personal
+37 information.
+38 (d) "Personal information" means information that
+39 identifies, relates to, describes, is reasonably capable of
+40 being associated with, or could reasonably be linked, directly
+41 or indirectly, with a particular consumer or household.
+42 1. The term includes, but is not limited to, the following
+43 if it identifies, relates to, describes, is reasonably capable
+44 of being associated with, or could be reasonably linked,
+45 directly or indirectly, with a particular consumer or household:
+46 a. An identifier such as a real name, an alias, a postal
+47 address, a unique personal identifier, an online identifier, an
+48 Internet Protocol address, an e-mail address, an account name, a
+49 username, a social security number, a driver license number, a
+50 passport number, a customer identifier, an advertising
+Page 2 of 9
+CODING: Words stricken are deletions; words underlined are additions.
+hb1499-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1499 2026
+51 identifier, or other similar identifier.
+52 b. Commercial information, including records of personal
+53 property, products or services purchased, obtained, or
+54 considered, or other purchasing or consuming histories or
+55 tendencies.
+56 c. Biometric data, health information, or genetic
+57 information.
+58 d. Internet or other electronic network activity
+59 information, including, but not limited to, browsing history,
+60 search history, cookies, and information regarding a consumer's
+61 interaction with a website, an application, a product, or an
+62 advertisement, whether obtained directly or through a third
+63 party.
+64 e. Geolocation data, including, but not limited to, data
+65 tracked from a global positioning system or environmental
+66 information about that location, such as a fire or storm that
+67 may indicate heightened consumer needs based on an emergency
+68 situation, not including cost differences based on objective
+69 uniformly applied shipping costs, or any applicable taxes or
+70 tariffs for various locations.
+71 f. Audio, electronic, visual, thermal, olfactory, or
+72 similar information.
+73 g. Professional or employment-related information.
+74 h. Hardware information or hardware state of the online
+75 device, such as battery life, the number of wireless
+Page 3 of 9
+CODING: Words stricken are deletions; words underlined are additions.
+hb1499-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1499 2026
+76 connections, device age, or similar data, including increasing
+77 the price based on the payment information, such as the use of a
+78 specific debit or credit card, virtual wallet, bank transaction,
+79 such as a wire transfer or automated clearing house, or other
+80 payment, unless the price difference is based on a specific
+81 objective and uniformly applied transaction fee, which can vary
+82 based on the costs associated with the transaction. This sub-
+83 subparagraph does not prohibit the generation of a price offered
+84 to a consumer based on the hardware or hardware state of the
+85 online device for repairs or maintenance of the online device or
+86 for calculating a trade-in value of the online device.
+87 i. Inferences drawn from or actual data collected about
+88 any of the information identified in this subparagraph to create
+89 a profile about a consumer reflecting the consumer's
+90 preferences, characteristics, psychological trends,
+91 predispositions, behavior, attitudes, intelligence, abilities,
+92 and aptitudes.
+93 2. The term does not include:
+94 a. Publicly available information or lawfully obtained,
+95 truthful information that is a matter of public concern.
+96 b. Consumer information that is deidentified or aggregate
+97 consumer information, such as information used for advertising
+98 or other targeted marketing, but only if the pricing does not
+99 vary between consumers.
+100 (e) "Surveillance pricing" means offering or setting a
+Page 4 of 9
+CODING: Words stricken are deletions; words underlined are additions.
+hb1499-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1499 2026
+101 personalized price for a good or service for a specific consumer
+102 or group of consumers based, in whole or in part, on covered
+103 information collected through any targeted pricing technologies,
+104 such as electronic or any other surveillance method. The term
+105 includes the use of technological methods, systems, or tools,
+106 including sensors, cameras, device tracking, biometric
+107 monitoring, cookies, or other forms of observation or data
+108 collection that are capable of gathering covered information
+109 about consumer behavior, characteristics, location, or other
+110 personal attributes, whether in physical or digital
+111 environments, including external or virtual attributes such as
+112 user hardware and payment methods. Surveillance pricing also
+113 includes dynamic pricing whereby a party engages in price fixing
+114 to adjust product prices in real time based on market demands,
+115 competitor prices, inventory levels, customer behavior, or other
+116 factors a person may use to determine or set prices for a
+117 product.
+118 (2)(a) Notwithstanding any law to the contrary, a person
+119 may not engage in any act of surveillance pricing to charge,
+120 offer, or accept payment of an increased price for goods or
+121 services.
+122 (b) This subsection does not apply to a refusal to extend
+123 credit on specific terms, such as credit cards, personal loans,
+124 and mortgages, or a refusal to enter into a transaction with a
+125 specific consumer, based primarily on information contained in a
+Page 5 of 9
+CODING: Words stricken are deletions; words underlined are additions.
+hb1499-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1499 2026
+126 consumer report in accordance with the federal Fair Credit
+127 Reporting Act.
+128 (3)(a) A person does not engage in surveillance pricing in
+129 violation of paragraph (2)(a) if:
+130 1. The difference in price is based solely on objective
+131 costs associated with providing the good or service to different
+132 consumers, such as zip codes, which can cause shipping or tax
+133 cost variations.
+134 2. A discounted price is offered based on publicly
+135 disclosed eligibility criteria, including, but not limited to,
+136 signing up for a mailing list, registering for promotional
+137 communications, or participating in a promotional event, or the
+138 use of or access to forms of payment, such as credit or debit
+139 cards, online wallets, or other accepted forms of payment.
+140 3. A discounted price is offered to members of a broadly
+141 defined group, including, but not limited to, teachers,
+142 veterans, senior citizens, or students based on publicly
+143 disclosed eligibility criteria.
+144 4. A discounted price is offered through a loyalty,
+145 membership, or rewards program in which consumers affirmatively
+146 enroll.
+147 5. The pricing analysis is being conducted by an insurer
+148 complying with the Florida Insurance Code, or a credit analyst
+149 in compliance with the federal Fair Credit Reporting Act.
+150 (b) The discounted price offered in subparagraph (a)2.,
+Page 6 of 9
+CODING: Words stricken are deletions; words underlined are additions.
+hb1499-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1499 2026
+151 subparagraph (a)3., or subparagraph(a)4. must comply with the
+152 following:
+153 1. The eligibility criteria, available discounts, and any
+154 conditions for receiving or earning the discount or reward shall
+155 be clearly and conspicuously disclosed before any covered
+156 information is collected.
+157 2. The discount or reward shall be offered uniformly to
+158 all consumers who meet the disclosed eligibility criteria.
+159 (c) Any covered information collected pursuant to this
+160 subsection shall be used solely for the purpose of offering or
+161 administering the applicable discount, cost-based pricing, or
+162 loyalty program and may not be used for any other purpose,
+163 including profiling, targeted advertising, or individualized
+164 price setting.
+165 (4) A person who knowingly advertises, promotes, labels,
+166 or publishes a statement, display, image, offer, or announcement
+167 of surveillance pricing shall include with such statement,
+168 display, image, offer, or announcement a clear and conspicuous
+169 disclosure that states:
+170
+171 THIS PRICE WAS SET BY A SURVEILLANCE METHOD USING YOUR PERSONAL
+172 CONSUMER INFORMATION.
+173
+174 (5)(a) The Attorney General or any state attorney may
+175 bring a civil action on behalf of the state to seek the
+Page 7 of 9
+CODING: Words stricken are deletions; words underlined are additions.
+hb1499-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1499 2026
+176 imposition of civil penalties against any person who violates
+177 this section. A civil penalty not to exceed $1,500 shall be
+178 imposed for each violation, with each violation constituting a
+179 separate violation with respect to each consumer, worker, or
+180 transaction involved. Attorney fees and costs shall be awarded
+181 to the prevailing party.
+182 (b) In addition to any other remedy available at law or in
+183 equity, a person aggrieved by a violation of this section may
+184 bring a civil action on behalf of themselves or a group of
+185 similarly situated persons to restrain further violations and to
+186 recover damages, reasonable attorney fees, and costs, including
+187 the greater of:
+188 1. The amount of actual damages sustained, including
+189 prejudgment interest of 8 percent per year from the date the
+190 claim under this section accrued;
+191 2. A civil penalty not to exceed $1,500 for each
+192 violation, with each violation constituting a separate violation
+193 with respect to each consumer, worker, or transaction involved;
+194 or
+195 3. Three times the amount of actual damages sustained, if
+196 it is established by clear and convincing evidence that such
+197 person violating this section engaged in bad faith conduct or
+198 intentionally violated this section.
+199 (c) A person who violates this section shall be required
+200 to disgorge all revenues earned thereby. A prevailing plaintiff
+Page 8 of 9
+CODING: Words stricken are deletions; words underlined are additions.
+hb1499-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1499 2026
+201 shall be awarded reasonable attorney fees and costs. A court may
+202 also award injunctive or declaratory relief as necessary.
+203 (d) This subsection is cumulative to other existing
+204 remedies and penalties and does not limit other remedies and
+205 penalties that are available under the laws of this state or any
+206 applicable federal or local law.
+207 (e) This section, including the enforcement authority
+208 granted to the Attorney General and the state attorneys of this
+209 state, does not preempt or otherwise affect any other right,
+210 claim, remedy, presumption, or defense available at law or in
+211 equity
+212 (6) A person may not require a consumer to waive his or
+213 her rights under this section or any other rights under law or
+214 refuse a consumer access to goods or services for enforcing the
+215 protections under this section. Any such waiver, including, but
+216 not limited to, any mandatory dispute resolution provisions or
+217 contrary terms of use or service, is contrary to public policy
+218 and is void.
+219 Section 3. This act shall take effect July 1, 2026.
+Page 9 of 9
+CODING: Words stricken are deletions; words underlined are additions.
+hb1499-00

@@ -1,0 +1,306 @@
+Title: 
+Official Title: 
+Source: versions - H 1039 c2
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 1039 2026
+1 A bill to be entitled
+2 An act relating to the establishment and
+3 administration of a state cryptocurrency reserve;
+4 creating s. 215.987, F.S.; providing definitions;
+5 establishing the Florida Strategic Cryptocurrency
+6 Reserve Fund as a special fund assigned to the State
+7 Board of Administration; providing the objective of
+8 the reserve; providing for the custody,
+9 administration, and management of the reserve;
+10 providing sources of the reserve; authorizing the
+11 Legislature to appropriate funds for deposit to the
+12 credit of the reserve for specified purposes;
+13 authorizing the board to pay certain costs using the
+14 cryptocurrency in the reserve or the net proceed from
+15 the sale of cryptocurrency in the reserve; authorizing
+16 transfer of the reserve money to the State Treasury
+17 under certain circumstances; authorizing the board to
+18 dispose of certain cryptocurrency received by the
+19 reserve; providing requirements for cryptocurrency to
+20 be purchased for the reserve; authorizing contracts
+21 with third parties for the administration or
+22 management of the reserve; authorizing the board to
+23 use derivatives under certain circumstances;
+24 authorizing contracts with certified public
+25 accountants for independent audits; establishing the
+Page 1 of 10
+CODING: Words stricken are deletions; words underlined are additions.
+hb1039-02-c2
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 1039 2026
+26 Florida Strategic Cryptocurrency Reserve Fund Advisory
+27 Committee within the board; providing for committee
+28 membership; providing duties and terms of committee
+29 members; providing construction; requiring the board
+30 to adopt rules; amending s. 215.44, F.S.; requiring
+31 the board to provide to the Legislature certain
+32 information relating to the reserve; providing an
+33 effective date.
+34
+35 WHEREAS, cryptocurrencies are assets with strategic
+36 potential for enhancing this state's financial resilience and
+37 positioning this state for the future digital economy, and
+38 WHEREAS, cryptocurrencies can serve as a hedge against
+39 inflation and economic volatility, and
+40 WHEREAS, the establishment of a cryptocurrency reserve
+41 serves the public purpose of providing enhanced financial
+42 security to residents of this state, NOW, THEREFORE,
+43
+44 Be It Enacted by the Legislature of the State of Florida:
+45
+46 Section 1. Section 215.987, Florida Statutes, is created
+47 to read:
+48 215.987 State cryptocurrency reserve fund.—
+49 (1) DEFINITIONS.—As used in this section, the term:
+50 (a) "Airdrop" means a gratuitous distribution of
+Page 2 of 10
+CODING: Words stricken are deletions; words underlined are additions.
+hb1039-02-c2
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 1039 2026
+51 cryptocurrency to users of a blockchain or protocol, generally
+52 made in a broad, equitable, and nondiscretionary manner.
+53 (b) "Blockchain" means a mathematically secured,
+54 chronological, decentralized, distributed, and digital ledger or
+55 database that consists of records of transactions that cannot be
+56 altered retroactively.
+57 (c) "Board" means the State Board of Administration.
+58 (d) "Committee" means the Florida Strategic Cryptocurrency
+59 Reserve Fund Advisory Committee established in this section.
+60 (e) "Cryptocurrency" means a virtual currency that is not
+61 issued by any central authority, is designed to function as a
+62 medium of exchange, and uses encryption technology to regulate
+63 the generation of units of currency, to verify fund transfers,
+64 and to prevent counterfeiting.
+65 (f) "Distributed ledger" means technology in which data is
+66 shared across a network that creates a public digital ledger of
+67 verified transactions or information among network participants
+68 and cryptography is used to link the data to maintain the
+69 integrity of the public ledger and execute other functions.
+70 (g) "Fork" means a change to the protocol of a distributed
+71 ledger system which creates a separate ledger, which may result
+72 in a new cryptocurrency that shares a common transaction history
+73 with the previous cryptocurrency up to the point of change.
+74 (h) "Governmental entity" has the same meaning as in s.
+75 215.986(1).
+Page 3 of 10
+CODING: Words stricken are deletions; words underlined are additions.
+hb1039-02-c2
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 1039 2026
+76 (i) "Private key" means a unique element of cryptographic
+77 data used for signing transactions on blockchain.
+78 (j) "Qualified custodian" means a state or federally
+79 chartered financial institution or other entity regulated by
+80 this state which is authorized to have custody of virtual
+81 currencies on behalf of its clients.
+82 (k) "Qualified liquidity provider" means an entity that
+83 meets all of the following requirements:
+84 1. Is licensed or regulated under applicable federal or
+85 state law.
+86 2. Maintains audited financial statements prepared by a
+87 regulated auditor.
+88 3. Has at least 5 years of experience trading in the
+89 digital assets industry.
+90 4. Maintains an office and has registered principal in
+91 this state.
+92 5. Has certified in a manner prescribed by the board that
+93 the provider meets the requirements of subparagraphs 1.-4.
+94 (l) "Reserve" means the Florida Strategic Cryptocurrency
+95 Reserve Fund established in this section.
+96 (m) "Secure custody solution" means a technological
+97 product or blended product and service meeting all of the
+98 following criteria:
+99 1. The cryptographic private keys are:
+100 a. Exclusively known by and accessible to the governmental
+Page 4 of 10
+CODING: Words stricken are deletions; words underlined are additions.
+hb1039-02-c2
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 1039 2026
+101 entity or the qualified custodian.
+102 b. Contained within an encrypted, hardware-secured
+103 environment and used only to sign and authorize cryptocurrency
+104 transactions through end-to-end encrypted channels.
+105 c. Never stored on or accessible through a smartphone.
+106 2. The hardware containing the cryptographic private keys
+107 is maintained in a secure data center. As used in this
+108 subparagraph, the term "secure data center" means a physical
+109 facility that maintains third-party certifications, uses
+110 certified cryptographic hardware, enforces physical and
+111 environmental security, and ensures logical isolation.
+112 3. A multiparty governance structure for authorizing
+113 transactions is implemented, user access control is enforced,
+114 and all user-initiated actions are logged. A smartphone may be
+115 used, but only to authenticate authorized users of the secure
+116 custody solution, including through biometric authentication.
+117 4. The provider of the technological product or blended
+118 product and service has implemented a disaster recovery protocol
+119 ensuring state access to assets if the provider becomes
+120 unavailable.
+121 5. The technological product or blended product and
+122 service undergoes regular code audits and penetration testing,
+123 with identified vulnerabilities promptly addressed.
+124 (2) ESTABLISHMENT; ADMINISTRATION.—
+125 (a) The Florida Strategic Cryptocurrency Reserve Fund is
+Page 5 of 10
+CODING: Words stricken are deletions; words underlined are additions.
+hb1039-02-c2
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 1039 2026
+126 established as a special fund assigned to the board. The
+127 objective of the reserve is to grow the reserve as much as
+128 possible to ensure the long-term financial sovereignty of this
+129 state. The board has custody of and shall administer and manage
+130 the reserve. The reserve consists of:
+131 1. Money transferred or deposited to the credit of the
+132 reserve by legislative appropriation.
+133 2. Revenue that the Legislature by general law dedicates
+134 for deposit to the credit of the reserve.
+135 3. Cryptocurrency purchased using money in or received by
+136 the reserve, including:
+137 a. Cryptocurrency derived from the fork of a distributed
+138 ledger, the retention of which has been approved by the board;
+139 or
+140 b. Cryptocurrency distributed pursuant to an airdrop to
+141 this state's cryptocurrency addresses, the retention of which
+142 has been approved by the board.
+143 4. Investment earnings and interest or rewards earned on
+144 assets in the reserve.
+145 (b) To administer and manage the reserve, the board may
+146 acquire, exchange, sell, supervise, manage, or retain authorized
+147 investments that a prudent investor exercising reasonable care,
+148 skill, and caution would acquire, exchange, sell, supervise,
+149 manage, or retain in light of the objective of the reserve,
+150 taking into consideration the investment of all the assets of
+Page 6 of 10
+CODING: Words stricken are deletions; words underlined are additions.
+hb1039-02-c2
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 1039 2026
+151 the reserve rather than a single investment.
+152 (c) The Legislature may appropriate funds for deposit to
+153 the credit of the reserve for the purposes of:
+154 1. Investing in cryptocurrency.
+155 2. Administering and managing the reserve.
+156 (d) The board may spend cryptocurrency in the reserve or
+157 use the net proceed from the sale of cryptocurrency in the
+158 reserve to pay the reasonable costs associated with
+159 administering and managing the reserve. Costs and fees of the
+160 board for investment services shall be deducted from the
+161 reserve.
+162 (e) The board may transfer money in the reserve to the
+163 State Treasury only when authorized by the Legislature in the
+164 General Appropriations Act or other law.
+165 (f) Cryptocurrency received by the reserve which is not
+166 compliant with applicable federal or state law may be disposed
+167 of by the board in accordance with applicable law.
+168 (3) MARKET CAPITALIZATION REQUIREMENT.—To be eligible to
+169 be purchased for the reserve, a cryptocurrency must have an
+170 average market capitalization of at least $100 billion over the
+171 most recent 12-month period.
+172 (4) THIRD-PARTY CONTRACTS AND PERMISSIBLE TRANSACTIONS;
+173 AUDITS.—
+174 (a) The board may contract with one or more third-party
+175 entities for the administration or management of the reserve,
+Page 7 of 10
+CODING: Words stricken are deletions; words underlined are additions.
+hb1039-02-c2
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 1039 2026
+176 including:
+177 1. A technology provider of a secure custody solution.
+178 2. A qualified custodian that uses a secure custody
+179 solution.
+180 3. A qualified liquidity provider to facilitate the
+181 purchase and sale of assets in the reserve.
+182 (b) If the board determines it is in the best interest of
+183 the reserve, the board may use derivatives.
+184 (c) The board may contract with a certified public
+185 accountant to perform an independent audit of the reserve.
+186 (5) FLORIDA STRATEGIC CRYPTOCURRENCY RESERVE FUND ADVISORY
+187 COMMITTEE.—
+188 (a) There is established the Florida Strategic
+189 Cryptocurrency Reserve Fund Advisory Committee within the board.
+190 (b) The committee shall be composed of the following five
+191 members as a resource to the board of trustees of the board,
+192 subject to confirmation by the Senate, as follows:
+193 1. The executive director of the board, who shall serve as
+194 chair.
+195 2. Three members appointed by the board with expertise in
+196 cryptocurrency investments.
+197 3. One member appointed by the board with expertise in
+198 digital asset security.
+199 (c) The committee shall advise the board regarding the
+200 administration and management of the reserve, including:
+Page 8 of 10
+CODING: Words stricken are deletions; words underlined are additions.
+hb1039-02-c2
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 1039 2026
+201 1. Recommendations for valuing assets in the reserve.
+202 2. The establishment of prudent investment policies
+203 relating to the investment objectives of and asset allocation in
+204 the reserve.
+205 3. Recommendations for the establishment of prudent
+206 custody and security policies for the reserve.
+207 (d) A member of the committee is not entitled to receive
+208 compensation for service on the committee.
+209 (e) Appointed members shall serve for 4-year terms. A
+210 vacancy shall be filled for the remainder of the unexpired term
+211 in the same manner as the original appointment.
+212 (6) NO PRIVATE CAUSE OF ACTION.—This section does not
+213 create a private cause of action related to compliance with the
+214 requirements of this section.
+215 (7) RULEMAKING.—The board shall adopt rules as necessary
+216 to administer the Florida Strategic Cryptocurrency Reserve Fund.
+217 Section 2. Paragraph (g) is added to subsection (5) of
+218 section 215.44, Florida Statutes, to read:
+219 215.44 Board of Administration; powers and duties in
+220 relation to investment of trust funds.—
+221 (5) On or before January 1 of each year, the board shall
+222 provide to the Legislature a report including the following
+223 items for each fund which, by law, has been entrusted to the
+224 board for investment:
+225 (g) With respect to the Florida Strategic Cryptocurrency
+Page 9 of 10
+CODING: Words stricken are deletions; words underlined are additions.
+hb1039-02-c2
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 1039 2026
+226 Reserve Fund, the following information:
+227 1. The amount of cryptocurrency held in the reserve on the
+228 last day of the preceding fiscal year.
+229 2. An estimate of the monetary value of the cryptocurrency
+230 held in the reserve on the last day of the preceding fiscal
+231 year.
+232 3. Any changes in the amount and estimated monetary value
+233 of cryptocurrency in the reserve during the period the
+234 cryptocurrency has been held in the reserve, disaggregated by
+235 the cryptocurrency type.
+236 4. A description of the actions taken by the board to
+237 administer and manage the reserve during the preceding fiscal
+238 year.
+239 Section 3. This act shall take effect January 1, 2027.
+Page 10 of 10
+CODING: Words stricken are deletions; words underlined are additions.
+hb1039-02-c2

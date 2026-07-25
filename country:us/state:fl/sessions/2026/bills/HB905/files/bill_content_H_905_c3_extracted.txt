@@ -1,0 +1,1009 @@
+Title: 
+Official Title: 
+Source: versions - H 905 c3
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/CS/HB 905 2026
+1 A bill to be entitled
+2 An act relating to foreign influence; providing a
+3 short title; creating s. 106.031, F.S.; providing
+4 definitions; requiring agents of foreign countries of
+5 concern and foreign-supported political organizations
+6 to register with the Division of Elections; providing
+7 registration requirements; requiring periodic updates
+8 by such agents and organizations; requiring
+9 registrants and organizations to disclose certain
+10 payments; requiring foreign-supported political
+11 organizations to register with the division on a
+12 specified form created by the division within a
+13 specified timeframe; providing requirements for such
+14 forms; providing penalties; amending s. 112.313, F.S.;
+15 defining the terms "designated foreign terrorist
+16 organization" and "foreign country of concern";
+17 prohibiting specified persons from soliciting or
+18 accepting anything of value from a designated foreign
+19 terrorist organization, a foreign country of concern,
+20 or persons or entities representing such organizations
+21 or countries; amending s. 112.3142, F.S.; requiring
+22 the Commission on Ethics to adopt certain rules by a
+23 specified date; amending s. 205.0532, F.S.;
+24 authorizing any appropriate tax collector to revoke or
+25 refuse to renew business tax receipts of specified
+Page 1 of 33
+CODING: Words stricken are deletions; words underlined are additions.
+hb905-03-c3
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/CS/HB 905 2026
+26 individuals, businesses, or entities; authorizing such
+27 tax collector or a local governing authority to
+28 request a specified sworn affidavit or declaration
+29 from such individual, business, or entity; providing
+30 criminal penalties; amending s. 287.138, F.S.;
+31 providing and revising definitions; prohibiting a
+32 governmental entity from entering into certain
+33 contracts with foreign sources of concern; prohibiting
+34 governmental entities from extending and renewing
+35 certain contracts beginning on a specified date;
+36 prohibiting governmental entities from accepting a bid
+37 on, a proposal for, or a reply to, or entering into,
+38 contracts involving information technology or
+39 providing access to an individual's personal
+40 identifying information unless a certain affidavit
+41 signed by an officer or a representative is provided
+42 to the governmental entity; authorizing a governmental
+43 entity to enter into, extend, or renew certain
+44 contracts if the Department of Management Services
+45 makes specified written determinations; requiring the
+46 department to submit to the Governor and Legislature
+47 specified written reports beginning on a specified
+48 date; providing applicability; authorizing the
+49 department to create a specified list and to adopt
+50 rules; amending s. 288.816, F.S.; prohibiting certain
+Page 2 of 33
+CODING: Words stricken are deletions; words underlined are additions.
+hb905-03-c3
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/CS/HB 905 2026
+51 activities encouraging affiliations with foreign
+52 countries of concern; requiring the Department of
+53 Commerce to publish and update certain information on
+54 its website; amending s. 288.8175, F.S.; removing the
+55 Florida-China Institute from the list of linkage
+56 institutes; removing an exemption for linkage
+57 institutes; prohibiting a linkage institute from
+58 entering into an agreement or participating in an
+59 activity with a foreign country of concern; amending
+60 s. 288.854, F.S.; authorizing the Governor to suspend
+61 certain laws or rules relating to Cuba for a specified
+62 period under certain circumstances; prohibiting such
+63 suspension from being renewed or extended; prohibiting
+64 the Governor from suspending the same laws or rules
+65 without express authorization from the Legislature;
+66 requiring the Governor to submit to the Legislature
+67 certain written recommendations within a specified
+68 timeframe; providing for future legislative repeal of
+69 certain provisions; amending s. 288.860, F.S.;
+70 requiring certain agreements to be terminated by a
+71 specified date; amending 316.0078, F.S.; revising the
+72 definitions of the terms "controlling interest" and
+73 "foreign country of concern"; amending s. 496.404,
+74 F.S.; revising the definition of the term "foreign
+75 source of concern"; amending s. 692.201, F.S.;
+Page 3 of 33
+CODING: Words stricken are deletions; words underlined are additions.
+hb905-03-c3
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/CS/HB 905 2026
+76 revising the definition of the term "foreign country
+77 of concern"; creating s. 692.21, F.S.; providing
+78 definitions; prohibiting certain entities with access
+79 to critical infrastructure facilities from entering
+80 into certain contracts or agreements with foreign
+81 sources of concern; requiring certain entities to
+82 register with the Department of Commerce by a
+83 specified date; requiring the department to adopt
+84 registration forms; providing requirements for such
+85 forms; providing civil and criminal penalties;
+86 requiring certain entities to provide a signed
+87 affidavit to the department attesting that the buyer
+88 or transferee of a critical infrastructure facility is
+89 not a foreign source of concern; prohibiting
+90 information technology from a foreign source of
+91 concern from being used in critical infrastructure
+92 facilities; authorizing a governmental entity or
+93 business entity to enter into certain contracts or
+94 agreements if the department, in consultation with the
+95 Department of Management Services, makes specified
+96 written determinations; requiring the Department of
+97 Commerce to submit to the Governor and Legislature
+98 specified written reports beginning on a specified
+99 date; providing applicability; requiring the
+100 department to adopt rules; creating s. 775.08255,
+Page 4 of 33
+CODING: Words stricken are deletions; words underlined are additions.
+hb905-03-c3
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/CS/HB 905 2026
+101 F.S.; providing definitions; providing for the
+102 reclassification of criminal penalties under certain
+103 circumstances; providing a minimum mandatory term of
+104 imprisonment; creating s. 775.36, F.S.; providing
+105 definitions; prohibiting enforcement of certain laws
+106 of a foreign government; providing criminal penalties;
+107 amending s. 282.802, F.S.; conforming a cross-
+108 reference; providing an effective date.
+109
+110 Be It Enacted by the Legislature of the State of Florida:
+111
+112 Section 1. This act may be cited as the "Foreign
+113 Interference Restriction and Enforcement Act."
+114 Section 2. Section 106.031, Florida Statutes, is created
+115 to read:
+116 106.031 Registration of agents and organizations
+117 associated with foreign nations.—
+118 (1) As used in this section, the term:
+119 (a) "Address" includes any address, no matter the
+120 location, inside or outside of the United States.
+121 (b) "Agent of a foreign country of concern" means a
+122 person:
+123 1. Who acts as an agent, an employee, a representative, or
+124 a servant, or who otherwise acts at the order, at the request,
+125 or under the direction or control, of a foreign country of
+Page 5 of 33
+CODING: Words stricken are deletions; words underlined are additions.
+hb905-03-c3
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/CS/HB 905 2026
+126 concern;
+127 2. Whose actions are financed, in whole or in part, by a
+128 foreign country of concern; and
+129 3. Who engages in political activity on behalf of a
+130 foreign country of concern.
+131 (c) "Foreign country of concern" means the People's
+132 Republic of China, the Russian Federation, the Islamic Republic
+133 of Iran, the Democratic People's Republic of Korea, the Republic
+134 of Cuba, the Venezuelan regime of Nicolás Maduro, or the Syrian
+135 Arab Republic, including any agency of or any other entity under
+136 significant control of such foreign country of concern.
+137 (d) "Foreign-supported political organization" means a
+138 political party or a domestic partnership, an association, a
+139 corporation, an organization, or any other business entity that
+140 engages in political activity within the state and that:
+141 1. Has its principal place of business in a foreign
+142 country of concern; or
+143 2. Is at least 20 percent beneficially owned by a foreign
+144 country of concern, a nonresident alien from a foreign country
+145 of concern, or an entity organized under the law of or having
+146 its principal place of business in a foreign country of concern.
+147 (e) "Payment" includes compensation and disbursement made
+148 in any form, including, but not limited to, contributions,
+149 income, money, tangible property, and intangible property.
+150 (f) "Political activity" means an activity that is
+Page 6 of 33
+CODING: Words stricken are deletions; words underlined are additions.
+hb905-03-c3
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/CS/HB 905 2026
+151 performed to:
+152 1. Influence an agency, a public official, or a local
+153 governmental entity;
+154 2. Influence the public in creating, adopting, or changing
+155 state laws or government policies;
+156 3. Support or oppose a candidate for office;
+157 4. Influence the outcome of an election; or
+158 5. Support or oppose any issue.
+159 (2)(a) A person who becomes an agent of a foreign country
+160 of concern must, within 10 days after becoming such an agent,
+161 register with the division. The registration must be signed
+162 under oath.
+163 (b)1. The division shall create a form for the
+164 registration required under paragraph (a). Such form must
+165 require, at a minimum, all of the following information:
+166 a. The registrant's name.
+167 b. The address of the registrant's primary residence and
+168 all other addresses associated with the registrant.
+169 c. The name and address of the registrant's principal
+170 place of business.
+171 d. A detailed statement describing the nature of the
+172 registrant's business.
+173 e. The name of each foreign country of concern for whom
+174 the registrant is acting, is assuming or purporting to act, or
+175 has agreed to act.
+Page 7 of 33
+CODING: Words stricken are deletions; words underlined are additions.
+hb905-03-c3
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/CS/HB 905 2026
+176 f. A detailed statement describing the nature of the work
+177 and the character of the business or other activities of each
+178 foreign country of concern identified in sub-subparagraph e.
+179 g. A statement detailing each time the registrant received
+180 a payment from a foreign country of concern identified in sub-
+181 subparagraph e. within the previous 90 days. The statement must
+182 identify the amount of the payment and the nature of such
+183 payment.
+184 h. The total amount of such payments the registrant has
+185 received within the previous 90 days from a foreign country of
+186 concern identified in sub-subparagraph e.
+187 i. A detailed statement of every activity the registrant,
+188 or a person acting on behalf of the registrant, is performing,
+189 has performed, or has agreed to perform on behalf of a foreign
+190 country of concern identified in sub-subparagraph e.
+191 j. If the registrant is also engaged in political activity
+192 on behalf of a person who is not associated with a foreign
+193 country of concern but who is an agent of a foreign country of
+194 concern, the registrant must include all of the following
+195 information:
+196 (I) The name, employer, business and residence addresses,
+197 and, if applicable, nationality of such person.
+198 (II) A detailed statement of every activity the
+199 registrant, or a person acting on behalf of the registrant, is
+200 performing, has performed, or has agreed to perform on behalf of
+Page 8 of 33
+CODING: Words stricken are deletions; words underlined are additions.
+hb905-03-c3
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/CS/HB 905 2026
+201 such person.
+202 (III) A statement detailing each time the registrant
+203 received a payment from such person within the previous 90 days.
+204 The statement must identify the amount of the payment and the
+205 nature of such payment.
+206 k. A detailed statement itemizing the payments made by the
+207 registrant during the previous 90 days in connection with
+208 actions taken by the registrant as an agent of, on behalf of, or
+209 in furtherance of the goals of a foreign country of concern or a
+210 person identified in sub-subparagraph j.
+211 l. A detailed statement itemizing any payments relating to
+212 political activity within this state made by the registrant
+213 during the previous 90 days.
+214 2. A registrant is required to disclose only payments that
+215 are known or reasonably knowable to the registrant in the
+216 ordinary course of business. A payment is reasonably knowable if
+217 the information is obtainable through standard internal
+218 accounting practices, routine contracting documentation, or
+219 other customary review of business records. A registrant is not
+220 required to undertake extraordinary investigative measures to
+221 determine the existence or origin of a payment.
+222 (c) A registrant must update the information required
+223 under subparagraph (b)1. at least every 90 days.
+224 (d) A person must register as an agent of a foreign
+225 country of concern for any period of time he or she was engaged
+Page 9 of 33
+CODING: Words stricken are deletions; words underlined are additions.
+hb905-03-c3
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/CS/HB 905 2026
+226 in such position.
+227 (3)(a) Beginning January 1, 2027, each foreign-supported
+228 political organization must register with the division.
+229 (b)1. The division shall create a form for the
+230 registration required under paragraph (a). The form must
+231 require, at a minimum, all of the following information:
+232 a. The organization's name and mailing address and the
+233 address of any physical office.
+234 b. The names, titles, and primary business addresses of
+235 any officers or directors of the organization.
+236 c. A detailed statement itemizing any payments made by the
+237 organization that would constitute political activity within
+238 this state during the previous calendar year.
+239 d. A detailed statement itemizing any payments exceeding
+240 $500 made to, or received by, the organization from a foreign
+241 country of concern or an agent of a foreign country of concern
+242 during the previous calendar year to the extent that such
+243 payments were made for the purpose of engaging in political
+244 activity.
+245 2. An organization is required to disclose only payments
+246 that are known or reasonably knowable to the organization in the
+247 ordinary course of business. A payment is reasonably knowable if
+248 the information is obtainable through standard internal
+249 accounting practices, routine contracting documentation, or
+250 other customary review of business records. An organization is
+Page 10 of 33
+CODING: Words stricken are deletions; words underlined are additions.
+hb905-03-c3
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/CS/HB 905 2026
+251 not required to undertake extraordinary investigative measures
+252 to determine the existence or origin of a payment.
+253 (c) An organization must update the information required
+254 under subparagraph (b)1. at least every 90 days.
+255 (4) Upon finding a violation of this section, in addition
+256 to the remedies provided in ss. 106.265 and 106.27, the Florida
+257 Elections Commission may assess the following penalties:
+258 (a) For any willful violation, a fine of up to $500 per
+259 violation.
+260 (b) For any repeated willful violation, a fine of up to
+261 $2,000 per violation.
+262 Section 3. Subsections (1) and (2) of section 112.313,
+263 Florida Statutes, are amended to read:
+264 112.313 Standards of conduct for public officers,
+265 employees of agencies, and local government attorneys.—
+266 (1) DEFINITIONS DEFINITION.—As used in this section,
+267 unless the context otherwise requires, the term:
+268 (a) "Designated foreign terrorist organization" has the
+269 same meaning as in s. 775.32.
+270 (b) "Foreign country of concern" has the same meaning as
+271 in s. 286.101(1).
+272 (c) "Public officer" includes any person elected or
+273 appointed to hold office in any agency, including any person
+274 serving on an advisory body.
+275 (2) SOLICITATION OR ACCEPTANCE OF GIFTS.—
+Page 11 of 33
+CODING: Words stricken are deletions; words underlined are additions.
+hb905-03-c3
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/CS/HB 905 2026
+276 (a) A No public officer, an employee of an agency, a local
+277 government attorney, or a candidate for nomination or election
+278 may not shall solicit or accept anything of value to the
+279 recipient, including a gift, loan, reward, promise of future
+280 employment, favor, or service, based upon any understanding that
+281 the vote, official action, or judgment of the public officer,
+282 employee, local government attorney, or candidate would be
+283 influenced thereby.
+284 (b) A public officer, an employee of an agency, a local
+285 government attorney, or a candidate for nomination or election
+286 may not solicit or accept anything of value to the recipient,
+287 including a gift, loan, reward, promise of future employment,
+288 favor, or service, for any purpose, from a designated foreign
+289 terrorist organization, a foreign country of concern or any of
+290 its subdivisions, or any person or entity representing or acting
+291 on behalf of a designated foreign terrorist organization or
+292 foreign country of concern or any of its subdivisions.
+293 Section 4. Paragraph (e) of subsection (2) of section
+294 112.3142, Florida Statutes, is amended to read:
+295 112.3142 Ethics training for specified constitutional
+296 officers, elected municipal officers, commissioners of community
+297 redevelopment agencies, and elected local officers of
+298 independent special districts.—
+299 (2)
+300 (e) The commission shall adopt rules establishing minimum
+Page 12 of 33
+CODING: Words stricken are deletions; words underlined are additions.
+hb905-03-c3
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/CS/HB 905 2026
+301 course content for the portion of an ethics training class which
+302 addresses s. 8, Art. II of the State Constitution and the Code
+303 of Ethics for Public Officers and Employees. By November 1,
+304 2026, the commission shall adopt revised rules to supplement the
+305 minimum course content, including all of the following:
+306 1. Known efforts by foreign countries of concern to target
+307 and influence subnational governments, including, but not
+308 limited to, the Chinese Communist Party's United Front strategy.
+309 2. How to identify, recognize, and report suspected
+310 foreign influence campaigns.
+311 3. Prohibitions on receiving gifts from foreign countries
+312 of concern as defined in s. 286.101(1) or designated foreign
+313 terrorist organizations as defined in s. 775.32(1).
+314 Section 5. Section 205.0532, Florida Statutes, is amended
+315 to read:
+316 205.0532 Revocation or refusal to renew; doing business
+317 with Cuba.—
+318 (1) Any appropriate tax collector or local governing
+319 authority issuing a business tax receipt to any individual,
+320 business, or entity under this chapter may revoke or refuse to
+321 renew such receipt if the individual, business, or entity, or
+322 parent company of such individual, business, or entity, is doing
+323 business with Cuba in violation of federal law.
+324 (2) Any appropriate tax collector or local governing
+325 authority may request a sworn affidavit or declaration from any
+Page 13 of 33
+CODING: Words stricken are deletions; words underlined are additions.
+hb905-03-c3
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/CS/HB 905 2026
+326 individual, business, or entity attesting to whether the
+327 individual, business, or entity is doing business with Cuba in
+328 violation of federal law.
+329 (3) A person who knowingly makes a false declaration under
+330 subsection (2) is guilty of the crime of perjury by false
+331 written declaration, a felony of the third degree, punishable as
+332 provided in s. 775.082, s. 775.083, or s. 775.084.
+333 Section 6. Subsections (5), (6), and (7) of section
+334 287.138, Florida Statutes, are renumbered as subsections (7),
+335 (8), and (9), respectively, subsections (1) through (4) and
+336 present subsection (6) of that section are amended, and new
+337 subsections (5) and (6) are added to that section, to read:
+338 287.138 Contracting with entities of foreign sources
+339 countries of concern prohibited.—
+340 (1) As used in this section, the term:
+341 (a) "Controlling interest" means possession of the power
+342 to direct or cause the direction of the management or policies
+343 of a company, whether through ownership of securities, by
+344 contract, or otherwise. A person or entity that directly or
+345 indirectly has the right to vote 25 percent or more of the
+346 voting interests of the company or is entitled to 25 percent or
+347 more of its profits is presumed to possess a controlling
+348 interest.
+349 (a)(b) "Department" means the Department of Management
+350 Services.
+Page 14 of 33
+CODING: Words stricken are deletions; words underlined are additions.
+hb905-03-c3
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/CS/HB 905 2026
+351 (b)(c) "Foreign source country of concern" has the same
+352 meaning as in s. 496.404 means the People's Republic of China,
+353 the Russian Federation, the Islamic Republic of Iran, the
+354 Democratic People's Republic of Korea, the Republic of Cuba, the
+355 Venezuelan regime of Nicolás Maduro, or the Syrian Arab
+356 Republic, including any agency of or any other entity of
+357 significant control of such foreign country of concern.
+358 (c)(d) "Governmental entity" means any state, county,
+359 district, authority, or municipal officer, department, division,
+360 board, bureau, commission, or other separate unit of government
+361 created or established by law including, but not limited to, the
+362 Commission on Ethics, the Public Service Commission, the Office
+363 of Public Counsel, and any other public or private agency,
+364 person, partnership, corporation, or business entity acting on
+365 behalf of any public agency.
+366 (d) "Information technology" has the same meaning as in s.
+367 282.0041.
+368 (2)(a) A governmental entity may not knowingly enter into
+369 a contract with a foreign source of concern if the contract an
+370 entity which would give access to an individual's personal
+371 identifying information.
+372 (b) A governmental entity may not knowingly enter into a
+373 contract for information technology with a foreign source of
+374 concern, or through a third-party seller when the information
+375 technology is designed, manufactured, or assembled by a foreign
+Page 15 of 33
+CODING: Words stricken are deletions; words underlined are additions.
+hb905-03-c3
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/CS/HB 905 2026
+376 source of concern, or for any services relating to information
+377 technology with a foreign source of concern if:
+378 (a) The entity is owned by the government of a foreign
+379 country of concern;
+380 (b) The government of a foreign country of concern has a
+381 controlling interest in the entity; or
+382 (c) The entity is organized under the laws of or has its
+383 principal place of business in a foreign country of concern.
+384 (3) Beginning July 1, 2026 2025, a governmental entity may
+385 not extend or renew a contract with a foreign source of concern
+386 an entity listed in paragraphs (2)(a)-(c) if the contract would
+387 give such foreign source of concern entity access to an
+388 individual's personal identifying information or if the contract
+389 involves information technology.
+390 (4)(a) Beginning July 1, 2026 January 1, 2024, a
+391 governmental entity may not accept a bid on, a proposal for, or
+392 a reply to, or enter into, a contract with an entity which would
+393 grant the entity access to an individual's personal identifying
+394 information or involve information technology unless the entity
+395 provides the governmental entity with an affidavit signed by an
+396 officer or representative of the entity under penalty of perjury
+397 attesting that the entity is not a foreign source of concern
+398 does not meet any of the criteria in paragraphs (2)(a)-(c).
+399 (b) Beginning July 1, 2026 2025, when an entity extends or
+400 renews a contract with a governmental entity which would grant
+Page 16 of 33
+CODING: Words stricken are deletions; words underlined are additions.
+hb905-03-c3
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/CS/HB 905 2026
+401 the entity access to an individual's personal identifying
+402 information or which involves information technology, the entity
+403 must provide the governmental entity with an affidavit signed by
+404 an officer or representative of the entity under penalty of
+405 perjury attesting that the entity is not a foreign source of
+406 concern does not meet any of the criteria in paragraphs (2)(a)-
+407 (c).
+408 (5)(a) Notwithstanding any other provision of this
+409 section, a governmental entity may enter into, extend, or renew
+410 a contract involving information technology which is otherwise
+411 prohibited by this section if the department makes a written
+412 determination that:
+413 1. There is no reasonable alternative available to address
+414 a specific need.
+415 2. Failure to enter into the contract would pose a greater
+416 risk to public health, public safety, or economic security than
+417 the risk associated with entering into the contract.
+418 3. The contract includes mitigation measures deemed
+419 necessary by the department to reduce any risk to this state.
+420 (b) Beginning January 1, 2027, the department shall submit
+421 to the Governor, the President of the Senate, and the Speaker of
+422 the House of Representatives a written quarterly report
+423 detailing each contract entered into pursuant to this
+424 subsection.
+425 (6)(a) This section does not apply to information
+Page 17 of 33
+CODING: Words stricken are deletions; words underlined are additions.
+hb905-03-c3
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/CS/HB 905 2026
+426 technology that is incapable of remote access to or control of
+427 critical infrastructure.
+428 (b) The department may create a nonexhaustive list of
+429 information technology that violates this section.
+430 (c) The department may adopt rules to implement this
+431 section.
+432 (8)(6) Any penalties collected under subsection (7) (5)
+433 must be deposited into the General Revenue Fund.
+434 Section 7. Paragraph (a) of subsection (3) of section
+435 288.816, Florida Statutes, is amended, and subsection (7) is
+436 added to that section, to read:
+437 288.816 Intergovernmental relations.—
+438 (3) The state protocol officer may:
+439 (a) Coordinate and carry out activities designed to
+440 encourage the state and its subdivisions to participate in
+441 sister city and sister state affiliations with foreign countries
+442 and their subdivisions. Such activities may include a State of
+443 Florida sister cities conference. Such activities may not
+444 include encouragement of any affiliations with foreign countries
+445 of concern as defined in s. 288.860(1) or their subdivisions.
+446 (7) The department shall publish on its website, to be
+447 updated quarterly, the following information:
+448 (a) A current and accurate list of all foreign consulate
+449 offices.
+450 (b) A current and accurate list of all sister city and
+Page 18 of 33
+CODING: Words stricken are deletions; words underlined are additions.
+hb905-03-c3
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/CS/HB 905 2026
+451 sister state affiliations, including a copy of all such
+452 agreements.
+453 Section 8. Subsections (6) and (7) of section 288.8175,
+454 Florida Statutes, are renumbered as subsections (5) and (6),
+455 respectively, subsections (3), (4), and (5) are amended, and a
+456 new subsection (7) is added to that section, to read:
+457 288.8175 Linkage institutes between postsecondary
+458 institutions in this state and foreign countries.—
+459 (3) Each institute must be co-administered in this state
+460 by a university-community college partnership, as designated in
+461 subsection (5), and must have a private sector and public sector
+462 advisory committee. The advisory committee must be
+463 representative of the international education and commercial
+464 interests of the state and may have members who are native to
+465 the foreign country partner. Six members must be appointed by
+466 the Department of Education. The Department of Education must
+467 appoint at least one member who is an international educator.
+468 The presidents, or their designees, of the participating
+469 university and community college must also serve on the advisory
+470 committee.
+471 (4) The institutes are:
+472 (a) Florida-Brazil Institute (University of Florida and
+473 Miami Dade College).
+474 (b) Florida-Costa Rica Institute (Florida State University
+475 and Valencia College).
+Page 19 of 33
+CODING: Words stricken are deletions; words underlined are additions.
+hb905-03-c3
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/CS/HB 905 2026
+476 (c) Florida Caribbean Institute (Florida International
+477 University and Daytona State College).
+478 (d) Florida-Canada Institute (University of Central
+479 Florida and Palm Beach State College).
+480 (e) Florida-China Institute (University of West Florida,
+481 University of South Florida, and Eastern Florida State College).
+482 (e)(f) Florida-Japan Institute (University of South
+483 Florida, University of West Florida, and St. Petersburg
+484 College).
+485 (f)(g) Florida-France Institute (New College of the
+486 University of South Florida, Miami Dade College, and Florida
+487 State University).
+488 (g)(h) Florida-Israel Institute (Florida Atlantic
+489 University and Broward College).
+490 (h)(i) Florida-West Africa Institute (Florida Agricultural
+491 and Mechanical University, University of North Florida, and
+492 Florida State College at Jacksonville).
+493 (i)(j) Florida-Eastern Europe Institute (University of
+494 Central Florida and Lake-Sumter State College).
+495 (j)(k) Florida-Mexico Institute (Florida International
+496 University and Polk State College).
+497 (5) Each institute is allowed to exempt from s. 1009.21 up
+498 to 25 full-time equivalent students per year from the respective
+499 host countries to study in any of the state universities or
+500 community colleges in this state as resident students for
+Page 20 of 33
+CODING: Words stricken are deletions; words underlined are additions.
+hb905-03-c3
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/CS/HB 905 2026
+501 tuition purposes. The institute directors shall develop
+502 criteria, to be approved by the Department of Education, for the
+503 selection of these students. Students must return home within 3
+504 years after their tenure of graduate or undergraduate study for
+505 a length of time equal to their exemption period.
+506 (7) A linkage institute may not enter into any agreement
+507 or participate in any activities with a foreign country of
+508 concern as defined in s. 288.860(1) or any organization in a
+509 foreign country of concern.
+510 Section 9. Subsection (4) of section 288.854, Florida
+511 Statutes, is renumbered as subsection (5), and a new subsection
+512 (4) is added to that section to read:
+513 288.854 Support for a free and independent Cuba.—
+514 (4)(a) If the Federal Government changes the diplomatic
+515 status of Cuba, the Governor may, by executive order, suspend
+516 the provisions of any statute or rule restricting interactions
+517 with Cuba for a period not to exceed adjournment sine die of the
+518 regular session of the Legislature after such suspension. A
+519 suspension expires upon adjournment sine die of such regular
+520 session of the Legislature. A suspension may not be renewed or
+521 extended.
+522 (b) If the Governor suspends a statute or rule under
+523 paragraph (a), he or she may not subsequently suspend the same
+524 statute or rule relating to Cuba unless expressly authorized by
+525 the Legislature.
+Page 21 of 33
+CODING: Words stricken are deletions; words underlined are additions.
+hb905-03-c3
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/CS/HB 905 2026
+526 (c) At least 30 days before the next regular session of
+527 the Legislature following a change in Cuba's diplomatic status
+528 by the Federal Government, the Governor shall submit to the
+529 President of the Senate and the Speaker of the House of
+530 Representatives written recommendations for policy changes, if
+531 any, that should be considered by the Legislature concerning
+532 Cuba. However, if the change in Cuba's diplomatic status occurs
+533 within 30 days before the convening of the next regular session
+534 of the Legislature or during the regular session of the
+535 Legislature, the Governor shall submit such recommendations as
+536 soon as practicable.
+537 (d) This subsection is repealed October 2, 2028, unless
+538 saved from repeal through reenactment by the Legislature.
+539 Section 10. Subsection (2) of section 288.860, Florida
+540 Statutes, is amended to read:
+541 288.860 International cultural agreements.—
+542 (2)(a) A state agency, political subdivision, or public
+543 school authorized to expend state-appropriated funds or levy ad
+544 valorem taxes may not participate in any agreement with or
+545 accept any grant from a foreign country of concern or its
+546 subdivisions, or any entity controlled by a foreign country of
+547 concern.
+548 (b) All agreements under paragraph (a), including, but not
+549 limited to, sister city agreements, are terminated as of July 1,
+550 2026., which:
+Page 22 of 33
+CODING: Words stricken are deletions; words underlined are additions.
+hb905-03-c3
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/CS/HB 905 2026
+551 (a) Constrains the freedom of contract of such public
+552 entity;
+553 (b) Allows the curriculum or values of a program in the
+554 state to be directed or controlled by the foreign country of
+555 concern; or
+556 (c) Promotes an agenda detrimental to the safety or
+557 security of the United States or its residents. Before the
+558 execution of any cultural exchange agreement with a foreign
+559 country of concern, the substance of the agreement must be
+560 shared with federal agencies concerned with protecting national
+561 security or enforcing trade sanctions, embargoes, or other
+562 restrictions under federal law. If such federal agency provides
+563 information suggesting that such agreement promotes an agenda
+564 detrimental to the safety or security of the United States or
+565 its residents, the public entity may not enter into the
+566 agreement.
+567 Section 11. Subsection (1) of section 316.0078, Florida
+568 Statutes, is amended to read:
+569 316.0078 Prohibition on contracting for camera systems of
+570 vendors of foreign countries of concern.—
+571 (1) As used in this section, the term: terms
+572 (a) "Controlling interest" means possession of the power
+573 to direct or cause the direction of the management or policies
+574 of a company, whether through ownership of securities, by
+575 contract, or otherwise. A person or an entity that directly or
+Page 23 of 33
+CODING: Words stricken are deletions; words underlined are additions.
+hb905-03-c3
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/CS/HB 905 2026
+576 indirectly has 25 percent or more of the voting interests of a
+577 company or is entitled to 25 percent or more of its profits is
+578 presumed to possess a controlling interest. and
+579 (b) "Foreign country of concern" means the People's
+580 Republic of China, the Russian Federation, the Islamic Republic
+581 of Iran, the Democratic People's Republic of Korea, the Republic
+582 of Cuba, the Venezuelan regime of Nicolás Maduro, or the Syrian
+583 Arab Republic, including any agency of or any other entity of
+584 significant control of such foreign country of concern have the
+585 same meanings as in s. 287.138(1).
+586 Section 12. Paragraphs (e) and (f) of subsection (14) of
+587 section 496.404, Florida Statutes, are amended, and paragraph
+588 (g) is added to that subsection, to read:
+589 496.404 Definitions.—As used in ss. 496.401-496.424, the
+590 term:
+591 (14) "Foreign source of concern" means any of the
+592 following:
+593 (e) An agent, including a subsidiary or an affiliate of a
+594 foreign legal entity, acting on behalf of a foreign source of
+595 concern; or
+596 (f) An entity in which a person, entity, or collection of
+597 persons or entities described in paragraphs (a)-(e) has a
+598 controlling interest. As used in this paragraph, the term
+599 "controlling interest" means the possession of the power to
+600 direct or cause the direction of the management or policies of
+Page 24 of 33
+CODING: Words stricken are deletions; words underlined are additions.
+hb905-03-c3
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/CS/HB 905 2026
+601 an entity, whether through ownership of securities, by contract,
+602 or otherwise. A person or an entity that directly or indirectly
+603 has the right to vote 25 percent or more of the voting interest
+604 of the company or is entitled to 25 percent or more of its
+605 profits is presumed to possess a controlling interest; or
+606 (g) A designated foreign terrorist organization as defined
+607 in s. 775.32(1) or an agent acting on behalf of a designated
+608 foreign terrorist organization.
+609 Section 13. Subsection (3) of section 692.201, Florida
+610 Statutes, is amended to read:
+611 692.201 Definitions.—As used in this part, the term:
+612 (3) "Foreign country of concern" means the People's
+613 Republic of China, the Russian Federation, the Islamic Republic
+614 of Iran, the Democratic People's Republic of Korea, the Republic
+615 of Cuba, the Venezuelan regime of Nicolás Maduro, or the Syrian
+616 Arab Republic, including any agency of or any other entity under
+617 of significant control of such foreign country of concern.
+618 Section 14. Section 692.21, Florida Statutes, is created
+619 to read:
+620 692.21 Protection of state critical infrastructure
+621 facilities from foreign sources of concern.—
+622 (1) As used in this section, the term:
+623 (a) "Business entity" has the same meaning as in s.
+624 112.312.
+625 (b) "Foreign source of concern" has the same meaning as in
+Page 25 of 33
+CODING: Words stricken are deletions; words underlined are additions.
+hb905-03-c3
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/CS/HB 905 2026
+626 s. 496.404.
+627 (c) "Governmental entity" has the same meaning as in s.
+628 287.138(1).
+629 (d) "Information technology" has the same meaning as in s.
+630 282.0041.
+631 (2)(a) A governmental entity or a business entity
+632 constructing, repairing, operating, or otherwise having
+633 significant access to a critical infrastructure facility may not
+634 enter into a contract or other agreement relating to a critical
+635 infrastructure facility in this state with a foreign source of
+636 concern if the contract or agreement authorizes the foreign
+637 source of concern to directly or remotely access or otherwise
+638 control such critical infrastructure facility.
+639 (b) A foreign source of concern may not enter into a
+640 contract or other agreement relating to critical infrastructure
+641 facilities in this state with a business entity constructing,
+642 repairing, operating, or otherwise having significant access to
+643 critical infrastructure facilities, or a governmental entity, if
+644 the contract or agreement authorizes the foreign source of
+645 concern to directly or remotely access or otherwise control such
+646 critical infrastructure facility.
+647 (3)(a) Beginning January 1, 2027, a business entity
+648 constructing, repairing, operating, or otherwise having
+649 significant access to a critical infrastructure facility in this
+650 state which entered into a contract or other agreement before
+Page 26 of 33
+CODING: Words stricken are deletions; words underlined are additions.
+hb905-03-c3
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/CS/HB 905 2026
+651 July 1, 2026, with a foreign source of concern relating to such
+652 critical infrastructure facility must register with the
+653 Department of Commerce by January 1 of each year for the
+654 remainder of the term of the contract or agreement with the
+655 foreign source of concern relating to such critical
+656 infrastructure facility. The Department of Commerce shall adopt
+657 a registration form that includes all of the following:
+658 1. The name of the business entity constructing,
+659 repairing, operating, or otherwise having significant access to
+660 critical infrastructure facilities in this state.
+661 2. The address of the critical infrastructure facility the
+662 business entity is constructing, repairing, or operating or to
+663 which the business entity otherwise has significant access.
+664 3. A description of the specific terms of the contract or
+665 agreement which authorizes a foreign source of concern to engage
+666 in constructing, repairing, or operating or to otherwise have
+667 significant access to such critical infrastructure facility.
+668 (b) A business entity that violates paragraph (a):
+669 1. Is subject to a civil penalty of $1,000 for each day
+670 the violation continues.
+671 2. Commits a misdemeanor of the second degree, punishable
+672 as provided in s. 775.082 or s. 775.083.
+673 (4) Before commencing any sale or other transfer of
+674 control of a critical infrastructure facility in this state, the
+675 business entity selling or otherwise transferring control of
+Page 27 of 33
+CODING: Words stricken are deletions; words underlined are additions.
+hb905-03-c3
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/CS/HB 905 2026
+676 such critical infrastructure facility must provide an affidavit,
+677 signed under penalty of perjury, to the Department of Commerce
+678 attesting that the buyer or transferee is not a foreign source
+679 of concern.
+680 (5)(a) Information technology produced or manufactured by
+681 a foreign source of concern may not be used in a critical
+682 infrastructure facility located in this state.
+683 (b)1. Notwithstanding paragraph (a), a governmental entity
+684 or business entity may enter into a contract or other agreement
+685 with a foreign source of concern to use information technology
+686 that is otherwise prohibited in paragraph (a) in a critical
+687 infrastructure facility if the Department of Commerce, in
+688 consultation with the Department of Management Services, makes a
+689 written determination that:
+690 a. There is no reasonable alternative available to address
+691 a specific need relating to a critical infrastructure facility
+692 in this state.
+693 b. Failure to enter into the contract or agreement would
+694 pose a greater risk to public health, public safety, or economic
+695 security than the risk associated with entering into the
+696 contract or agreement.
+697 c. The contract or agreement includes mitigation measures
+698 deemed necessary by the Department of Commerce, in consultation
+699 with the Department of Management Services, to reduce any risk
+700 to this state.
+Page 28 of 33
+CODING: Words stricken are deletions; words underlined are additions.
+hb905-03-c3
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/CS/HB 905 2026
+701 2. Beginning January 1, 2027, the Department of Commerce
+702 shall submit to the Governor, the President of the Senate, and
+703 the Speaker of the House of Representatives a written quarterly
+704 report detailing each contract or agreement entered into
+705 pursuant to this paragraph.
+706 (c) This subsection does not apply to information
+707 technology that is incapable of remote access to or control of
+708 critical infrastructure.
+709 (6) The Department of Commerce shall adopt rules to
+710 implement this section.
+711 Section 15. Section 775.08255, Florida Statutes, is
+712 created to read:
+713 775.08255 Offenses by foreign agents; reclassification.—
+714 (1) As used in this section, the term:
+715 (a) "Agent of a foreign government or designated foreign
+716 terrorist organization" means a person acting on behalf of or
+717 otherwise employed or controlled by a foreign government or a
+718 designated foreign terrorist organization.
+719 (b) "Designated foreign terrorist organization" has the
+720 same meaning as provided in s. 775.32(1).
+721 (c) "Foreign government" has the same meaning as provided
+722 in s. 286.101(1).
+723 (2) The penalty for any misdemeanor or felony may be
+724 reclassified if the commission of such misdemeanor or felony was
+725 for the purpose of benefiting, promoting, or furthering the
+Page 29 of 33
+CODING: Words stricken are deletions; words underlined are additions.
+hb905-03-c3
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/CS/HB 905 2026
+726 interests of a foreign government, a designated foreign
+727 terrorist organization, or an agent of a foreign government or
+728 designated foreign terrorist organization. The reclassification
+729 is as follows:
+730 (a) A misdemeanor of the second degree is reclassified to
+731 a misdemeanor of the first degree.
+732 (b) A misdemeanor of the first degree is reclassified to a
+733 felony of the third degree.
+734 (c) A felony of the third degree is reclassified to a
+735 felony of the second degree.
+736 (d) A felony of the second degree is reclassified to a
+737 felony of the first degree.
+738 (e) A felony of the first degree is reclassified to a life
+739 felony.
+740 (3) In addition to any other penalties prescribed by law,
+741 a person convicted of a felony of the first degree or a life
+742 felony under this section shall be sentenced to a minimum term
+743 of imprisonment of 15 years.
+744 Section 16. Section 775.36, Florida Statutes, is created
+745 to read:
+746 775.36 Unauthorized enforcement of foreign law.—
+747 (1) As used in this section, the term:
+748 (a) "Agent of a foreign government or designated foreign
+749 terrorist organization" means a person acting on behalf of or
+750 otherwise employed or controlled by a foreign government or a
+Page 30 of 33
+CODING: Words stricken are deletions; words underlined are additions.
+hb905-03-c3
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/CS/HB 905 2026
+751 designated foreign terrorist organization.
+752 (b) "Designated foreign terrorist organization" has the
+753 same meaning as provided in s. 775.32(1).
+754 (c) "Foreign government" has the same meaning as in s.
+755 286.101(1).
+756 (2) Without the approval of this state or the United
+757 States, a person may not:
+758 (a) Prevent another person in this state from violating
+759 the laws of a foreign government which are not also the laws of
+760 this state or the United States; or
+761 (b) Investigate, monitor, or surveil another person in
+762 this state for the purpose of preventing the other person from
+763 violating the laws of a foreign government which are not also
+764 the laws of this state or the United States.
+765 (3) A person who violates this section commits a felony of
+766 the third degree, punishable as provided in s. 775.082, s.
+767 775.083, or s. 775.084. However, a person who violates this
+768 section for the purpose of benefiting, promoting, or furthering
+769 the interests of a foreign government, a designated foreign
+770 terrorist organization, or an agent of a foreign government or
+771 designated foreign terrorist organization commits a felony of
+772 the second degree, punishable as provided in s. 775.082, s.
+773 775.083, or s. 775.084.
+774 Section 17. Paragraph (a) of subsection (7) of section
+775 282.802, Florida Statutes, is amended to read:
+Page 31 of 33
+CODING: Words stricken are deletions; words underlined are additions.
+hb905-03-c3
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/CS/HB 905 2026
+776 282.802 Government Technology Modernization Council.—
+777 (7)(a) The council shall meet at least quarterly to:
+778 1. Recommend legislative and administrative actions that
+779 the Legislature and state agencies as defined in s. 282.318(2)
+780 may take to promote the development of data modernization in
+781 this state.
+782 2. Assess and provide guidance on necessary legislative
+783 reforms and the creation of a state code of ethics for
+784 artificial intelligence systems in state government.
+785 3. Assess the effect of automated decision systems or
+786 identity management on constitutional and other legal rights,
+787 duties, and privileges of residents of this state.
+788 4. Evaluate common standards for artificial intelligence
+789 safety and security measures, including the benefits of
+790 requiring disclosure of the digital provenance for all images
+791 and audio created using generative artificial intelligence as a
+792 means of revealing the origin and edit of the image or audio, as
+793 well as the best methods for such disclosure.
+794 5. Assess the manner in which governmental entities and
+795 the private sector are using artificial intelligence with a
+796 focus on opportunity areas for deployments in systems across
+797 this state.
+798 6. Determine the manner in which artificial intelligence
+799 is being exploited by bad actors, including foreign countries of
+800 concern as defined in s. 286.101(1) s. 287.138(1).
+Page 32 of 33
+CODING: Words stricken are deletions; words underlined are additions.
+hb905-03-c3
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/CS/HB 905 2026
+801 7. Evaluate the need for curriculum to prepare school-age
+802 audiences with the digital media and visual literacy skills
+803 needed to navigate the digital information landscape.
+804 Section 18. This act shall take effect July 1, 2026.
+Page 33 of 33
+CODING: Words stricken are deletions; words underlined are additions.
+hb905-03-c3

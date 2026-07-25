@@ -1,0 +1,300 @@
+Title: 
+Official Title: 
+Source: versions - H 1415 c1
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 1415 2026
+1 A bill to be entitled
+2 An act relating to the use of digital currency by the
+3 Department of Financial Services; creating s. 17.72,
+4 F.S.; establishing the Florida Stablecoin Pilot
+5 Program within the Department of Financial Services;
+6 providing legislative intent; providing definitions;
+7 authorizing the department to engage in certain
+8 activities; authorizing the department to designate
+9 one or more payment stablecoins for certain
+10 activities; requiring that certain payment stablecoins
+11 meet specified criteria; authorizing the department to
+12 accept payment stablecoins; authorizing program
+13 participants to elect to voluntarily participate in
+14 the program and remit payment stablecoins to a
+15 compatible digital wallet address; requiring certain
+16 participants to provide the department with a
+17 compatible digital wallet address; requiring the
+18 department to comply with certain requirements;
+19 requiring the department to provide a compatible
+20 digital wallet address for a specified purpose;
+21 authorizing the department to conduct examinations,
+22 audits, and investigations of permitted payment
+23 stablecoin issuers; requiring the department to
+24 coordinate with the Office of Financial Regulation
+25 under certain circumstances; requiring the department
+Page 1 of 10
+CODING: Words stricken are deletions; words underlined are additions.
+hb1415-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 1415 2026
+26 to monitor and evaluate the pilot program and collect
+27 certain data; requiring the department to submit an
+28 annual report containing certain information to the
+29 Governor and the Legislature, beginning on a specified
+30 date and annually thereafter; providing construction;
+31 authorizing the department to adopt rules; providing
+32 an effective date.
+33
+34 Be It Enacted by the Legislature of the State of Florida:
+35
+36 Section 1. Section 17.72, Florida Statutes, is created to
+37 read:
+38 17.72 Florida Stablecoin Pilot Program.—There is
+39 established within the department the Florida Stablecoin Pilot
+40 Program. It is the intent of the Legislature that the Florida
+41 Stablecoin Pilot Program yield benefits from the acceptance of
+42 payment stablecoins as a form of payment for governmental fees
+43 through this voluntary pilot program.
+44 (1) DEFINITIONS.—As used in this section, the term:
+45 (a) "Blockchain" means a mathematically secured,
+46 chronological, decentralized, distributed, and digital ledger or
+47 database that consists of records of transactions that cannot be
+48 altered retroactively.
+Page 2 of 10
+CODING: Words stricken are deletions; words underlined are additions.
+hb1415-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 1415 2026
+49 (b) "Compatible digital wallet address" means the address
+50 of a software application that securely stores private keys for
+51 accessing and completing transactions with payment stablecoins.
+52 (c) "Digital asset" means any digital representation of
+53 value that is recorded on a cryptographically secured digital
+54 ledger.
+55 (d) "Exchange platform" means a company licensed and
+56 regulated by the federal or a state government which provides
+57 trading, custody, or money transmission services of payment
+58 stablecoins or other digital assets.
+59 (e) "Federal qualified payment stablecoin issuer" means
+60 any of the following:
+61 1. A nonbank entity, other than a state qualified payment
+62 stablecoin issuer, approved by the Office of the Comptroller of
+63 the Currency to issue payment stablecoins.
+64 2. An uninsured national bank that is chartered by the
+65 Office of the Comptroller of the Currency pursuant to title LXII
+66 of the Revised Statutes and is approved to issue payment
+67 stablecoins. As used in this subsection, the term "national
+68 bank" has the same meaning as in the GENIUS Act, Pub. L. No.
+69 119-27.
+70 3. A federal branch that is approved by the Office of the
+71 Comptroller of the Currency to issue payment stablecoins. For
+72 purposes of this subparagraph, the term "federal branch" has the
+Page 3 of 10
+CODING: Words stricken are deletions; words underlined are additions.
+hb1415-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 1415 2026
+73 same meaning as in s. 3 of the Federal Deposit Insurance Act, 12
+74 U.S.C. s. 1813.
+75 (f)1. "Payment stablecoin" means a digital asset that
+76 meets all of the following requirements:
+77 a. Is, or is designed to be, used as a means of payment or
+78 settlement.
+79 b. The issuer of which:
+80 (I) Is obligated to convert, redeem, or repurchase the
+81 digital asset for a fixed amount of monetary value, not
+82 including a digital asset denominated in a fixed amount of
+83 monetary value.
+84 (II) Represents that such issuer will maintain, or create
+85 the reasonable expectation that it will maintain, a stable value
+86 relative to the value of a fixed amount of monetary value.
+87 2. The term does not include a digital asset that is any
+88 of the following:
+89 a. A national currency.
+90 b. A deposit as defined in s. 3 of the Federal Deposit
+91 Insurance Act, 12 U.S.C. s. 1813, including a deposit recorded
+92 using distributed ledger technology. For purposes of this
+93 subparagraph, the term "distributed ledger" has the same meaning
+94 as in the GENIUS Act, Pub. L. No. 119-27.
+95 c. A security, as defined in s. 517.021; s. 2 of the
+96 Securities Act of 1933, 15 U.S.C. s. 77b; s. 3 of the Securities
+Page 4 of 10
+CODING: Words stricken are deletions; words underlined are additions.
+hb1415-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 1415 2026
+97 and Exchange Act of 1934, 15 U.S.C. s. 78c; or s. 2 of the
+98 Investment Company Act of 1940, 15 U.S.C. s. 80a-2.
+99 (g) "Permitted payment stablecoin issuer" means a person
+100 formed in the United States which is one of the following:
+101 1. A subsidiary of an insured depository institution that
+102 has been approved to issue payment stablecoins under the GENIUS
+103 Act, Pub. L. No. 119-27. For purposes of this subparagraph, the
+104 term "insured depository institution" has the same meaning as in
+105 the GENIUS Act, Pub. L. No. 119-27.
+106 2. A federal qualified payment stablecoin issuer.
+107 3. A state qualified payment stablecoin issuer.
+108 (h) "State qualified payment stablecoin issuer" means an
+109 entity legally established under the laws of a state and
+110 approved by the Office of Financial Regulation to issue payment
+111 stablecoins.
+112 (2) PROGRAM PARTICIPATION.—
+113 (a) The department may engage in any of the following
+114 activities that meet the requirements of this section:
+115 1. Accept payment stablecoin for the payment of authorized
+116 fees as provided in paragraph (c).
+117 2. Issue refunds, reimbursements, or other similar
+118 disbursements in the form of payment stablecoins to any
+119 participant who elects to receive a payment in such form. The
+120 department may purchase payment stablecoins in an amount that is
+121 necessary to support such activity.
+Page 5 of 10
+CODING: Words stricken are deletions; words underlined are additions.
+hb1415-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 1415 2026
+122 3. Hold payment stablecoin. If such payment stablecoin
+123 does not earn any interest or yields, the department may hold
+124 payment stablecoin only in the amount that is estimated to be
+125 required to issue refunds, reimbursements, or other similar
+126 disbursements during a revolving 30-day period. Any direct or
+127 indirect yields earned with respect to payment stablecoins shall
+128 be credited to the benefit of the state.
+129 (b) The department may designate one or more payment
+130 stablecoins for activities authorized in paragraph (a). Any
+131 payment stablecoin that is accepted, purchased, held, or
+132 disbursed by the department pursuant to this section must meet
+133 all of the following criteria:
+134 1. Have an average market capitalization of at least $1
+135 billion during the preceding 12-month period.
+136 2. Be fully backed by reserve assets on a one-to-one basis
+137 limited to United States currency, demand deposits at insured
+138 depository institutions, United States Treasury bills having a
+139 remaining maturity of 93 days or less, or reverse repurchase
+140 agreements collateralized by such treasury bills.
+141 3. Be redeemable at all times at a one-to-one ratio for
+142 United States dollars through the permitted payment stablecoin
+143 issuer or its agent.
+144 4. Be minted by a permitted payment stablecoin issuer.
+145 5. Be issued by an issuer that does not charge withdrawal
+146 or redemption fees.
+Page 6 of 10
+CODING: Words stricken are deletions; words underlined are additions.
+hb1415-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 1415 2026
+147 6. Be purchased by the department directly from a
+148 permitted payment stablecoin issuer through a blockchain network
+149 or indirectly through an exchange platform, or received by the
+150 department from a program participant.
+151 7. Except as otherwise provided in this section, be issued
+152 by an issuer that meets any additional criteria for a permitted
+153 payment stablecoin issuer under any applicable federal or state
+154 law including, but not limited to, the GENIUS Act, Pub. L. No.
+155 119-27.
+156 (c) The department may accept payment stablecoins as a
+157 form of payment for fees that include, but are not limited to,
+158 licensing fees, registration fees, certification fees,
+159 assessment fees, application fees, renewal fees, other
+160 regulatory fees administered by the department, or any other fee
+161 owed to the department.
+162 (d) An applicant, a licensee, or other program participant
+163 may elect to voluntarily participate in the pilot program and
+164 remit payment stablecoins to a compatible digital wallet address
+165 designated by the department as a valid form of payment for any
+166 fee authorized in paragraph (c).
+167 (e) A participant that elects to receive from the
+168 department a refund, reimbursement, or other similar
+169 disbursement in the form of payment stablecoin must provide the
+170 department with a compatible digital wallet address where such
+171 payment may be sent.
+Page 7 of 10
+CODING: Words stricken are deletions; words underlined are additions.
+hb1415-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 1415 2026
+172 (3) DEPARTMENT DUTIES.—
+173 (a) The department must comply with all of the following
+174 requirements:
+175 1. Ensure that any payment stablecoin issuer designated
+176 for use in the pilot program is a permitted payment stablecoin
+177 issuer.
+178 2. Provide a compatible digital wallet address to any
+179 participant that elects to participate in the voluntary pilot
+180 program for the payment of any fees authorized in paragraph
+181 (2)(c) to be paid in the form of payment stablecoins.
+182 3. Within a reasonable time after receiving a payment
+183 stablecoin from any program participant, convert the payment
+184 stablecoin into United States currency and credit the applicable
+185 account where the funds would be held in a qualified public
+186 depository in the same manner as a payment made by any other
+187 authorized means.
+188 (b) The department may conduct examinations, audits, or
+189 investigations of a permitted payment stablecoin issuer of a
+190 payment stablecoin designated for use in the pilot program to
+191 verify asset backing, redeemability, and adherence to consumer
+192 protection standards, including standards related to fraud
+193 prevention and dispute resolution. To the extent that the
+194 department intends to engage in such conduct as to a state
+195 qualified payment stablecoin issuer, the department must
+Page 8 of 10
+CODING: Words stricken are deletions; words underlined are additions.
+hb1415-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 1415 2026
+196 coordinate with the Office of Financial Regulation to avoid
+197 duplicated efforts and to efficiently regulate such issuer.
+198 (4) REPORTING.—
+199 (a) The department shall monitor and evaluate the pilot
+200 program and collect data on transaction volume, cost savings,
+201 security incidents, regulatory compliance, and economic impacts,
+202 as well as any instances of fraud or disputes.
+203 (b) Beginning February 1, 2027, and annually thereafter,
+204 the department must submit a report to the Governor, the
+205 President of the Senate, and the Speaker of the House of
+206 Representatives which must include all of the following:
+207 1. A summary of the data collected pursuant to paragraph
+208 (a).
+209 2. Any findings the department makes with respect to the
+210 pilot program which include, but are not limited to, findings
+211 regarding any trends or patterns relating to financial matters,
+212 such as fiscal impacts, or nonfinancial matters, such as
+213 utilization analysis.
+214 3. Any recommendations for expansion or termination of the
+215 pilot program.
+216 4. Any proposed statutory changes, if appropriate.
+217 (5) CONSTRUCTION.—This section:
+218 (a) Does not alter or supersede any existing statutory fee
+219 obligations, licensing requirements, or enforcement authority of
+220 the department.
+Page 9 of 10
+CODING: Words stricken are deletions; words underlined are additions.
+hb1415-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 1415 2026
+221 (b) Authorizes the acceptance of payment stablecoins as an
+222 optional payment method and does not require or authorize the
+223 acceptance of any other digital asset.
+224 (c) May not be construed to relieve the Chief Financial
+225 Officer or the department of any obligation to secure public
+226 funds, including any payment stablecoins, in a qualified public
+227 depository unless an exemption applies pursuant to s. 280.03 or,
+228 with respect to payment stablecoins, to hold such stablecoins in
+229 a manner similar to how direct United States Treasury
+230 obligations are held pursuant to s. 17.57(2)(a).
+231 (6) RULEMAKING.—The department may adopt rules to
+232 implement this section.
+233 Section 2. This act shall take effect upon becoming a law.
+Page 10 of 10
+CODING: Words stricken are deletions; words underlined are additions.
+hb1415-01-c1

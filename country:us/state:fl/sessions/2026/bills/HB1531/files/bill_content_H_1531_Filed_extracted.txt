@@ -1,0 +1,626 @@
+Title: 
+Official Title: 
+Source: versions - H 1531 Filed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1531 2026
+1 A bill to be entitled
+2 An act relating to government-facilitated purchases
+3 and sales of individual and small employer health and
+4 dental plans; creating s. 627.4463, F.S.; providing a
+5 short title; providing purpose and legislative intent;
+6 providing definitions; establishing the Florida Health
+7 Insurance Exchange within the Office of Insurance
+8 Regulation to facilitate purchase and sale of
+9 qualified health plans; providing duties of the
+10 exchange; authorizing the exchange to contract with an
+11 eligible entity to perform the exchange's functions
+12 under certain circumstances; authorizing the exchange
+13 to enter into agreements with governmental agencies
+14 and entities to carry out the exchange's
+15 responsibilities under certain circumstances;
+16 providing general requirements and prohibitions for
+17 the exchange; providing certifications by the exchange
+18 of health and dental benefit plans; authorizing the
+19 Commissioner of Insurance Regulation and the office to
+20 contract with a vendor to build and manage the
+21 exchange; providing rulemaking authority; providing
+22 construction; providing a contingent effective date.
+23
+24 Be It Enacted by the Legislature of the State of Florida:
+25
+Page 1 of 20
+CODING: Words stricken are deletions; words underlined are additions.
+hb1531-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1531 2026
+26 Section 1. Section 627.4463, Florida Statutes, is created
+27 to read:
+28 627.4463 Florida Health Insurance Exchange; government-
+29 facilitated purchases and sales of individual and small employer
+30 health and dental plans.—
+31 (1) SHORT TITLE.—This section may be cited as the "Florida
+32 Health Insurance Exchange Act."
+33 (2) PURPOSE AND INTENT.—The purpose of this section is to
+34 provide for the establishment of the Florida Health Insurance
+35 Exchange to facilitate the purchase and sale of qualified health
+36 plans in the individual market in this state and to provide for
+37 the establishment of a Small Business Health Options Program to
+38 assist qualified small employers in this state in facilitating
+39 the enrollment of their employees in qualified health plans
+40 offered in the small group market. The intent of the Florida
+41 Health Insurance Exchange is to reduce the number of uninsured
+42 persons, provide a transparent marketplace and consumer
+43 education, and assist persons with access to programs, premium
+44 assistance tax credits, and cost-sharing reductions.
+45 (3) DEFINITIONS.—As used in this section, the term:
+46 (a) "Commissioner" means the Commissioner of Insurance
+47 Regulation.
+48 (b) "Educated health care consumer" means a person who is
+49 knowledgeable about the health care system and has a background
+50 or experience in making informed decisions regarding health,
+Page 2 of 20
+CODING: Words stricken are deletions; words underlined are additions.
+hb1531-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1531 2026
+51 medical, and scientific matters.
+52 (c) "Exchange" means the Florida Health Insurance Exchange
+53 established in this section.
+54 (d)1. "Health benefit plan" means a policy, a contract, a
+55 certificate, or an agreement offered or issued by a health
+56 carrier to provide, deliver, arrange for, pay for, or reimburse
+57 any of the costs of health care services.
+58 2. The term does not include:
+59 a. Coverage only for accident, disability income
+60 insurance, or any combination thereof;
+61 b. Coverage issued as a supplement to liability insurance;
+62 c. Liability insurance, including general liability
+63 insurance and motor vehicle liability insurance;
+64 d. Workers' compensation or similar insurance;
+65 e. Motor vehicle medical payment insurance;
+66 f. Credit-only insurance;
+67 g. Coverage for onsite medical clinics; or
+68 h. Other similar insurance coverage, specified in federal
+69 regulations issued under the Health Insurance Portability and
+70 Accountability Act of 1996, Pub. L. No. 104-191, under which
+71 benefits for health care services are secondary or incidental to
+72 other insurance benefits.
+73 3. The term does not include the following benefits if the
+74 benefits are provided under a separate policy, certificate, or
+75 contract of insurance or are otherwise not an integral part of
+Page 3 of 20
+CODING: Words stricken are deletions; words underlined are additions.
+hb1531-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1531 2026
+76 the plan:
+77 a. Limited scope dental or vision benefits;
+78 b. Benefits for long-term care, nursing home care, home
+79 health care, community-based care, or any combination thereof;
+80 or
+81 c. Other similar, limited benefits specified in federal
+82 regulations issued under the Health Insurance Portability and
+83 Accountability Act of 1996, Pub. L. No. 104-191.
+84 4. The term does not include the following benefits if the
+85 benefits are provided under a separate policy, certificate, or
+86 contract of insurance, if there is no coordination between the
+87 provision of the benefits and any exclusion of benefits under
+88 any group health plan maintained by the same plan sponsor, and
+89 if the benefits are paid with respect to an event without regard
+90 to whether the benefits are provided with respect to such an
+91 event under any group health plan maintained by the same plan
+92 sponsor:
+93 a. Coverage only for a specified disease or illness; or
+94 b. Hospital indemnity or other fixed indemnity insurance.
+95 5. The term does not include the following if offered as a
+96 separate policy, certificate, or contract of insurance:
+97 a. Medicare supplemental health insurance as defined in s.
+98 1882(g)(1) of the Social Security Act;
+99 b. Coverage supplemental to the coverage provided under
+100 chapter 55 of Title 10, U.S.C., the Civilian Health and Medical
+Page 4 of 20
+CODING: Words stricken are deletions; words underlined are additions.
+hb1531-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1531 2026
+101 Program of the Uniformed Services; or
+102 c. Similar supplemental coverage provided to coverage
+103 under a group health plan.
+104 (e) "Health carrier" or "carrier" means an entity subject
+105 to the insurance laws and regulations of this state, or subject
+106 to the jurisdiction of the commissioner, which contracts or
+107 offers to contract to provide, deliver, arrange for, pay for, or
+108 reimburse any of the costs of health care services, including an
+109 accident and health insurance company, a health maintenance
+110 organization, a nonprofit hospital and health service plan
+111 corporation, or any other entity providing a plan of health
+112 insurance, health benefits, or health services.
+113 (f) "Qualified dental plan" means a limited scope dental
+114 plan that has been certified in accordance with subsection (7).
+115 (g) "Qualified employer" means a small employer that
+116 elects to make its full-time employees and, at the option of the
+117 employer, some or all of its part-time employees, eligible for
+118 one or more qualified health plans offered through the SHOP
+119 Exchange, provided that the employer:
+120 1. Has its principal place of business in this state and
+121 elects to provide coverage through the SHOP Exchange to all of
+122 its eligible employees, wherever employed; or
+123 2. Elects to provide coverage through the SHOP Exchange to
+124 all of its eligible employees who are principally employed in
+125 this state.
+Page 5 of 20
+CODING: Words stricken are deletions; words underlined are additions.
+hb1531-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1531 2026
+126 (h) "Qualified health plan" means a health benefit plan
+127 that has in effect a certification that the plan meets the
+128 criteria for certification described in s. 1311(c) of PPACA and
+129 in subsection (7).
+130 (i) "Qualified person" means a person, including a minor,
+131 who meets all of the following conditions:
+132 1. Is seeking to enroll in a qualified health plan offered
+133 to persons through the exchange.
+134 2. Resides in this state.
+135 3. At the time of enrollment, is not incarcerated, other
+136 than incarceration pending the disposition of charges.
+137 4. Is, and is reasonably expected to be, for the entire
+138 period for which enrollment is sought, a citizen or national of
+139 the United States or an alien lawfully present in the United
+140 States.
+141 (j) "Secretary" means, except when the context clearly
+142 indicates otherwise, the Secretary of the United States
+143 Department of Health and Human Services.
+144 (k) "SHOP Exchange" means the Small Business Health
+145 Options Program established under subsection (6).
+146 (l) "Small employer" has the same meaning as in s.
+147 627.6699(3).
+148 (4) ESTABLISHMENT OF THE FLORIDA HEALTH INSURANCE
+149 EXCHANGE.—
+150 (a) The Florida Health Insurance Exchange is established
+Page 6 of 20
+CODING: Words stricken are deletions; words underlined are additions.
+hb1531-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1531 2026
+151 as a governmental entity within the Office of Insurance
+152 Regulation. To that end, the exchange shall strive to increase
+153 the availability of affordable health insurance in this state,
+154 while achieving efficiencies and economies and while providing
+155 service to policyholders. It is the intent of the Legislature
+156 that the exchange be an integral part of this state and that the
+157 income of the exchange be exempt from federal income taxation.
+158 The exchange shall operate pursuant to a plan of operation
+159 approved by order of the commissioner. The plan is subject to
+160 continuous review by the office. The office may, by order,
+161 withdraw approval of all or part of a plan if the commissioner
+162 determines that conditions have changed since approval was
+163 granted and that the purposes of the plan require changes in the
+164 plan.
+165 (b) The exchange must:
+166 1. Facilitate the purchase and sale of qualified health
+167 plans.
+168 2. Provide for the establishment of a SHOP Exchange to
+169 assist qualified small employers in this state in facilitating
+170 the enrollment of their employees in qualified health plans.
+171 3. Meet the requirements of this section and any rules and
+172 regulations implemented under this section.
+173 (c) The exchange may contract with an eligible entity for
+174 any of the exchange's functions described in this section. An
+175 eligible entity includes, but is not limited to, an entity that
+Page 7 of 20
+CODING: Words stricken are deletions; words underlined are additions.
+hb1531-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1531 2026
+176 has experience in individual and small group health insurance
+177 benefit administration or other experience relevant to the
+178 responsibilities to be assumed by the entity, but a health
+179 carrier or an affiliate of a health carrier is not an eligible
+180 entity.
+181 (d) The exchange may enter into information-sharing
+182 agreements with federal and state agencies and exchanges in
+183 other states to carry out its responsibilities under this
+184 section, provided that such agreements include adequate
+185 protections with respect to the confidentiality of the
+186 information to be shared and comply with all state and federal
+187 laws and regulations.
+188 (5) GENERAL REQUIREMENTS.—
+189 (a) The exchange must make qualified health plans
+190 available to qualified persons and qualified employers beginning
+191 January 1, 2028.
+192 (b)1. The exchange may not make available any health
+193 benefit plan that is not a qualified health plan.
+194 2. The exchange must allow a health carrier to offer a
+195 plan that provides limited scope dental benefits meeting the
+196 requirements of s. 9832(c)(2)(A) of the Internal Revenue Code of
+197 1986 through the exchange, either separately or in conjunction
+198 with a qualified health plan, if the plan provides pediatric
+199 dental benefits that meet the requirements of s. 1302(b)(1)(J)
+200 of PPACA.
+Page 8 of 20
+CODING: Words stricken are deletions; words underlined are additions.
+hb1531-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1531 2026
+201 (c) Neither the exchange nor a carrier offering health
+202 benefit plans through the exchange may charge a person a fee or
+203 penalty for termination of coverage if the person enrolls in
+204 another type of minimum essential coverage because the person
+205 has become newly eligible for that coverage or because the
+206 person's employer-sponsored coverage has become affordable under
+207 the standards of s. 36B(c)(2)(C) of the Internal Revenue Code of
+208 1986.
+209 (6) DUTIES OF THE EXCHANGE.—The exchange must:
+210 (a) Implement procedures for the certification,
+211 recertification, and decertification, consistent with guidelines
+212 developed by the Secretary under s. 1311(c) of PPACA and with
+213 subsection (7), of health benefit plans as qualified health
+214 plans.
+215 (b) Provide for the operation of a toll-free telephone
+216 hotline to respond to requests for assistance.
+217 (c) Provide for enrollment periods, as provided under s.
+218 1311(c)(6) of PPACA.
+219 (d) Maintain an Internet website through which enrollees
+220 and prospective enrollees of qualified health plans may obtain
+221 standardized comparative information on such plans.
+222 (e) Assign a rating to each qualified health plan offered
+223 through the exchange in accordance with the criteria developed
+224 by the Secretary under s. 1311(c)(3) of PPACA and determine each
+225 qualified health plan's level of coverage in accordance with
+Page 9 of 20
+CODING: Words stricken are deletions; words underlined are additions.
+hb1531-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1531 2026
+226 regulations issued by the Secretary under s. 1302(d)(2)(A) of
+227 PPACA.
+228 (f) Use a standardized format for presenting health
+229 benefit options in the exchange, including the use of the
+230 uniform outline of coverage established under s. 2715 of the
+231 Public Health Service Act.
+232 (g) In accordance with s. 1413 of PPACA, inform persons of
+233 eligibility requirements for the Medicaid program under Title
+234 XIX of the Social Security Act, the Children's Health Insurance
+235 Program under Title XXI of the Social Security Act, or any
+236 applicable state or local public program and, if through
+237 screening of the application by the exchange, the exchange
+238 determines that any person is eligible for any such program,
+239 enroll that person in that program.
+240 (h) Establish and make available by electronic means a
+241 calculator to determine the actual cost of coverage after
+242 application of any premium tax credit under s. 36B of the
+243 Internal Revenue Code of 1986 and any cost-sharing reduction
+244 under s. 1402 of PPACA.
+245 (i) Establish a SHOP Exchange through which a qualified
+246 employer may access coverage for its employees, which must
+247 enable any qualified employer to specify a level of coverage so
+248 that any of its employees may enroll in any qualified health
+249 plan offered through the SHOP Exchange at the specified level of
+250 coverage.
+Page 10 of 20
+CODING: Words stricken are deletions; words underlined are additions.
+hb1531-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1531 2026
+251 (j) Subject to s. 1411 of PPACA, grant a certification
+252 attesting that, for purposes of the individual responsibility
+253 penalty under s. 5000A of the Internal Revenue Code of 1986, a
+254 person is exempt from the individual responsibility requirement
+255 or from the penalty imposed by that section because:
+256 1. There is no affordable qualified health plan available
+257 through the exchange, or the person's employer, covering the
+258 person; or
+259 2. The person meets the requirements for any other such
+260 exemption from the individual responsibility requirement or
+261 penalty.
+262 (k) Transfer to the United States Secretary of the
+263 Treasury the following:
+264 1. A list of persons who are issued a certification under
+265 paragraph (j), including the name and taxpayer identification
+266 number of each person.
+267 2. The name and taxpayer identification number of each
+268 person who was an employee of an employer but who was determined
+269 to be eligible for the premium tax credit under s. 36B of the
+270 Internal Revenue Code of 1986 because:
+271 a. The employer did not provide minimum essential
+272 coverage; or
+273 b. The employer provided the minimum essential coverage,
+274 but the coverage was determined under s. 36B(c)(2)(C) of the
+275 Internal Revenue Code to either be unaffordable to the employee
+Page 11 of 20
+CODING: Words stricken are deletions; words underlined are additions.
+hb1531-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1531 2026
+276 or not provide the required minimum actuarial value.
+277 3. The name and taxpayer identification number of:
+278 a. Each person who notifies the exchange under s.
+279 1411(b)(4) of PPACA that he or she has changed employers.
+280 b. Each person who ceases coverage under a qualified
+281 health plan during a plan year and the effective date of that
+282 cessation.
+283 (l) Provide to each employer the name of each employee of
+284 the employer described in subparagraph (k)2. who terminates
+285 coverage under a qualified health plan during a plan year and
+286 the effective date of the termination.
+287 (m) Perform duties required of the exchange by the
+288 Secretary or the United States Secretary of the Treasury related
+289 to determining eligibility for premium tax credits, reduced
+290 cost-sharing, or individual responsibility requirement
+291 exemptions.
+292 (n) Select entities qualified to serve as navigators in
+293 accordance with s. 1311(i) of PPACA and standards developed by
+294 the Secretary, and award grants to enable navigators to:
+295 1. Conduct public education activities to raise awareness
+296 of the availability of qualified health plans.
+297 2. Distribute fair and impartial information concerning
+298 enrollment in qualified health plans and the availability of
+299 premium tax credits under s. 36B of the Internal Revenue Code of
+300 1986 and cost-sharing reductions under s. 1402 of PPACA.
+Page 12 of 20
+CODING: Words stricken are deletions; words underlined are additions.
+hb1531-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1531 2026
+301 3. Facilitate enrollment in qualified health plans.
+302 4. Provide referrals to any applicable office of health
+303 insurance consumer assistance or health insurance ombudsman
+304 established under s. 2793 of the Public Health Service Act, or
+305 any other appropriate state agency, for any enrollee with a
+306 grievance, complaint, or question regarding the enrollee's
+307 health benefit plan or coverage or a determination under that
+308 plan or coverage.
+309 5. Provide information in a manner that is culturally and
+310 linguistically appropriate to the needs of the populations being
+311 served by the exchange.
+312 (o) Review the rate of premium growth within the exchange
+313 and outside the exchange and consider the information in
+314 developing recommendations on whether to continue limiting
+315 qualified employer status to small employers.
+316 (p) Credit the amount of any free choice voucher to the
+317 monthly premium of the plan in which a qualified employee is
+318 enrolled, in accordance with s. 10108 of PPACA, and collect the
+319 amount credited from the offering employer.
+320 (q) Consult with stakeholders relevant to carrying out the
+321 activities required under this section, including, but not
+322 limited to:
+323 1. Educated health care consumers who are enrollees in
+324 qualified health plans.
+325 2. Persons and entities with experience in facilitating
+Page 13 of 20
+CODING: Words stricken are deletions; words underlined are additions.
+hb1531-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1531 2026
+326 enrollment in qualified health plans.
+327 3. Representatives of small businesses and self-employed
+328 persons.
+329 4. The Secretary of Health Care Administration.
+330 5. Advocates for enrolling hard-to-reach populations.
+331 (r) Meet the following financial integrity requirements:
+332 1. Keep an accurate accounting of all activities,
+333 receipts, and expenditures and annually submit to the Secretary,
+334 the Governor, the commissioner, and the Legislature a report
+335 concerning such accountings.
+336 2. Fully cooperate with any investigation conducted by the
+337 Secretary pursuant to the Secretary's authority under PPACA and
+338 allow the Secretary, in coordination with the Office of
+339 Inspector General for the United States Department of Health and
+340 Human Services, to:
+341 a. Investigate the affairs of the exchange.
+342 b. Examine the properties and records of the exchange.
+343 c. Require periodic reports in relation to the activities
+344 undertaken by the exchange.
+345 3. In carrying out its activities under this section, not
+346 use any funds intended for the administrative and operational
+347 expenses of the exchange for staff retreats, promotional
+348 giveaways, excessive executive compensation, or promotion of
+349 federal or state legislative and regulatory modifications.
+350 (7) HEALTH AND DENTAL BENEFIT PLAN CERTIFICATION.—
+Page 14 of 20
+CODING: Words stricken are deletions; words underlined are additions.
+hb1531-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1531 2026
+351 (a) The exchange may certify a health benefit plan as a
+352 qualified health plan if all of the following conditions are
+353 met:
+354 1. The plan provides the essential health benefits package
+355 described in s. 1302(a) of PPACA, except that the plan is not
+356 required to provide essential benefits that duplicate the
+357 minimum benefits of qualified dental plans, as provided in
+358 paragraph (e), if all the following conditions are met:
+359 a. The exchange has determined that at least one qualified
+360 dental plan is available to supplement the plan's coverage.
+361 b. The carrier makes prominent disclosure at the time the
+362 plan is offered, in a form approved by the exchange, that the
+363 plan does not provide the full range of essential pediatric
+364 benefits, and that qualified dental plans providing those
+365 benefits and other dental benefits not covered by the plan are
+366 offered through the exchange.
+367 2. The premium rates and contract language have been
+368 approved by the office.
+369 3. The plan provides at least a bronze level of coverage,
+370 as determined pursuant to paragraph (6)(e) unless the plan is
+371 certified as a qualified catastrophic plan, meets the
+372 requirements of PPACA for catastrophic plans, and will only be
+373 offered to persons eligible for catastrophic coverage.
+374 4. The plan's cost-sharing requirements do not exceed the
+375 limits established under s. 1302(c)(1) of PPACA, and, if the
+Page 15 of 20
+CODING: Words stricken are deletions; words underlined are additions.
+hb1531-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1531 2026
+376 plan is offered through the SHOP Exchange, the plan's deductible
+377 does not exceed the limits established under s. 1302(c)(2) of
+378 PPACA.
+379 5. The health carrier offering the plan meets all of the
+380 following requirements:
+381 a. Is licensed and in good standing to offer health
+382 insurance coverage in this state.
+383 b. Offers at least one qualified health plan in the silver
+384 level and at least one plan in the gold level through each
+385 component of the exchange in which the carrier participates,
+386 where the term "component" refers to the SHOP Exchange and the
+387 exchange for individual coverage.
+388 c. Charges the same premium rate for each qualified health
+389 plan without regard to whether the plan is offered through the
+390 exchange and without regard to whether the plan is offered
+391 directly from the carrier or through an insurance producer.
+392 d. Does not charge any cancellation fees or penalties in
+393 violation of paragraph (5)(c).
+394 e. Complies with the regulations developed by the
+395 Secretary under s. 1311(d) of PPACA and such other requirements
+396 as the exchange may establish.
+397 6. The plan meets the requirements of certification as
+398 adopted by regulation pursuant to subsection (9) and by the
+399 Secretary under s. 1311(c) of PPACA, which include, but are not
+400 limited to, minimum standards in the areas of marketing
+Page 16 of 20
+CODING: Words stricken are deletions; words underlined are additions.
+hb1531-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1531 2026
+401 practices, network adequacy, essential community providers in
+402 underserved areas, accreditation, quality improvement, uniform
+403 enrollment forms and descriptions of coverage, and information
+404 on quality measures for health benefit plan performance.
+405 7. The exchange determines that making the plan available
+406 through the exchange is in the interest of qualified persons and
+407 qualified employers in this state.
+408 (b) The exchange may not exclude a health benefit plan:
+409 1. On the basis that the plan is a fee-for-service plan;
+410 2. Through the imposition of premium price controls by the
+411 exchange; or
+412 3. On the basis that the health benefit plan provides
+413 treatments necessary to prevent patients' deaths in
+414 circumstances the exchange determines are inappropriate or too
+415 costly.
+416 (c) The exchange must require each health carrier seeking
+417 certification of a plan as a qualified health plan to do all of
+418 the following:
+419 1. Submit a justification for any premium increase before
+420 implementation of that increase. The carrier must prominently
+421 post the information on its Internet website. The exchange must
+422 take this information, along with the information and the
+423 recommendations provided to the exchange by the commissioner
+424 under s. 2794(b) of the Public Health Service Act, into
+425 consideration when determining whether to allow the carrier to
+Page 17 of 20
+CODING: Words stricken are deletions; words underlined are additions.
+hb1531-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1531 2026
+426 make plans available through the exchange.
+427 2.a. Make available to the public, in plain language as
+428 provided in subparagraph b., and submit to the exchange, the
+429 Secretary, and the commissioner, accurate and timely disclosure
+430 of the following:
+431 (I) Claims payment policies and practices.
+432 (II) Periodic financial disclosures.
+433 (III) Data on enrollment.
+434 (IV) Data on disenrollment.
+435 (V) Data on the number of claims that are denied.
+436 (VI) Data on rating practices.
+437 (VII) Information on cost sharing and payments with
+438 respect to any out-of-network coverage.
+439 (VIII) Information on enrollee and participant rights
+440 under Title I of PPACA.
+441 (IX) Other information as determined appropriate by the
+442 Secretary.
+443 b. The information required in subparagraph a. must be
+444 provided in plain language, as that term is defined in s.
+445 1311(e)(3)(B) of PPACA.
+446 3. Allow a person to learn, in a timely manner upon the
+447 request of the person, the amount of cost sharing, including
+448 deductibles, copayments, and coinsurance, under the person's
+449 plan or coverage which the person would be responsible for
+450 paying with respect to the furnishing of a specific item or
+Page 18 of 20
+CODING: Words stricken are deletions; words underlined are additions.
+hb1531-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1531 2026
+451 service by a participating provider. At a minimum, this
+452 information must be made available to the person through an
+453 Internet website and through other means for persons without
+454 access to the Internet.
+455 (d) The exchange may not exempt any health carrier seeking
+456 certification of a qualified health plan, regardless of the type
+457 or size of the carrier, from state licensure or solvency
+458 requirements and must apply the criteria of this section in a
+459 manner that is equitable between or among health carriers
+460 participating in the exchange.
+461 (e)1. The provisions of this section that are applicable
+462 to qualified health plans also apply to the extent relevant to
+463 qualified dental plans, except as modified in accordance with
+464 subparagraphs 2., 3., and 4. or by regulations adopted by the
+465 exchange.
+466 2. The carrier must be licensed to offer dental coverage
+467 but need not be licensed to offer other health benefits.
+468 3. The plan must be limited to dental and oral health
+469 benefits, without substantially duplicating the benefits
+470 typically offered by health benefit plans without dental
+471 coverage, and must include, at a minimum, the essential
+472 pediatric dental benefits prescribed by the Secretary pursuant
+473 to s. 1302(b)(1)(J) of PPACA and such other dental benefits as
+474 the exchange or the Secretary may specify by regulation.
+475 4. Carriers may jointly offer a comprehensive plan through
+Page 19 of 20
+CODING: Words stricken are deletions; words underlined are additions.
+hb1531-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 1531 2026
+476 the exchange in which the dental benefits are provided by a
+477 carrier through a qualified dental plan and the other benefits
+478 are provided by a carrier through a qualified health plan,
+479 provided that the plans are priced separately and are also made
+480 available for purchase separately at the same price.
+481 (8) VENDOR TO BUILD AND MANAGE EXCHANGE.—The commissioner
+482 and the office shall contract with a vendor selected by a
+483 competitive procurement to build and manage the exchange.
+484 (9) RULEMAKING AUTHORITY.—The office may adopt rules and
+485 regulations to implement this section. Rules and regulations
+486 adopted under this section may not conflict with or prevent the
+487 application of regulations adopted by the Secretary under PPACA.
+488 (10) RELATION TO OTHER LAWS.—This section, and any action
+489 taken by the exchange pursuant to this section, may not be
+490 construed to preempt or supersede the authority of the
+491 commission to regulate the business of insurance in this state.
+492 Except as expressly provided to the contrary in this section,
+493 all health carriers offering qualified health plans in this
+494 state shall comply fully with all applicable health insurance
+495 laws of this state and rules and regulations adopted and orders
+496 issued by the commission.
+497 Section 2. This act shall take effect July 1, 2026, but
+498 only if HB 1533 or similar legislation is adopted in the same
+499 legislative session or an extension thereof and becomes a law.
+Page 20 of 20
+CODING: Words stricken are deletions; words underlined are additions.
+hb1531-00
