@@ -1,0 +1,388 @@
+Title: 
+Official Title: 
+Source: versions - H 527 c1
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 527 2026
+1 A bill to be entitled
+2 An act relating to mandatory human reviews of
+3 insurance claim denials; creating s. 440.131, F.S.;
+4 defining terms; authorizing workers' compensation
+5 carriers to use algorithms, artificial intelligence
+6 systems, and machine learning systems to assist in
+7 processing claims; prohibiting the use of algorithms,
+8 artificial intelligence, or machine learning systems
+9 as the sole basis for determining whether to reduce a
+10 claim payment or deny a claim or portion of a claim;
+11 requiring that carriers' decisions to deny a claim or
+12 portion of a claim or reduce a claim be made by
+13 qualified human professionals; specifying the duties
+14 of qualified human professionals; requiring a carrier
+15 to maintain certain records; requiring carriers to
+16 include certain information in denial communications
+17 to claimants; requiring that certain carriers detail
+18 certain information in their claims-handling manual;
+19 authorizing the Department of Financial Services to
+20 conduct examinations and investigations under certain
+21 circumstances and to adopt rules; providing penalties;
+22 creating s. 627.4263, F.S.; defining terms;
+23 authorizing insurers to use algorithms, artificial
+24 intelligence systems, and machine learning systems to
+25 assist in processing claims; prohibiting the use of
+Page 1 of 13
+CODING: Words stricken are deletions; words underlined are additions.
+hb527-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 527 2026
+26 algorithms, artificial intelligence, or machine
+27 learning systems as the sole basis for determining
+28 whether to reduce a claim payment or deny a claim or
+29 portion of a claim; requiring that insurers' decisions
+30 to deny a claim or portion of a claim or reduce a
+31 claim be made by qualified human professionals;
+32 specifying the duties of qualified human
+33 professionals; requiring an insurer to maintain
+34 certain records; requiring insurers to include certain
+35 information in denial communications to claimants;
+36 requiring that certain insurers detail certain
+37 information in their claims-handling manual;
+38 authorizing the Office of Insurance Regulation to
+39 conduct market conduct examinations and investigations
+40 under certain circumstances; authorizing the Financial
+41 Services Commission to adopt rules; creating s.
+42 641.31091, F.S.; defining terms; authorizing health
+43 maintenance organizations to use algorithms,
+44 artificial intelligence systems, and machine learning
+45 systems to assist in processing claims; prohibiting
+46 the use of algorithms, artificial intelligence, or
+47 machine learning systems as the sole basis for
+48 determining whether to reduce a claim payment or deny
+49 a claim or portion of a claim; requiring that health
+50 maintenance organizations' decisions to deny a claim
+Page 2 of 13
+CODING: Words stricken are deletions; words underlined are additions.
+hb527-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 527 2026
+51 or reduce a claim or portion of a claim be made by
+52 qualified human professionals; specifying the duties
+53 of qualified human professionals; requiring a health
+54 maintenance organization to maintain certain records;
+55 requiring health maintenance organizations to include
+56 certain information in denial communications to
+57 claimants; requiring that certain health maintenance
+58 organizations detail certain information in their
+59 claims-handling manual; authorizing the office to
+60 conduct market conduct examinations and investigations
+61 under certain circumstances; authorizing the
+62 commission to adopt rules; providing an effective
+63 date.
+64
+65 Be It Enacted by the Legislature of the State of Florida:
+66
+67 Section 1. Section 440.131, Florida Statutes, is created
+68 to read:
+69 440.131 Mandatory human reviews of claim denials.—
+70 (1) As used in this section, the term:
+71 (a) "Algorithm" means a clearly specified mathematical
+72 process for computation which uses rules designed to give
+73 prescribed results.
+74 (b) "Artificial intelligence system" means a machine-based
+75 system that may have varying levels of autonomy and that can,
+Page 3 of 13
+CODING: Words stricken are deletions; words underlined are additions.
+hb527-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 527 2026
+76 for a given set of objectives, generate outputs, such as
+77 predictions, recommendations, or content, influencing decisions
+78 made in real or virtual environments.
+79 (c) "Machine learning system" means an artificial
+80 intelligence system that has the ability to learn from provided
+81 data without being explicitly programmed.
+82 (d) "Qualified human professional" means an individual
+83 who, under the Florida Insurance Code, has the authority to
+84 adjust or deny a claim or a portion of a claim and may exercise
+85 such authority over a particular claim.
+86 (2) A carrier may use an algorithm, an artificial
+87 intelligence system, or a machine learning system to assist in
+88 processing claims, including generating recommendations to
+89 approve or deny a claim or a portion of a claim, in accordance
+90 with this section.
+91 (3) A decision to reduce a claim payment or deny a claim
+92 or a portion of a claim may not be made solely on the basis of
+93 an algorithm, an artificial intelligence system, or a machine
+94 learning system. A carrier's decision to reduce a claim payment
+95 or deny a claim or a portion of a claim must be made by a
+96 qualified human professional.
+97 (4) If an algorithm, an artificial intelligence system, or
+98 a machine learning system assists in processing a claim, the
+99 qualified human professional must do all of the following before
+100 reducing a claim payment or denying the claim or a portion of
+Page 4 of 13
+CODING: Words stricken are deletions; words underlined are additions.
+hb527-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 527 2026
+101 the claim:
+102 (a) Analyze the facts of the claim and the terms of the
+103 insurance policy independently of any artificial intelligence
+104 system, machine learning system, or algorithm.
+105 (b) Review the accuracy of any output generated by such a
+106 system or algorithm.
+107 (c) Determine that the claim or portion of the claim is
+108 not payable under the terms of the insurance policy and should
+109 be denied or that the claim payment should be reduced.
+110 (5) A carrier shall maintain detailed records of the
+111 actions of qualified human professionals who are required to
+112 perform the actions under subsection (4), including:
+113 (a) The name, the title, the business address, and the
+114 unique identifier associated with the name of the qualified
+115 human professional who made the decision to reduce the claim
+116 payment or deny the claim or a portion of the claim.
+117 (b) The date and time of the qualified human
+118 professional's decision.
+119 (c) Documentation of the basis for the reduction of the
+120 claim payment or denial of the claim or a portion of the claim,
+121 including any information provided by an algorithm, an
+122 artificial intelligence system, or a machine learning system.
+123 (6) In all written denial communications to an injured
+124 employee, a carrier shall include:
+125 (a) An e-mail address, a telephone number, a business
+Page 5 of 13
+CODING: Words stricken are deletions; words underlined are additions.
+hb527-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 527 2026
+126 address, and a unique identifier, in lieu of the name of the
+127 qualified human professional who made the decision to reduce the
+128 claim payment or deny the claim or a portion of the claim; and
+129 (b) A written statement affirming that an algorithm, an
+130 artificial intelligence system, or a machine learning system did
+131 not serve as the sole basis for determining whether to reduce
+132 the claim payment or deny the claim or a portion of the claim.
+133 (7) A carrier that uses an algorithm, an artificial
+134 intelligence system, or a machine learning system as part of its
+135 claims-handling process shall detail in its claims-handling
+136 manual the manner in which such algorithms or systems are to be
+137 used and the manner in which the carrier complies with this
+138 section.
+139 (8) The department may conduct examinations and
+140 investigations it deems necessary to verify compliance with this
+141 section.
+142 (9) The department may adopt rules to implement this
+143 section.
+144 (10) Failure to comply with this section shall be
+145 considered a violation of this chapter and is subject to
+146 penalties as provided for in s. 440.525.
+147 Section 2. Section 627.4263, Florida Statutes, is created
+148 to read:
+149 627.4263 Mandatory human reviews of claim denials.—
+150 (1) As used in this section, the term:
+Page 6 of 13
+CODING: Words stricken are deletions; words underlined are additions.
+hb527-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 527 2026
+151 (a) "Algorithm" means a clearly specified mathematical
+152 process for computation which uses rules designed to give
+153 prescribed results.
+154 (b) "Artificial intelligence system" means a machine-based
+155 system that may have varying levels of autonomy and that can,
+156 for a given set of objectives, generate outputs, such as
+157 predictions, recommendations, or content, influencing decisions
+158 made in real or virtual environments.
+159 (c) "Machine learning system" means an artificial
+160 intelligence system that has the ability to learn from provided
+161 data without being explicitly programmed.
+162 (d) "Qualified human professional" means an individual
+163 who, under the Florida Insurance Code, has the authority to
+164 adjust or deny a claim or a portion of a claim and may exercise
+165 such authority over a particular claim.
+166 (2) An insurer may use an algorithm, artificial
+167 intelligence system, or machine learning system to assist in
+168 processing claims, including generating recommendations to
+169 approve or deny a claim or a portion of a claim, in accordance
+170 with this section.
+171 (3) A decision to reduce a claim payment or deny a claim
+172 or a portion of a claim may not be made solely on the basis of
+173 an algorithm, an artificial intelligence system, or a machine
+174 learning system. An insurer's decision to reduce a claim payment
+175 or deny a claim or a portion of a claim must be made by a
+Page 7 of 13
+CODING: Words stricken are deletions; words underlined are additions.
+hb527-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 527 2026
+176 qualified human professional.
+177 (4) If an algorithm, an artificial intelligence system, or
+178 a machine learning system assists in processing a claim, the
+179 qualified human professional must do all of the following before
+180 reducing a claim payment or denying the claim or a portion of
+181 the claim:
+182 (a) Analyze the facts of the claim and the terms of the
+183 insurance policy independently of any artificial intelligence
+184 system, machine learning system, or algorithm.
+185 (b) Review the accuracy of any output generated by such a
+186 system or algorithm.
+187 (c) Determine that the claim or portion of the claim is
+188 not payable under the terms of the insurance policy and should
+189 be denied or that the claim payment should be reduced.
+190 (5) An insurer shall maintain detailed records of the
+191 actions of qualified human professionals who are required to
+192 perform the actions under subsection (4), including:
+193 (a) The name, the title, the business address, and the
+194 unique identifier associated with the name of the qualified
+195 human professional who made the decision to reduce the claim
+196 payment or deny the claim or a portion of the claim.
+197 (b) The date and time of the qualified human
+198 professional's decision.
+199 (c) Documentation of the basis for the reduction of the
+200 claim payment or denial of the claim or a portion of the claim,
+Page 8 of 13
+CODING: Words stricken are deletions; words underlined are additions.
+hb527-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 527 2026
+201 including any information provided by an algorithm, an
+202 artificial intelligence system, or a machine learning system.
+203 (6) In all written denial communications to an insured, an
+204 insurer shall include:
+205 (a) An e-mail address, a telephone number, a business
+206 address, and a unique identifier, in lieu of the name of the
+207 qualified human professional who made the decision to reduce the
+208 claim payment or deny the claim or a portion of the claim; and
+209 (b) A written statement affirming that an algorithm, an
+210 artificial intelligence system, or a machine learning system did
+211 not serve as the sole basis for determining whether to reduce
+212 the claim payment or deny the claim or a portion of the claim.
+213 (7) An insurer that uses an algorithm, an artificial
+214 intelligence system, or a machine learning system as part of its
+215 claims-handling process shall detail in its claims-handling
+216 manual the manner in which such algorithms or systems are to be
+217 used and the manner in which the insurer complies with this
+218 section.
+219 (8) The office may conduct market conduct examinations and
+220 investigations it deems necessary to verify compliance with this
+221 section.
+222 (9) The commission may adopt rules to implement this
+223 section.
+224 Section 3. Section 641.31091, Florida Statutes, is created
+225 to read:
+Page 9 of 13
+CODING: Words stricken are deletions; words underlined are additions.
+hb527-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 527 2026
+226 641.31091 Mandatory human reviews of claim denials.—
+227 (1) As used in this section, the term:
+228 (a) "Algorithm" means a clearly specified mathematical
+229 process for computation which uses rules designed to give
+230 prescribed results.
+231 (b) "Artificial intelligence system" means a machine-based
+232 system that may have varying levels of autonomy and that can,
+233 for a given set of objectives, generate outputs, such as
+234 predictions, recommendations, or content, influencing decisions
+235 made in real or virtual environments.
+236 (c) "Machine learning system" means an artificial
+237 intelligence system that has the ability to learn from provided
+238 data without being explicitly programmed.
+239 (d) "Qualified human professional" means an individual
+240 who, under the Florida Insurance Code, has the authority to
+241 adjust or deny a claim or a portion of a claim and may exercise
+242 such authority over a particular claim.
+243 (2) A health maintenance organization may use an
+244 algorithm, an artificial intelligence system, or a machine
+245 learning system to assist in processing claims, including
+246 generating recommendations to approve or deny a claim or a
+247 portion of a claim, in accordance with this section.
+248 (3) A decision to reduce a claim payment or deny a claim
+249 or a portion of a claim may not be made solely on the basis of
+250 an algorithm, artificial intelligence system, or machine
+Page 10 of 13
+CODING: Words stricken are deletions; words underlined are additions.
+hb527-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 527 2026
+251 learning system. A health maintenance organization's decision to
+252 reduce a claim payment or deny a claim or a portion of a claim
+253 must be made by a qualified human professional.
+254 (4) If an algorithm, an artificial intelligence system, or
+255 a machine learning system assists in processing a claim, the
+256 qualified human professional must do all of the following before
+257 reducing a claim payment or denying the claim or a portion of
+258 the claim:
+259 (a) Analyze the facts of the claim and the terms of the
+260 health maintenance contract independently of any artificial
+261 intelligence system, machine learning system, or algorithm.
+262 (b) Review the accuracy of any output generated by such a
+263 system or algorithm.
+264 (c) Determine that the claim or portion of the claim is
+265 not payable under the terms of the health maintenance contract
+266 and should be denied or that the claim payment should be
+267 reduced.
+268 (5) A health maintenance organization shall maintain
+269 detailed records of the actions of qualified human professionals
+270 who are required to perform the actions under subsection (4),
+271 including:
+272 (a) The name, the title, the business address, and the
+273 unique identifier associated with the name of the qualified
+274 human professional who made the decision to reduce the claim
+275 payment or deny the claim or a portion of the claim.
+Page 11 of 13
+CODING: Words stricken are deletions; words underlined are additions.
+hb527-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 527 2026
+276 (b) The date and time of the qualified human
+277 professional's decision.
+278 (c) Documentation of the basis for the reduction of the
+279 claim payment or denial of the claim or a portion of the claim,
+280 including any information provided by an algorithm, an
+281 artificial intelligence system, or a machine learning system.
+282 (6) In all written denial communications to a subscriber,
+283 a health maintenance organization shall include:
+284 (a) An e-mail address, a telephone number, a business
+285 address, and a unique identifier, in lieu of the name of the
+286 qualified human professional who made the decision to reduce the
+287 claim payment or deny the claim or a portion of the claim; and
+288 (b) A written statement affirming that an algorithm, an
+289 artificial intelligence system, or a machine learning system did
+290 not serve as the sole basis for determining whether to reduce
+291 the claim payment or deny the claim or a portion of the claim.
+292 (7) A health maintenance organization that uses an
+293 algorithm, an artificial intelligence system, or a machine
+294 learning system as part of its claims-handling process shall
+295 detail in its claims-handling manual the manner in which such
+296 algorithms or systems are to be used and the manner in which the
+297 health maintenance organization complies with this section.
+298 (8) The office may conduct market conduct examinations and
+299 investigations or use any method it deems necessary to verify
+300 compliance with this section.
+Page 12 of 13
+CODING: Words stricken are deletions; words underlined are additions.
+hb527-01-c1
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/HB 527 2026
+301 (9) The commission may adopt rules to implement this
+302 section.
+303 Section 4. This act shall take effect July 1, 2026.
+Page 13 of 13
+CODING: Words stricken are deletions; words underlined are additions.
+hb527-01-c1

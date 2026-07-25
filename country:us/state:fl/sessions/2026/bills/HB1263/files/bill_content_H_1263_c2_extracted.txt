@@ -1,0 +1,1444 @@
+Title: 
+Official Title: 
+Source: versions - H 1263 c2
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 1263 2026
+1 A bill to be entitled
+2 An act relating to the Office of Insurance Regulation;
+3 amending s. 20.121, F.S.; providing that the Office of
+4 Insurance Regulation is responsible for all activities
+5 concerning entities under its jurisdiction; amending
+6 s. 501.171, F.S.; requiring covered entities under the
+7 office's jurisdiction to copy the office on certain
+8 notices and provide certain information, upon request,
+9 to the office; amending s. 624.310, F.S.; authorizing
+10 the Department of Financial Services and the office to
+11 issue and deliver cease and desist orders for certain
+12 activities; authorizing the department and the office
+13 to seek an injunction for enforcement of such order;
+14 amending s. 624.316, F.S.; removing a provision
+15 authorizing the Financial Services Commission to adopt
+16 the Market Conduct Examiners Handbook; amending s.
+17 624.3161, F.S.; requiring the office to examine
+18 administrators under certain circumstances;
+19 authorizing the commission to adopt by rule the Market
+20 Conduct Examiners Handbook; creating s. 624.341, F.S.;
+21 requiring the Department of Law Enforcement to accept
+22 and process fingerprints taken of certain persons;
+23 providing applicability; specifying procedures for
+24 fingerprinting; authorizing the Department of Law
+25 Enforcement to exchange certain records with the
+Page 1 of 47
+CODING: Words stricken are deletions; words underlined are additions.
+hb1263-02-c2
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 1263 2026
+26 office; specifying that fingerprints must be submitted
+27 in accordance with certain rules; requiring the
+28 Department of Law Enforcement and the Federal Bureau
+29 of Investigation to conduct certain background checks;
+30 requiring that certain fingerprints be submitted and
+31 entered into a specified system; requiring the office
+32 to inform the Department of Law Enforcement of any
+33 person whose fingerprints no longer need to be
+34 retained; specifying who bears the costs of
+35 fingerprint processing; requiring the office to review
+36 criminal history background checks and make certain
+37 determinations; specifying that certain criminal
+38 records be used by the office for certain purposes;
+39 amending s. 627.062, F.S.; revising the factors that
+40 the office must consider in determining if insurance
+41 rates are excessive, inadequate, or discriminatory;
+42 amending s. 627.0628, F.S.; requiring private
+43 passenger automobile insurance to be adequately
+44 projected; amending s. 627.0629, F.S.; requiring the
+45 office to determine minimum rate differentials for
+46 windstorm damage mitigation techniques that meet or
+47 exceed the minimum requirements of the Florida
+48 Building Code; authorizing insurers to seek additional
+49 rate differentials; amending s. 627.0645, F.S.;
+50 revising requirements of rate filing with the office
+Page 2 of 47
+CODING: Words stricken are deletions; words underlined are additions.
+hb1263-02-c2
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 1263 2026
+51 for certain insurers; amending s. 627.711, F.S.;
+52 requiring that certain discount notification forms for
+53 personal lines residential property insurance policies
+54 be sent to insureds at the time of policy issuance and
+55 renewal; requiring the office to contract with a state
+56 university to design, operate, upgrade, and maintain a
+57 specified database; requiring property insurers to
+58 file certain policyholder forms within a specified
+59 timeframe in the database beginning on a specified
+60 date; requiring the commission to adopt rules;
+61 amending s. 627.7152, F.S.; removing a provision
+62 requiring insurers to report on residential and
+63 commercial property insurance claims paid in a certain
+64 year; amending s. 627.915, F.S.; requiring private
+65 passenger automobile insurers to file specified
+66 monthly reports beginning on a specified date;
+67 requiring the commission to adopt rules; removing the
+68 requirement for certain insurers to submit such
+69 report; removing an exemption for certain insurers;
+70 creating s. 628.8011, F.S.; providing definitions;
+71 requiring certain persons to file a group capital
+72 calculation report annually by a specified date;
+73 providing requirements for such report; exempting
+74 certain insurance holding company systems from filing
+75 such report; requiring certain non-United States-based
+Page 3 of 47
+CODING: Words stricken are deletions; words underlined are additions.
+hb1263-02-c2
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 1263 2026
+76 insurance holding company systems to file a group
+77 capital calculation report; authorizing the office to
+78 exempt certain persons from filing such report under
+79 certain circumstances; authorizing the filing of a
+80 limited group capital filing instead of the group
+81 capital calculation report under certain
+82 circumstances; authorizing the office to require
+83 certain insurance holding company systems to file such
+84 report despite qualifying for an exemption under
+85 certain circumstances; requiring the office to
+86 establish certain criteria and publish certain
+87 information on its website; authorizing the commission
+88 to adopt certain rules; creating s. 628.8012, F.S.;
+89 providing definitions; requiring certain persons to
+90 annually file results of a liquidity stress test in
+91 compliance with specified instructions; providing an
+92 exemption; authorizing the office to adopt rules;
+93 creating s. 628.8013, F.S.; providing that a certain
+94 report and test are for specified purposes;
+95 prohibiting certain representations or statements by
+96 certain persons; authorizing an insurer to rebut
+97 certain information in a written publication under
+98 certain circumstances; creating s. 629.53, F.S.;
+99 requiring attorneys in fact of reciprocal insurers to
+100 obtain a registration; providing requirements for the
+Page 4 of 47
+CODING: Words stricken are deletions; words underlined are additions.
+hb1263-02-c2
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 1263 2026
+101 application of such registration; prohibiting fees for
+102 registration and registration application; requiring
+103 the office to investigate applicants; authorizing the
+104 office to issue registrations to applicants under
+105 certain circumstances; creating s. 629.54, F.S.;
+106 providing for automatic renewal of the registration of
+107 an attorney in fact; creating s. 629.55, F.S.;
+108 authorizing the office to deny, suspend, revoke, or
+109 refuse to renew the registration of an attorney in
+110 fact under certain circumstances; creating s. 629.56,
+111 F.S.; providing for when an order of suspension or
+112 revocation of a registration is effected; authorizing
+113 the office to publish certain notice in newspapers of
+114 general circulation; creating s. 629.57, F.S.;
+115 providing a limitation on the period of suspension of
+116 an attorney in fact registration; providing that a
+117 registration is automatically reinstated after the
+118 suspension ends; creating s. 629.58, F.S.; authorizing
+119 the office to issue administrative fines in lieu of
+120 suspension or revocation; prohibiting a fine from
+121 being borne by an insurer; amending ss. 634.141,
+122 634.314, and 634.416, F.S.; conforming cross-
+123 references; providing an effective date.
+124
+125 Be It Enacted by the Legislature of the State of Florida:
+Page 5 of 47
+CODING: Words stricken are deletions; words underlined are additions.
+hb1263-02-c2
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 1263 2026
+126
+127 Section 1. Paragraph (a) of subsection (3) of section
+128 20.121, Florida Statutes, is amended to read:
+129 20.121 Department of Financial Services.—There is created
+130 a Department of Financial Services.
+131 (3) FINANCIAL SERVICES COMMISSION.—Effective January 7,
+132 2003, there is created within the Department of Financial
+133 Services the Financial Services Commission, composed of the
+134 Governor, the Attorney General, the Chief Financial Officer, and
+135 the Commissioner of Agriculture, which shall for purposes of
+136 this section be referred to as the commission. Commission
+137 members shall serve as agency head of the Financial Services
+138 Commission. The commission shall be a separate budget entity and
+139 shall be exempt from the provisions of s. 20.052. Commission
+140 action shall be by majority vote consisting of at least three
+141 affirmative votes. The commission shall not be subject to
+142 control, supervision, or direction by the Department of
+143 Financial Services in any manner, including purchasing,
+144 transactions involving real or personal property, personnel, or
+145 budgetary matters.
+146 (a) Structure.—The major structural unit of the commission
+147 is the office. Each office shall be headed by a director. The
+148 following offices are established:
+149 1. The Office of Insurance Regulation, which shall be
+150 responsible for all activities concerning insurers, and other
+Page 6 of 47
+CODING: Words stricken are deletions; words underlined are additions.
+hb1263-02-c2
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 1263 2026
+151 risk bearing entities, and other entities under its
+152 jurisdiction, including licensing, rates, policy forms, market
+153 conduct, claims, issuance of certificates of authority,
+154 solvency, viatical settlements, premium financing, and
+155 administrative supervision, as provided under the insurance code
+156 or chapter 636. The head of the Office of Insurance Regulation
+157 is the Director of the Office of Insurance Regulation, who may
+158 also be known as the Commissioner of Insurance Regulation.
+159 2. The Office of Financial Regulation, which shall be
+160 responsible for all activities of the Financial Services
+161 Commission relating to the regulation of banks, credit unions,
+162 other financial institutions, finance companies, and the
+163 securities industry. The head of the office is the Director of
+164 the Office of Financial Regulation, who may also be known as the
+165 Commissioner of Financial Regulation. The Office of Financial
+166 Regulation shall include a Bureau of Financial Investigations,
+167 which shall function as a criminal justice agency for purposes
+168 of ss. 943.045-943.08 and shall have a separate budget. The
+169 bureau may conduct investigations within or outside this state
+170 as the bureau deems necessary to aid in the enforcement of this
+171 section. If, during an investigation, the office has reason to
+172 believe that any criminal law of this state has or may have been
+173 violated, the office shall refer any records tending to show
+174 such violation to state or federal law enforcement or
+175 prosecutorial agencies and shall provide investigative
+Page 7 of 47
+CODING: Words stricken are deletions; words underlined are additions.
+hb1263-02-c2
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 1263 2026
+176 assistance to those agencies as required.
+177 Section 2. Paragraph (f) is added to subsection (3) of
+178 section 501.171, Florida Statutes, to read:
+179 501.171 Security of confidential personal information.—
+180 (3) NOTICE TO DEPARTMENT OF SECURITY BREACH.—
+181 (f) If a covered entity is subject to the jurisdiction of
+182 the Office of Insurance Regulation, the covered entity must copy
+183 the office on the notice provided to the department. The covered
+184 entity must provide any information listed in paragraph (c) to
+185 the office upon its request.
+186 Section 3. Paragraph (g) is added to subsection (5) of
+187 section 624.310, Florida Statutes, to read:
+188 624.310 Enforcement; cease and desist orders; removal of
+189 certain persons; fines.—
+190 (5) ADMINISTRATIVE FINES; ENFORCEMENT.—
+191 (g) If the department or office has probable cause to
+192 believe that a person is performing activities that require a
+193 license, registration, certificate of authority, or any other
+194 form of authorization from the department or office and the
+195 person performing such activities does not hold the required
+196 license, registration, certificate of authority, or other form
+197 of authorization, the department or office may issue and deliver
+198 to such person a notice to cease and desist from such violation
+199 of the insurance code. In addition, the department or office may
+200 issue and deliver a notice to cease and desist to any person who
+Page 8 of 47
+CODING: Words stricken are deletions; words underlined are additions.
+hb1263-02-c2
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 1263 2026
+201 aids and abets the person violating the insurance code. For the
+202 purpose of enforcing a cease and desist order under this
+203 paragraph, the department or office may file an action for a
+204 court proceeding in the name of this state seeking the issuance
+205 of an injunction against a person who violates any provision of
+206 the cease and desist order.
+207 Section 4. Paragraph (c) of subsection (1) of section
+208 624.316, Florida Statutes, is amended to read:
+209 624.316 Examination of insurers.—
+210 (1)
+211 (c) The office shall examine each insurer according to
+212 accounting procedures designed to fulfill the requirements of
+213 generally accepted insurance accounting principles and practices
+214 and good internal control and in keeping with generally accepted
+215 accounting forms, accounts, records, methods, and practices
+216 relating to insurers. To facilitate uniformity in examinations,
+217 the commission may adopt, by rule, the Market Conduct Examiners
+218 Handbook and the Financial Condition Examiners Handbook of the
+219 National Association of Insurance Commissioners, 2002, and may
+220 adopt subsequent amendments thereto, if the examination
+221 methodology remains substantially consistent.
+222 Section 5. Subsections (2) through (9) of section
+223 624.3161, Florida Statutes, are renumbered as subsections (3)
+224 through (10), respectively, subsection (1), paragraph (e) of
+225 present subsection (8), and paragraph (a) of present subsection
+Page 9 of 47
+CODING: Words stricken are deletions; words underlined are additions.
+hb1263-02-c2
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 1263 2026
+226 (9) are amended, and a new subsection (2) is added to that
+227 section, to read:
+228 624.3161 Market conduct examinations.—
+229 (1) As often as it deems necessary, the office shall
+230 examine each licensed rating organization, each advisory
+231 organization, administrator, each group, association, carrier,
+232 as defined in s. 440.02, or other organization of insurers which
+233 engages in joint underwriting or joint reinsurance, the attorney
+234 in fact of each reciprocal insurer, and each authorized insurer
+235 transacting in this state any class of insurance to which
+236 chapter 627 is applicable. The examination must be for the
+237 purpose of ascertaining compliance by the person examined with
+238 the applicable provisions of this chapter and chapters 440, 626,
+239 627, and 635.
+240 (2) To facilitate uniformity in examinations, the
+241 commission may adopt, by rule, the Market Conduct Examiners
+242 Handbook of the National Association of Insurance Commissioners,
+243 2024, and may adopt subsequent amendments thereto, if the
+244 examination methodology remains substantially consistent.
+245 (9)(8) The office shall create, and the commission shall
+246 adopt by rule, a selection methodology for scheduling and
+247 conducting market conduct examinations of insurers and other
+248 entities regulated by the office. This requirement does not
+249 restrict the authority of the office to conduct market conduct
+250 examinations as often as it deems necessary. Such selection
+Page 10 of 47
+CODING: Words stricken are deletions; words underlined are additions.
+hb1263-02-c2
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 1263 2026
+251 methodology must prioritize market conduct examinations of
+252 insurers and other entities regulated by the office to whom any
+253 of the following conditions applies:
+254 (e) The insurer meets the criteria in subsection (8) (7).
+255
+256 The office shall present the proposed rule required by this
+257 subsection to the commission no later than October 1, 2023. In
+258 addition to the methodology required by this subsection, the
+259 rule must provide criteria for how the office, in coordination
+260 with the department, will determine what constitutes a
+261 disproportionate number of claims-handling complaints described
+262 in paragraph (b).
+263 (10)(9) If the office concludes through an examination
+264 pursuant to this section that an insurer providing liability
+265 coverage in this state exhibits a pattern or practice of
+266 violations of the Florida Insurance Code during any
+267 investigation or examination of the insurer, the office must
+268 review the insurer's claims-handling practices to determine if
+269 the insurer should be subject to the enhanced enforcement
+270 penalties of this subsection.
+271 (a) A liability insurer may be subject to enhanced
+272 enforcement penalties if the office reviews the insurer's
+273 claims-handling practices and finds a pattern or practice of the
+274 insurer failing to do the following when responding to covered
+275 liability claims under an insurance policy, after receiving
+Page 11 of 47
+CODING: Words stricken are deletions; words underlined are additions.
+hb1263-02-c2
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 1263 2026
+276 actual notice of such claims:
+277 1. Assign a licensed and appointed insurance adjuster to
+278 investigate whether coverage is provided under the policy and
+279 diligently attempt to resolve any questions concerning the
+280 extent of the insured's coverage.
+281 2. Evaluate the claim fairly, honestly, and with due
+282 regard for the interests of the insured based on available
+283 information.
+284 3. Request from the insured or claimant additional
+285 relevant information the insurer reasonably deems necessary to
+286 evaluate whether to settle a claim.
+287 4. Conduct all oral and written communications with the
+288 insured with honesty and candor.
+289 5. Make reasonable efforts to explain to persons not
+290 represented by counsel matters requiring expertise beyond the
+291 level normally expected of a layperson with no training in
+292 insurance or claims-handling issues.
+293 6. Retain all written and recorded communications and
+294 create and retain a summary of all verbal communications in a
+295 reasonable manner for a period of not less than 2 years after
+296 the later of the entry of a final judgment against the insured
+297 in excess of policy limits or, if an extracontractual claim is
+298 made, the conclusion of that claim and any related appeals.
+299 7. Within 30 days after a request, provide the insured
+300 with all communications related to the insurer's handling of the
+Page 12 of 47
+CODING: Words stricken are deletions; words underlined are additions.
+hb1263-02-c2
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 1263 2026
+301 claim which are not privileged as to the insured.
+302 8. Provide, upon request and at the insurer's expense,
+303 reasonable accommodations necessary to communicate effectively
+304 with an insured covered under the Americans with Disabilities
+305 Act.
+306 9. When handling a third-party claim, communicate each of
+307 the following to the insured:
+308 a. The identity of any other person or entity the insurer
+309 has reason to believe may be liable.
+310 b. The insurer's final and completed estimate of the
+311 claim.
+312 c. The possibility of an excess judgment.
+313 d. The insured's right to secure personal counsel at his
+314 or her own expense.
+315 e. That the insured should cooperate with the insurer,
+316 including providing information required by the insurer because
+317 of a settlement opportunity or in accordance with the policy.
+318 f. Any formal settlement demands or offers to settle by
+319 the claimant and any offers to settle on behalf of the insured.
+320 10. Respond to any request for insurance information in
+321 compliance with s. 626.9372 or s. 627.4137, as applicable.
+322 11. Seek to obtain a general release of each insured in
+323 making any settlement offer to a third-party claimant.
+324 12. Take reasonable measures to preserve any documentary,
+325 photographic, and forensic evidence as needed for the defense of
+Page 13 of 47
+CODING: Words stricken are deletions; words underlined are additions.
+hb1263-02-c2
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 1263 2026
+326 the liability claim if it appears likely that the insured's
+327 liability exposure is greater than policy limits and the insurer
+328 fails to secure a general release in favor of the insured.
+329 13. Comply with subsections (1) and (3) (2), if
+330 applicable.
+331 14. Comply with the Unfair Insurance Trade Practices Act.
+332 Section 6. Section 624.341, Florida Statutes, is created
+333 to read:
+334 624.341 Authority of Department of Law Enforcement to
+335 accept fingerprints of, and exchange criminal history records
+336 with respect to, certain persons applying to the Office of
+337 Insurance Regulation.—
+338 (1) The Department of Law Enforcement must accept
+339 fingerprints from key managerial personnel with the ultimate
+340 authority of the financial and operational decisions of the
+341 entities licensed, certified, registered, or holding a
+342 certificate of authority under the Florida Insurance Code. This
+343 section applies to the following persons as required by the
+344 office:
+345 (a) Incorporators, stockholders, and attorneys in fact
+346 under ss. 624.404(3)(c), 629.091(2), 632.638(3), and
+347 641.22(6)(c).
+348 (b) Individuals responsible for the management of and the
+349 conduct of the management of an arrangement, including all
+350 trustees, officers, and directors under s. 624.439(2).
+Page 14 of 47
+CODING: Words stricken are deletions; words underlined are additions.
+hb1263-02-c2
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 1263 2026
+351 (c) Individuals employed or retained by an administrator
+352 who are responsible for the conduct of the affairs of the
+353 administrator, including members of the board of directors,
+354 board of trustees, executive committee, or other governing board
+355 or committee, and the principal officers in the case of a
+356 corporation or the partners or members in the case of a
+357 partnership or association of the administrator under s.
+358 626.8805(2)(c).
+359 (d) Individuals who are responsible for a viatical
+360 settlement provider's affairs, including, but not limited to,
+361 any member of the viatical settlement provider's board of
+362 directors, board of trustees, executive committee, or other
+363 governing board or committee, and any other person or entity
+364 owning or having the right to acquire 10 percent or more of the
+365 voting securities of the viatical settlement provider under s.
+366 626.9912(3)(d).
+367 (e) Managers of a company under ss. 627.829(1) and
+368 627.832(1)(g) and (j).
+369 (f) Directors, officers, trustees, or other natural
+370 persons performing duties similar to those of a director,
+371 officer, or trustee for the corporation, association, or trust
+372 under s. 628.461(3)(a).
+373 (g) Directors, officers, trustees, partners, owners,
+374 managers, or joint venturers, or others performing functions
+375 similar to those of a director, officer, or trustee under s.
+Page 15 of 47
+CODING: Words stricken are deletions; words underlined are additions.
+hb1263-02-c2
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 1263 2026
+376 628.4615(5)(a)7.
+377 (h) Managers of a company under ss. 634.041(2),
+378 634.304(2), and 634.404(2).
+379 (i) Members of the board of directors, board of trustees,
+380 executive committee, or other governing board or committee;
+381 officers; contracted management company personnel; and any other
+382 person or entity owning or having the right to acquire 10
+383 percent or more of the voting securities under ss. 636.008(3)
+384 and 636.204(2)(c).
+385 (j) Persons who are to be responsible for the conduct of
+386 the affairs of a clinic, including all members of the governing
+387 body, the officers and directors in the case of a corporation,
+388 and the partners or associates in the case of a partnership or
+389 association under s. 641.405(2)(c).
+390 (k) All natural persons who are directors and officers,
+391 and each shareholder who owns or controls 10 percent or more of
+392 the shares of the corporation under ss. 642.021 and 642.032.
+393 (l) Members, shareholders, and persons in charge of
+394 providing care under a certificate of authority subject to s.
+395 651.022(2)(c).
+396 (2) The Department of Law Enforcement shall accept and
+397 process fingerprints of individuals identified by the office
+398 under subsection (1).
+399 (3) Each person required to submit fingerprints to the
+400 office must provide a full set of fingerprints to the office or
+Page 16 of 47
+CODING: Words stricken are deletions; words underlined are additions.
+hb1263-02-c2
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 1263 2026
+401 to a vendor, an entity, or an agency authorized under s.
+402 943.053(13). The office, vendor, entity, or agency shall forward
+403 the fingerprints to the Department of Law Enforcement for state
+404 processing, and the Department of Law Enforcement shall forward
+405 the fingerprints to the Federal Bureau of Investigation for
+406 national processing. Fees for state and federal fingerprint
+407 processing must be borne by the person submitting the
+408 fingerprints. The state cost for fingerprint processing is as
+409 provided in s. 943.053(3)(e).
+410 (4) The Department of Law Enforcement may, to the extent
+411 provided by federal law, exchange any state or national criminal
+412 history records with the office for the purpose of issuance or
+413 continuation of a certificate of authority, certification,
+414 registration, or license to operate in this state.
+415 (5) Fingerprints must be submitted in accordance with
+416 rules adopted by the commission.
+417 (a) Fingerprints may be submitted through a third-party
+418 vendor authorized by the Department of Law Enforcement.
+419 (b) The Department of Law Enforcement shall conduct the
+420 state criminal history background check, and a federal criminal
+421 history background check shall be conducted through the Federal
+422 Bureau of Investigation.
+423 (c) All fingerprints submitted to the Department of Law
+424 Enforcement must be submitted and entered into the statewide
+425 automated biometric identification system established in s.
+Page 17 of 47
+CODING: Words stricken are deletions; words underlined are additions.
+hb1263-02-c2
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 1263 2026
+426 943.05(2)(b) and available for use in accordance with s.
+427 943.05(2)(g) and (h).
+428 (d) The costs of fingerprint processing, including the
+429 cost of retaining the fingerprints, must be borne by the person
+430 subject to the background checks.
+431 (e) The office shall review the results of the state and
+432 federal criminal history background checks and determine whether
+433 the applicant meets the requirements for the certificate of
+434 authority, certification, registration, or license to operate in
+435 this state.
+436 (6) Statewide criminal records obtained through the
+437 Department of Law Enforcement, federal criminal records obtained
+438 through the Federal Bureau of Investigation, and local criminal
+439 records obtained through local law enforcement agencies must be
+440 used by the office for the purpose of issuance, denial,
+441 suspension, or revocation of certificates of authority,
+442 certifications, registrations, or licenses issued to operate in
+443 this state.
+444 Section 7. Paragraph (b) of subsection (2) of section
+445 627.062, Florida Statutes, is amended to read:
+446 627.062 Rate standards.—
+447 (2) As to all such classes of insurance:
+448 (b) Upon receiving a rate filing, the office shall review
+449 the filing to determine if a rate is excessive, inadequate, or
+450 unfairly discriminatory. In making that determination, the
+Page 18 of 47
+CODING: Words stricken are deletions; words underlined are additions.
+hb1263-02-c2
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 1263 2026
+451 office shall, in accordance with generally accepted and
+452 reasonable actuarial techniques, consider the following factors:
+453 1. Past and prospective loss experience within and without
+454 this state.
+455 2. Past and prospective expenses.
+456 3. The degree of competition among insurers for the risk
+457 insured.
+458 4. Investment income reasonably expected by the insurer,
+459 consistent with the insurer's investment practices, from
+460 investable premiums anticipated in the filing, plus any other
+461 expected income from currently invested assets representing the
+462 amount expected on unearned premium reserves and loss reserves.
+463 The commission may adopt rules using reasonable techniques of
+464 actuarial science and economics to specify the manner in which
+465 insurers calculate investment income attributable to classes of
+466 insurance written in this state and the manner in which
+467 investment income is used to calculate insurance rates. Such
+468 manner must contemplate allowances for an underwriting profit
+469 factor and full consideration of investment income that produces
+470 a reasonable rate of return; however, investment income from
+471 invested surplus may not be considered.
+472 5. The reasonableness of the judgment reflected in the
+473 filing.
+474 6. Dividends, savings, or unabsorbed premium deposits
+475 allowed or returned to policyholders, members, or subscribers in
+Page 19 of 47
+CODING: Words stricken are deletions; words underlined are additions.
+hb1263-02-c2
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 1263 2026
+476 this state.
+477 7. The adequacy of loss reserves.
+478 8. The cost of reinsurance. The office may not disapprove
+479 a rate as excessive solely due to the insurer having obtained
+480 catastrophic reinsurance to cover the insurer's estimated 250-
+481 year probable maximum loss or any lower level of loss.
+482 9. Trend factors, including trends in actual losses per
+483 insured unit for the insurer making the filing.
+484 10. Conflagration and catastrophe hazards, if applicable.
+485 11. Projected hurricane losses, if applicable, which must
+486 be estimated using a model or method found to be acceptable or
+487 reliable by the Florida Commission on Hurricane Loss Projection
+488 Methodology, and as further provided in s. 627.0628.
+489 12. Projected flood losses for personal residential
+490 property insurance, if applicable, which must may be estimated
+491 using a model or method, or a straight average of model results
+492 or output ranges, independently found to be acceptable or
+493 reliable by the Florida Commission on Hurricane Loss Projection
+494 Methodology and as further provided in s. 627.0628 for filings
+495 submitted to the office after January 1, 2027.
+496 13. For filings submitted to the office after January 1,
+497 2027, projected comprehensive losses, if applicable, used to
+498 determine a hurricane catastrophe load for private passenger
+499 automobile insurance, which must be estimated using a model or
+500 method found to be acceptable or reliable by the Florida
+Page 20 of 47
+CODING: Words stricken are deletions; words underlined are additions.
+hb1263-02-c2
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 1263 2026
+501 Commission on Hurricane Loss Projection Methodology under s.
+502 627.0628.
+503 14.13. A reasonable margin for underwriting profit and
+504 contingencies.
+505 15.14. The cost of medical services, if applicable.
+506 16.15. Other relevant factors that affect the frequency or
+507 severity of claims or expenses.
+508
+509 The provisions of this subsection do not apply to workers'
+510 compensation, employer's liability insurance, and motor vehicle
+511 insurance.
+512 Section 8. Paragraph (a) of subsection (1) and paragraph
+513 (a) of subsection (3) of section 627.0628, Florida Statutes, are
+514 amended to read:
+515 627.0628 Florida Commission on Hurricane Loss Projection
+516 Methodology; public records exemption; public meetings
+517 exemption.—
+518 (1) LEGISLATIVE FINDINGS AND INTENT.—
+519 (a) Reliable projections of hurricane losses are necessary
+520 in order to ensure assure that rates for residential property
+521 insurance and private passenger automobile insurance meet the
+522 statutory requirement that rates be neither excessive nor
+523 inadequate. The ability to accurately project hurricane losses
+524 has been enhanced greatly in recent years through the use of
+525 computer modeling. It is the public policy of this state to
+Page 21 of 47
+CODING: Words stricken are deletions; words underlined are additions.
+hb1263-02-c2
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 1263 2026
+526 encourage the use of the most sophisticated actuarial methods to
+527 ensure assure that consumers are charged lawful rates for
+528 residential property insurance and private passenger automobile
+529 insurance coverage.
+530 (3) ADOPTION AND EFFECT OF STANDARDS AND GUIDELINES.—
+531 (a) The commission shall consider any actuarial methods,
+532 principles, standards, models, or output ranges that have the
+533 potential for improving the accuracy of or reliability of the
+534 hurricane loss projections used in residential property
+535 insurance and private passenger automobile insurance rate
+536 filings and flood loss projections used in rate filings for
+537 personal lines residential flood insurance coverage. The
+538 commission shall, from time to time, adopt findings as to the
+539 accuracy or reliability of particular methods, principles,
+540 standards, models, or output ranges.
+541 Section 9. Subsection (1) of section 627.0629, Florida
+542 Statutes, is amended to read:
+543 627.0629 Residential property insurance; rate filings.—
+544 (1) It is the intent of the Legislature that insurers
+545 provide savings to consumers who install or implement windstorm
+546 damage mitigation techniques, alterations, or solutions to their
+547 properties to prevent windstorm losses. A rate filing for
+548 residential property insurance must include actuarially
+549 reasonable discounts, credits, or other rate differentials, or
+550 appropriate reductions in deductibles, for properties on which
+Page 22 of 47
+CODING: Words stricken are deletions; words underlined are additions.
+hb1263-02-c2
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 1263 2026
+551 fixtures or construction techniques demonstrated to reduce the
+552 amount of loss in a windstorm have been installed or
+553 implemented. The fixtures or construction techniques must
+554 include, but are not limited to, fixtures or construction
+555 techniques that enhance wind uplift prevention, roof strength,
+556 roof covering performance, roof-to-wall strength, wall-to-floor-
+557 to-foundation strength, opening protection, and window, door,
+558 and skylight strength. Credits, discounts, or other rate
+559 differentials, or appropriate reductions in deductibles, for
+560 fixtures and construction techniques that meet or exceed the
+561 minimum requirements of the Florida Building Code must be
+562 included in the rate filing. The office shall determine the
+563 minimum discounts, credits, other rate differentials, and
+564 appropriate reductions in deductibles that reflect the full
+565 actuarial value of such fixtures and construction techniques.
+566 The office's determination may not prohibit an insurer from
+567 seeking additional actuarily justified credits, discounts or
+568 other rate differentials, or appropriate reductions in
+569 deductibles for fixtures and construction techniques that meet
+570 or exceed the minimum requirements of the Florida Building Code
+571 revaluation, which may be used by insurers in rate filings.
+572 Effective October 1, 2023, each insurer subject to the
+573 requirements of this section must provide information on the
+574 insurer's website describing the hurricane mitigation discounts
+575 available to policyholders. Such information must be accessible
+Page 23 of 47
+CODING: Words stricken are deletions; words underlined are additions.
+hb1263-02-c2
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 1263 2026
+576 on, or through a hyperlink located on, the home page of the
+577 insurer's website or the primary page of the insurer's website
+578 for property insurance policyholders or applicants for such
+579 coverage in this state. On or before January 1, 2025, and every
+580 5 years thereafter, the office shall reevaluate and update the
+581 fixtures or construction techniques demonstrated to reduce the
+582 amount of loss in a windstorm and the discounts, credits, other
+583 rate differentials, and appropriate reductions in deductibles
+584 that reflect the full actuarial value of such fixtures or
+585 construction techniques. The office shall adopt rules and forms
+586 necessitated by such reevaluation.
+587 Section 10. Paragraph (b) of subsection (3) of section
+588 627.0645, Florida Statutes, is amended to read:
+589 627.0645 Annual filings.—
+590 (3) The filing requirements of this section shall be
+591 satisfied by one of the following methods:
+592 (b) If no rate change is proposed, a filing which consists
+593 of a certification by an actuary that the existing rate level
+594 produces rates which are actuarially sound and which are not
+595 inadequate, as defined in s. 627.062. However, for residential
+596 property and private passenger automobile insurers, a full rate
+597 filing is required after 2 consecutive years of certification
+598 under this paragraph.
+599 Section 11. Subsection (1) of section 627.711, Florida
+600 Statutes, is amended, and paragraphs (c), (d), and (e) are added
+Page 24 of 47
+CODING: Words stricken are deletions; words underlined are additions.
+hb1263-02-c2
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 1263 2026
+601 to subsection (2) of that section, to read:
+602 627.711 Notice of premium discounts for hurricane loss
+603 mitigation; uniform mitigation verification inspection form.—
+604 (1) Using a form prescribed by the Office of Insurance
+605 Regulation, the insurer shall clearly notify the applicant or
+606 policyholder of any personal lines residential property
+607 insurance policy, at the time of the issuance of the policy and
+608 at each renewal, of the availability and the range of each
+609 premium discount, credit, other rate differential, or reduction
+610 in deductibles, and combinations of discounts, credits, rate
+611 differentials, or reductions in deductibles, for properties on
+612 which fixtures or construction techniques demonstrated to reduce
+613 the amount of loss in a windstorm can be or have been installed
+614 or implemented. The prescribed form shall describe generally
+615 what actions the policyholders may be able to take to reduce
+616 their windstorm premium. The prescribed form and a list of such
+617 ranges approved by the office for each insurer licensed in the
+618 state and providing such discounts, credits, other rate
+619 differentials, or reductions in deductibles for properties
+620 described in this subsection shall be available for electronic
+621 viewing and download from the Department of Financial Services'
+622 or the Office of Insurance Regulation's Internet website. The
+623 prescribed form must also notify the applicant or policyholder
+624 if the insurer offers an enhanced discount for a roof system
+625 that uses a secondary water resistance, and the form must
+Page 25 of 47
+CODING: Words stricken are deletions; words underlined are additions.
+hb1263-02-c2
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 1263 2026
+626 generally list the amount of discount by type of secondary water
+627 resistance. The Financial Services Commission may adopt rules to
+628 implement this subsection.
+629 (2)
+630 (c) The office shall contract with a state university to
+631 design, operate, upgrade, and maintain a statewide database for
+632 uniform mitigation verification inspection forms. This database
+633 must be managed by the office to collect and evaluate mitigation
+634 features of residential properties within this state.
+635 (d) Beginning January 1, 2027, each insurer must
+636 electronically file within 15 business days after receipt a copy
+637 of each uniform mitigation inspection form submitted by a
+638 policyholder in the database created under paragraph (c) using
+639 the electronic format prescribed by the office.
+640 (e) The Financial Services Commission shall adopt rules to
+641 implement this subsection.
+642 Section 12. Subsection (12) of section 627.7152, Florida
+643 Statutes, is amended, to read:
+644 627.7152 Assignment agreements.—
+645 (12) The office shall require each insurer to report by
+646 January 30, 2022, and each year thereafter data on each
+647 residential and commercial property insurance claim paid in the
+648 prior calendar year under an assignment agreement. The Financial
+649 Services Commission shall adopt by rule a list of the data
+650 required, which must include specific data about claims
+Page 26 of 47
+CODING: Words stricken are deletions; words underlined are additions.
+hb1263-02-c2
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 1263 2026
+651 adjustment and settlement timeframes and trends, grouped by
+652 whether litigated or not litigated and by loss adjustment
+653 expenses.
+654 Section 13. Subsections (2) and (5) of section 627.915,
+655 Florida Statutes, are amended to read:
+656 627.915 Insurer experience reporting.—
+657 (2)(a) Beginning January 1, 2027, each insurer transacting
+658 private passenger automobile insurance in this state must file
+659 monthly with the office a report addressing all of the following
+660 areas:
+661 1. Policy coverage categories, including policies in force
+662 and total direct premiums earned and written.
+663 2. The type, location, and limits of writings in this
+664 state.
+665 3. Claims reporting requirements.
+666 4. Any other information deemed necessary by the
+667 commission to provide the office with the ability to track
+668 trends occurring in the private passenger automobile insurance
+669 market.
+670 (b) The commission shall adopt rules specifying the
+671 information required to be reported under this subsection and
+672 the format required for the reports fire, homeowner's multiple
+673 peril, commercial multiple peril, medical malpractice, products
+674 liability, workers' compensation, private passenger automobile
+675 liability, commercial automobile liability, private passenger
+Page 27 of 47
+CODING: Words stricken are deletions; words underlined are additions.
+hb1263-02-c2
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 1263 2026
+676 automobile physical damage, commercial automobile physical
+677 damage, officers' and directors' liability insurance, or other
+678 liability insurance shall report, for each such line of
+679 insurance, the information specified in this subsection to the
+680 office. The information shall be reported for direct Florida
+681 business only and shall be reported on a calendar-year basis
+682 annually by April 1 for the preceding calendar year:
+683 (a) Direct premiums written.
+684 (b) Direct premiums earned.
+685 (c) Loss reserves for all known claims:
+686 1. At beginning of the year.
+687 2. At end of the year.
+688 (d) Reserves for losses incurred but not reported:
+689 1. At beginning of the year.
+690 2. At end of the year.
+691 (e) Allocated loss adjustment expense:
+692 1. Reserve at beginning of the year.
+693 2. Reserve at end of the year.
+694 3. Paid during the year.
+695 (f) Unallocated loss adjustment expense:
+696 1. Reserve at beginning of the year.
+697 2. Reserve at end of the year.
+698 3. Paid during the year.
+699 (g) Direct losses paid.
+700 (h) Underwriting income or loss.
+Page 28 of 47
+CODING: Words stricken are deletions; words underlined are additions.
+hb1263-02-c2
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 1263 2026
+701 (i) Commissions and brokerage fees.
+702 (j) Taxes, licenses, and fees.
+703 (k) Other acquisition costs.
+704 (l) General expenses.
+705 (m) Policyholder dividends.
+706 (n) Net investment gain or loss and other income gain or
+707 loss allocated pro rata by earned premium to Florida business
+708 utilizing the investment allocation formula contained in the
+709 National Association of Insurance Commissioner's Profitability
+710 Report by line by state.
+711 (5) Any insurer or insurer group which does not write at
+712 least 0.5 percent of the Florida market based on premiums
+713 written shall not have to file any report required by subsection
+714 (2) other than a report indicating its percentage of the market
+715 share. That percentage shall be calculated by dividing the
+716 current premiums written by the preceding year's total premiums
+717 written in the state for that line of insurance.
+718 Section 14. Section 628.8011, Florida Statutes, is created
+719 to read:
+720 628.8011 Group capital calculation reports.—
+721 (1) As used in this section, the term:
+722 (a) "Group capital calculation instructions" means the
+723 group capital calculation instructions adopted by the NAIC, as
+724 amended from time to time, in accordance with the procedures
+725 adopted by the NAIC if the methodology remains substantially
+Page 29 of 47
+CODING: Words stricken are deletions; words underlined are additions.
+hb1263-02-c2
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 1263 2026
+726 consistent.
+727 (b) "Groupwide supervisor" means the regulatory official
+728 authorized to engage in conducting and coordinating groupwide
+729 supervision activities who is determined or acknowledged by the
+730 commissioner to have sufficient contacts with an internationally
+731 active insurance group. As used in this paragraph, the term
+732 "internationally active insurance group" means an insurance
+733 holding company system that includes an insurer registered under
+734 s. 628.801(1) and that meets all of the following criteria:
+735 1. An insurer within the insurance holding company system
+736 writes premiums in at least three countries.
+737 2. The percentage of gross premiums written outside of the
+738 United States is at least 10 percent of the insurance holding
+739 company system's total gross written premiums.
+740 3. Based on a 3-year rolling average, the total assets of
+741 the insurance holding company system are at least $50 billion or
+742 the total gross written premiums of the insurance holding
+743 company system are at least $10 billion.
+744 (2) Except as provided in paragraph (a), the ultimate
+745 controlling person of every insurer subject to registration
+746 under s. 628.801 must concurrently file with the registration an
+747 annual group capital calculation report on or before April 1.
+748 The report must be completed in accordance with the group
+749 capital calculation instructions, which permit the office to
+750 allow a controlling person who is not the ultimate controlling
+Page 30 of 47
+CODING: Words stricken are deletions; words underlined are additions.
+hb1263-02-c2
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 1263 2026
+751 person to file the group capital calculation report. The report
+752 must be filed with the lead state regulator of the insurance
+753 holding company system as determined by the office in accordance
+754 with the procedures within the Financial Analysis Handbook
+755 adopted by the NAIC.
+756 (a) The following insurance holding company systems are
+757 exempt from filing a group capital calculation report:
+758 1. An insurance holding company system that has only one
+759 insurer within its holding company structure, is licensed and
+760 writing business only in its domestic state, and does not assume
+761 business from any other insurer.
+762 2. An insurance holding company system that is required to
+763 perform a group capital calculation specified by the United
+764 States Federal Reserve Board. The office shall request the
+765 calculation from the Federal Reserve Board under the terms of
+766 information sharing agreements in effect. If the Federal Reserve
+767 Board cannot share the calculation with the office, the
+768 exemption under this paragraph does not apply to the insurance
+769 holding company system.
+770 3. An insurance holding company system in which a non-
+771 United States groupwide supervisor is located within a
+772 reciprocal jurisdiction as described in s. 624.610(4)(a) which
+773 recognizes the United States state regulatory approach to group
+774 supervision and group capital.
+775 4. An insurance holding company system that meets the
+Page 31 of 47
+CODING: Words stricken are deletions; words underlined are additions.
+hb1263-02-c2
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 1263 2026
+776 following criteria:
+777 a. It provides information to the lead state that meets
+778 the requirements for accreditation under the NAIC financial
+779 standards and accreditation program, either directly or
+780 indirectly, through the groupwide supervisor who has determined
+781 such information is satisfactory to allow the lead state to
+782 comply with the NAIC group supervision approach, as detailed in
+783 the Financial Analysis Handbook adopted by the NAIC.
+784 b. A non-United States groupwide supervisor of the
+785 insurance holding company system who is not in a reciprocal
+786 jurisdiction recognizes and accepts, as specified by the office
+787 in regulation, the group capital calculation as the worldwide
+788 group capital assessment for United States insurance groups that
+789 operate in such jurisdiction.
+790 (b) Notwithstanding subparagraphs (a)3. and (a)4., the
+791 office shall require the group capital calculation report for
+792 United States operations of any non-United States-based
+793 insurance holding company system in which, after any necessary
+794 consultation with other supervisors or officials, it is deemed
+795 appropriate by the office for prudential oversight and solvency
+796 monitoring purposes or for ensuring the competitiveness of the
+797 insurance marketplace.
+798 (c) Notwithstanding the exemptions provided in
+799 subparagraphs (a)1.-4., the office may exempt the ultimate
+800 controlling person from filing the annual group capital
+Page 32 of 47
+CODING: Words stricken are deletions; words underlined are additions.
+hb1263-02-c2
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 1263 2026
+801 calculation report or may accept a group capital filing or
+802 report in accordance with criteria as specified in paragraphs
+803 (e) and (f).
+804 (d) If the office determines that an insurance holding
+805 company system no longer meets one or more of the requirements
+806 for an exemption from filing the group capital calculation
+807 report under subsection (a), the ultimate controlling person
+808 must file the group capital calculation report at the next
+809 annual filing date unless the office provides an extension based
+810 on reasonable grounds shown.
+811 (e) If an insurance holding company system has previously
+812 filed the annual group capital calculation report at least once,
+813 the office may exempt the ultimate controlling person from
+814 filing the annual group capital calculation report if the office
+815 determines based upon the previous filing that the insurance
+816 holding company system meets all of the following criteria:
+817 1. It has annual direct and unaffiliated assumed premium,
+818 including international direct and assumed premium, of less than
+819 $1 billion. For purposes of this subparagraph, premiums
+820 reinsured with the Federal Crop Insurance Corporation and
+821 Federal Flood Program are excluded from the annual direct and
+822 unaffiliated assumed premium.
+823 2. It does not have insurers within its holding company
+824 structure which are domiciled outside of the United States or
+825 one of its territories.
+Page 33 of 47
+CODING: Words stricken are deletions; words underlined are additions.
+hb1263-02-c2
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 1263 2026
+826 3. It does not have a banking, depository or other
+827 financial entity that is subject to an identified regulatory
+828 capital framework within its holding company structure.
+829 4. It attests that there are no material changes in the
+830 transactions between insurers and noninsurers in the group which
+831 have occurred since the last filing of the annual group capital
+832 calculation report.
+833 5. The noninsurers within the insurance holding company
+834 system do not pose a material financial risk to the insurer's
+835 ability to honor policyholder obligations.
+836 (f) If an insurance holding company system has previously
+837 filed the annual group capital calculation report at least once,
+838 the office may accept a limited group capital filing in lieu of
+839 the annual group capital calculation report if:
+840 1. The insurance holding company system has annual direct
+841 written and unaffiliated assumed premium, including
+842 international direct and assumed premium, of less than $1
+843 billion. For purposes of this subparagraph, premiums reinsured
+844 with the Federal Crop Insurance Corporation and Federal Flood
+845 Program are excluded.
+846 2. The insurance holding company system does not have
+847 insurers within its holding company structure who are domiciled
+848 outside of the United States or one of its territories.
+849 3. The insurance holding company system does not include a
+850 banking, depository, or other financial entity that is subject
+Page 34 of 47
+CODING: Words stricken are deletions; words underlined are additions.
+hb1263-02-c2
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 1263 2026
+851 to an identified regulatory capital framework.
+852 4. The insurance holding company system attests that there
+853 are no material changes in transactions between insurers and
+854 noninsurers in the group which have occurred since the last
+855 filing of the report to the office and the noninsurers within
+856 the holding company system do not pose a material financial risk
+857 to the insurer's ability to honor policyholder obligations.
+858 (g) If an insurance holding company system that has
+859 previously had an exemption with respect to the group capital
+860 calculation report under paragraph (e) or paragraph (f), the
+861 office may require at any time the ultimate controlling person
+862 to file an annual group capital calculation report, completed in
+863 accordance with the group capital calculation instructions, if
+864 any of the following criteria are met:
+865 1. An insurer within the insurance holding company system
+866 is in a risk-based capital action level event as set forth in s.
+867 624.4085 or a similar standard for a non-United States insurer.
+868 2. An insurer within the insurance holding company system
+869 meets one or more of the standards of an insurer deemed to be in
+870 a hazardous financial condition as provided in s. 624.805.
+871 3. An insurer within the insurance holding company system
+872 otherwise exhibits qualities of a troubled insurer as determined
+873 by the office based on unique circumstances including, but not
+874 limited to, the type and volume of business written, ownership
+875 and organizational structure, federal agency requests, and
+Page 35 of 47
+CODING: Words stricken are deletions; words underlined are additions.
+hb1263-02-c2
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 1263 2026
+876 international supervisor requests.
+877 (h) The office shall establish by rule criteria for
+878 satisfying when a non-United States jurisdiction is considered
+879 to "recognize and accept" the group capital calculation report.
+880 (i) The office must publish on its website a list of non-
+881 United States jurisdictions that "recognize and accept" the
+882 group capital calculation report.
+883 (j) The commission may adopt rules for filing the annual
+884 group capital calculation report in accordance with the
+885 Insurance Holding Company System Regulatory Act of the NAIC and
+886 the Insurance Holding Company System Model Regulation of the
+887 NAIC, as adopted in December 2020.
+888 Section 15. Section 628.8012, Florida Statutes, is created
+889 to read:
+890 628.8012 Liquidity Stress Test Framework.—
+891 (1) As used in this section, the term:
+892 (a) "Liquidity Stress Test Framework" means the NAIC
+893 Liquidity Stress Test Framework for Life Insurers Meeting the
+894 Scope Criteria, the scope criteria applicable for a specific
+895 data year, and the liquidity stress test instructions and
+896 reporting templates for a specific data year. The term includes
+897 amended versions of these documents if the methodology remains
+898 substantially consistent.
+899 (b) "Scope criteria" means the designated exposure bases
+900 along with minimum magnitudes thereof for the specified data
+Page 36 of 47
+CODING: Words stricken are deletions; words underlined are additions.
+hb1263-02-c2
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 1263 2026
+901 year used to establish a preliminary list of insurers considered
+902 scoped into the Liquidity Stress Test Framework, and as amended
+903 if the methodology remains substantially consistent, for that
+904 data year.
+905 (c) "Scoped" means meeting at least one threshold of the
+906 scope criteria and being subject to the requirements of the
+907 Liquidity Stress Test Framework.
+908 (2)(a) The ultimate controlling person of every insurer
+909 subject to registration and also scoped into the Liquidity
+910 Stress Test Framework shall annually file the results of a
+911 specific year's liquidity stress test on or before April 1. The
+912 results must be filed with the office as the lead state
+913 regulator of the insurance holding company system as determined
+914 by the procedures within the Financial Analysis Handbook adopted
+915 by the NAIC.
+916 (b) Scoped insurers are exempt from the requirement under
+917 paragraph (a) if the office, in consultation with the NAIC
+918 Financial Stability Task Force or its successor, determines the
+919 insurer should not be scoped into the Liquidity Stress Test
+920 Framework for that data year.
+921 (c) The performance of, and filing of the results from, a
+922 specific year's liquidity stress test must comply with the
+923 Liquidity Stress Test Framework's instructions and reporting
+924 templates for that year and any office determinations, in
+925 conjunction with the NAIC Financial Stability Task Force or its
+Page 37 of 47
+CODING: Words stricken are deletions; words underlined are additions.
+hb1263-02-c2
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 1263 2026
+926 successor, provided within the Liquidity Stress Test Framework.
+927 (d) The office may adopt rules for filing the results of
+928 the liquidity stress test in accordance with the Insurance
+929 Holding Company System Regulatory Act of the NAIC and the
+930 Insurance Holding Company System Model Regulation of the NAIC,
+931 as adopted in December 2020.
+932 Section 16. Section 628.8013, Florida Statutes, is created
+933 to read:
+934 628.8013 Rebuttal of materially false statements.—
+935 (1) The group capital calculation report and resulting
+936 group capital ratio and the liquidity stress test, as provided
+937 in s. 628.8012, along with its results and supporting
+938 disclosures required under this section are regulatory tools for
+939 assessing group risks and capital adequacy and group liquidity
+940 risks, respectively, and are not intended as a means to rank
+941 insurers or insurance holding company systems generally.
+942 (2) Any representation or statement by any insurer,
+943 broker, or other person engaged in any manner in the business of
+944 insurance is prohibited with regard to an insurer's or insurer's
+945 group's:
+946 (a) Group capital calculation report.
+947 (b) Group capital ratio.
+948 (c) Liquidity stress test results.
+949 (d) Supporting disclosures for the liquidity stress test.
+950 (e) Any component derived in the group capital
+Page 38 of 47
+CODING: Words stricken are deletions; words underlined are additions.
+hb1263-02-c2
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 1263 2026
+951 calculation.
+952 (3) If a representation or statement prohibited under
+953 subsection (2) is published in a written publication and if the
+954 insurer can demonstrate to the office with substantial proof the
+955 falsity or inappropriateness, as the case may be, of such
+956 representation or statement, the insurer may publish
+957 announcements in a written publication if the sole purpose of
+958 the announcement is to rebut the materially false representation
+959 or statement.
+960 Section 17. Section 629.53, Florida Statutes, is created
+961 to read:
+962 629.53 Application for registration to operate as an
+963 attorney in fact.—
+964 (1) It is unlawful for any person to operate as an
+965 attorney in fact of a reciprocal insurer without first having
+966 obtained a registration from the office.
+967 (2) The application for an attorney in fact registration
+968 must be made, under oath, to the office by the applicant on a
+969 form prescribed by the commission. The office may not require an
+970 applicant to pay a fee for the registration or for filing an
+971 application for such registration.
+972 (3) In the application, the applicant must provide all of
+973 the following information:
+974 (a) All basic organizational documents, and any amendments
+975 to such documents, of the applicant dated within the last year
+Page 39 of 47
+CODING: Words stricken are deletions; words underlined are additions.
+hb1263-02-c2
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 1263 2026
+976 and appropriately certified.
+977 (b) The bylaws, rules, and regulations or similar
+978 documents regulating the conduct of the internal affairs of the
+979 applicant, other applicable documents, and all amendments to
+980 those documents, dated within the last year and appropriately
+981 certified.
+982 (c) A copy of the most recent financial statement of the
+983 applicant, verified under oath by at least two of the
+984 applicant's principal officers.
+985 (d) A detailed plan of operation.
+986 (e) An e-mail address at which the applicant agrees to
+987 accept electronic service from the office.
+988 (f) The background information specified in s. 629.227 for
+989 each individual who is responsible for the conduct of the
+990 applicant's affairs, including, but not limited to, any manager,
+991 member, member of a board of directors, board of trustees,
+992 executive committee, or other governing board or committee and
+993 any other person or entity owning or having the right to acquire
+994 10 percent or more of the voting securities or ownership
+995 interest of the applicant.
+996 (g) Any other information as the office reasonably
+997 requires.
+998 (4) Upon the filing of a sworn application, the office
+999 must investigate each applicant and may issue the applicant a
+1000 registration if the office finds that the applicant:
+Page 40 of 47
+CODING: Words stricken are deletions; words underlined are additions.
+hb1263-02-c2
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 1263 2026
+1001 (a) Is competent and trustworthy and intends to act in
+1002 good faith in the business authorized by the registration for
+1003 which the applicant applied.
+1004 (b) Has management that has a good business reputation and
+1005 has had experience, training, or education that qualifies the
+1006 applicant to conduct the business authorized by the registration
+1007 for which the applicant applied.
+1008 (c) Has a business plan that is consistent with the
+1009 interests of potential insureds and the public.
+1010 Section 18. Section 629.54, Florida Statutes, is created
+1011 to read:
+1012 629.54 Registration expiration; renewal.—Each registration
+1013 for an attorney in fact issued under this chapter automatically
+1014 renews on March 1 of each year, provided the attorney in fact
+1015 remains qualified under this chapter. The office may not require
+1016 an attorney in fact to pay a fee for the renewal of the
+1017 registration.
+1018 Section 19. Section 629.55, Florida Statutes, is created
+1019 to read:
+1020 629.55 Grounds for denial, suspension, or revocation of
+1021 registration.—The office may deny, suspend, revoke, or refuse to
+1022 renew the registration of an attorney in fact if the office
+1023 determines that the attorney in fact:
+1024 (1) Has violated any lawful rule or order of the
+1025 commission or office or any applicable provision of the
+Page 41 of 47
+CODING: Words stricken are deletions; words underlined are additions.
+hb1263-02-c2
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 1263 2026
+1026 insurance code.
+1027 (2) Has used or is using methods or practices in the
+1028 conduct of its business which render its further transaction of
+1029 business in this state hazardous or injurious to insured persons
+1030 or the public.
+1031 (3) Has refused to be examined or to produce its accounts,
+1032 records, and files for examination, or if any of its officers,
+1033 or persons in similar positions, have refused to give
+1034 information with respect to its affairs or has refused to
+1035 perform any other legal obligation as to such examination when
+1036 required by the office.
+1037 (4) Is or was affiliated with and under the same general
+1038 management or interlocking directorate or ownership as another
+1039 attorney in fact who transacts business in this state without
+1040 having a registration required by this chapter.
+1041 (5) At any time fails to meet any qualification for which
+1042 issuance of the registration could have been refused had such
+1043 failure then existed and been known to the office.
+1044 (6) Is under suspension or revocation in this or any other
+1045 state for any license relating to the business of insurance
+1046 which the attorney in fact holds.
+1047 (7) A proceeding for receivership, conservatorship,
+1048 rehabilitation, or other delinquency proceeding regarding the
+1049 attorney in fact, or an insurer with which the attorney in fact
+1050 has a contractual relationship, has been commenced in any state.
+Page 42 of 47
+CODING: Words stricken are deletions; words underlined are additions.
+hb1263-02-c2
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 1263 2026
+1051 (8) The financial condition or business practices of the
+1052 attorney in fact otherwise pose an imminent threat to the
+1053 health, safety, or welfare of the residents of this state.
+1054 Section 20. Section 629.56, Florida Statutes, is created
+1055 to read:
+1056 629.56 Order of suspension or revocation of registration;
+1057 notice.—
+1058 (1) The suspension or revocation of a registration of an
+1059 attorney in fact is effected by order of the office when such
+1060 order is mailed to the attorney in fact by registered or
+1061 certified mail and sent electronically to the e-mail address
+1062 maintained by the attorney in fact with the office for such
+1063 purpose.
+1064 (2) The office may publish notice of any such revocation
+1065 or suspension in one or more newspapers of general circulation
+1066 published in this state.
+1067 Section 21. Section 629.57, Florida Statutes, is created
+1068 to read:
+1069 629.57 Period of suspension; obligations during
+1070 suspension; reinstatement.—
+1071 (1) The registration of an attorney in fact is suspended
+1072 for the time period provided in the order of suspension, which
+1073 may not exceed 1 year, unless such suspension or the order upon
+1074 which the suspension is based is modified, rescinded, or
+1075 reversed.
+Page 43 of 47
+CODING: Words stricken are deletions; words underlined are additions.
+hb1263-02-c2
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 1263 2026
+1076 (2) Upon expiration of the suspension period, the
+1077 registration is automatically reinstated as long as the
+1078 registration has not otherwise terminated, unless the reasons
+1079 for the suspension have not been remedied.
+1080 Section 22. Section 629.58, Florida Statutes, is created
+1081 to read:
+1082 629.58 Administrative fine in lieu of suspension,
+1083 revocation, or nonrenewal.—
+1084 (1) If the office finds that one or more grounds exist for
+1085 the suspension, revocation, or nonrenewal of the registration of
+1086 an attorney in fact issued under this chapter, the office may,
+1087 in lieu of suspension or revocation, impose a fine upon the
+1088 attorney in fact.
+1089 (2) With respect to any nonwillful violation, the office
+1090 may impose a fine upon the attorney in fact in an amount up to
+1091 $5,000 for each violation. However, a fine may not exceed an
+1092 aggregate amount of $50,000 for all nonwillful violations
+1093 arising out of the same action.
+1094 (3) With respect to any knowing and willful violation, the
+1095 office may impose a fine upon the attorney in fact in an amount
+1096 up to $25,000 for each violation. However, a fine may not exceed
+1097 an aggregate amount of $250,000 for all knowing and willful
+1098 violations arising out of the same action.
+1099 (4) With respect to a knowing and willful violation of a
+1100 lawful order or rule of the office or commission or of a
+Page 44 of 47
+CODING: Words stricken are deletions; words underlined are additions.
+hb1263-02-c2
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 1263 2026
+1101 provision of this code during a period in which the Governor
+1102 declared a state of emergency pursuant to s. 252.36, the office
+1103 may impose a $200,000 fine upon an attorney in fact for each
+1104 violation, up to an aggregate amount of $1 million for all
+1105 knowing and willful violations arising out of the same action
+1106 relating to a covered loss or claim caused by the emergency.
+1107 (5) A fine imposed by the office on the attorney in fact
+1108 may not be borne by the insurer.
+1109 Section 23. Subsection (1) of section 634.141, Florida
+1110 Statutes, is amended to read:
+1111 634.141 Examination of companies.—
+1112 (1) Motor vehicle service agreement companies licensed
+1113 under this part may be subject to periodic examination by the
+1114 office in the same manner and subject to the same terms and
+1115 conditions as apply to insurers under part II of chapter 624.
+1116 The office is not required to conduct periodic examinations
+1117 pursuant to this section, but may examine a service agreement
+1118 company at its discretion. An examination conducted pursuant to
+1119 this section may cover a period of only the most recent 5 years.
+1120 The costs of examinations conducted pursuant to ss.
+1121 624.316(2)(e) and 624.3161(4) ss. 624.316(2)(e) and 624.3161(3)
+1122 may not exceed 10 percent of the companies' reported net income
+1123 for the prior year. The commission may by rule establish
+1124 provisions whereby a company may be exempted from examination.
+1125 Section 24. Section 634.314, Florida Statutes, is amended
+Page 45 of 47
+CODING: Words stricken are deletions; words underlined are additions.
+hb1263-02-c2
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 1263 2026
+1126 to read:
+1127 634.314 Examination of associations.—Home warranty
+1128 associations licensed under this part may be subject to periodic
+1129 examinations by the office, in the same manner and subject to
+1130 the same terms and conditions as apply to insurers under part II
+1131 of chapter 624 of the insurance code. The office is not required
+1132 to conduct periodic examinations pursuant to this section, but
+1133 may examine a home warranty company at its discretion. An
+1134 examination conducted pursuant to this section may cover a
+1135 period of only the most recent 5 years. The costs of
+1136 examinations conducted pursuant to ss. 624.316(2)(e) and
+1137 624.3161(4) ss. 624.316(2)(e) and 624.3161(3) may not exceed 10
+1138 percent of the companies' reported net income for the prior
+1139 year.
+1140 Section 25. Subsection (1) of section 634.416, Florida
+1141 Statutes, is amended to read:
+1142 634.416 Examination of associations.—
+1143 (1) Service warranty associations licensed under this part
+1144 may be subject to periodic examination by the office, in the
+1145 same manner and subject to the same terms and conditions that
+1146 apply to insurers under part II of chapter 624. The office is
+1147 not required to conduct periodic examinations pursuant to this
+1148 section, but may examine a service warranty company at its
+1149 discretion. An examination conducted pursuant to this section
+1150 may cover a period of only the most recent 5 years. The costs of
+Page 46 of 47
+CODING: Words stricken are deletions; words underlined are additions.
+hb1263-02-c2
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+CS/CS/HB 1263 2026
+1151 examinations conducted pursuant to ss. 624.316(2)(e) and
+1152 624.3161(4) ss. 624.316(2)(e) and 624.3161(3) may not exceed 10
+1153 percent of the companies' reported net income for the prior
+1154 year.
+1155 Section 26. This act shall take effect July 1, 2026.
+Page 47 of 47
+CODING: Words stricken are deletions; words underlined are additions.
+hb1263-02-c2
